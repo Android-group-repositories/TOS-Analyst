@@ -1,0 +1,12 @@
+{#type1-Q1-1#, <YES>, <Subject; Verb; Object; Noun; Purpose; Condition>}
+{#type1-Q2#, <YES>, need clearly state information}
+{#type1-Q1-1#, <YES>, <Platform; Use; Platform Data; Eligibility determinations; Housing, employment, insurance, education, credit, government benefits, immigration status; NULL>}
+{#type1-Q2#, <YES>, need clearly state information}
+{#type1-Q1-1#, <YES>, <Refrain; Processing; Data; Surveillance purposes, Law enforcement, National security; NULL; NULL>}
+2. {#type1-Q2#, <YES>, need clearly state information}
+{#type1-Q1-1#, <YES>, <You; Sell, License, Purchase; Platform; Platform Data; NULL; NULL>}
+{#type1-Q2#, <YES>, need clearly state information}
+{#type1-Q2#, <YES>, need clearly state information}
+{ #type1-Q2#, <YES>, need clearly state information }
+{#type1-Q1-1#, <YES>, <Processing; friend lists; Facebook; Social connections; App; NULL; Each person has granted explicit access>}
+{#type1-Q2#, <YES>, need clearly state information}

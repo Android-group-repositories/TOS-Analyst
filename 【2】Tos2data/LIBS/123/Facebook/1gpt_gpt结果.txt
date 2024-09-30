@@ -1,0 +1,72 @@
+Description: Users are prohibited from processing data to discriminate or encourage discrimination based on personal attributes such as race, ethnicity, religion, age, sex, and other categories protected by law or Meta policy.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#, <YES>, <Users; Prohibited; Processing data; Personal attributes; Discrimination; Encouragement of discrimination>}
+{"question":"Does the following privacy policy text mention the prohibition of processing data for discrimination based on personal attributes?"}
+
+{#type1-Q1-2#, <YES>, <Users; Prohibited; Encouraging discrimination; Personal attributes; NULL; NULL>}
+{"question":"Does the following privacy policy text mention the prohibition of encouraging discrimination based on personal attributes?"}
+
+{#type1-Q2#, <YES>, need clearly state information}
+========================= pause ===========================
+Description: Users cannot process data to make decisions about an individual's eligibility for housing, employment, insurance, education, credit, government benefits, or immigration status.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#, <YES>, <Users; Process; Data; NULL; Decisions about eligibility for housing, employment, insurance, education, credit, government benefits, or immigration status>}
+{"question":"Does the privacy policy text mention the processing of data for making decisions about an individual's eligibility for specific conditions?"}
+
+{#type1-Q2#, <YES>, need clearly state information}
+========================= pause ===========================
+Description: Processing data for surveillance purposes, including for law enforcement or national security, is not allowed.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#, <YES>, <Processing data; Surveillance; Purposes; Law enforcement or national security; NULL; NULL>}
+{"question":"Does the privacy policy text mention the processing of data for surveillance purposes related to law enforcement or national security?"}
+
+2. {#type1-Q2#, <YES>, need clearly state information}
+
+Since the text provided does not specify the type of data being processed for surveillance, the answer to the first question is based on the general statement that data processing for surveillance is not allowed, without specifying the exact data types.
+========================= pause ===========================
+Description: Users are forbidden from selling, licensing, or purchasing Platform Data.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#, <YES>, <Users; Selling, Licensing, Purchasing; Platform Data; NULL; NULL>}
+{"question":"Does the following privacy policy text mention the prohibition of selling, licensing, or purchasing platform data by users?"}
+
+2. Do developers need to specify what information will be processed in privacy policy?
+{#type1-Q2#, <YES>, need clearly state information}
+========================= pause ===========================
+Description: Users must not make Platform Data available to search engines or directories without prior written consent from Meta.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#, <YES>, <Users; Must not make; Platform Data; Search engines or directories; NULL; Prior written consent from Meta>}
+{"question":"Does the following privacy policy text mention the restriction of making Platform Data available to search engines or directories without prior written consent from Meta?"}
+
+2. Do developers need to specify what information will be processed in privacy policy?
+{#type1-Q2#, <YES>, need clearly state information}
+========================= pause ===========================
+Description: Attempting to decode, circumvent, or reverse-engineer anonymized or encrypted Platform Data is prohibited.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1#, <NO>}
+
+{ #type1-Q2#, <YES>, need clearly state information }
+========================= pause ===========================
+Description: Users cannot process friend lists from Facebook to establish social connections in their App without explicit access granted by each person involved.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#, <YES>, <Users; Process; Friend lists from Facebook; Establish social connections; NULL; Explicit access granted by each person involved>}
+{"question":"Does the following privacy policy text mention the processing of friend lists from Facebook for the purpose of establishing social connections in the App?"}
+
+{#type1-Q2#, <YES>, need clearly state information}
+========================= pause ===========================
+Description: The text emphasizes the importance of respecting privacy and the integrity of data processing in accordance with legal, regulatory, and platform-specific policies.
+Type Code: Type3
+========================= pause ===========================
