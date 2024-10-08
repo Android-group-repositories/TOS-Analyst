@@ -1,0 +1,36 @@
+Description: You must have a privacy policy that complies with all applicable laws and industry standards.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <You ; must have ; a privacy policy ; NULL ; complies with all applicable laws and industry standards ; NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: You must post your privacy policy conspicuously within your application, in any store, and on any website where the application may be acquired.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <You ; must post ; your privacy policy ; conspicuously ; within your application, in any store, and on any website where the application may be acquired ; NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: Your privacy policy must inform users about the use of tracking technologies that collect, use, share, and store data, including precise location data.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  Your  ;  must inform  ;  users  ;  NULL  ;  about the use of tracking technologies that collect, use, share, and store data, including precise location data  ;  NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: Your privacy policy should contain a link to Flurry’s Privacy Policy and describe how users can learn more about their choices regarding Flurry’s use of User Data.
+Type Code: Type2
+
+Processing for Type2 requirements.
+{#type2#,  < your privacy policy  ;  should contain  ;  a link to Flurry's Privacy Policy  ;  how users can learn more about their choices regarding Flurry's use of User Data  ;  NULL  ;  NULL>  ,  <include a link to Flurry's Privacy Policy>}
+========================= pause ===========================
+Description: Your privacy policy should provide users with information on how to opt-out of targeted advertising on a device-by-device basis and include active links to Flurry’s Privacy Dashboard and other relevant opt-out resources.
+Type Code: Type3
+
+Processing for Type3 requirements.
+{#type3#, <  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  >  ,  <need to mention opt-out>  ,  <need link to guide how to opt-out> }
+========================= pause ===========================
+Description: You must obtain all necessary end-user consents required by applicable law before using the Services.
+Type Code: Type4
+========================= pause ===========================
+Description: You must comply with all applicable laws, policies, and regulations relating to the collection, usage, and sharing of information from users.
+Type Code: Type4
+========================= pause ===========================

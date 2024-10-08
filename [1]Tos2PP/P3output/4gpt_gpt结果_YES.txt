@@ -1,0 +1,5 @@
+{#type1#,  <You ; must have ; a privacy policy ; NULL ; complies with all applicable laws and industry standards ; NULL>  ,  <need a privacy policy>}
+{#type1#,  <You ; must post ; your privacy policy ; conspicuously ; within your application, in any store, and on any website where the application may be acquired ; NULL>  ,  <need a privacy policy>}
+{#type1#,  <  Your  ;  must inform  ;  users  ;  NULL  ;  about the use of tracking technologies that collect, use, share, and store data, including precise location data  ;  NULL>  ,  <need a privacy policy>}
+{#type2#,  < your privacy policy  ;  should contain  ;  a link to Flurry's Privacy Policy  ;  how users can learn more about their choices regarding Flurry's use of User Data  ;  NULL  ;  NULL>  ,  <include a link to Flurry's Privacy Policy>}
+{#type3#, <  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  >  ,  <need to mention opt-out>  ,  <need link to guide how to opt-out> }

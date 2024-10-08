@@ -1,0 +1,32 @@
+{
+    "requirements": [
+        {
+            "description": "客户负责其提供数据的合法性、准确性和质量。",
+            "type": {
+                "code": "Type4",
+                "summary": "数据质量责任"
+            }
+        },
+        {
+            "description": "客户必须确保其使用Amplitude服务收集、提交和使用数据的行为符合所有相关法律法规。",
+            "type": {
+                "code": "Type2",
+                "summary": "与Amplitude(第三方合作伙伴)的法律合规性"
+            }
+        },
+        {
+            "description": "客户还必须确保遵守其与最终用户之间的隐私政策、协议或其他义务。",
+            "type": {
+                "code": "Type1",
+                "summary": "隐私政策和协议合规性"
+            }
+        },
+        {
+            "description": "客户必须获得数据处理所需的所有法律要求的同意和许可。",
+            "type": {
+                "code": "Type4",
+                "summary": "同意和许可"
+            }
+        }
+    ]
+}

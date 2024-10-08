@@ -1,0 +1,39 @@
+{
+    "requirements": [
+        {
+            "description": "Mixpanel在Mixpanel网站上的跟踪和信息使用受位于https://mixpanel.com/legal/privacy-policy/的Mixpanel隐私声明的管辖。",
+            "type": {
+                "code": "Type2",
+                "summary": "第三方隐私政策引用"
+            }
+        },
+        {
+            "description": "Mixpanel隐私声明不涵盖代表客户处理的应用程序服务信息。",
+            "type": {
+                "code": "Type4",
+                "summary": "第三方隐私政策的范围"
+            }
+        },
+        {
+            "description": "客户有责任向最终用户提供自己的隐私声明或通知。",
+            "type": {
+                "code": "Type1",
+                "summary": "开发者提供隐私政策的责任"
+            }
+        },
+        {
+            "description": "客户还必须向其员工和/或代理人提供必要的披露并获得必要的同意。",
+            "type": {
+                "code": "Type4",
+                "summary": "开发者对员工和代理人同意的责任"
+            }
+        },
+        {
+            "description": "Mixpanel可以通过Mixpanel网站收集有关客户的注册信息及其他信息。",
+            "type": {
+                "code": "Type4",
+                "summary": "第三方的数据收集"
+            }
+        }
+    ]
+}

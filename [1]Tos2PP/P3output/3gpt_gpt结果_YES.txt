@@ -1,0 +1,3 @@
+{#type1#,  <  you  ;  must inform  ;  the End Users  ;  NULL  ;  their information will be available to you  ; NULL>  ,  <need to inform End Users>}
+{#type1#,  <You ; must provide ; a legally adequate privacy notice ; to the End Users ; regarding their information ; NULL>  ,  <need a privacy policy>}
+{#type1#,  <You ; must obtain ; End Users' permission ; NULL ; collect and use their information ; NULL>  ,  <need a privacy policy>}

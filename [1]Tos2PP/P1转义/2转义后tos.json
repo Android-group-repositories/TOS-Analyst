@@ -1,0 +1,34 @@
+{
+    "requirements": [
+        {
+            "description": "Do not pass personally identifiable information to Google, except as permitted by Google Analytics policies and with proper hashing.",
+            "type": {
+                "summary": "Data Sharing Restrictions"
+            }
+        },
+        {
+            "description": "Have and follow an appropriate Privacy Policy that complies with all relevant laws and regulations.",
+            "type": {
+                "summary": "Privacy Policy Compliance"
+            }
+        },
+        {
+            "description": "Post a Privacy Policy that informs users about the use of cookies, mobile device identifiers, and similar technologies for data collection.",
+            "type": {
+                "summary": "Disclosure of Data Collection Methods"
+            }
+        },
+        {
+            "description": "Clearly disclose the use of Google Analytics and how it collects and processes data, including a link to Google's privacy policy for partners.",
+            "type": {
+                "summary": "Disclosure of Google Analytics Use"
+            }
+        },
+        {
+            "description": "Ensure users are informed and consent to the storage and access of cookies or other information on their devices, if required by law.",
+            "type": {
+                "summary": "User Consent for Data Storage and Access"
+            }
+        }
+    ]
+}

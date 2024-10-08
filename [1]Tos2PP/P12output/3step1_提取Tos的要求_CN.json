@@ -1,0 +1,32 @@
+{
+    "requirements": [
+        {
+            "description": "如果您接收、收集或访问最终用户信息，您必须告知最终用户他们的信息将对您可用。",
+            "type": {
+                "code": "Type1",
+                "summary": "告知最终用户"
+            }
+        },
+        {
+            "description": "您必须向最终用户提供关于其信息的合法充分的隐私通知。",
+            "type": {
+                "code": "Type1",
+                "summary": "提供隐私通知"
+            }
+        },
+        {
+            "description": "您必须获得最终用户的许可，才能收集和使用他们的信息。",
+            "type": {
+                "code": "Type1",
+                "summary": "获得许可"
+            }
+        },
+        {
+            "description": "您必须确保您能够访问的最终用户信息的安全。",
+            "type": {
+                "code": "Type4",
+                "summary": "确保信息保护"
+            }
+        }
+    ]
+}

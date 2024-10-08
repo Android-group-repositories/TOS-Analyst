@@ -1,0 +1,18 @@
+Description: The customer is responsible for the legality, accuracy, and quality of the data they provide.
+Type Code: Type4
+========================= pause ===========================
+Description: The customer must ensure that their collection, submission, and use of data with Amplitude Services complies with all relevant laws and regulations.
+Type Code: Type2
+
+Processing for Type2 requirements.
+{#type2#,  < the customer  ;  must ensure  ;  their collection, submission, and use of data with Amplitude Services  ;  complies with all relevant laws and regulations  ;  NULL  ;  NULL>  ,  <NULL>}
+========================= pause ===========================
+Description: The customer must also ensure compliance with their own privacy policies, agreements, or other obligations they have with their end users.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  The customer  ;  must ensure compliance  ;  their own privacy policies, agreements, or other obligations  ;  with their end users  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: The customer must obtain all legally required consents and permissions necessary for data processing.
+Type Code: Type4
+========================= pause ===========================

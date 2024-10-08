@@ -1,0 +1,21 @@
+Description: If you receive, collect, or access End User Information, you must inform the End Users that their information will be available to you.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  you  ;  must inform  ;  the End Users  ;  NULL  ;  their information will be available to you  ; NULL>  ,  <need to inform End Users>}
+========================= pause ===========================
+Description: You must provide a legally adequate privacy notice to the End Users regarding their information.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <You ; must provide ; a legally adequate privacy notice ; to the End Users ; regarding their information ; NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: You must obtain the End Users' permission to collect and use their information.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <You ; must obtain ; End Users' permission ; NULL ; collect and use their information ; NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: You must ensure the protection of the End User Information you have access to.
+Type Code: Type4
+========================= pause ===========================

@@ -1,0 +1,2 @@
+{#type2#,  < the customer  ;  must ensure  ;  their collection, submission, and use of data with Amplitude Services  ;  complies with all relevant laws and regulations  ;  NULL  ;  NULL>  ,  <NULL>}
+{#type1#,  <  The customer  ;  must ensure compliance  ;  their own privacy policies, agreements, or other obligations  ;  with their end users  ;  NULL  ;  NULL>  ,  <need a privacy policy>}

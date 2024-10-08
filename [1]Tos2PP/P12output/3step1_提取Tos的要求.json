@@ -1,0 +1,32 @@
+{
+    "requirements": [
+        {
+            "description": "If you receive, collect, or access End User Information, you must inform the End Users that their information will be available to you.",
+            "type": {
+                "code": "Type1",
+                "summary": "Inform End Users"
+            }
+        },
+        {
+            "description": "You must provide a legally adequate privacy notice to the End Users regarding their information.",
+            "type": {
+                "code": "Type1",
+                "summary": "Provide Privacy Notice"
+            }
+        },
+        {
+            "description": "You must obtain the End Users' permission to collect and use their information.",
+            "type": {
+                "code": "Type1",
+                "summary": "Obtain Permission"
+            }
+        },
+        {
+            "description": "You must ensure the protection of the End User Information you have access to.",
+            "type": {
+                "code": "Type4",
+                "summary": "Ensure Information Protection"
+            }
+        }
+    ]
+}

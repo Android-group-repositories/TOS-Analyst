@@ -1,0 +1,2 @@
+{#type2#,  <Mixpanel  ;  tracking and information use  ;  Mixpanel Sites  ;  NULL  ;  governed by the Mixpanel Privacy Statement  ;  NULL>  ,  <https://mixpanel.com/legal/privacy-policy/>}
+{#type1#,  <Customer  ;  provide  ;  privacy statement or notice  ;  NULL  ;  inform End Users  ;  NULL>  ,  <need a privacy policy>}
