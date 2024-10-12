@@ -1,0 +1,62 @@
+Description: Do not process data to discriminate or encourage discrimination against individuals based on personal attributes
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#, <YES>, <Subject; Verb; Object; Noun; Purpose; Condition>}
+{"question":"Does the privacy policy text prohibit processing data to discriminate against individuals based on personal attributes?"}
+
+{#type1-Q2#, <YES>, need clearly state information}
+========================= pause ===========================
+Description: Avoid using Platform Data for eligibility determinations in housing, employment, insurance, education, credit, government benefits, or immigration status
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#, <YES>, <Platform; Use; Platform Data; Eligibility determinations; Housing, employment, insurance, education, credit, government benefits, immigration status; NULL>}
+{"question":"Does the privacy policy text mention the use of platform data for eligibility determinations in various sectors?"}
+
+{#type1-Q1-2#, <NO>}
+
+{#type1-Q2#, <YES>, need clearly state information}
+========================= pause ===========================
+Description: Refrain from processing data for surveillance purposes, including for law enforcement or national security
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#, <YES>, <Refrain; Processing; Data; Surveillance purposes, Law enforcement, National security; NULL; NULL>}
+{"question":"Does the privacy policy describe refraining from processing data for surveillance purposes, including law enforcement or national security?"}
+
+2. {#type1-Q2#, <YES>, need clearly state information}
+========================= pause ===========================
+Description: Do not sell, license, or purchase Platform Data
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#, <YES>, <You; Sell, License, Purchase; Platform; Platform Data; NULL; NULL>}
+{"question":"Does the following privacy policy text mention the prohibition of selling, licensing, or purchasing platform data?"}
+
+{#type1-Q2#, <YES>, need clearly state information}
+========================= pause ===========================
+Description: Do not make Platform Data available to search engines or directories without express written consent
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#, <NO>}
+{#type1-Q2#, <YES>, need clearly state information}
+========================= pause ===========================
+Description: Do not attempt to decode, circumvent, re-identify, de-anonymize, or reverse-engineer Platform Data
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1#, <NO>}
+
+{ #type1-Q2#, <YES>, need clearly state information }
+========================= pause ===========================
+Description: Processing friend lists from Facebook to establish social connections in your App is not allowed unless each person has granted explicit access
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#, <YES>, <Processing; friend lists; Facebook; Social connections; App; NULL; Each person has granted explicit access>}
+{"question":"Does the privacy policy text mention the processing of friend lists from Facebook for establishing social connections in the App, only if each person has granted explicit access?"}
+
+{#type1-Q2#, <YES>, need clearly state information}
+========================= pause ===========================

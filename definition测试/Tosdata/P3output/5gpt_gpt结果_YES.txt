@@ -1,0 +1,1 @@
+<Description: You may not sell, lease, rent, transfer, assign, or otherwise disclose PayPal user information to a third party.>{#type2-Q1-1,#  <You  ;  may not sell, lease, rent, transfer, assign, or otherwise disclose  ;  PayPal user information to a third party  ;  to a third party  ;  NULL  ;  NULL>  ,  <Third party is: a third party>}

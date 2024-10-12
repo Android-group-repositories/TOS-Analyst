@@ -1,0 +1,11 @@
+{
+    "requirements": [
+        {
+            "description": "未经PayPal用户的明确同意，您不得公开展示PayPal用户信息。",
+            "type": {
+                "code": "Type1",
+                "summary": "限制公开展示用户信息"
+            }
+        }
+    ]
+}

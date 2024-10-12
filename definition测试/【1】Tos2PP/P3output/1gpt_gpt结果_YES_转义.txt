@@ -1,0 +1,4 @@
+: The customer is responsible for the legality, accuracy, and quality of their data.
+: The customer must ensure compliance with all applicable laws and regulations when collecting, submitting, processing, storing, and transmitting data using the Amplitude Services.
+: The customer must adhere to any privacy policies, agreements, or other obligations they have with their end users.
+: The customer must obtain all legally required consents and permissions from end users as needed.

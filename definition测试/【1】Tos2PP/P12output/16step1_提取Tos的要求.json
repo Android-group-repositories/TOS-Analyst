@@ -1,0 +1,25 @@
+{
+    "requirements": [
+        {
+            "description": "You are responsible for notifying your users about the data collection and disclosure practices associated with the use of our Services.",
+            "type": {
+                "code": "Type1",
+                "summary": "Notification Responsibility"
+            }
+        },
+        {
+            "description": "You must obtain user consent for the data collection and use practices related to our Services.",
+            "type": {
+                "code": "Type1",
+                "summary": "Consent Requirement"
+            }
+        },
+        {
+            "description": "This includes obtaining consent for rewarding users for engagement with Campaign Content in incentivized campaigns and for behaviorally targeted online advertising.",
+            "type": {
+                "code": "Type3",
+                "summary": "Consent for Specific Uses"
+            }
+        }
+    ]
+}

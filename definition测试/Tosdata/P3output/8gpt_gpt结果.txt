@@ -1,0 +1,18 @@
+Description: You agree not to store personal data using Stripe apps interfaces, except as needed for your Stripe app listing.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#,<You  ;  agree not to store  ;  personal data  ;  using Stripe apps interfaces  ;  for your Stripe app listing  ;  except as needed>}
+========================= pause ===========================
+Description: You agree not to store personal health data using Stripe apps interfaces.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#,<You  ;  agree not to store  ;  personal health data  ;  using Stripe apps interfaces  ;  NULL  ;  NULL>}
+========================= pause ===========================
+Description: You agree not to store data that could infringe upon intellectual property rights using Stripe apps interfaces.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#,<You  ;  agree not to store  ;  data that could infringe upon intellectual property rights  ;  using Stripe apps interfaces  ;  NULL  ;  NULL>}
+========================= pause ===========================

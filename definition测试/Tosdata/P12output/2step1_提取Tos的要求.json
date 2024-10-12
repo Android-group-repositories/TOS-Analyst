@@ -1,0 +1,18 @@
+{
+    "requirements": [
+        {
+            "description": "Mixpanel does not sell, lease, rent, or otherwise share customer content for consideration.",
+            "type": {
+                "code": "Type2",
+                "summary": "No commercial sharing of customer content"
+            }
+        },
+        {
+            "description": "Mixpanel will share customer content only under specific circumstances.",
+            "type": {
+                "code": "Type2",
+                "summary": "Limited sharing of customer content"
+            }
+        }
+    ]
+}

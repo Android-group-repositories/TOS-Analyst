@@ -1,0 +1,25 @@
+{
+    "requirements": [
+        {
+            "description": "The customer is responsible for maintaining the security of user IDs, passwords, and other access credentials.",
+            "type": {
+                "code": "Type1",
+                "summary": "Customer Responsibility for Security"
+            }
+        },
+        {
+            "description": "The customer must ensure that these access credentials are kept strictly confidential.",
+            "type": {
+                "code": "Type1",
+                "summary": "Confidentiality of Access Credentials"
+            }
+        },
+        {
+            "description": "The customer must not share access credentials with any unauthorized person or entity.",
+            "type": {
+                "code": "Type2",
+                "summary": "Prohibition on Sharing with Unauthorized Entities"
+            }
+        }
+    ]
+}

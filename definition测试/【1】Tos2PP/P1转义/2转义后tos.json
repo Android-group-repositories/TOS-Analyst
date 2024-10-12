@@ -1,0 +1,36 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "You are prohibited from passing personally identifiable information to Google, except as permitted by Google Analytics policies and terms, and only if the information is hashed using industry standards.",
+            "type": {
+                "summary": "Data Transmission to Google"
+            }
+        },
+        {
+            "description": "You must have and adhere to an appropriate Privacy Policy that complies with all applicable laws, policies, and regulations regarding the collection of information from Users.",
+            "type": {
+                "summary": "Privacy Policy Compliance"
+            }
+        },
+        {
+            "description": "You must post a Privacy Policy that informs Users about your use of cookies, mobile device identifiers, or similar technologies for data collection.",
+            "type": {
+                "summary": "Disclosure of Data Collection Methods"
+            }
+        },
+        {
+            "description": "You must disclose your use of Google Analytics and how it collects and processes data, which can be done by linking to Google's privacy policy for partners.",
+            "type": {
+                "summary": "Disclosure of Google Analytics Use"
+            }
+        },
+        {
+            "description": "You must make reasonable efforts to ensure Users are informed about and consent to the storing and accessing of cookies or other information on their devices in connection with the Service, where required by law.",
+            "type": {
+                "summary": "User Consent for Data Storage and Access"
+            }
+        }
+    ]
+}
+```

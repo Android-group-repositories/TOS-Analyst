@@ -1,0 +1,46 @@
+{
+    "requirements": [
+        {
+            "description": "Mixpanel's tracking and use of information about the Customer on Mixpanel Sites are governed by the Mixpanel Privacy Statement.",
+            "type": {
+                "code": "Type2",
+                "summary": "Privacy Statement Governance"
+            }
+        },
+        {
+            "description": "The Mixpanel Privacy Statement is available at https://mixpanel.com/legal/privacy-policy/.",
+            "type": {
+                "code": "Type1",
+                "summary": "Privacy Statement Access"
+            }
+        },
+        {
+            "description": "The Mixpanel Privacy Statement does not cover information Mixpanel processes on behalf of the Customer for Application Services.",
+            "type": {
+                "code": "Type4",
+                "summary": "Scope of Privacy Statement"
+            }
+        },
+        {
+            "description": "It is the Customer's responsibility to provide their own privacy statement or notice to their End Users.",
+            "type": {
+                "code": "Type1",
+                "summary": "Customer's Privacy Disclosure"
+            }
+        },
+        {
+            "description": "The Customer must provide all required disclosures and obtain all necessary consents from their employees and/or agents.",
+            "type": {
+                "code": "Type4",
+                "summary": "Customer's Consent Management"
+            }
+        },
+        {
+            "description": "Mixpanel may collect registration and other information about the Customer as Mixpanel's customer through Mixpanel Sites.",
+            "type": {
+                "code": "Type4",
+                "summary": "Data Collection by Mixpanel"
+            }
+        }
+    ]
+}

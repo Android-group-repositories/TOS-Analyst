@@ -1,0 +1,18 @@
+Description: Each party is required to have a privacy policy posted on their website.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <Each party  ;  have  ;  a privacy policy  ;  on their website  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: The privacy policy must describe the collection, use, and sharing of information.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  a privacy policy  ;  describe  ;  the collection, use, and sharing of information  ;  NULL  ;  NULL  ; NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: The privacy policy must provide details on how End Users can opt out of interest-based advertising, such as online behavioral or mobile cross-app advertising.
+Type Code: Type3
+
+Processing for Type3 requirements.
+{#type3-Q1#, <NULL; NULL; NULL; NULL; NULL; NULL>, <need to mention opt-out>, <need link to guide how to opt-out>}
+========================= pause ===========================

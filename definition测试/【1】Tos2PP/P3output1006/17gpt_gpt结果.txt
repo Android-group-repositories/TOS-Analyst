@@ -1,0 +1,33 @@
+Description: The Partner must use the Services in accordance with the Agreement and Services Documentation.
+Type Code: Type4
+========================= pause ===========================
+Description: The Partner must adhere to all applicable rules, including data protection and privacy laws.
+Type Code: Type4
+========================= pause ===========================
+Description: The Partner must have a privacy policy posted in their App that complies with all applicable laws and regulations.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  The Partner  ;  must have  ;  a privacy policy  ;  posted in their App  ;  complies with all applicable laws and regulations  ;  NULL>  ,  <complies with all applicable laws and regulations>}
+========================= pause ===========================
+Description: The privacy policy must inform End Users about the information that will be provided to ironSource or is accessible to ironSource.
+Type Code: Type2
+
+Processing for Type2 requirements.
+{#type2#,  < privacy policy  ;  must inform  ;  End Users  ;  information that will be provided to ironSource or is accessible to ironSource  ;  NULL  ;  NULL>  ,  <NULL>}
+========================= pause ===========================
+Description: The privacy policy must detail this information as per the IronSource Mobile Privacy Policy found on ironSource’s website.
+Type Code: Type2
+
+Processing for Type2 requirements.
+{#type2#,  < your privacy policy  ;  must  detail  ;  this information  ;  as per the IronSource Mobile Privacy Policy found on ironSource's website  ;  NULL  ;  NULL>  ,  <include a link to IronSource Mobile Privacy Policy>}
+========================= pause ===========================
+Description: The privacy policy should include an opt-out mechanism for End Users who do not wish to receive targeted ads based on their behavior and interests.
+Type Code: Type3
+
+Processing for Type3 requirements.
+{#type3#, <  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  >  ,  <need to mention opt-out>  ,  <NULL> }
+========================= pause ===========================
+Description: The Partner confirms they have read and understood the IronSource Mobile Privacy Policy and that it aligns with their own privacy policy.
+Type Code: Type4
+========================= pause ===========================

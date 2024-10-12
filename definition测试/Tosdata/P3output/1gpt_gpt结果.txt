@@ -1,0 +1,18 @@
+Description: The customer is responsible for maintaining the security of user IDs, passwords, and other access credentials.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#,<Customer  ;  maintaining  ;  security of user IDs, passwords, and other access credentials  ;  NULL  ;  NULL  ;  NULL>}
+========================= pause ===========================
+Description: The customer must ensure that these access credentials are kept strictly confidential.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#,<Customer  ;  ensure  ;  access credentials are kept strictly confidential  ;  NULL  ;  NULL  ;  NULL>}
+========================= pause ===========================
+Description: The customer must not share access credentials with any unauthorized person or entity.
+Type Code: Type2
+
+Processing for Type2 requirements.
+{#type2-Q1-1,#  <Customer  ;  must not share  ;  access credentials with any unauthorized person or entity  ;  with any unauthorized person or entity  ;  NULL  ;  NULL>  ,  <Third party is: any unauthorized person or entity>}
+========================= pause ===========================

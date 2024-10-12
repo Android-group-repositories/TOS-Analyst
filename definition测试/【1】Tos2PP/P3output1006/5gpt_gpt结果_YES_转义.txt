@@ -1,0 +1,4 @@
+Description: Both parties must adhere to all applicable privacy laws.
+Description: Licensee is responsible for obtaining any necessary consents to allow OneSignal to collect information from the End User's device or browser.
+Description: Licensee must publish privacy policies and disclosures for their properties that are in compliance with the law and the terms of the EULA.
+Description: The privacy policies must clearly disclose that SDK Information will be collected and explain how it will be used, as detailed in Section 5 of the EULA.

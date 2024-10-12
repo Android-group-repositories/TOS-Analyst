@@ -1,0 +1,6 @@
+Description: Mixpanel's use of Customer information on Mixpanel Sites is governed by its Privacy Statement.
+Description: The Mixpanel Privacy Statement is available at https://mixpanel.com/legal/privacy-policy/.
+Description: The Privacy Statement does not cover information Mixpanel processes on behalf of the Customer for Application Services.
+Description: It is the Customer's responsibility to provide their own privacy statement or notice to End Users.
+Description: The Customer must also provide required disclosures and obtain necessary consents from their employees and/or agents.
+Description: Mixpanel may collect registration and other information about the Customer through Mixpanel Sites.

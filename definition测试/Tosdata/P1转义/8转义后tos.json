@@ -1,0 +1,24 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "You agree not to store personal data using Stripe apps interfaces, except as needed for your Stripe app listing.",
+            "type": {
+                "summary": "Limitation on Storing Personal Data"
+            }
+        },
+        {
+            "description": "You agree not to store personal health data using Stripe apps interfaces.",
+            "type": {
+                "summary": "Prohibition on Storing Personal Health Data"
+            }
+        },
+        {
+            "description": "You agree not to store data that could infringe upon intellectual property rights using Stripe apps interfaces.",
+            "type": {
+                "summary": "Prohibition on Storing Infringing Intellectual Property Data"
+            }
+        }
+    ]
+}
+```

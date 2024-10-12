@@ -1,0 +1,25 @@
+{
+    "requirements": [
+        {
+            "description": "不得复制Dropbox登录凭证，如姓名、电子邮件地址和密码",
+            "type": {
+                "code": "Type1",
+                "summary": "禁止复制用户登录凭证"
+            }
+        },
+        {
+            "description": "除了初始用户认证外，不得使用Dropbox登录凭证",
+            "type": {
+                "code": "Type1",
+                "summary": "限制使用用户登录凭证"
+            }
+        },
+        {
+            "description": "不得在开发者应用之外存储Dropbox登录凭证",
+            "type": {
+                "code": "Type1",
+                "summary": "存储用户登录凭证的限制"
+            }
+        }
+    ]
+}

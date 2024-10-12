@@ -1,0 +1,25 @@
+{
+    "requirements": [
+        {
+            "description": "客户负责维护用户ID、密码和其他访问凭证的安全性。",
+            "type": {
+                "code": "Type1",
+                "summary": "客户对安全性的责任"
+            }
+        },
+        {
+            "description": "客户必须确保这些访问凭证严格保密。",
+            "type": {
+                "code": "Type1",
+                "summary": "访问凭证的保密性"
+            }
+        },
+        {
+            "description": "客户不得与任何未经授权的人员或实体共享访问凭证。",
+            "type": {
+                "code": "Type2",
+                "summary": "禁止与未经授权的实体共享"
+            }
+        }
+    ]
+}

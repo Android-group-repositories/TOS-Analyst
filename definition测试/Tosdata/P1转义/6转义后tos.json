@@ -1,0 +1,30 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "You may not collect personal information directly from your user, a PayPal user, or any other third party on behalf of PayPal.",
+            "type": {
+                "summary": "Prohibition on collecting personal information"
+            }
+        },
+        {
+            "description": "You may not collect financial information directly from your user, a PayPal user, or any other third party on behalf of PayPal.",
+            "type": {
+                "summary": "Prohibition on collecting financial information"
+            }
+        },
+        {
+            "description": "You may not collect business information directly from your user, a PayPal user, or any other third party on behalf of PayPal.",
+            "type": {
+                "summary": "Prohibition on collecting business information"
+            }
+        },
+        {
+            "description": "You may not collect any other information directly from your user, a PayPal user, or any other third party on behalf of PayPal.",
+            "type": {
+                "summary": "Prohibition on collecting any other type of information"
+            }
+        }
+    ]
+}
+```

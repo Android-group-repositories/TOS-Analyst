@@ -1,0 +1,32 @@
+{
+    "requirements": [
+        {
+            "description": "The privacy policy must explain the use, collection, and sharing of mobile device advertising identifiers and other personal information by the company and its third-party service providers, vendors, or partners, such as Tapjoy.",
+            "type": {
+                "code": "Type2",
+                "summary": "Data Collection and Sharing Disclosure with Third-Party Partners"
+            }
+        },
+        {
+            "description": "The privacy policy must cover the use of personal information for behaviorally targeted online advertising.",
+            "type": {
+                "code": "Type1",
+                "summary": "Behavioral Advertising Disclosure"
+            }
+        },
+        {
+            "description": "The privacy policy must include an opt-out link that directs users to an industry-recognized platform for opting out of online behavioral advertising.",
+            "type": {
+                "code": "Type3",
+                "summary": "Opt-Out Link for Behavioral Advertising"
+            }
+        },
+        {
+            "description": "The privacy policy must provide California users with the ability to opt-out from the sale of their personal information.",
+            "type": {
+                "code": "Type3",
+                "summary": "California Privacy Rights Compliance with Opt-Out Option"
+            }
+        }
+    ]
+}

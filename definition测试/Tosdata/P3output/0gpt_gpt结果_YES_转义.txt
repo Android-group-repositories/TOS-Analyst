@@ -1,0 +1,2 @@
+: Customers and their users are prohibited from using Amplitude services to handle customer data in a manner that violates applicable laws, regulations, privacy policies, or agreements with end users.
+: Customers and their users are not allowed to permit any third party to indirectly use the Amplitude services in a way that violates the above-mentioned standards.

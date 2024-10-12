@@ -1,0 +1,2 @@
+: Ensure that the privacy notice or privacy policy for your Stripe Application is easily accessible to Business Users.
+: Include a link to the privacy notice or privacy policy in your Stripe Application listing within the Stripe Apps Marketplace.

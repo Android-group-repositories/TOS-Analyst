@@ -1,0 +1,39 @@
+{
+    "requirements": [
+        {
+            "description": "禁止您将个人身份信息传递给Google，除非Google Analytics的政策和条款允许，并且信息是使用行业标准进行哈希处理的。",
+            "type": {
+                "code": "Type4",
+                "summary": "数据传输至Google"
+            }
+        },
+        {
+            "description": "您必须拥有并遵守适当的隐私政策，该政策需符合所有关于从用户收集信息的适用法律、政策和法规。",
+            "type": {
+                "code": "Type1",
+                "summary": "隐私政策合规性"
+            }
+        },
+        {
+            "description": "您必须发布隐私政策，告知用户您使用cookies、移动设备标识符或类似技术进行数据收集的情况。",
+            "type": {
+                "code": "Type1",
+                "summary": "数据收集方法的披露"
+            }
+        },
+        {
+            "description": "您必须披露您使用Google Analytics的方式以及它如何收集和处理数据，这可以通过链接到Google的合作伙伴隐私政策来完成。",
+            "type": {
+                "code": "Type2",
+                "summary": "披露Google Analytics的使用"
+            }
+        },
+        {
+            "description": "您必须尽合理努力确保用户被告知并同意在与服务相关的设备上存储和访问cookies或其他信息，如法律要求。",
+            "type": {
+                "code": "Type4",
+                "summary": "用户同意数据存储和访问"
+            }
+        }
+    ]
+}

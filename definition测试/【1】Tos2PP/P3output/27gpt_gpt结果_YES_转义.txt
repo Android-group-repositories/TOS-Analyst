@@ -1,0 +1,5 @@
+: Both parties must follow their obligations regarding End User data as outlined in the contract and relevant privacy laws.
+: Each party must have a privacy policy that is clearly visible and meets the standards of applicable privacy laws.
+: The privacy policy must include a clear description of the data sets that are collected or allowed to be collected, and the use cases related to personal data, including mentioning that such data will be shared with certain third parties for specific use cases.
+: The privacy policy must provide sufficient notice about the rights of End Users concerning their personal information and offer mechanisms for opting out of data usage, if required by laws like CCPA, CPRA, or other applicable US state privacy laws.
+: The privacy policy should also mention the use of third parties and cookies for attribution and serving targeted advertisements.

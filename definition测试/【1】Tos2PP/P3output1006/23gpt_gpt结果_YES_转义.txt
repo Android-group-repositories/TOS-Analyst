@@ -1,0 +1,5 @@
+Description: The Publisher is solely responsible for publishing the App on applicable app stores such as Google Play or AppStore.
+Description: The Publisher must comply with the App Store Terms, including obtaining user consent and disclosing data collection practices.
+Description: The Publisher must also provide options for users to opt-out of data collection.
+Description: StartApp does not guarantee compliance with App Store Terms and is not liable for any costs or damages resulting from noncompliance.
+Description: Using the Service may require additional permissions from End Users that the App may not have originally required.

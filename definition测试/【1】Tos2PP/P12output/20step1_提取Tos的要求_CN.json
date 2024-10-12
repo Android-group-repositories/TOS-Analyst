@@ -1,0 +1,32 @@
+{
+    "requirements": [
+        {
+            "description": "您必须确保属性拥有一个清晰标注且易于访问的隐私政策。",
+            "type": {
+                "code": "Type1",
+                "summary": "隐私政策的可访问性"
+            }
+        },
+        {
+            "description": "隐私政策必须向最终用户提供关于cookies、设备特定信息、位置信息以及从最终用户设备收集的其他数据的清晰和全面的信息。",
+            "type": {
+                "code": "Type1",
+                "summary": "数据收集披露"
+            }
+        },
+        {
+            "description": "该政策应包括与服务相关的数据存储、访问或收集方式的信息。",
+            "type": {
+                "code": "Type4",
+                "summary": "数据处理透明度"
+            }
+        },
+        {
+            "description": "隐私政策必须告知最终用户管理cookies的选项。",
+            "type": {
+                "code": "Type3",
+                "summary": "Cookie管理选项"
+            }
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "It shall not use the services in breach of this agreement.",
+            "type": {
+                "summary": "Compliance with Agreement"
+            }
+        },
+        {
+            "description": "It shall not process, transfer or share any data generated from or in connection with the services without the prior written consent of Startapp or in violation of Startapp end user privacy policy.",
+            "type": {
+                "summary": "Data Handling Consent and Privacy Policy Compliance"
+            }
+        },
+        {
+            "description": "It shall not use the services for any illegal, immoral or unauthorized purpose.",
+            "type": {
+                "summary": "Prohibition of Illegal and Immoral Use"
+            }
+        },
+        {
+            "description": "It shall not represent that publisher inventory is certified or otherwise endorsed by Startapp.",
+            "type": {
+                "summary": "Prohibition of Misrepresentation of Endorsement"
+            }
+        },
+        {
+            "description": "It shall not use Startapp’s brand, tradenames, trademarks or service marks without prior written consent of Startapp.",
+            "type": {
+                "summary": "Branding and Intellectual Property Rights Compliance"
+            }
+        }
+    ]
+}
+```

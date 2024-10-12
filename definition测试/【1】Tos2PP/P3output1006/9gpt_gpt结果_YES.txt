@@ -1,0 +1,3 @@
+{#type1#,  <  You  ;  must display  ;  the privacy policy  ;  NULL  ;  before users can download, install, or sign up for the service  ;  NULL>  ,  <Display the privacy policy before users can download, install, or sign up for the service>}
+{#type1#,  <  The privacy policy  ;  must include  ;  the information collected from users  ;  NULL  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+{#type2#,  < your privacy policy  ;  must  disclose  ;  the collected information  ;  how it is used and shared, including with X  ;  NULL  ;  NULL>  ,  <NULL>}

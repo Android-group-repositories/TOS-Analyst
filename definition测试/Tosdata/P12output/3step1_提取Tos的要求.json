@@ -1,0 +1,32 @@
+{
+    "requirements": [
+        {
+            "description": "Customers with services/apps directed to children must comply with the US Children’s Online Privacy Protection Act (COPPA).",
+            "type": {
+                "code": "Type1",
+                "summary": "Compliance with COPPA for services directed to children"
+            }
+        },
+        {
+            "description": "Customers are not allowed to share personal identifiers such as IP addresses, IDFA, IDFV, Android ID, Google Play Advertising ID, Google Play Store Referrer, Windows Hardware ID, Windows NetworkID, Windows Phone Device ID, and UUIDs with Adjust partners or other third parties.",
+            "type": {
+                "code": "Type2",
+                "summary": "Prohibition on sharing personal identifiers with third parties"
+            }
+        },
+        {
+            "description": "The mentioned identifiers are considered data collected within the services.",
+            "type": {
+                "code": "Type1",
+                "summary": "Data collection within services includes personal identifiers"
+            }
+        },
+        {
+            "description": "For more information on COPPA's definition of services directed to children and the rule's requirements, refer to the provided link.",
+            "type": {
+                "code": "Type3",
+                "summary": "Refer to COPPA for detailed definitions and requirements"
+            }
+        }
+    ]
+}

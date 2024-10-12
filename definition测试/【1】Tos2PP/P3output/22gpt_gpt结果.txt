@@ -1,0 +1,12 @@
+Description: The Publisher Network must post a privacy policy that is both conspicuous and legally adequate on each application and/or service.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <The Publisher Network ; posts ; a privacy policy ; conspicuously and legally adequately ; on each application and/or service ; NULL ; NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: The privacy policy must disclose the collection of Service Data by third parties like MoPub for the purpose of personalized advertising.
+Type Code: Type2
+
+Processing for Type2 requirements.
+{#type2#,  < your privacy policy  ;  must disclose  ;  the collection of Service Data by third parties like MoPub  ;  for the purpose of personalized advertising  ;  NULL  ;  NULL>  ,  <need to provide a link>  ,  <Third party is: MoPub>}
+========================= pause ===========================

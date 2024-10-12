@@ -1,0 +1,4 @@
+Description: Your application or service must comply with specific requirements when collecting, storing, processing, or using end users' data, including personal data.
+Description: You must have a privacy policy that clearly informs end users about the personal data you collect and how it is used and shared, including for advertising purposes.
+Description: Your privacy policy must be consistent with the terms of the Agreement and the WeChat or Weixin Privacy Policy.
+Description: You must obtain users' express consent before processing their personal data.

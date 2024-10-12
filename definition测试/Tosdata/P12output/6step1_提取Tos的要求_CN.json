@@ -1,0 +1,32 @@
+{
+    "requirements": [
+        {
+            "description": "你不得直接从你的用户、PayPal用户或任何其他第三方代表PayPal收集个人信息。",
+            "type": {
+                "code": "Type2",
+                "summary": "禁止收集个人信息"
+            }
+        },
+        {
+            "description": "你不得直接从你的用户、PayPal用户或任何其他第三方代表PayPal收集财务信息。",
+            "type": {
+                "code": "Type2",
+                "summary": "禁止收集财务信息"
+            }
+        },
+        {
+            "description": "你不得直接从你的用户、PayPal用户或任何其他第三方代表PayPal收集商业信息。",
+            "type": {
+                "code": "Type2",
+                "summary": "禁止收集商业信息"
+            }
+        },
+        {
+            "description": "你不得直接从你的用户、PayPal用户或任何其他第三方代表PayPal收集任何其他类型的信息。",
+            "type": {
+                "code": "Type2",
+                "summary": "禁止收集任何其他类型的信息"
+            }
+        }
+    ]
+}

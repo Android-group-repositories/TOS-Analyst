@@ -1,0 +1,3 @@
+: Developers are prohibited from using the Vungle SDK, Vungle Platform, or any data obtained through these services in any way not explicitly allowed by the agreement.
+: Developers must not permit third parties to use the Vungle SDK, Vungle Platform, or any data accessed through these services except as permitted in the agreement.
+: Developers are not allowed to use the Vungle SDK or Platform to re-identify individual end users.

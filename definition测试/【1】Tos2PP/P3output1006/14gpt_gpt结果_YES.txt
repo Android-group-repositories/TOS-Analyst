@@ -1,0 +1,4 @@
+{#type1#,  <You ; must have ; a privacy policy ; for your Application ; easily accessible and clearly linked within the Application ; NULL>  ,  <need a privacy policy>}
+{#type2#,  < your privacy policy  ;  should reference and link to  ;  the Snap Privacy Policy  ;  NULL  ;  NULL  ;  NULL>  ,  <include a link to Snap Privacy Policy>}
+{#type1#,  <Your  ;  must accurately describe  ;  what user information  ;  accessed, collected, and stored  ;  by your Application  ;  NULL>  ,  <need a privacy policy>}
+{#type2#,  < your privacy policy  ;  should explain  ;  how and why your Application uses, processes, and shares user information  ;  with Snap and other third parties  ;  NULL  ;  NULL>  ,  <include a link to privacy policy>}

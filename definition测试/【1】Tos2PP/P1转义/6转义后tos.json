@@ -1,0 +1,24 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "Each party is required to have a privacy policy posted on their website.",
+            "type": {
+                "summary": "Privacy Policy Posting"
+            }
+        },
+        {
+            "description": "The privacy policy must describe the collection, use, and sharing of information.",
+            "type": {
+                "summary": "Information Collection, Use, and Sharing"
+            }
+        },
+        {
+            "description": "The privacy policy must provide details on how End Users can opt out of interest-based advertising, such as online behavioral or mobile cross-app advertising.",
+            "type": {
+                "summary": "Opt-Out Option for Interest-Based Advertising"
+            }
+        }
+    ]
+}
+```

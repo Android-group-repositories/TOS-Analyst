@@ -1,0 +1,25 @@
+{
+    "requirements": [
+        {
+            "description": "您有责任通知您的用户有关使用我们的服务相关的数据收集和披露实践。",
+            "type": {
+                "code": "Type1",
+                "summary": "通知责任"
+            }
+        },
+        {
+            "description": "您必须获得用户对我们的服务相关的数据收集和使用实践的同意。",
+            "type": {
+                "code": "Type1",
+                "summary": "同意要求"
+            }
+        },
+        {
+            "description": "这包括在激励性活动中获得奖励用户参与活动内容的同意，以及针对行为的在线广告。",
+            "type": {
+                "code": "Type3",
+                "summary": "特定用途的同意"
+            }
+        }
+    ]
+}

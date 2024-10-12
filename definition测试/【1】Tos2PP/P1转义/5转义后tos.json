@@ -1,0 +1,30 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "Both parties must adhere to all relevant privacy laws.",
+            "type": {
+                "summary": "Compliance with Privacy Laws"
+            }
+        },
+        {
+            "description": "Licensee is responsible for obtaining necessary consents to allow OneSignal to collect information from End Users' devices or browsers.",
+            "type": {
+                "summary": "Consent for Data Collection"
+            }
+        },
+        {
+            "description": "Licensee must publish privacy policies and disclosures for the Properties that are in compliance with applicable laws and the terms of this EULA.",
+            "type": {
+                "summary": "Publication of Privacy Policies"
+            }
+        },
+        {
+            "description": "The privacy policies must clearly disclose that SDK Information will be collected and explain how it will be used, as detailed in Section 5 of the EULA.",
+            "type": {
+                "summary": "Disclosure of Data Collection and Usage"
+            }
+        }
+    ]
+}
+```

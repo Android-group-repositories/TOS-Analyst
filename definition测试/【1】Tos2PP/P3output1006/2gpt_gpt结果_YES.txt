@@ -1,0 +1,3 @@
+{#type1#,  <You ; must maintain and comply ; a Privacy Policy ; NULL ; regarding the collection of user information ; NULL>  ,  <need a privacy policy>}
+{#type1#,  <  You  ;  must post  ;  a Privacy Policy  ;  NULL  ;  informs users about the use of cookies, mobile device identifiers, or similar technologies for data collection  ; NULL>  ,  <need a privacy policy>}
+{#type2#,  < you  ;  must  disclose  ;  the use of Google Analytics and how it collects and processes data  ;  NULL  ;  NULL  ;  NULL>  ,  <provide a link to Google's privacy policy>}

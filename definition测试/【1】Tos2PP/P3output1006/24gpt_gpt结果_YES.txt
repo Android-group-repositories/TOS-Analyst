@@ -1,0 +1,1 @@
+{#type1#,  <Developers  ;  must disclose  ;  all data collected by their app  ;  including data sent to Sentry  ;  for Google Play  ;  NULL>  ,  <need a privacy policy>}

@@ -1,0 +1,18 @@
+Description: You may not collect, capture, use or store PayPal Prohibited User Information such as passwords, PINs, and security questions and answers.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#,<You  ;  not collect, capture, use or store  ;  PayPal Prohibited User Information such as passwords, PINs, and security questions and answers  ;  NULL  ;  NULL  ;  NULL>}
+========================= pause ===========================
+Description: You may not collect, capture, use or store PayPal Prohibited User Information including identifiers used for tax or claiming government benefits, national identity numbers, passport numbers, driver’s license numbers, and any other government issued identifiers.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#,<You  ;  not collect, capture, use or store  ;  PayPal Prohibited User Information including identifiers used for tax or claiming government benefits, national identity numbers, passport numbers, driver's license numbers, and any other government issued identifiers  ;  NULL  ;  NULL  ;  NULL>}
+========================= pause ===========================
+Description: You may not collect, capture, use or store PayPal Prohibited User Information such as full bank account numbers, full credit/debit card numbers, and credit card expiration dates or CVV2 numbers.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#,<You  ;  not collect, capture, use or store  ;  PayPal Prohibited User Information such as full bank account numbers, full credit/debit card numbers, and credit card expiration dates or CVV2 numbers  ;  NULL  ;  NULL  ;  NULL>}
+========================= pause ===========================

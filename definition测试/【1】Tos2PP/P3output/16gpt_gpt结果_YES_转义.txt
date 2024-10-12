@@ -1,0 +1,4 @@
+: You are responsible for informing your users about the data collection and disclosure practices related to the use of our Services.
+: You must obtain consent from your users for the data collection and use practices associated with our Services.
+: The consent must cover the use of data to reward users for engagement with Campaign Content in incentivized campaigns.
+: The consent must also cover the use of data for behaviorally targeted online advertising.

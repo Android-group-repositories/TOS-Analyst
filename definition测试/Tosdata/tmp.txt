@@ -1,0 +1,86 @@
+I will enter a <text> later
+Please read <text> and answer a few questions for me
+
+Does <text> describe the processing of specific data?
+If yes, please output in the following format. If there are multiple groups, please output multiple groups
+
+{ #type1-Q1-i#,  <subject  ;  Actions  ;  object  ;  object source/target  ;  purpose  ;  condition>}
+
+
+notice : <subject  ;  Actions  ;   object  ;  object source/target  ;  purpose > There should not be more than 4 elements present
+To understanding Purpose and condition
+
+subject : The entity responsible for data processing
+Actions : Data Operations
+
+object  : The object in a sentence receives the action of the verb and is essential for completing the meaning of the transitive verb, need include Modifier and Object-Complement for object.
+object source/target: if object is a data item, object source/target is where data come from or where data go to
+
+Purpose: It explains the goal behind an action.It's the "why" of the action , The purpose is usually expressed by an infinitive
+
+condition: AConditions generally exist in the form of adverbs. Usually starts with a condition, such as "if" or "less", "except", etc.Or a conditional adverbial clause guided by 'Without'
+(example:in "Customer must not process, send or store export-controlled information without obtaining required export licenses or government approvals. obtaining required export licenses or government approvals." the Condition is "without obtaining required export licenses or government approvals")
+
+If there are multiple nouns after a verb, they can be separated by a comma
+If the meaning of purpose and condition is not strong, use NULL to indicate none
+
+
+
+Input example1:
+You may not do any of the following: Collect personal information, financial information, business information or any other information directly from Your User, a PayPal User, or any other third party on behalf of PayPal. 
+
+Output example1:
+{#type1-Q1-1#,<You  ;  Collect  ;  personal information, financial information, business information or any other information  ;  from Your User, a PayPal User, or any other third party on behalf of PayPal   ;  NULL>}
+
+
+Input example2:
+10.1.4 Prohibited Activities.  You may not do any of the following:
+(d) Sell,  lease, rent, transfer, assign or otherwise disclose PayPal User Information to a third party;
+(f) Use the PayPal User Information to engage in marketing or other sales activities.
+
+Output example2:
+{#type1-Q1-1#,<You  ;  not Sell, lease, rent, transfer, assign or otherwise disclose  ;  PayPal User Information to a third party  ;  to a third party  ;  NULL  ;  NULL>}
+{#type1-Q1-2#,<You  ;  not Use  ;  User Information  ;  in marketing or other sales activitie  ;  NULL>}
+
+
+
+Input example3:  
+You must not collect, retain, or use any Business Services Data except as expressly permitted under these Snap Developer Terms. ;
+
+Output example3:
+{#type1-Q1-1#,<You  ;  must not collect, retain, or use  ;  Business Services  Data   ;  NULL  ;  except as expressly permitted under these Snap Developer Terms.>}
+
+Input example4:  
+You must not solicit, collect, store, cache, proxy, or use Facebook or Instagram login credentials of other Users.
+
+Output example4:
+{#type1-Q1-1#,<You  ;  must not solicit, collect, store, cache, proxy, or use  ;  Facebook or Instagram login credentials of other Users  ;   of other Users   ;  NULL>}
+
+
+
+
+<Text>:
+ You are prohibited from aggregating, caching, or storing location data and geographic information from posts, post IDs, user profile information, and any other data provided through the X API or other authorized means, except when it is directly associated with the posts, post IDs, user profile information, and other data.
+
+What is the complete meaning of privacy protection in this service terms? Please split the sentence into short sentences
+
+If there are specific legal and regulatory compliance requirements and specific data item requirements,
+
+Please organize the relevant descriptions and do not omit them
+
+<Text>:
+Your privacy policy must describe how you and the third parties, service providers, or vendors you engage with, such as Tapjoy, use, collect, and share mobile device advertising identifiers and other personal information, including for behaviorally targeted online advertising.
+
+"Twitter Content".lower()
+人工 summary 特有名词直接replace
+
+
+conditoin 的类型  不同类型可能有不同的关键字
+
+换拆分 陈述句 完整的句子
+
+把example改完 github上传data
+
+sdk自己的行为不关注
+
+是否加入不感兴趣的形容词的列

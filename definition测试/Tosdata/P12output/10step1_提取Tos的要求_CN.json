@@ -1,0 +1,18 @@
+{
+    "requirements": [
+        {
+            "description": "AppsFlyer严格禁止使用其服务或开发者工具来收集、存储、上传、处理或传输受限数据给AppsFlyer或任何第三方。",
+            "type": {
+                "code": "Type1",
+                "summary": "禁止处理受限数据"
+            }
+        },
+        {
+            "description": "客户不得配置服务或开发者工具以启用通过服务收集、传输或存储受限数据。",
+            "type": {
+                "code": "Type1",
+                "summary": "禁止启用受限数据收集"
+            }
+        }
+    ]
+}

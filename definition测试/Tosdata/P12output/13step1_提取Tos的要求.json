@@ -1,0 +1,25 @@
+{
+    "requirements": [
+        {
+            "description": "No sensitive personal information should be used with the service, except as permitted under section 4.5 for protected health information.",
+            "type": {
+                "code": "Type1",
+                "summary": "Restriction on Sensitive Personal Information"
+            }
+        },
+        {
+            "description": "The service is not intended to meet legal obligations such as HIPAA requirements, and Sentry is not considered a business associate under HIPAA, except as detailed in a Business Associate Agreement (BAA).",
+            "type": {
+                "code": "Type3",
+                "summary": "Service Not Intended for HIPAA Compliance"
+            }
+        },
+        {
+            "description": "Sentry has no liability for sensitive personal information, except for protected health information (PHI) submitted in accordance with section 4.5.",
+            "type": {
+                "code": "Type1",
+                "summary": "Liability Exclusion for Sensitive Personal Information"
+            }
+        }
+    ]
+}

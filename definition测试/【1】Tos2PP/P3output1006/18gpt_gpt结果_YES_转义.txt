@@ -1,0 +1,7 @@
+Description: You must provide clear and prominent notices to individuals regarding the collection, disclosure, use, and security of their personal data.
+Description: You must obtain necessary consent or permission from individuals before collecting their personal data.
+Description: You must maintain a privacy policy that complies with all applicable privacy and data protection laws and regulations.
+Description: Your privacy policy should explain the processing of Services Data as per the Terms and the Unity or ironSource Privacy Policy.
+Description: Your privacy policy must disclose the use of tracking technologies like pixels or agents that collect data about end users.
+Description: Your privacy policy should include a link to the Unity or ironSource Privacy Policy, as applicable.
+Description: If applicable, your privacy policy should explain how end users can opt out of the offerings.

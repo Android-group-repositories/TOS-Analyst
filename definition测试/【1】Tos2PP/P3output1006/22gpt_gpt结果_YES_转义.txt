@@ -1,0 +1,3 @@
+Description: You must have a privacy policy that is clearly visible and legally sufficient.
+Description: The privacy policy must be posted on each application and service within the Publisher Network.
+Description: The privacy policy must disclose the collection of Service Data by third parties like MoPub for personalized advertising.

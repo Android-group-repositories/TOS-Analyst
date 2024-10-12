@@ -1,0 +1,1 @@
+{#type1#,  <  The customer  ;  must adhere to  ;  any privacy policies, agreements, or other obligations  ;  with their end users  ;  NULL  ;  NULL>  ,  <need a privacy policy>}

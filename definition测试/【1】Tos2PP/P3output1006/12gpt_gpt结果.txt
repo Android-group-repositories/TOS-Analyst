@@ -1,0 +1,15 @@
+Description: When using the Platform to process data, you must have a privacy policy that is publicly available and easily accessible.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <you ; must have ; a privacy policy ; publicly available and easily accessible ; NULL ; NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: Your privacy policy must comply with all relevant laws and regulations, and it should clearly explain the data being processed, the methods of processing, the purposes for processing, and how users can request data deletion.
+Type Code: Type4
+========================= pause ===========================
+Description: You must maintain current links to your privacy policy in the App Dashboard settings and in any applicable App Store where you are allowed to do so.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <You ; must maintain ; current links to your privacy policy ; NULL ; in the App Dashboard settings and in any applicable App Store ; NULL>  ,  <need to keep privacy policy links up to date>}
+========================= pause ===========================

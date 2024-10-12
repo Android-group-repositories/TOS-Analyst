@@ -1,0 +1,25 @@
+{
+    "requirements": [
+        {
+            "description": "除非在第4.5节允许的情况下用于受保护的健康信息，否则不应使用敏感个人信息与服务一起使用。",
+            "type": {
+                "code": "Type1",
+                "summary": "对敏感个人信息的限制"
+            }
+        },
+        {
+            "description": "该服务不旨在满足如HIPAA要求等法律义务，并且Sentry不被视为HIPAA下的业务关联方，除非在业务关联协议（BAA）中详细说明。",
+            "type": {
+                "code": "Type3",
+                "summary": "服务不旨在HIPAA合规"
+            }
+        },
+        {
+            "description": "Sentry对敏感个人信息没有责任，除非是根据第4.5节提交的受保护的健康信息（PHI）。",
+            "type": {
+                "code": "Type1",
+                "summary": "对敏感个人信息的责任排除"
+            }
+        }
+    ]
+}

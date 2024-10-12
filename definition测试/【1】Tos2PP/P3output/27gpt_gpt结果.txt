@@ -1,0 +1,30 @@
+Description: Each Party must adhere to their obligations concerning End User data as outlined in the Contract and relevant privacy laws.
+Type Code: Type4
+========================= pause ===========================
+Description: A privacy policy must be provided by each Party, which is conspicuous and complies with applicable privacy laws.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <a privacy policy  ;  complies  ;  applicable privacy laws    ;  NULL  ;  NULL  ; NULL>  ,  <must be provided by each Party>}
+========================= pause ===========================
+Description: The privacy policy must include a clear description of the data sets collected or permitted to be collected, and the use cases related to personal data/information.
+Type Code: Type4
+========================= pause ===========================
+Description: The privacy policy must explicitly state that personal data will be shared with certain third parties for specific use cases.
+Type Code: Type2
+
+Processing for Type2 requirements.
+{#type2#,  <privacy policy  ;  must explicitly state  ;  personal data will be shared with certain third parties for specific use cases  ;  certain third parties  ;  for specific use cases  ;  NULL>  ,  <need to provide a link>  ,  <Third party is: certain third parties>}
+========================= pause ===========================
+Description: If applicable, privacy laws such as CCPA, CPRA, or other US state privacy laws require providing sufficient notice about End Users' rights regarding their personal information and mechanisms for Opt Out elections.
+Type Code: Type3
+
+Processing for Type3 requirements.
+{#type3-Q1#, <  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  >  ,  <need to mention opt-out>  ,  <NULL> }
+========================= pause ===========================
+Description: The privacy policy should mention the use of third parties and cookies for attribution and/or serving targeted advertisements.
+Type Code: Type2
+
+Processing for Type2 requirements.
+{#type2#,  < privacy policy  ;  should mention  ;  the use of third parties and cookies  ;  for attribution and/or serving targeted advertisements  ;  NULL  ;  NULL>  ,  <need to provide a link>  ,  <Third party is: third parties>}
+========================= pause ===========================

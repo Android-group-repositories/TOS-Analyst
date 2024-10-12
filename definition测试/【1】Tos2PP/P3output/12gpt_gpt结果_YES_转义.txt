@@ -1,0 +1,3 @@
+: When using the Platform to process data, you must have a privacy policy that is publicly available and easily accessible.
+: Your privacy policy must comply with all relevant laws and regulations, and it should clearly explain the data being processed, the methods of processing, the purposes for processing, and how users can request data deletion.
+: You must maintain current links to your privacy policy in the App Dashboard settings and in any applicable App Store where you are allowed to do so.

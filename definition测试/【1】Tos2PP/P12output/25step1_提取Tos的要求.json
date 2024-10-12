@@ -1,0 +1,32 @@
+{
+    "requirements": [
+        {
+            "description": "Developer must ensure User Data is handled in compliance with a privacy policy.",
+            "type": {
+                "code": "Type1",
+                "summary": "Data Compliance"
+            }
+        },
+        {
+            "description": "The privacy policy must be made available to Users.",
+            "type": {
+                "code": "Type1",
+                "summary": "Privacy Policy Accessibility"
+            }
+        },
+        {
+            "description": "The privacy policy must clearly and accurately describe what user information is collected by Developer.",
+            "type": {
+                "code": "Type1",
+                "summary": "Clear Description of Data Collection"
+            }
+        },
+        {
+            "description": "The privacy policy must also describe how Developer uses and shares the collected user information.",
+            "type": {
+                "code": "Type1",
+                "summary": "Usage and Sharing Disclosure"
+            }
+        }
+    ]
+}

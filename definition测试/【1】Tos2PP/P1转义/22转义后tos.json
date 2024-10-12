@@ -1,0 +1,18 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "The Publisher Network must post a privacy policy that is both conspicuous and legally adequate on each application and/or service.",
+            "type": {
+                "summary": "Privacy Policy Posting"
+            }
+        },
+        {
+            "description": "The privacy policy must disclose the collection of Service Data by third parties like MoPub for the purpose of personalized advertising.",
+            "type": {
+                "summary": "Disclosure of Data Collection for Advertising"
+            }
+        }
+    ]
+}
+```

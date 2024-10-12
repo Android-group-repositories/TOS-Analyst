@@ -1,0 +1,6 @@
+: Ensure that the Properties have a privacy policy that is clearly labeled and easily accessible.
+: The privacy policy must provide end users with clear and comprehensive information about cookies.
+: The privacy policy should include information about device-specific information stored, accessed, or collected from end users' devices.
+: The privacy policy should detail location information stored, accessed, or collected from end users' devices.
+: The privacy policy should cover other information stored, accessed, or collected from end users' devices in connection with the Services.
+: Include information about end users' options for cookie management in the privacy policy.

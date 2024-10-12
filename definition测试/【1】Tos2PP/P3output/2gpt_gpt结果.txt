@@ -1,0 +1,24 @@
+Description: You are prohibited from passing personally identifiable information to Google, except as permitted by Google Analytics policies and terms, and only if the information is hashed using industry standards.
+Type Code: Type4
+========================= pause ===========================
+Description: You must have and adhere to an appropriate Privacy Policy that complies with all applicable laws, policies, and regulations regarding the collection of information from Users.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  a Privacy Policy  ;  complies  ;  the collection of information from Users    ;  NULL  ;  NULL  ; NULL>  ,  <need a Privacy Policy>}
+========================= pause ===========================
+Description: You must post a Privacy Policy that informs Users about your use of cookies, mobile device identifiers, or similar technologies for data collection.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  a Privacy Policy  ;  informs Users  ;  your use of cookies, mobile device identifiers, or similar technologies for data collection  ;  NULL  ;  NULL  ; NULL>  ,  <need a Privacy Policy>}
+========================= pause ===========================
+Description: You must disclose your use of Google Analytics and how it collects and processes data, which can be done by linking to Google's privacy policy for partners.
+Type Code: Type2
+
+Processing for Type2 requirements.
+{#type2#,  < you  ;  must disclose  ;  your use of Google Analytics and how it collects and processes data  ;  NULL  ;  to inform users  ;  by linking to Google's privacy policy for partners>  ,  <need to provide a link>  ,  <Third party is: Google>}
+========================= pause ===========================
+Description: You must make reasonable efforts to ensure Users are informed about and consent to the storing and accessing of cookies or other information on their devices in connection with the Service, where required by law.
+Type Code: Type4
+========================= pause ===========================

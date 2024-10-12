@@ -1,0 +1,15 @@
+Description: No sensitive personal information should be used with the service, except as permitted under section 4.5 for protected health information.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#,<No sensitive personal information  ;  should be used  ;  with the service  ;  NULL  ;  except as permitted under section 4.5 for protected health information  ;  NULL>}
+========================= pause ===========================
+Description: The service is not intended to meet legal obligations such as HIPAA requirements, and Sentry is not considered a business associate under HIPAA, except as detailed in a Business Associate Agreement (BAA).
+Type Code: Type3
+========================= pause ===========================
+Description: Sentry has no liability for sensitive personal information, except for protected health information (PHI) submitted in accordance with section 4.5.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#,<Sentry  ;  has no liability  ;  sensitive personal information  ;  NULL  ;  NULL  ;  except for protected health information (PHI) submitted in accordance with section 4.5>}
+========================= pause ===========================

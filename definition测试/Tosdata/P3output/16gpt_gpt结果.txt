@@ -1,0 +1,6 @@
+Description: You may not use any Zoom data or other users' data from the site or services for advertising purposes or for targeting advertisements.
+Type Code: Type2
+
+Processing for Type2 requirements.
+{#type2-Q1-1,#  <You  ;  may not use  ;  any Zoom data or other users' data from the site or services for advertising purposes or for targeting advertisements  ;  from the site or services  ;  to not use for advertising purposes or targeting advertisements  ;  NULL>  ,  <Third party is: Zoom>}
+========================= pause ===========================

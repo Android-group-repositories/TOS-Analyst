@@ -1,0 +1,24 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "Do not copy Dropbox login credentials such as name, email address, and password",
+            "type": {
+                "summary": "Prohibition on copying user login credentials"
+            }
+        },
+        {
+            "description": "Do not use Dropbox login credentials except for initial user authentication",
+            "type": {
+                "summary": "Limited use of user login credentials"
+            }
+        },
+        {
+            "description": "Do not store Dropbox login credentials outside of the developer app",
+            "type": {
+                "summary": "Storage restriction of user login credentials"
+            }
+        }
+    ]
+}
+```

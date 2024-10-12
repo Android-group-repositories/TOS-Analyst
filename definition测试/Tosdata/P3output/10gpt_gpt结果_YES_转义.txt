@@ -1,0 +1,2 @@
+: AppsFlyer strictly prohibits the use of its services or developer tools to collect, store, upload, process, or transmit restricted data to AppsFlyer or any third party.
+: Customers are not allowed to configure the services or developer tools to enable the collection, transmission, or storage of restricted data through the services.

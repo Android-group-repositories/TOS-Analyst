@@ -1,0 +1,30 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "If End Users provide You with, or You gather or access End User Information, You must inform the End Users that certain information will be available to You.",
+            "type": {
+                "summary": "Notification of Data Collection"
+            }
+        },
+        {
+            "description": "You must provide a legally adequate privacy notice to End Users regarding the End User Information that will be available to You.",
+            "type": {
+                "summary": "Privacy Notice Requirement"
+            }
+        },
+        {
+            "description": "You must obtain the End User’s permission to gather and use End User Information.",
+            "type": {
+                "summary": "Obtaining User Consent"
+            }
+        },
+        {
+            "description": "You must ensure the protection of such End User Information.",
+            "type": {
+                "summary": "Data Protection"
+            }
+        }
+    ]
+}
+```

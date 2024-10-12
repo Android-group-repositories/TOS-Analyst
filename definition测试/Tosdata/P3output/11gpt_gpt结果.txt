@@ -1,0 +1,18 @@
+Description: You may use service data for internal business purposes.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#,<You  ;  Use  ;  service data  ;  NULL  ;  for internal business purposes  ;  NULL>}
+========================= pause ===========================
+Description: Use of service data must comply with privacy policies, laws, rules, regulations, and industry self-regulatory regimes.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#,<Use of service data  ;  must comply  ;  privacy policies, laws, rules, regulations, and industry self-regulatory regimes  ;  NULL  ;  NULL  ;  NULL>}
+========================= pause ===========================
+Description: You must obtain necessary consents, waivers, approvals, authorizations, and clearances from end users as required by applicable laws.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#,<You  ;  must obtain  ;  necessary consents, waivers, approvals, authorizations, and clearances  ;  from end users  ;  as required by applicable laws  ;  NULL>}
+========================= pause ===========================

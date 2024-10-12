@@ -1,0 +1,21 @@
+Description: You must ensure that the Properties have a privacy policy that is clearly labeled and easily accessible.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  a privacy policy  ;  is labeled and accessible   ;  NULL    ;  NULL  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: The privacy policy must provide end users with clear and comprehensive information about cookies, device-specific information, location information, and other data collected from end users' devices.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  a privacy policy  ;  provides end users  ;  clear and comprehensive information  ;  about cookies, device-specific information, location information, and other data collected from end users' devices  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: The policy should include information about how data is stored, accessed, or collected in connection with the Services.
+Type Code: Type4
+========================= pause ===========================
+Description: The privacy policy must inform end users about their options for managing cookies.
+Type Code: Type3
+
+Processing for Type3 requirements.
+{#type3-Q1#, <  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  >  ,  <need to mention opt-out>  ,  <NULL> }
+========================= pause ===========================

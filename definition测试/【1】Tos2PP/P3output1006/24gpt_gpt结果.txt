@@ -1,0 +1,18 @@
+Description: Sentry collects data configured by the user, typically errors, API calls, page loads, or similar transactions.
+Type Code: Type4
+========================= pause ===========================
+Description: By default, Sentry does not collect personally identifiable information (PII).
+Type Code: Type4
+========================= pause ===========================
+Description: Users can add additional context and metadata, including PII such as usernames and email addresses.
+Type Code: Type4
+========================= pause ===========================
+Description: Sentry processes data to provide application monitoring services.
+Type Code: Type4
+========================= pause ===========================
+Description: Developers must disclose all data collected by their app, including data sent to Sentry, in their app's privacy policy for Google Play.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <Developers  ;  must disclose  ;  all data collected by their app  ;  including data sent to Sentry  ;  for Google Play  ;  NULL>  ,  <need a privacy policy>}
+========================= pause ===========================

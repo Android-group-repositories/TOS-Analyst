@@ -1,0 +1,12 @@
+Description: Developers must make the privacy policies related to the service easily accessible at all times.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <Developers  ;  must make  ;  the privacy policies  ;  related to the service  ;  easily accessible  ;  at all times>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: Privacy policies should be available for viewing by anyone, including before and after a user begins using the service.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  Privacy policies  ;  should be available for viewing  ;  by anyone  ;  including before and after a user begins using the service  ;  NULL  ;  NULL>  ,  <available for viewing by anyone>}
+========================= pause ===========================

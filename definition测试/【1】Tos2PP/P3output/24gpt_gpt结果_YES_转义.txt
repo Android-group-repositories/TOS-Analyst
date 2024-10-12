@@ -1,0 +1,5 @@
+: Sentry collects data configured by the user, typically errors, API calls, page loads, or similar transactions.
+: By default, Sentry does not collect personally identifiable information (PII).
+: Users can add additional context and metadata, including PII such as usernames and email addresses.
+: Sentry processes data to provide application monitoring services.
+: Developers must disclose all data collected by their app, including data sent to Sentry, in their app's privacy policy for Google Play.

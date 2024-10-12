@@ -1,0 +1,1 @@
+<Description: You must disclose in your app privacy policy all types of data collected by your app, including data sent to Sentry.>{#type1#,  <  your app privacy policy  ;  disclose  ;  all types of data collected by your app  ;  including data sent to Sentry  ;  NULL  ;  NULL>  ,  <need to disclose all types of data>}

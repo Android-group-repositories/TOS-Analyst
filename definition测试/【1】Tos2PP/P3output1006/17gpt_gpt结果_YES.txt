@@ -1,0 +1,4 @@
+{#type1#,  <  The Partner  ;  must have  ;  a privacy policy  ;  posted in their App  ;  complies with all applicable laws and regulations  ;  NULL>  ,  <complies with all applicable laws and regulations>}
+{#type2#,  < privacy policy  ;  must inform  ;  End Users  ;  information that will be provided to ironSource or is accessible to ironSource  ;  NULL  ;  NULL>  ,  <NULL>}
+{#type2#,  < your privacy policy  ;  must  detail  ;  this information  ;  as per the IronSource Mobile Privacy Policy found on ironSource's website  ;  NULL  ;  NULL>  ,  <include a link to IronSource Mobile Privacy Policy>}
+{#type3#, <  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  >  ,  <need to mention opt-out>  ,  <NULL> }

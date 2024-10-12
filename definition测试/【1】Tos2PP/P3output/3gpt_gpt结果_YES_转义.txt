@@ -1,0 +1,4 @@
+: If you receive, collect, or access End User Information, you must inform the End Users that their information will be available to you.
+: You must provide a legally adequate privacy notice to the End Users regarding their information.
+: You must obtain the End Users' permission to collect and use their information.
+: You must ensure the protection of the End User Information you gather or access.

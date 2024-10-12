@@ -1,0 +1,11 @@
+{
+    "requirements": [
+        {
+            "description": "You may not publicly display PayPal user information without the express consent of the PayPal user.",
+            "type": {
+                "code": "Type1",
+                "summary": "Restriction on Public Display of User Information"
+            }
+        }
+    ]
+}

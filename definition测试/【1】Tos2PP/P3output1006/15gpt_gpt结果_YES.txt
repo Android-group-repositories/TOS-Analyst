@@ -1,0 +1,4 @@
+{#type2#,  < your privacy policy  ;  must explain  ;  how you and third parties, like Tapjoy, use, collect, and share  ;  mobile device advertising identifiers and other personal data  ;  NULL  ;  NULL>  ,  <NULL>}
+{#type1#,  <  Your  ;  must cover  ;  the use of personal information  ;  for behaviorally targeted online advertising  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+{#type3#, <  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  >  ,  <need to mention opt-out>  ,  <need link to guide how to opt-out> }
+{#type3#, <  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  >  ,  <need to mention opt-out>  ,  <NULL> }

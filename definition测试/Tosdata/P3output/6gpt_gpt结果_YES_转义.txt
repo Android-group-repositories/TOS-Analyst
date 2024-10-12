@@ -1,0 +1,4 @@
+: You may not collect personal information directly from your user, a PayPal user, or any other third party on behalf of PayPal.
+: You may not collect financial information directly from your user, a PayPal user, or any other third party on behalf of PayPal.
+: You may not collect business information directly from your user, a PayPal user, or any other third party on behalf of PayPal.
+: You may not collect any other information directly from your user, a PayPal user, or any other third party on behalf of PayPal.

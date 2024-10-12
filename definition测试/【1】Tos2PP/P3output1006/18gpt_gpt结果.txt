@@ -1,0 +1,42 @@
+Description: You must provide clear and prominent notices to individuals regarding the collection, disclosure, use, and security of their personal data.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <You ; must provide ; clear and prominent notices ; NULL ; regarding the collection, disclosure, use, and security of personal data ; NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: You must obtain necessary consent or permission from individuals before collecting their personal data.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <You ; must obtain ; necessary consent or permission ; from individuals ; for collecting their personal data ; NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: You must maintain a privacy policy that complies with all applicable privacy and data protection laws and regulations.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <You ; must maintain ; a privacy policy ; NULL ; complies with all applicable privacy and data protection laws and regulations ; NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: Your privacy policy should explain the processing of Services Data as per the Terms and the Unity or ironSource Privacy Policy.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  Your  ;  should explain  ;  the processing of Services Data  ;  as per the Terms and the Unity or ironSource Privacy Policy  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: Your privacy policy must disclose the use of tracking technologies like pixels or agents that collect data about end users.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <Your  ;  must disclose  ;  the use of tracking technologies  ;  like pixels or agents  ;  collect data about end users  ;  NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: Your privacy policy should include a link to the Unity or ironSource Privacy Policy, as applicable.
+Type Code: Type2
+
+Processing for Type2 requirements.
+{#type2#,  < your privacy policy  ;  should include  ;  a link to the Unity or ironSource Privacy Policy  ;  NULL  ;  NULL  ;  as applicable>  ,  <link to Unity or ironSource Privacy Policy>}
+========================= pause ===========================
+Description: If applicable, your privacy policy should explain how end users can opt out of the offerings.
+Type Code: Type3
+
+Processing for Type3 requirements.
+{#type3#, <need to mention opt-out>  ,  <NULL> }
+========================= pause ===========================

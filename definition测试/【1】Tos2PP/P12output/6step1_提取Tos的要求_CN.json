@@ -1,0 +1,25 @@
+{
+    "requirements": [
+        {
+            "description": "各方必须在其网站上发布隐私政策。",
+            "type": {
+                "code": "Type1",
+                "summary": "隐私政策发布"
+            }
+        },
+        {
+            "description": "隐私政策必须描述信息的收集、使用和共享。",
+            "type": {
+                "code": "Type1",
+                "summary": "信息收集、使用和共享"
+            }
+        },
+        {
+            "description": "隐私政策必须提供关于终端用户如何退出基于兴趣的广告的详细信息，例如在线行为或移动跨应用广告。",
+            "type": {
+                "code": "Type3",
+                "summary": "基于兴趣的广告的退出选项"
+            }
+        }
+    ]
+}

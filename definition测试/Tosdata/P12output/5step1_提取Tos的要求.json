@@ -1,0 +1,11 @@
+{
+    "requirements": [
+        {
+            "description": "You may not sell, lease, rent, transfer, assign, or otherwise disclose PayPal user information to a third party.",
+            "type": {
+                "code": "Type2",
+                "summary": "Prohibition on Disclosure of User Information"
+            }
+        }
+    ]
+}

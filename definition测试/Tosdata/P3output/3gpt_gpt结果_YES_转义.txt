@@ -1,0 +1,4 @@
+: Customers with services/apps directed to children must comply with the US Children’s Online Privacy Protection Act (COPPA).
+: Customers are not allowed to share personal identifiers such as IP addresses, IDFA, IDFV, Android ID, Google Play Advertising ID, Google Play Store Referrer, Windows Hardware ID, Windows NetworkID, Windows Phone Device ID, and UUIDs with Adjust partners or other third parties.
+: The mentioned identifiers are considered data collected within the services.
+: For more information on COPPA's definition of services directed to children and the rule's requirements, refer to the provided link.

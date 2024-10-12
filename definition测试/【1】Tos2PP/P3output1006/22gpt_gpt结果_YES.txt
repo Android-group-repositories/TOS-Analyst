@@ -1,0 +1,3 @@
+{#type1#,  <You ; must have ; a privacy policy ; clearly visible and legally sufficient ; NULL ; NULL>  ,  <need a privacy policy>}
+{#type1#,  <  The Publisher Network  ;  must post  ;  the privacy policy   ;  NULL  ;  NULL  ;  NULL>  ,  <privacy policy must be posted on each application and service>}
+{#type2#,  < your privacy policy  ;  must disclose  ;  the collection of Service Data by third parties like MoPub  ;  for personalized advertising  ;  NULL  ;  NULL>  ,  <include a link to privacy policy>}

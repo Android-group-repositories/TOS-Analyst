@@ -1,0 +1,24 @@
+Description: Developer must ensure User Data is handled in compliance with a privacy policy.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <Developer  ;  ensure  ;  User Data is handled  ;  in compliance with a privacy policy  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: The privacy policy must be made available to Users.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  The privacy policy  ;  must be made available  ;  Users    ;  NULL  ;  NULL  ; NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: The privacy policy must clearly and accurately describe what user information is collected by Developer.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  a privacy policy  ;  describe  ;  user information  ;  by Developer  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: The privacy policy must also describe how Developer uses and shares the collected user information.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  a privacy policy  ;  describes  ;  how Developer uses and shares the collected user information    ;  NULL  ;  NULL  ; NULL>  ,  <need a privacy policy>}
+========================= pause ===========================

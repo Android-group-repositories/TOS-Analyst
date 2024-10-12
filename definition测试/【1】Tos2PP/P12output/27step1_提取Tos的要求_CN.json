@@ -1,0 +1,46 @@
+{
+    "requirements": [
+        {
+            "description": "各方必须遵守合同和相关隐私法规中概述的关于最终用户数据的义务。",
+            "type": {
+                "code": "Type4",
+                "summary": "遵守隐私法规"
+            }
+        },
+        {
+            "description": "各方必须提供一份隐私政策，该政策应醒目且符合适用的隐私法规。",
+            "type": {
+                "code": "Type1",
+                "summary": "提供隐私政策"
+            }
+        },
+        {
+            "description": "隐私政策必须包括对收集或允许收集的数据集以及与个人数据/信息相关的用例的清晰描述。",
+            "type": {
+                "code": "Type4",
+                "summary": "数据收集和使用披露"
+            }
+        },
+        {
+            "description": "隐私政策必须明确声明个人数据将与某些第三方共享，以用于特定用例。",
+            "type": {
+                "code": "Type2",
+                "summary": "披露与第三方共享数据"
+            }
+        },
+        {
+            "description": "如适用，诸如CCPA、CPRA或其他美国州隐私法规要求提供关于最终用户对其个人信息的权利以及选择退出机制的充分通知。",
+            "type": {
+                "code": "Type3",
+                "summary": "通知和选择退出合规性"
+            }
+        },
+        {
+            "description": "隐私政策应提及第三方和/或cookies的使用，用于归因和/或提供定向广告。",
+            "type": {
+                "code": "Type2",
+                "summary": "第三方和Cookie使用披露"
+            }
+        }
+    ]
+}

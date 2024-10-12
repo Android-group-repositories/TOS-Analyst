@@ -1,0 +1,27 @@
+Description: Display the privacy policy before users can download, install, or sign up for the service.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  You  ;  must display  ;  the privacy policy  ;  NULL  ;  before users can download, install, or sign up for the service  ;  NULL>  ,  <Display the privacy policy before users can download, install, or sign up for the service>}
+========================= pause ===========================
+Description: The privacy policy must include the information collected from users.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  The privacy policy  ;  must include  ;  the information collected from users  ;  NULL  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: Detail how the collected information is used and shared, including with X.
+Type Code: Type2
+
+Processing for Type2 requirements.
+{#type2#,  < your privacy policy  ;  must  disclose  ;  the collected information  ;  how it is used and shared, including with X  ;  NULL  ;  NULL>  ,  <NULL>}
+========================= pause ===========================
+Description: Provide contact information for users to inquire about their data.
+Type Code: Type4
+========================= pause ===========================
+Description: Ensure the privacy policy complies with all applicable laws and is at least as protective as X’s Privacy Policy and the policies of other services and corporate affiliates.
+Type Code: Type4
+========================= pause ===========================
+Description: Cease access to the X API and use of X Content if unable to comply with privacy policies.
+Type Code: Type4
+========================= pause ===========================

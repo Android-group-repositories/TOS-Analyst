@@ -1,0 +1,2 @@
+: Mixpanel does not sell, lease, rent, or otherwise share customer content for consideration.
+: Mixpanel will share customer content only under specific circumstances.

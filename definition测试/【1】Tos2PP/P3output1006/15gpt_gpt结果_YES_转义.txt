@@ -1,0 +1,4 @@
+Description: Your privacy policy must explain how you and third parties, like Tapjoy, use, collect, and share mobile device advertising identifiers and other personal data.
+Description: Your privacy policy must cover the use of personal information for behaviorally targeted online advertising.
+Description: Your privacy policy must include an opt-out link for users to opt-out of online behavioral advertising.
+Description: Your privacy policy must provide California users with the ability to opt-out of the sale of their personal information.

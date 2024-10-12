@@ -1,0 +1,1 @@
+<Description: Only access, store, transfer, and process user data in accordance with users' instructions and the developer app's configuration settings.>{#type1-Q1-1#,<Developer app  ;  Access, store, transfer, and process  ;  user data  ;  in accordance with users' instructions and the developer app's configuration settings  ;  NULL  ;  NULL>}

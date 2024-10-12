@@ -1,0 +1,24 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "You may use service data for internal business purposes.",
+            "type": {
+                "summary": "Internal Use of Service Data"
+            }
+        },
+        {
+            "description": "Use of service data must comply with privacy policies, laws, rules, regulations, and industry self-regulatory regimes.",
+            "type": {
+                "summary": "Compliance with Legal and Regulatory Frameworks"
+            }
+        },
+        {
+            "description": "You must obtain necessary consents, waivers, approvals, authorizations, and clearances from end users as required by applicable laws.",
+            "type": {
+                "summary": "Obtaining User Consents and Authorizations"
+            }
+        }
+    ]
+}
+```

@@ -1,0 +1,12 @@
+Description: Ensure that the privacy notice or privacy policy for your Stripe Application is easily accessible to Business Users.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  You  ;  must ensure  ;  the privacy notice or privacy policy  ;  for your Stripe Application  ;  is easily accessible  ;  to Business Users>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: Include a link to the privacy notice or privacy policy in your Stripe Application listing within the Stripe Apps Marketplace.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  You  ;  Include  ;  a link to the privacy notice or privacy policy  ;  NULL  ;  within the Stripe Apps Marketplace  ;  NULL>  ,  <need a privacy policy>}
+========================= pause ===========================

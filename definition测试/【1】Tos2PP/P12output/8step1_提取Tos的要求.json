@@ -1,0 +1,32 @@
+{
+    "requirements": [
+        {
+            "description": "Customer must make all necessary disclosures to their users.",
+            "type": {
+                "code": "Type1",
+                "summary": "Necessary Disclosures"
+            }
+        },
+        {
+            "description": "Customer must obtain all necessary consents and authorizations from their users for RevenueCat to perform the Services.",
+            "type": {
+                "code": "Type1",
+                "summary": "Consents and Authorizations"
+            }
+        },
+        {
+            "description": "This includes RevenueCat's and Stripe's processing of personally identifiable information of the users.",
+            "type": {
+                "code": "Type2",
+                "summary": "Processing of Personal Information by RevenueCat and Stripe (Third-party partners)"
+            }
+        },
+        {
+            "description": "Customer must disclose RevenueCat's and Stripe's processing of such information in their privacy policy in a reasonable and industry-standard manner.",
+            "type": {
+                "code": "Type2",
+                "summary": "Disclosure in Privacy Policy of RevenueCat and Stripe Processing (Third-party partners)"
+            }
+        }
+    ]
+}

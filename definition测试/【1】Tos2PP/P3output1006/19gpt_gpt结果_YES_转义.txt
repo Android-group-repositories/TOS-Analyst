@@ -1,0 +1,7 @@
+Description: You must have a privacy policy that is clearly labeled and easily accessible.
+Description: Your privacy policy must comply with all applicable laws.
+Description: Your privacy policy should provide clear and comprehensive information about cookies.
+Description: Your privacy policy should provide clear and comprehensive information about device-specific information.
+Description: Your privacy policy should provide clear and comprehensive information about location information.
+Description: Your privacy policy should provide clear and comprehensive information about other information stored on, accessed on, or collected from end users' devices.
+Description: Your privacy policy should include information about end users' options for cookie management.

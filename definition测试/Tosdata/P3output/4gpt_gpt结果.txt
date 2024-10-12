@@ -1,0 +1,6 @@
+Description: You may not publicly display PayPal user information without the express consent of the PayPal user.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#,<You  ;  not publicly display  ;  PayPal user information  ;  without the express consent of the PayPal user  ;  NULL  ;  NULL>}
+========================= pause ===========================

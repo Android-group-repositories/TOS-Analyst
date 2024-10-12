@@ -1,0 +1,36 @@
+Description: Ensure that the Properties have a privacy policy that is clearly labeled and easily accessible.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  You  ;  must ensure  ;  the Properties  ;  NULL  ;  have a privacy policy that is clearly labeled and easily accessible  ;  NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: The privacy policy must provide end users with clear and comprehensive information about cookies.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  The privacy policy  ;  must provide  ;  end users  ;  NULL  ;  clear and comprehensive information about cookies  ;  NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: The privacy policy should include information about device-specific information stored, accessed, or collected from end users' devices.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  The privacy policy  ;  should include  ;  information  ;  about device-specific  ;  stored, accessed, or collected  ;  from end users' devices>  ,  <need to include device-specific information>}
+========================= pause ===========================
+Description: The privacy policy should detail location information stored, accessed, or collected from end users' devices.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  The privacy policy  ;  should detail  ;  location information  ;  stored, accessed, or collected  ;  from end users' devices  ;  NULL>  ,  <NULL>}
+========================= pause ===========================
+Description: The privacy policy should cover other information stored, accessed, or collected from end users' devices in connection with the Services.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  The privacy policy  ;  should cover  ;  other information  ;  stored, accessed, or collected  ;  from end users' devices in connection with the Services  ;  NULL>  ,  <NULL>}
+========================= pause ===========================
+Description: Include information about end users' options for cookie management in the privacy policy.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  You  ;  must include  ;  information about end users' options for cookie management  ;  NULL  ;  in the privacy policy  ;  NULL>  ,  <need a privacy policy>}
+========================= pause ===========================

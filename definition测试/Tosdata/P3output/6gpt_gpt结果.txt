@@ -1,0 +1,24 @@
+Description: You may not collect personal information directly from your user, a PayPal user, or any other third party on behalf of PayPal.
+Type Code: Type2
+
+Processing for Type2 requirements.
+{#type2-Q1-1,#  <You  ;  may not collect  ;  personal information directly from your user, a PayPal user, or any other third party  ;  from your user, a PayPal user, or any other third party  ;  on behalf of PayPal  ;  NULL>  ,  <Third party is: any other third party>}
+========================= pause ===========================
+Description: You may not collect financial information directly from your user, a PayPal user, or any other third party on behalf of PayPal.
+Type Code: Type2
+
+Processing for Type2 requirements.
+{#type2-Q1-1,#  <You  ;  may not collect  ;  financial information directly from your user, a PayPal user, or any other third party  ;  from your user, a PayPal user, or any other third party  ;  on behalf of PayPal  ;  NULL>  ,  <Third party is: any other third party>}
+========================= pause ===========================
+Description: You may not collect business information directly from your user, a PayPal user, or any other third party on behalf of PayPal.
+Type Code: Type2
+
+Processing for Type2 requirements.
+{#type2-Q1-1,#  <You  ;  may not collect  ;  business information directly from your user, a PayPal user, or any other third party  ;  from your user, a PayPal user, or any other third party  ;  for PayPal  ;  NULL>  ,  <Third party is: any other third party>}
+========================= pause ===========================
+Description: You may not collect any other information directly from your user, a PayPal user, or any other third party on behalf of PayPal.
+Type Code: Type2
+
+Processing for Type2 requirements.
+{#type2-Q1-1,#  <You  ;  may not collect  ;  any other information directly from your user, a PayPal user, or any other third party on behalf of PayPal  ;  from your user, a PayPal user, or any other third party  ;  NULL  ;  NULL>  ,  <Third party is: any other third party>}
+========================= pause ===========================

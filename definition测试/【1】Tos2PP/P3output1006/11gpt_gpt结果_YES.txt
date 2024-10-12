@@ -1,0 +1,2 @@
+{#type1#,  <You ; must have ; a privacy policy ; NULL ; informs end users about the personal data you collect and how it is used and shared ; NULL>  ,  <need a privacy policy>}
+{#type2#,  < your privacy policy  ;  must  be  ;  consistent  ;  with the terms of the Agreement and the WeChat or Weixin Privacy Policy  ;  NULL  ;  NULL>  ,  <NULL>}

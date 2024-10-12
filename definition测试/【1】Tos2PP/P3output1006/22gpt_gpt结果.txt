@@ -1,0 +1,18 @@
+Description: You must have a privacy policy that is clearly visible and legally sufficient.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <You ; must have ; a privacy policy ; clearly visible and legally sufficient ; NULL ; NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: The privacy policy must be posted on each application and service within the Publisher Network.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  The Publisher Network  ;  must post  ;  the privacy policy   ;  NULL  ;  NULL  ;  NULL>  ,  <privacy policy must be posted on each application and service>}
+========================= pause ===========================
+Description: The privacy policy must disclose the collection of Service Data by third parties like MoPub for personalized advertising.
+Type Code: Type2
+
+Processing for Type2 requirements.
+{#type2#,  < your privacy policy  ;  must disclose  ;  the collection of Service Data by third parties like MoPub  ;  for personalized advertising  ;  NULL  ;  NULL>  ,  <include a link to privacy policy>}
+========================= pause ===========================

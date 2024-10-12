@@ -1,0 +1,3 @@
+: Do not copy Dropbox login credentials such as name, email address, and password
+: Do not use Dropbox login credentials except for initial user authentication
+: Do not store Dropbox login credentials outside of the developer app

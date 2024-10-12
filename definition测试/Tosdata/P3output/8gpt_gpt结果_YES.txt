@@ -1,0 +1,3 @@
+<Description: You agree not to store personal data using Stripe apps interfaces, except as needed for your Stripe app listing.>{#type1-Q1-1#,<You  ;  agree not to store  ;  personal data  ;  using Stripe apps interfaces  ;  for your Stripe app listing  ;  except as needed>}
+<Description: You agree not to store personal health data using Stripe apps interfaces.>{#type1-Q1-1#,<You  ;  agree not to store  ;  personal health data  ;  using Stripe apps interfaces  ;  NULL  ;  NULL>}
+<Description: You agree not to store data that could infringe upon intellectual property rights using Stripe apps interfaces.>{#type1-Q1-1#,<You  ;  agree not to store  ;  data that could infringe upon intellectual property rights  ;  using Stripe apps interfaces  ;  NULL  ;  NULL>}

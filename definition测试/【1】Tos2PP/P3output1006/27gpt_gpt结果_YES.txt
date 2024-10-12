@@ -1,0 +1,4 @@
+{#type1#,  <Each party  ;  must have  ;  a privacy policy  ;  clearly visible  ;  meets the standards  ;  applicable privacy laws>  ,  <need a privacy policy>}
+{#type2#,  < privacy policy  ;  must include  ;  data sets that are collected or allowed to be collected, and the use cases related to personal data  ;  mentioning that such data will be shared with certain third parties for specific use cases  ;  NULL  ;  NULL>  ,  <NULL>}
+{#type3#, <  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  >  ,  <need to mention opt-out>  ,  <NULL> }
+{#type2#,  < privacy policy  ;  should mention  ;  the use of third parties and cookies  ;  for attribution and serving targeted advertisements  ;  NULL  ;  NULL>  ,  <include a link to privacy policy>}

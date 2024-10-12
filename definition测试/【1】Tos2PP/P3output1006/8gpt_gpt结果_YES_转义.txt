@@ -1,0 +1,5 @@
+Description: The Customer must make all necessary disclosures to their users.
+Description: The Customer must obtain all necessary consents and authorizations from their users.
+Description: These actions are required for RevenueCat to perform the Services.
+Description: The Customer must disclose RevenueCat's and Stripe's processing of personally identifiable information of users in a reasonable and industry-standard manner.
+Description: This disclosure should be included in the Customer's privacy policy.

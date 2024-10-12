@@ -1,0 +1,32 @@
+{
+    "requirements": [
+        {
+            "description": "Sentry collects data that you configure to be sent, typically errors, API calls, page loads, or similar requests and responses.",
+            "type": {
+                "code": "Type4",
+                "summary": "Data Collection Scope"
+            }
+        },
+        {
+            "description": "By default, Sentry does not collect personally identifiable information (PII), but additional context and metadata can be included if you choose to send it.",
+            "type": {
+                "code": "Type4",
+                "summary": "Personal Identifiable Information (PII)"
+            }
+        },
+        {
+            "description": "Sentry processes the data sent to it to provide application monitoring services.",
+            "type": {
+                "code": "Type4",
+                "summary": "Data Processing Purpose"
+            }
+        },
+        {
+            "description": "You must disclose in your app privacy policy all types of data collected by your app, including data sent to Sentry.",
+            "type": {
+                "code": "Type1",
+                "summary": "Disclosure to Google Play"
+            }
+        }
+    ]
+}

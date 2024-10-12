@@ -1,0 +1,8 @@
+: You must adhere to a privacy policy that complies with all applicable laws and industry standards.
+: You must comply with all applicable laws relating to the collection of information from end users.
+: Your privacy policy must be clearly and conspicuously posted within your application, in any store, and on any website where the application may be acquired.
+: Your privacy policy must inform users about the use of tracking technologies, including precise location data, and how data is collected, used, shared, and stored.
+: Your privacy policy must include a link to Flurry’s Privacy Policy and describe how users can learn more about their choices regarding Flurry’s use of User Data.
+: Your privacy policy must provide users with information on how to opt-out of targeted advertising on a device-by-device basis and include active links to Flurry’s Privacy Dashboard and other relevant opt-out resources.
+: You must obtain all necessary end-user consents required by applicable law before using the Services.
+: You must comply with all applicable laws, policies, and regulations relating to the collection, usage, and sharing of information from users.

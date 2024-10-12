@@ -1,0 +1,32 @@
+{
+    "requirements": [
+        {
+            "description": "You must ensure that the Properties have a privacy policy that is clearly labeled and easily accessible.",
+            "type": {
+                "code": "Type1",
+                "summary": "Privacy Policy Accessibility"
+            }
+        },
+        {
+            "description": "The privacy policy must provide end users with clear and comprehensive information about cookies, device-specific information, location information, and other data collected from end users' devices.",
+            "type": {
+                "code": "Type1",
+                "summary": "Data Collection Disclosure"
+            }
+        },
+        {
+            "description": "The policy should include information about how data is stored, accessed, or collected in connection with the Services.",
+            "type": {
+                "code": "Type4",
+                "summary": "Data Handling Transparency"
+            }
+        },
+        {
+            "description": "The privacy policy must inform end users about their options for managing cookies.",
+            "type": {
+                "code": "Type3",
+                "summary": "Cookie Management Options"
+            }
+        }
+    ]
+}

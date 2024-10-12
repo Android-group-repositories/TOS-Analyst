@@ -1,0 +1,5 @@
+Description: Do not pass personally identifiable information to Google unless permitted by Google Analytics policies and terms, and ensure any information is hashed using industry standards.
+Description: Maintain an appropriate Privacy Policy and comply with all relevant laws, policies, and regulations regarding the collection of user information.
+Description: Post a Privacy Policy that informs users about the use of cookies, mobile device identifiers, or similar technologies for data collection.
+Description: Clearly disclose the use of Google Analytics and how it collects and processes data, including providing a link to Google's privacy policy for partners.
+Description: Ensure users are informed and consent to the storage and access of cookies or other information on their devices in connection with the Service, where required by law.

@@ -1,0 +1,32 @@
+{
+    "requirements": [
+        {
+            "description": "Sentry收集您配置发送的数据，通常是错误、API调用、页面加载或类似的请求和响应。",
+            "type": {
+                "code": "Type4",
+                "summary": "数据收集范围"
+            }
+        },
+        {
+            "description": "默认情况下，Sentry不收集个人身份识别信息（PII），但如果您选择发送，可以包含额外的上下文和元数据。",
+            "type": {
+                "code": "Type4",
+                "summary": "个人身份识别信息（PII）"
+            }
+        },
+        {
+            "description": "Sentry处理发送给它的数据，以提供应用程序监控服务。",
+            "type": {
+                "code": "Type4",
+                "summary": "数据处理目的"
+            }
+        },
+        {
+            "description": "您必须在您的应用隐私政策中披露您的应用收集的所有类型的数据，包括发送给Sentry的数据。",
+            "type": {
+                "code": "Type1",
+                "summary": "向Google Play披露"
+            }
+        }
+    ]
+}

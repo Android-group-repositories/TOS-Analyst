@@ -1,0 +1,4 @@
+{#type1#,  <Both parties  ;  must have  ;  a privacy policy  ;  posted  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+{#type1#,  <  The privacy policy  ;  must describe  ;  the collection, use, and sharing of information  ;  NULL  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+{#type3#, <  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  >  ,  <need to mention opt-out>  ,  <NULL> }
+{#type3#, <need to mention opt-out>  ,  <NULL> }

@@ -1,0 +1,4 @@
+{#type1#,  <Developer  ;  must post  ;  a privacy notice  ;  within the Developer App  ;  meets the transparency and information requirements  ;  NULL>  ,  <need a privacy policy>}
+{#type2#,  < The notice  ;  must include  ;  information about Vungle and its Demand Partners' use of Tracking Technology to collect, use, and share Ad Data  ;  NULL  ;  NULL  ;  NULL>  ,  <NULL>}
+{#type2#,  < notice  ;  should inform  ;  users  ;  Personal Data  ;  for measurement services and targeted ads  ;  NULL>  ,  <NULL>}
+{#type3#, <  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  >  ,  <need to mention opt-out>  ,  <NULL> }

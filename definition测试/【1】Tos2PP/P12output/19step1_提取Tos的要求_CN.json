@@ -1,0 +1,39 @@
+{
+    "requirements": [
+        {
+            "description": "用户必须拥有一个明确标注且易于访问的隐私政策。",
+            "type": {
+                "code": "Type1",
+                "summary": "隐私政策的可访问性"
+            }
+        },
+        {
+            "description": "此隐私政策必须遵守所有适用的法律。",
+            "type": {
+                "code": "Type4",
+                "summary": "法律合规性"
+            }
+        },
+        {
+            "description": "隐私政策应向最终用户提供关于cookies的清晰和全面的信息。",
+            "type": {
+                "code": "Type1",
+                "summary": "Cookie信息披露"
+            }
+        },
+        {
+            "description": "政策还必须详细说明从最终用户设备中存储、访问或收集的特定设备信息、位置信息和其他数据。",
+            "type": {
+                "code": "Type1",
+                "summary": "数据收集披露"
+            }
+        },
+        {
+            "description": "应提供与服务相关的信息，包括最终用户管理cookies的选项。",
+            "type": {
+                "code": "Type1",
+                "summary": "Cookie管理选项"
+            }
+        }
+    ]
+}

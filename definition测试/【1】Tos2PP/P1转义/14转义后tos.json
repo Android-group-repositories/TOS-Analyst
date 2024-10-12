@@ -1,0 +1,42 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "You must have a privacy policy for your Application that is easily accessible and linked from the Application.",
+            "type": {
+                "summary": "Privacy Policy Accessibility"
+            }
+        },
+        {
+            "description": "Your privacy policy should incorporate by reference and link to the Snap Privacy Policy.",
+            "type": {
+                "summary": "Incorporate Snap Privacy Policy"
+            }
+        },
+        {
+            "description": "The privacy policy must clearly and accurately describe to users what user information is accessed, collected, and stored by you and your Application.",
+            "type": {
+                "summary": "Information Access, Collection, and Storage Disclosure"
+            }
+        },
+        {
+            "description": "The policy should also explain how and why you and your Application use, process, and share that information with Snap and other third parties.",
+            "type": {
+                "summary": "Usage, Processing, and Sharing Disclosure"
+            }
+        },
+        {
+            "description": "Users may provide information directly to Snap through your implementation of the Snap Developer Program.",
+            "type": {
+                "summary": "User Information Provision to Snap"
+            }
+        },
+        {
+            "description": "You must not provide Snap with any personal data unless there is a written agreement between you and Snap.",
+            "type": {
+                "summary": "Personal Data Sharing Agreement"
+            }
+        }
+    ]
+}
+```

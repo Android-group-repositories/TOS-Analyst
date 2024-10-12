@@ -1,0 +1,30 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "Display the service's privacy policy to users before they download, install, or sign up for the service.",
+            "type": {
+                "summary": "Privacy Policy Disclosure"
+            }
+        },
+        {
+            "description": "The privacy policy must include information about the data collected from users, how it is used and shared (including with X), and how users can contact the service regarding their information.",
+            "type": {
+                "summary": "Data Collection and Usage Transparency"
+            }
+        },
+        {
+            "description": "The privacy policy must comply with all applicable laws and be at least as protective of users' privacy as X’s Privacy Policy and the privacy policies of other services and corporate affiliates.",
+            "type": {
+                "summary": "Legal Compliance and Privacy Standard"
+            }
+        },
+        {
+            "description": "If unable to comply with the privacy policy requirements, the service must cease access to the X API and the use of all X Content.",
+            "type": {
+                "summary": "Compliance with Privacy Policy"
+            }
+        }
+    ]
+}
+```

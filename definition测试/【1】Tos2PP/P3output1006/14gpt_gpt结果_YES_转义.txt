@@ -1,0 +1,5 @@
+Description: You must have a privacy policy for your Application that is easily accessible and clearly linked within the Application.
+Description: Your privacy policy should reference and link to the Snap Privacy Policy.
+Description: Your privacy policy must accurately describe what user information is accessed, collected, and stored by your Application.
+Description: Your privacy policy should explain how and why your Application uses, processes, and shares user information with Snap and other third parties.
+Description: You must not provide Snap with any personal data unless there is a written agreement between you and Snap.

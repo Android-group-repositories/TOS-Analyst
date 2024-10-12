@@ -1,0 +1,9 @@
+Description: The developer must provide a full and accurate disclosure to the End Users regarding the privacy practices and policies applicable to the Application.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  The developer  ;  provides  ;  a full and accurate disclosure  ;  regarding the privacy practices and policies  ;  applicable to the Application  ;  NULL>  ,  <need to provide disclosure>}
+========================= pause ===========================
+Description: The disclosure must be in compliance with the applicable laws and the Developer Terms.
+Type Code: Type4
+========================= pause ===========================

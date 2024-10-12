@@ -1,0 +1,32 @@
+{
+    "requirements": [
+        {
+            "description": "客户必须向其用户做出所有必要的披露。",
+            "type": {
+                "code": "Type1",
+                "summary": "必要披露"
+            }
+        },
+        {
+            "description": "客户必须获得其用户对RevenueCat执行服务所必需的所有同意和授权。",
+            "type": {
+                "code": "Type1",
+                "summary": "同意和授权"
+            }
+        },
+        {
+            "description": "这包括RevenueCat和Stripe处理用户的个人身份识别信息。",
+            "type": {
+                "code": "Type2",
+                "summary": "RevenueCat和Stripe处理个人信息（第三方合作伙伴）"
+            }
+        },
+        {
+            "description": "客户必须以合理且符合行业标准的方式在其隐私政策中披露RevenueCat和Stripe处理此类信息。",
+            "type": {
+                "code": "Type2",
+                "summary": "隐私政策中披露RevenueCat和Stripe处理（第三方合作伙伴）"
+            }
+        }
+    ]
+}

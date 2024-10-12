@@ -1,0 +1,46 @@
+{
+    "requirements": [
+        {
+            "description": "Each Party must adhere to their obligations concerning End User data as outlined in the Contract and relevant privacy laws.",
+            "type": {
+                "code": "Type4",
+                "summary": "Compliance with Privacy Laws"
+            }
+        },
+        {
+            "description": "A privacy policy must be provided by each Party, which is conspicuous and complies with applicable privacy laws.",
+            "type": {
+                "code": "Type1",
+                "summary": "Privacy Policy Provision"
+            }
+        },
+        {
+            "description": "The privacy policy must include a clear description of the data sets collected or permitted to be collected, and the use cases related to personal data/information.",
+            "type": {
+                "code": "Type4",
+                "summary": "Data Collection and Use Disclosure"
+            }
+        },
+        {
+            "description": "The privacy policy must explicitly state that personal data will be shared with certain third parties for specific use cases.",
+            "type": {
+                "code": "Type2",
+                "summary": "Disclosure of Data Sharing with Third Parties"
+            }
+        },
+        {
+            "description": "If applicable, privacy laws such as CCPA, CPRA, or other US state privacy laws require providing sufficient notice about End Users' rights regarding their personal information and mechanisms for Opt Out elections.",
+            "type": {
+                "code": "Type3",
+                "summary": "Notice and Opt Out Compliance"
+            }
+        },
+        {
+            "description": "The privacy policy should mention the use of third parties and cookies for attribution and/or serving targeted advertisements.",
+            "type": {
+                "code": "Type2",
+                "summary": "Third Party and Cookie Usage Disclosure"
+            }
+        }
+    ]
+}

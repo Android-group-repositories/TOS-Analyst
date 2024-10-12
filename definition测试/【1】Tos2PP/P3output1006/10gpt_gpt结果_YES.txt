@@ -1,0 +1,2 @@
+{#type1#,  <Developers  ;  must make  ;  the privacy policies  ;  related to the service  ;  easily accessible  ;  at all times>  ,  <need a privacy policy>}
+{#type1#,  <  Privacy policies  ;  should be available for viewing  ;  by anyone  ;  including before and after a user begins using the service  ;  NULL  ;  NULL>  ,  <available for viewing by anyone>}

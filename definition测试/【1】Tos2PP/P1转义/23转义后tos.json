@@ -1,0 +1,42 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "The Publisher is solely responsible for publishing the App on applicable app stores such as Google Play or AppStore.",
+            "type": {
+                "summary": "Responsibility for App Publication"
+            }
+        },
+        {
+            "description": "The Publisher must comply with the App Store Terms, including obtaining user consent and disclosing data collection practices.",
+            "type": {
+                "summary": "Compliance with App Store Terms"
+            }
+        },
+        {
+            "description": "The Publisher must provide options for users to opt-out as required by the App Store Terms.",
+            "type": {
+                "summary": "Provision of Opt-Out Options"
+            }
+        },
+        {
+            "description": "StartApp does not guarantee that the use of the Service will comply with the App Store Terms.",
+            "type": {
+                "summary": "No Warranties by StartApp"
+            }
+        },
+        {
+            "description": "StartApp is not liable for any costs or damages incurred by the Publisher due to noncompliance with the App Store Terms.",
+            "type": {
+                "summary": "Liability Exclusion"
+            }
+        },
+        {
+            "description": "The use of the Service may necessitate additional permissions from End Users beyond what the App originally requires.",
+            "type": {
+                "summary": "Additional Permissions from End Users"
+            }
+        }
+    ]
+}
+```

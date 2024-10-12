@@ -1,0 +1,27 @@
+Description: The user must have a privacy policy that is clearly labeled and easily accessible.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  a privacy policy  ;  is labeled and accessible   ;  NULL    ;  NULL  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: This privacy policy must comply with all applicable laws.
+Type Code: Type4
+========================= pause ===========================
+Description: The privacy policy should provide end users with clear and comprehensive information about cookies.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  a privacy policy  ;  provides  ;  clear and comprehensive information  ;  about cookies  ;  NULL  ;  NULL>  ,  <should provide end users>}
+========================= pause ===========================
+Description: The policy must also detail device-specific information, location information, and other data stored, accessed, or collected from end users' devices.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  The policy  ;  detail  ;  device-specific information, location information, and other data  ;  from end users' devices  ;  NULL  ;  NULL>  ,  <need to detail device-specific information, location information, and other data>}
+========================= pause ===========================
+Description: Information should be provided in connection with the Services, including options for end users to manage cookies.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#, <Information ; should be provided ; options for end users to manage cookies ; in connection with the Services ; NULL ; NULL>, <need to provide information>}
+========================= pause ===========================

@@ -1,0 +1,2 @@
+{#type1#,  <  The Publisher  ;  must comply  ;  the App Store Terms  ;  including obtaining user consent and disclosing data collection practices  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+{#type3#, <need to mention opt-out>  ,  <NULL> }

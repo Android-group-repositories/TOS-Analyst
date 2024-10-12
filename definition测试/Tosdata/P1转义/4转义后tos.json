@@ -1,0 +1,12 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "You may not publicly display PayPal user information without the express consent of the PayPal user.",
+            "type": {
+                "summary": "Restriction on Public Display of User Information"
+            }
+        }
+    ]
+}
+```

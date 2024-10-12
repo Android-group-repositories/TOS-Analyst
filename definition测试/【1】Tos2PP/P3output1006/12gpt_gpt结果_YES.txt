@@ -1,0 +1,2 @@
+{#type1#,  <you ; must have ; a privacy policy ; publicly available and easily accessible ; NULL ; NULL>  ,  <need a privacy policy>}
+{#type1#,  <You ; must maintain ; current links to your privacy policy ; NULL ; in the App Dashboard settings and in any applicable App Store ; NULL>  ,  <need to keep privacy policy links up to date>}

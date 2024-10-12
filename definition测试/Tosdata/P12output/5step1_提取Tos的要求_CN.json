@@ -1,0 +1,11 @@
+{
+    "requirements": [
+        {
+            "description": "您不得出售、出租、出借、转让、分配或以其他方式向第三方披露PayPal用户信息。",
+            "type": {
+                "code": "Type2",
+                "summary": "禁止披露用户信息"
+            }
+        }
+    ]
+}

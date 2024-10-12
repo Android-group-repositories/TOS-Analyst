@@ -1,0 +1,4 @@
+: Both parties must have a privacy policy posted on their respective websites.
+: The privacy policy must describe the collection, use, and sharing of information.
+: The privacy policy should provide details on how End Users can opt out of interest-based advertising.
+: The opt-out information should cover online behavioral advertising and mobile cross-app advertising.

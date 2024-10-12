@@ -1,0 +1,27 @@
+Description: The Customer must make all necessary disclosures to their users.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  The Customer  ;  must make  ;  all necessary disclosures  ;  to their users  ;  NULL  ;  NULL>  ,  <NULL>}
+========================= pause ===========================
+Description: The Customer must obtain all necessary consents and authorizations from their users.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  The Customer  ;  must obtain  ;  all necessary consents and authorizations  ;  from their users  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: These actions are required for RevenueCat to perform the Services.
+Type Code: Type4
+========================= pause ===========================
+Description: The Customer must disclose RevenueCat's and Stripe's processing of personally identifiable information of users in a reasonable and industry-standard manner.
+Type Code: Type2
+
+Processing for Type2 requirements.
+{#type2#,  < The Customer  ;  must disclose  ;  RevenueCat's and Stripe's processing of personally identifiable information of users  ;  NULL  ;  NULL  ;  in a reasonable and industry-standard manner>  ,  <NULL>}
+========================= pause ===========================
+Description: This disclosure should be included in the Customer's privacy policy.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  Customer  ;  should include  ;  disclosure  ;  NULL  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+========================= pause ===========================

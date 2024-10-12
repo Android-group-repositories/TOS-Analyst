@@ -1,0 +1,7 @@
+{#type1#,  <You ; must provide ; clear and prominent notices ; NULL ; regarding the collection, disclosure, use, and security of personal data ; NULL>  ,  <need a privacy policy>}
+{#type1#,  <You ; must obtain ; necessary consent or permission ; from individuals ; for collecting their personal data ; NULL>  ,  <need a privacy policy>}
+{#type1#,  <You ; must maintain ; a privacy policy ; NULL ; complies with all applicable privacy and data protection laws and regulations ; NULL>  ,  <need a privacy policy>}
+{#type1#,  <  Your  ;  should explain  ;  the processing of Services Data  ;  as per the Terms and the Unity or ironSource Privacy Policy  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+{#type1#,  <Your  ;  must disclose  ;  the use of tracking technologies  ;  like pixels or agents  ;  collect data about end users  ;  NULL>  ,  <need a privacy policy>}
+{#type2#,  < your privacy policy  ;  should include  ;  a link to the Unity or ironSource Privacy Policy  ;  NULL  ;  NULL  ;  as applicable>  ,  <link to Unity or ironSource Privacy Policy>}
+{#type3#, <need to mention opt-out>  ,  <NULL> }

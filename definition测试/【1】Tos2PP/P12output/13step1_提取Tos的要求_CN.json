@@ -1,0 +1,18 @@
+{
+    "requirements": [
+        {
+            "description": "开发者必须向最终用户提供关于应用程序适用的隐私实践和政策的完整且准确的披露。",
+            "type": {
+                "code": "Type1",
+                "summary": "完整披露要求"
+            }
+        },
+        {
+            "description": "披露必须符合适用法律和开发者条款。",
+            "type": {
+                "code": "Type4",
+                "summary": "法律和开发者条款合规性"
+            }
+        }
+    ]
+}

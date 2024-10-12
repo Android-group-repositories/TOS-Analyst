@@ -1,0 +1,18 @@
+{
+    "requirements": [
+        {
+            "description": "发布者网络必须在每个应用和/或服务上发布一个显眼且合法充分的隐私政策。",
+            "type": {
+                "code": "Type1",
+                "summary": "隐私政策发布"
+            }
+        },
+        {
+            "description": "隐私政策必须披露第三方如MoPub为个性化广告目的收集服务数据。",
+            "type": {
+                "code": "Type2",
+                "summary": "第三方MoPub收集数据用于广告的披露"
+            }
+        }
+    ]
+}

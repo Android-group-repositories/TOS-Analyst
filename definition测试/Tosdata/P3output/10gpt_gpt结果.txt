@@ -1,0 +1,12 @@
+Description: AppsFlyer strictly prohibits the use of its services or developer tools to collect, store, upload, process, or transmit restricted data to AppsFlyer or any third party.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#,<AppsFlyer  ;  strictly prohibits  ;  the use of its services or developer tools to collect, store, upload, process, or transmit restricted data  ;  to AppsFlyer or any third party  ;  NULL  ;  NULL>}
+========================= pause ===========================
+Description: Customers are not allowed to configure the services or developer tools to enable the collection, transmission, or storage of restricted data through the services.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1-Q1-1#,<Customer  ;  not allowed to configure  ;  services or developer tools to enable the collection, transmission, or storage  ;  of restricted data through the services  ;  NULL  ;  NULL>}
+========================= pause ===========================

@@ -1,0 +1,54 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "You must adhere to a privacy policy that complies with all applicable laws and industry standards.",
+            "type": {
+                "summary": "Privacy Policy Compliance"
+            }
+        },
+        {
+            "description": "You must comply with all applicable laws relating to the collection of information from end users of your applications.",
+            "type": {
+                "summary": "Legal Compliance"
+            }
+        },
+        {
+            "description": "You must post a privacy policy clearly and conspicuously within your application, in any store, and on any website where the application may be acquired.",
+            "type": {
+                "summary": "Privacy Policy Posting"
+            }
+        },
+        {
+            "description": "The privacy policy must provide notice of the use of tracking technologies that collect, use, share, and store data, including precise location data, about end users.",
+            "type": {
+                "summary": "Notice of Data Collection"
+            }
+        },
+        {
+            "description": "The privacy policy must contain a link to Flurry’s Privacy Policy and describe how visitors may learn more about the choices offered in connection with Flurry’s use of User Data.",
+            "type": {
+                "summary": "Link to Flurry Privacy Policy"
+            }
+        },
+        {
+            "description": "The privacy policy must include advice on how users can opt-out of targeted advertising on a device-by-device basis by enabling 'Limit Ad Tracking' and provide active links to Flurry’s Privacy Dashboard and other relevant opt-out resources.",
+            "type": {
+                "summary": "Opt-Out Advice and Links"
+            }
+        },
+        {
+            "description": "You must obtain all required end-user consents before using the Services.",
+            "type": {
+                "summary": "End-User Consent"
+            }
+        },
+        {
+            "description": "You must comply with all applicable laws, policies, and regulations relating to the collection, usage, and sharing of information from users.",
+            "type": {
+                "summary": "Compliance with Data Collection Regulations"
+            }
+        }
+    ]
+}
+```

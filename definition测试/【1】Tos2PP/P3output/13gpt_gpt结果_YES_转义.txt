@@ -1,0 +1,2 @@
+: You must fully and accurately inform your End Users about the privacy practices and policies that apply to your Application.
+: The disclosure must be in compliance with applicable laws and the Developer Terms.

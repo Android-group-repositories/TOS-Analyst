@@ -1,0 +1,30 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "The Customer is responsible for the legality, accuracy, and quality of their data.",
+            "type": {
+                "summary": "Data Quality Responsibility"
+            }
+        },
+        {
+            "description": "The Customer must ensure that their collection, submission, processing, storage, and transmission of data using Amplitude Services complies with all applicable laws and regulations.",
+            "type": {
+                "summary": "Legal Compliance"
+            }
+        },
+        {
+            "description": "The Customer must also ensure compliance with any privacy policies, agreements, or other obligations they have with their end users.",
+            "type": {
+                "summary": "Privacy Policy and Agreement Compliance"
+            }
+        },
+        {
+            "description": "This includes obtaining all legally required consents and permissions from end users.",
+            "type": {
+                "summary": "Consent and Permissions"
+            }
+        }
+    ]
+}
+```

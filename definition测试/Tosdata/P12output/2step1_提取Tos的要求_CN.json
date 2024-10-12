@@ -1,0 +1,18 @@
+{
+    "requirements": [
+        {
+            "description": "Mixpanel不会出售、出租、出借或以其他方式分享客户内容以换取对价。",
+            "type": {
+                "code": "Type2",
+                "summary": "不商业性分享客户内容"
+            }
+        },
+        {
+            "description": "Mixpanel仅在特定情况下会分享客户内容。",
+            "type": {
+                "code": "Type2",
+                "summary": "有限分享客户内容"
+            }
+        }
+    ]
+}

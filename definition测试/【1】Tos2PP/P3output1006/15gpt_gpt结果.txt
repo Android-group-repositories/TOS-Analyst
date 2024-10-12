@@ -1,0 +1,24 @@
+Description: Your privacy policy must explain how you and third parties, like Tapjoy, use, collect, and share mobile device advertising identifiers and other personal data.
+Type Code: Type2
+
+Processing for Type2 requirements.
+{#type2#,  < your privacy policy  ;  must explain  ;  how you and third parties, like Tapjoy, use, collect, and share  ;  mobile device advertising identifiers and other personal data  ;  NULL  ;  NULL>  ,  <NULL>}
+========================= pause ===========================
+Description: Your privacy policy must cover the use of personal information for behaviorally targeted online advertising.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  Your  ;  must cover  ;  the use of personal information  ;  for behaviorally targeted online advertising  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+========================= pause ===========================
+Description: Your privacy policy must include an opt-out link for users to opt-out of online behavioral advertising.
+Type Code: Type3
+
+Processing for Type3 requirements.
+{#type3#, <  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  >  ,  <need to mention opt-out>  ,  <need link to guide how to opt-out> }
+========================= pause ===========================
+Description: Your privacy policy must provide California users with the ability to opt-out of the sale of their personal information.
+Type Code: Type3
+
+Processing for Type3 requirements.
+{#type3#, <  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  >  ,  <need to mention opt-out>  ,  <NULL> }
+========================= pause ===========================

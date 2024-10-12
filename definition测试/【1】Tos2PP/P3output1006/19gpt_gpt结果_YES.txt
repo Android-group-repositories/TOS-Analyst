@@ -1,0 +1,2 @@
+{#type1#,  <You ; must have ; a privacy policy ; clearly labeled and easily accessible ; NULL ; NULL>  ,  <need a privacy policy>}
+{#type3#, <need to mention opt-out>  ,  <NULL> }
