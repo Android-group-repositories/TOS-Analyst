@@ -1,31 +1,38 @@
 {
     "requirements": [
         {
-            "description": "针对儿童的服务/应用程序的客户必须遵守美国儿童在线隐私保护法案（COPPA）。",
+            "description": "面向儿童的服务/应用程序的客户需遵守COPPA。",
             "type": {
-                "code": "Type1",
-                "summary": "针对儿童的服务需遵守COPPA"
+                "code": "Type3",
+                "summary": "遵守儿童在线隐私保护法"
             }
         },
         {
-            "description": "不允许客户与Adjust合作伙伴或其他第三方共享个人标识符，如IP地址、IDFA、IDFV、Android ID、Google Play广告ID、Google Play商店推荐人、Windows硬件ID、Windows网络ID、Windows电话设备ID和UUID。",
+            "description": "客户不得与Adjust的合作伙伴或其他第三方共享个人标识符。",
             "type": {
                 "code": "Type2",
                 "summary": "禁止与第三方共享个人标识符"
             }
         },
         {
-            "description": "上述标识符被视为在服务中收集的数据。",
+            "description": "个人标识符包括IP地址、IDFA、IDFV、Android ID、Google Play广告ID、Google Play商店推荐人、Windows硬件ID、Windows网络ID、Windows电话设备ID和UUID。",
             "type": {
                 "code": "Type1",
-                "summary": "服务中的数据收集包括个人标识符"
+                "summary": "个人标识符的定义"
             }
         },
         {
-            "description": "有关COPPA对针对儿童的服务的定义及规则要求的更多信息，请参考提供的链接。",
+            "description": "这些标识符可能是在服务中收集的数据。",
+            "type": {
+                "code": "Type1",
+                "summary": "服务内的数据收集"
+            }
+        },
+        {
+            "description": "有关COPPA对面向儿童的服务的定义和要求的更多信息，请参见提供的链接。",
             "type": {
                 "code": "Type3",
-                "summary": "详细信息和要求请参考COPPA"
+                "summary": "COPPA要求的额外信息"
             }
         }
     ]

@@ -1,21 +1,28 @@
 {
     "requirements": [
         {
-            "description": "Partner must use the Services in accordance with the Agreement and Services Documentation.",
+            "description": "Partner will use the Services in accordance with this Agreement and the Services Documentation.",
             "type": {
                 "code": "Type4",
                 "summary": "Compliance with Agreement"
             }
         },
         {
-            "description": "Partner must comply with all Applicable Rules, including data protection and privacy laws.",
+            "description": "Partner must comply with all Applicable Rules, including data protection and privacy laws and rules.",
             "type": {
                 "code": "Type4",
                 "summary": "Legal and Regulatory Compliance"
             }
         },
         {
-            "description": "Partner must post a privacy policy in their App that adheres to all applicable rules, laws, acts, and regulations.",
+            "description": "Partner will handle End Users' data in a manner consistent with the rules applicable to data being accessed, collected, used, and/or shared.",
+            "type": {
+                "code": "Type4",
+                "summary": "Data Handling Compliance"
+            }
+        },
+        {
+            "description": "Partner must post a privacy policy in their App that complies with all applicable rules, laws, acts, and regulations.",
             "type": {
                 "code": "Type1",
                 "summary": "Privacy Policy Posting"
@@ -39,7 +46,7 @@
             "description": "Partner confirms having read and understood the IronSource Mobile Privacy Policy and that it does not conflict with Partner's privacy policy.",
             "type": {
                 "code": "Type4",
-                "summary": "Understanding and Non-Contradiction of Privacy Policy"
+                "summary": "Understanding and Non-Contradiction of Privacy Policies"
             }
         }
     ]
@@ -48,35 +55,42 @@
 {
     "requirements": [
         {
-            "description": "合作伙伴必须按照协议和服务文档使用服务。",
+            "description": "合作伙伴将根据本协议和服务文档使用服务。",
             "type": {
                 "code": "Type4",
                 "summary": "遵守协议"
             }
         },
         {
-            "description": "合作伙伴必须遵守所有适用的规则，包括数据保护和隐私法律。",
+            "description": "合作伙伴必须遵守所有适用规则，包括数据保护和隐私法律法规。",
             "type": {
                 "code": "Type4",
                 "summary": "法律和法规遵从性"
             }
         },
         {
-            "description": "合作伙伴必须在其应用程序中发布一个遵守所有适用规则、法律、法案和法规的隐私政策。",
+            "description": "合作伙伴将按照适用于被访问、收集、使用和/或共享的数据的规则处理最终用户的数据。",
+            "type": {
+                "code": "Type4",
+                "summary": "数据处理遵从性"
+            }
+        },
+        {
+            "description": "合作伙伴必须在其应用程序中发布符合所有适用规则、法律、法案和法规的隐私政策。",
             "type": {
                 "code": "Type1",
                 "summary": "隐私政策发布"
             }
         },
         {
-            "description": "隐私政策必须向最终用户披露将提供给ironSource或ironSource可以访问的任何信息，这些信息与服务有关，如IronSource移动隐私政策中详细说明的。",
+            "description": "隐私政策必须向最终用户披露将提供给ironSource或ironSource可以访问的任何信息，具体内容详见IronSource移动隐私政策。",
             "type": {
                 "code": "Type2",
-                "summary": "披露与ironSource（第三方合作伙伴）共享数据"
+                "summary": "披露与ironSource（第三方合作伙伴）共享的数据"
             }
         },
         {
-            "description": "如果适用，隐私政策必须包括一个机制，允许最终用户选择退出基于其行为和兴趣的定向广告。",
+            "description": "如适用，隐私政策必须包括最终用户选择退出基于其行为和兴趣的定向广告的机制。",
             "type": {
                 "code": "Type3",
                 "summary": "定向广告的退出机制"

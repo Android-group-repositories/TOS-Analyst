@@ -8,10 +8,10 @@
             }
         },
         {
-            "description": "未经Startapp事先书面同意，不得处理、传输或共享与服务生成的或与服务相关的任何数据，或违反Startapp最终用户隐私政策。",
+            "description": "未经StartApp事先书面同意，不得处理、传输或共享任何数据，或违反StartApp最终用户隐私政策。",
             "type": {
                 "code": "Type2",
-                "summary": "数据处理同意和隐私政策合规"
+                "summary": "数据处理同意"
             }
         },
         {
@@ -22,17 +22,17 @@
             }
         },
         {
-            "description": "不得声称发布者库存被Startapp认证或以其他方式背书。",
+            "description": "不得表示发布者库存由StartApp认证或背书。",
             "type": {
                 "code": "Type3",
-                "summary": "禁止虚假背书声明"
+                "summary": "不得误表示背书"
             }
         },
         {
-            "description": "未经Startapp事先书面同意，不得使用Startapp的品牌、商标、服务标记或服务标记。",
+            "description": "未经StartApp事先书面同意，不得使用StartApp的品牌、商标或服务标记。",
             "type": {
                 "code": "Type3",
-                "summary": "品牌和知识产权合规"
+                "summary": "品牌和商标使用同意"
             }
         }
     ]

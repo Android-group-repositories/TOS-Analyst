@@ -1,17 +1,17 @@
 {
     "requirements": [
         {
-            "description": "隐私通知或隐私政策必须对商业用户可访问。",
+            "description": "确保Stripe应用程序的隐私通知或隐私政策对商业用户易于获取。",
             "type": {
                 "code": "Type1",
                 "summary": "隐私政策的可访问性"
             }
         },
         {
-            "description": "隐私通知或隐私政策应通过Stripe应用市场中Stripe应用列表中的链接提供。",
+            "description": "在Stripe应用程序在Stripe应用市场列表中包含指向隐私通知或隐私政策的链接。",
             "type": {
                 "code": "Type1",
-                "summary": "市场内隐私政策的链接"
+                "summary": "市场列表中的隐私政策链接"
             }
         }
     ]

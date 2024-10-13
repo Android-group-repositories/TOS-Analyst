@@ -1,21 +1,18 @@
 Description: Your application or service must collect, store, process, or use end user data in compliance with the specified requirements.
-Type Code: Type1
-
-Processing for Type1 requirements.
-{#type1#,  <Your application or service ; collects, stores, processes, uses ; end user data ; NULL ; NULL ; in compliance with the specified requirements>  ,  <need to comply with requirements>}
+Type Code: Type4
 ========================= pause ===========================
 Description: You must have a privacy policy that clearly informs end users about the personal data collected and how it is used and shared, including for advertising purposes, with WeChat or Weixin and other third parties.
 Type Code: Type2
 
 Processing for Type2 requirements.
-{#type2#,  < your privacy policy  ;  must inform  ;  personal data collected and how it is used and shared  ;  with WeChat or Weixin and other third parties  ;  for advertising purposes  ;  NULL>  ,  <need to provide a link>  ,  <Third party is: WeChat or Weixin and other third parties>}
+{#type2#,  < you  ;  must have  ;  a privacy policy  ;  NULL  ;  to clearly inform end users about the personal data collected and how it is used and shared  ;  including for advertising purposes, with WeChat or Weixin and other third parties>  ,  <NO link>  ,  <Third party is: WeChat or Weixin and other third parties>}
 ========================= pause ===========================
 Description: The privacy policy must comply with and be consistent with the terms and requirements of the Agreement and the WeChat or Weixin Privacy Policy.
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <  The privacy policy  ;  comply with and be consistent with  ;  the terms and requirements of the Agreement and the WeChat or Weixin Privacy Policy  ;  NULL  ;  NULL  ; NULL>  ,  <need to comply with and be consistent>}
+{#type1#,  <  The privacy policy  ;   comply with and be consistent with   ;    the terms and requirements of the Agreement and the WeChat or Weixin Privacy Policy  ;  NULL  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
 ========================= pause ===========================
-Description: You must obtain express consent from users before processing their personal data.
+Description: You must obtain users' express consent before processing their personal data.
 Type Code: Type4
 ========================= pause ===========================

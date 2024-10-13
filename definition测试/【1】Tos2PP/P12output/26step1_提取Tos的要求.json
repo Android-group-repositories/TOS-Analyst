@@ -1,31 +1,17 @@
 {
     "requirements": [
         {
-            "description": "You must provide your own Terms of Service, Privacy Policy, and support information when submitting your App to the Zoom Marketplace.",
+            "description": "You must provide your own terms of service, privacy policy, and support information when submitting your App to the Zoom Marketplace.",
             "type": {
                 "code": "Type1",
                 "summary": "Submission Requirements"
             }
         },
         {
-            "description": "Your Terms of Service must govern the use of your App and outline the rights and obligations between the user and your company.",
+            "description": "These terms, collectively referred to as 'Your Terms', are what govern the use of your App by users.",
             "type": {
                 "code": "Type4",
-                "summary": "Terms of Service"
-            }
-        },
-        {
-            "description": "Your Privacy Policy must explain how you collect, use, protect, and share users' personal information.",
-            "type": {
-                "code": "Type1",
-                "summary": "Privacy Policy"
-            }
-        },
-        {
-            "description": "Support information should be provided to assist users with any issues or inquiries related to your App.",
-            "type": {
-                "code": "Type4",
-                "summary": "Support Information"
+                "summary": "Governance of App Use"
             }
         }
     ]

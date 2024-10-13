@@ -1,18 +1,18 @@
 Description: It shall not use the services in breach of this agreement.
 Type Code: Type3
 ========================= pause ===========================
-Description: It shall not process, transfer or share any data generated from or in connection with the services without the prior written consent of Startapp or in violation of Startapp end user privacy policy.
+Description: It shall not process, transfer or share any data without prior written consent of StartApp or in violation of StartApp end user privacy policy.
 Type Code: Type2
 
 Processing for Type2 requirements.
-{#type2-Q1-1,#  <It  ;  shall not process, transfer or share  ;  any data generated from or in connection with the services  ;  NULL  ;  to comply with Startapp end user privacy policy  ;  without the prior written consent of Startapp>,  <Third party is: Startapp>}
+{#type2-Q1-1,#  <It  ;  shall not process, transfer or share  ;  any data  ;  NULL  ;  NULL  ;  without prior written consent of StartApp or in violation of StartApp end user privacy policy>  ,  <Third party is: StartApp>}
 ========================= pause ===========================
 Description: It shall not use the services for any illegal, immoral or unauthorized purpose.
 Type Code: Type3
 ========================= pause ===========================
-Description: It shall not represent that publisher inventory is certified or otherwise endorsed by Startapp.
+Description: It shall not represent that publisher inventory is certified or endorsed by StartApp.
 Type Code: Type3
 ========================= pause ===========================
-Description: It shall not use Startapp’s brand, tradenames, trademarks or service marks without prior written consent of Startapp.
+Description: It shall not use StartApp’s brand, trademarks, or service marks without prior written consent of StartApp.
 Type Code: Type3
 ========================= pause ===========================

@@ -1,1 +1,1 @@
-: Only access, store, transfer, and process user data in accordance with users' instructions and the developer app's configuration settings.
+: Only access, store, transfer, and process user data as directed by the user, including through a developer app's configuration settings.

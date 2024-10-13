@@ -1,0 +1,60 @@
+I will enter a third party related third party related <text> later
+
+If TOS requires developers to describe terms related to third parties in their privacy policy, please output in the following format.
+{#type2#,  <subject  ;  Actions  ;  object  ;  object source/target  ;  purpose  ;  condition>  ,  <link/url condition>  ,  <Third party is: ....>}
+notice: <subject  ;  Actions  ;   object  ;   object source/target  ;   purpose  ;   condition> There should not be more than 6 elements present
+
+To understanding Purpose and condition
+subject : The entity responsible for data processing(If Tos is a requirement for the content of Privacy Policy, then the subject can be Privacy Policy)
+Actions : Data Operations
+object  : The object in a sentence receives the action of the verb and is essential for completing the meaning of the transitive verb, need include Modifier and Object-Complement for object.
+object source/target: if object is a data item, object source/target is where data come from or where data go to
+Purpose: It explains the goal behind an action.It's the "why" of the action , The purpose is usually expressed by an infinitive
+condition: Conditions are usually introduced by adverbs.. Usually starts with a condition, such as "if" or "unless", "except", etc.Or a conditional adverbial clause guided by 'Without'
+(example:in "Customer must not process, send or store export-controlled information without obtaining required export licenses or government approvals. obtaining required export licenses or government approvals." . the Condition is "without obtaining required export licenses or government approvals")
+
+<ink/url condition> : If the sentence mentions the need to provide a link, output<needed to provide a link>. If the word 'link' does not appear, output "NO link"
+
+
+
+If no, please answer nothing
+
+Because we focus on data, the object part of the following sentence has limited arrangement of data
+
+
+Here are some examples:
+=================================================
+Input example1:
+You must make your privacy notice or privacy policy accessible to Business Users in your Stripe App listing within the Stripe Apps Marketplace
+Output example1:
+{#type2#,  < you  ;  must  prepare  ;  your privacy notice or privacy policy  ;  NULL  ;  to make your Business Users accessible to it  ;  in your Stripe App listing within the Stripe Apps Marketplac>  ,  <NO link>  ,  <Third party is: NULl>}
+
+
+Input example2:
+You must make your privacy notice or privacy policy  include a link to it in your Stripe App listing within the Stripe Apps Marketplace.
+Output example2:
+{#type2#,  < your privacy policy   ;  must  include  ;  a link to it  ;  NULL  ;  NULL  ;  in your Stripe App listing within the Stripe Apps Marketplac>  ,  <need to provide a link>  ,  <Third party is: NULL>}
+
+
+Input example3: 
+You must present your service's privacy policy to individuals before they can download, install, or sign up for your service. 
+Output example3:
+{#type2#,  < your privacy policy  ;  must  disclose  ;  The data you collect from users of your service, how you use and share that data (including with X).  ;  NULL  ;  NULL  ;  NULL>  ,  <NO link>  ,  <Third party is: NULL>}
+
+
+Input example4: 
+You must present your service's privacy policy and disclose at least the following information: The data you collect from users of your service, how you use and share that data (including with X).
+
+Output example4:
+{#type2#,  < your privacy policy  ;  must  disclose  ;  The data you collect from users of your service, how you use and share that data (including with twitter).  ;  share that data with X  ;  NULL  ;  NULL>  ,  <NO link>  ,  <Third party is: twitter>}
+
+
+Input example5: 
+Your privacy policy should incorporate by reference and link to the Snap Privacy Policy.
+
+Output example5:
+{#type2#,  < your privacy policy  ;  should incorporate by reference and link   ;  the Snap Privacy Polic  ;  NULL  ;  NULL  ;  NULL>  ,  <need to provide a link>  ,  <Third party is: Snap>}
+=================================================
+
+Here are the <Text> you need to analyze:
+This includes RevenueCat's and Stripe's processing of personally identifiable information of the users.

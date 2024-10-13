@@ -8,9 +8,9 @@
             }
         },
         {
-            "description": "It shall not process, transfer or share any data generated from or in connection with the services without the prior written consent of Startapp or in violation of Startapp end user privacy policy.",
+            "description": "It shall not process, transfer or share any data without prior written consent of StartApp or in violation of StartApp end user privacy policy.",
             "type": {
-                "summary": "Data Handling Consent and Privacy Policy Compliance"
+                "summary": "Data Handling Consent"
             }
         },
         {
@@ -20,15 +20,15 @@
             }
         },
         {
-            "description": "It shall not represent that publisher inventory is certified or otherwise endorsed by Startapp.",
+            "description": "It shall not represent that publisher inventory is certified or endorsed by StartApp.",
             "type": {
-                "summary": "Prohibition of Misrepresentation of Endorsement"
+                "summary": "No Misrepresentation of Endorsement"
             }
         },
         {
-            "description": "It shall not use Startapp’s brand, tradenames, trademarks or service marks without prior written consent of Startapp.",
+            "description": "It shall not use StartApp’s brand, trademarks, or service marks without prior written consent of StartApp.",
             "type": {
-                "summary": "Branding and Intellectual Property Rights Compliance"
+                "summary": "Branding and Trademark Usage Consent"
             }
         }
     ]

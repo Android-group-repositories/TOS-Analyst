@@ -1,45 +1,38 @@
 {
     "requirements": [
         {
-            "description": "您的应用程序必须有隐私政策，并且该政策易于访问，从应用程序中可以链接到。",
+            "description": "您必须为应用程序提供隐私政策，该政策易于访问，并从应用程序中链接。",
             "type": {
                 "code": "Type1",
-                "summary": "隐私政策的可访问性"
+                "summary": "隐私政策可访问性"
             }
         },
         {
-            "description": "您的隐私政策应通过引用并链接到Snap隐私政策。",
+            "description": "隐私政策必须通过引用并链接到Snap隐私政策。",
             "type": {
                 "code": "Type2",
-                "summary": "整合Snap隐私政策"
+                "summary": "纳入Snap隐私政策"
             }
         },
         {
-            "description": "隐私政策必须清晰准确地向用户描述您的应用程序访问、收集和存储了哪些用户信息。",
+            "description": "隐私政策应清晰准确地向用户描述应用程序访问、收集和存储了哪些用户信息。",
             "type": {
-                "code": "Type1",
-                "summary": "信息访问、收集和存储的披露"
+                "code": "Type4",
+                "summary": "信息访问、收集和存储披露"
             }
         },
         {
-            "description": "该政策还应解释您和您的应用程序如何以及为何使用、处理并与Snap及其他第三方共享这些信息。",
+            "description": "隐私政策必须解释应用程序如何以及为何使用、处理并与Snap及其他第三方共享用户信息。",
             "type": {
                 "code": "Type2",
-                "summary": "与Snap（第三方合作伙伴）使用、处理和共享信息的披露"
+                "summary": "与Snap（第三方合作伙伴）使用、处理和共享披露"
             }
         },
         {
-            "description": "用户可以通过您对Snap开发者计划的实现直接向Snap提供信息。",
+            "description": "虽然用户可以直接向Snap提供信息，但除非双方书面同意，您不得向Snap提供任何个人数据。",
             "type": {
                 "code": "Type4",
-                "summary": "向Snap提供用户信息"
-            }
-        },
-        {
-            "description": "除非您和Snap之间有书面协议，否则您不得向Snap提供任何个人数据。",
-            "type": {
-                "code": "Type4",
-                "summary": "个人数据共享协议"
+                "summary": "个人数据提供限制"
             }
         }
     ]

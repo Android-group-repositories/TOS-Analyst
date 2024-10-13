@@ -1,24 +1,24 @@
 {
     "requirements": [
         {
-            "description": "开发者不得以任何未经协议明确允许的方式使用Vungle SDK、Vungle平台或通过这些服务获得的任何数据。",
+            "description": "开发者被禁止使用Vungle SDK、Vungle平台或通过这些方式收集的任何数据，除非协议中明确允许。",
             "type": {
                 "code": "Type1",
-                "summary": "Vungle服务和数据的有限使用"
+                "summary": "Vungle SDK和平台的有限使用"
             }
         },
         {
-            "description": "开发者不得允许第三方使用Vungle SDK、Vungle平台或通过这些服务访问的任何数据，除非协议中有允许。",
+            "description": "开发者同样被禁止允许第三方使用Vungle SDK、Vungle平台或通过这些工具访问的任何数据，超出协议中允许的范围。",
             "type": {
                 "code": "Type2",
                 "summary": "禁止第三方超出协议范围使用"
             }
         },
         {
-            "description": "开发者不得使用Vungle SDK或平台重新识别个别最终用户。",
+            "description": "协议明确禁止使用Vungle SDK或平台重新识别个别最终用户。",
             "type": {
                 "code": "Type1",
-                "summary": "禁止重新识别最终用户"
+                "summary": "禁止重新识别用户"
             }
         }
     ]

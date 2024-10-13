@@ -2,7 +2,7 @@ Description: Developer must post a privacy notice within the Developer App that 
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <Developer  ;  post  ;  a privacy notice  ;  within the Developer App  ;  meets the transparency and information requirements  ;  of the Privacy Requirements and the Agreement>  ,  <need a privacy notice>}
+{#type1#,  <  Developer  ;  post  ;  a privacy notice  ;  within the Developer App  ;  meets the transparency and information requirements of the Privacy Requirements and the Agreement  ;  NULL>  ,  <need a privacy policy>}
 ========================= pause ===========================
 Description: If notice cannot be provided in or around Vungle Ads, Developer should provide notice within the Developer App or on the landing page of the Vungle Ad.
 Type Code: Type4
@@ -11,19 +11,19 @@ Description: The notice must include information about Vungle and its Demand Par
 Type Code: Type2
 
 Processing for Type2 requirements.
-{#type2#, <The notice ; must include ; information about Vungle and its Demand Partner's use of Tracking Technology to collect, use, and share Ad Data ; NULL ; to inform users about data collection, use, and sharing ; NULL>, <need to provide a link>, <Third party is: Vungle and its Demand Partner>}
+{#type2#,  < The notice  ;  must include  ;  information about Vungle and its Demand Partner's use of Tracking Technology to collect, use, and share Ad Data  ;  NULL  ;  NULL  ;  NULL>  ,  <NO link>  ,  <Third party is: Vungle and its Demand Partner>}
 ========================= pause ===========================
-Description: The notice must state that third parties may collect or receive Personal Data and use it for measurement services and targeted ads.
+Description: The notice must disclose that third parties may collect or receive Personal Data and use it for measurement services and targeted ads.
 Type Code: Type2
 
 Processing for Type2 requirements.
-{#type2#,  < The notice  ;  must state  ;  that third parties may collect or receive Personal Data and use it for measurement services and targeted ads  ;  NULL  ;  NULL  ;  NULL>  ,  <NO link>  ,  <Third party is: third parties>}
+{#type2#,  < The notice  ;  must disclose  ;  that third parties may collect or receive Personal Data and use it  ;  for measurement services and targeted ads  ;  NULL  ;  NULL>  ,  <NO link>  ,  <Third party is: NULL>}
 ========================= pause ===========================
 Description: A conspicuous link or description for users to opt-out of collection and use of information for ad targeting must be provided.
 Type Code: Type3
 
 Processing for Type3 requirements.
-{#type3#,<  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  >  ,  <need to mention opt-out>  ,  <need link to guide how to opt-out> }
+{#type3-Q1#, <NULL; NULL; NULL; NULL; NULL; NULL>, <need to mention opt-out>, <need link to guide how to opt-out>}
 ========================= pause ===========================
 Description: The notice must describe the types of Ad Data collected, including Personal Data, and how and for what purposes the Ad Data will be used or transferred to third parties.
 Type Code: Type4

@@ -2,15 +2,15 @@ Description: You are responsible for notifying your users about the data collect
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <you  ;  notifying  ;  users  ;  data collection and disclosure practices  ;  associated with the use of our Services  ;  NULL  ;  NULL>  ,  <need to notify users>}
+{#type1#,  <  you  ;  notifying  ;  your users  ;  about the data collection and disclosure practices associated with the use of our Services  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
 ========================= pause ===========================
 Description: You must obtain user consent for the data collection and use practices related to our Services.
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <  Privacy Policy  ;  obtain user consent  ;  data collection and use practices  ;  related to our Services  ;  NULL  ;  NULL>  ,  <need to obtain user consent>}
+{#type1#,  <  You  ;  obtain  ;  user consent  ;  for the data collection and use practices related to our Services  ;  NULL  ;  NULL>  ,  <NULL>}
 ========================= pause ===========================
-Description: This includes obtaining consent for rewarding users for engagement with Campaign Content in incentivized campaigns and for behaviorally targeted online advertising.
+Description: This includes obtaining consent for rewarding users for their engagement with Campaign Content in incentivized campaigns and for behaviorally targeted online advertising.
 Type Code: Type3
 
 Processing for Type3 requirements.

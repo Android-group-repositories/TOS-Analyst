@@ -2,19 +2,19 @@ Description: If End Users provide You with, or You gather or access End User Inf
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <You  ;  inform  ;  certain information will be available to You  ;  End Users  ;  NULL  ;  If End Users provide You with, or You gather or access End User Information>  ,  <need to inform End Users>}
+{#type1#,  <  You  ;  inform  ;  certain information will be available to You  ;  End Users  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
 ========================= pause ===========================
-Description: You must provide a legally adequate privacy notice to End Users regarding the End User Information that will be available to You.
+Description: You must provide a legally adequate privacy notice to End Users regarding the End User Information.
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <  a legally adequate privacy notice  ;  regarding  ;  End User Information    ;  available to You  ;  NULL  ; NULL>  ,  <need a legally adequate privacy notice>}
+{#type1#,  <  a legally adequate privacy notice  ;  provide  ;  End User Information  ;  to End Users  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
 ========================= pause ===========================
 Description: You must obtain the End User’s permission to gather and use End User Information.
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <  You  ;  obtain  ;  permission  ;  to gather and use End User Information  ;  from End User  ;  NULL  ;  NULL>  ,  <need permission>}
+{#type1#,  <  You  ;  obtain  ;  End User's permission  ;  NULL  ;  to gather and use End User Information  ;  NULL>  ,  <NULL>}
 ========================= pause ===========================
 Description: You must ensure the protection of such End User Information.
 Type Code: Type4

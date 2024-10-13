@@ -1,18 +1,18 @@
-Description: Do not copy Dropbox login credentials such as name, email address, and password
+Description: Do not copy, use, or store any Dropbox login credentials such as name, email address, and password
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1-Q1-1#,<You  ;  Do not copy  ;  Dropbox login credentials such as name, email address, and password  ;  NULL  ;  NULL  ;  NULL>}
+{#type1-Q1-1#,<You  ;  not copy, use, or store  ;  Dropbox login credentials such as name, email address, and password  ;  NULL  ;  NULL  ;  NULL>}
 ========================= pause ===========================
-Description: Do not use Dropbox login credentials except for initial user authentication
+Description: The use of Dropbox login credentials is only allowed in connection with the initial user authentication
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1-Q1-1#,<You  ;  Do not use  ;  Dropbox login credentials  ;  for initial user authentication  ;  NULL  ;  except for initial user authentication>}
+{#type1-Q1-1#,<Dropbox login credentials  ;  are only allowed  ;  in connection with the initial user authentication  ;  NULL  ;  NULL  ;  NULL>}
 ========================= pause ===========================
-Description: Do not store Dropbox login credentials outside of the developer app
+Description: The handling of Dropbox login credentials is restricted to within the developer's app only
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1-Q1-1#,<You  ;  Do not store  ;  Dropbox login credentials  ;  outside of the developer app  ;  NULL  ;  NULL>}
+{#type1-Q1-1#,<developer  ;  handling  ;  Dropbox login credentials  ;  within the developer's app  ;  NULL  ;  NULL>}
 ========================= pause ===========================

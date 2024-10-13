@@ -1,10 +1,10 @@
 {
     "requirements": [
         {
-            "description": "Developers are required to make privacy policies related to the Relevant Service easily accessible at all times, including before and after a user begins to use the service.",
+            "description": "Developers must ensure that privacy policies related to the Relevant Service are easily accessible at all times, including before and after a user begins to use the service.",
             "type": {
                 "code": "Type1",
-                "summary": "Privacy Policy Accessibility"
+                "summary": "Accessibility of Privacy Policies"
             }
         }
     ]

@@ -1,24 +1,24 @@
 {
     "requirements": [
         {
-            "description": "Do not copy Dropbox login credentials such as name, email address, and password",
+            "description": "Do not copy, use, or store any Dropbox login credentials such as name, email address, and password",
             "type": {
                 "code": "Type1",
-                "summary": "Prohibition on copying user login credentials"
+                "summary": "Prohibition on unauthorized use of user credentials"
             }
         },
         {
-            "description": "Do not use Dropbox login credentials except for initial user authentication",
+            "description": "The use of Dropbox login credentials is only allowed in connection with the initial user authentication",
             "type": {
                 "code": "Type1",
-                "summary": "Limited use of user login credentials"
+                "summary": "Limited use of user credentials for authentication"
             }
         },
         {
-            "description": "Do not store Dropbox login credentials outside of the developer app",
+            "description": "The handling of Dropbox login credentials is restricted to within the developer's app only",
             "type": {
                 "code": "Type1",
-                "summary": "Storage restriction of user login credentials"
+                "summary": "Scope limitation for handling user credentials"
             }
         }
     ]

@@ -1,20 +1,25 @@
-```json
 {
     "requirements": [
         {
-            "description": "Partner must use the Services in accordance with the Agreement and Services Documentation.",
+            "description": "Partner will use the Services in accordance with this Agreement and the Services Documentation.",
             "type": {
                 "summary": "Compliance with Agreement"
             }
         },
         {
-            "description": "Partner must comply with all Applicable Rules, including data protection and privacy laws.",
+            "description": "Partner must comply with all Applicable Rules, including data protection and privacy laws and rules.",
             "type": {
                 "summary": "Legal and Regulatory Compliance"
             }
         },
         {
-            "description": "Partner must post a privacy policy in their App that adheres to all applicable rules, laws, acts, and regulations.",
+            "description": "Partner will handle End Users' data in a manner consistent with the rules applicable to data being accessed, collected, used, and/or shared.",
+            "type": {
+                "summary": "Data Handling Compliance"
+            }
+        },
+        {
+            "description": "Partner must post a privacy policy in their App that complies with all applicable rules, laws, acts, and regulations.",
             "type": {
                 "summary": "Privacy Policy Posting"
             }
@@ -34,9 +39,8 @@
         {
             "description": "Partner confirms having read and understood the IronSource Mobile Privacy Policy and that it does not conflict with Partner's privacy policy.",
             "type": {
-                "summary": "Understanding and Non-Contradiction of Privacy Policy"
+                "summary": "Understanding and Non-Contradiction of Privacy Policies"
             }
         }
     ]
 }
-```

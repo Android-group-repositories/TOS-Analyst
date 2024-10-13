@@ -1,24 +1,24 @@
 {
     "requirements": [
         {
-            "description": "你同意不使用Stripe应用界面存储个人数据，除非是为了你的Stripe应用列表所必需的。",
+            "description": "你同意不通过Stripe应用界面存储个人数据，除非是为了你的Stripe应用列表所必需的。",
             "type": {
                 "code": "Type1",
                 "summary": "限制存储个人数据"
             }
         },
         {
-            "description": "你同意不使用Stripe应用界面存储个人健康数据。",
+            "description": "你同意不通过Stripe应用界面存储个人健康数据。",
             "type": {
                 "code": "Type1",
                 "summary": "禁止存储个人健康数据"
             }
         },
         {
-            "description": "你同意不使用Stripe应用界面存储可能侵犯知识产权的数据。",
+            "description": "你同意不通过Stripe应用界面存储可能侵犯知识产权的数据。",
             "type": {
                 "code": "Type1",
-                "summary": "禁止存储侵犯知识产权的数据"
+                "summary": "禁止存储侵权数据"
             }
         }
     ]

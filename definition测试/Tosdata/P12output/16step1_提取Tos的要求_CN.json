@@ -1,7 +1,7 @@
 {
     "requirements": [
         {
-            "description": "您不得使用任何来自Zoom的数据或其他用户在网站或服务中的数据用于广告目的或定向广告。",
+            "description": "您不得将任何Zoom数据或来自网站或服务的其他用户数据用于广告目的或用于定位广告。",
             "type": {
                 "code": "Type2",
                 "summary": "禁止使用用户数据进行广告宣传"

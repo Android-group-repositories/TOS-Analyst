@@ -2,13 +2,13 @@ Description: The privacy policy must explain the use, collection, and sharing of
 Type Code: Type2
 
 Processing for Type2 requirements.
-{#type2#,  < the privacy policy  ;  must explain  ;  the use, collection, and sharing of mobile device advertising identifiers and other personal information  ;  by the company and its third-party service providers, vendors, or partners  ;  to inform users about data handling practices  ;  NULL>  ,  <need to provide a link>  ,  <Third party is: Tapjoy>}
+{#type2#,  < The privacy policy  ;  must explain  ;  the use, collection, and sharing of mobile device advertising identifiers and other personal information  ;  by the company and its third-party service providers, vendors, or partners  ;  such as Tapjoy  ;  NULL>  ,  <NO link>  ,  <Third party is: Tapjoy>}
 ========================= pause ===========================
 Description: The privacy policy must cover the use of personal information for behaviorally targeted online advertising.
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <  a privacy policy  ;  cover  ;  the use of personal information  ;  for behaviorally targeted online advertising  ;  NULL  ;  NULL>  ,  <must cover the use of personal information for behaviorally targeted online advertising>}
+{#type1#,  <  a privacy policy  ;  cover  ;  the use of personal information  ;  for behaviorally targeted online advertising  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
 ========================= pause ===========================
 Description: The privacy policy must include an opt-out link that directs users to an industry-recognized platform for opting out of online behavioral advertising.
 Type Code: Type3

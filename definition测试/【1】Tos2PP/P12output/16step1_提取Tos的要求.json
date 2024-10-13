@@ -15,7 +15,7 @@
             }
         },
         {
-            "description": "This includes obtaining consent for rewarding users for engagement with Campaign Content in incentivized campaigns and for behaviorally targeted online advertising.",
+            "description": "This includes obtaining consent for rewarding users for their engagement with Campaign Content in incentivized campaigns and for behaviorally targeted online advertising.",
             "type": {
                 "code": "Type3",
                 "summary": "Consent for Specific Uses"

@@ -1,31 +1,38 @@
 {
     "requirements": [
         {
-            "description": "Sentry collects data that you configure to be sent, typically errors, API calls, page loads, or similar requests and responses.",
+            "description": "Sentry collects data configured by the user, typically errors, API calls, page loads, or similar requests and responses.",
             "type": {
                 "code": "Type4",
                 "summary": "Data Collection Scope"
             }
         },
         {
-            "description": "By default, Sentry does not collect personally identifiable information (PII), but additional context and metadata can be included if you choose to send it.",
+            "description": "By default, Sentry does not collect personally identifiable information (PII), but additional context and metadata can be included at the user's discretion.",
             "type": {
                 "code": "Type4",
-                "summary": "Personal Identifiable Information (PII)"
+                "summary": "Default Data Collection"
             }
         },
         {
-            "description": "Sentry processes the data sent to it to provide application monitoring services.",
+            "description": "Users have the option to include PII such as usernames, email addresses, or attach files like logs or crash reports to the data sent to Sentry.",
+            "type": {
+                "code": "Type4",
+                "summary": "Optional Inclusion of PII"
+            }
+        },
+        {
+            "description": "Sentry processes the collected data to provide application monitoring services.",
             "type": {
                 "code": "Type4",
                 "summary": "Data Processing Purpose"
             }
         },
         {
-            "description": "You must disclose in your app privacy policy all types of data collected by your app, including data sent to Sentry.",
+            "description": "Users must disclose all data collection practices in their app's privacy policy, including the data sent to Sentry.",
             "type": {
                 "code": "Type1",
-                "summary": "Disclosure to Google Play"
+                "summary": "Disclosure Requirement"
             }
         }
     ]

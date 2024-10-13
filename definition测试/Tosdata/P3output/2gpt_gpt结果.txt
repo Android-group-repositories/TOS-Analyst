@@ -2,7 +2,7 @@ Description: Mixpanel does not sell, lease, rent, or otherwise share customer co
 Type Code: Type2
 
 Processing for Type2 requirements.
-{#type2-Q1-1,#  <Mixpanel  ;  does not sell, lease, rent, or otherwise share  ;  customer content  ;  NULL  ;  for consideration  ;  NULL>  ,  <Third party is: NULL>}
+{#type2-Q1-1,#  <Mixpanel  ;  does not sell, lease, rent, or otherwise share  ;  customer content for consideration  ;  NULL  ;  NULL  ;  NULL>  ,  <Third party is: NULL>}
 ========================= pause ===========================
 Description: Mixpanel will share customer content only under specific circumstances.
 Type Code: Type2

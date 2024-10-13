@@ -1,2 +1,2 @@
-<Description: Mixpanel does not sell, lease, rent, or otherwise share customer content for consideration.>{#type2-Q1-1,#  <Mixpanel  ;  does not sell, lease, rent, or otherwise share  ;  customer content  ;  NULL  ;  for consideration  ;  NULL>  ,  <Third party is: NULL>}
+<Description: Mixpanel does not sell, lease, rent, or otherwise share customer content for consideration.>{#type2-Q1-1,#  <Mixpanel  ;  does not sell, lease, rent, or otherwise share  ;  customer content for consideration  ;  NULL  ;  NULL  ;  NULL>  ,  <Third party is: NULL>}
 <Description: Mixpanel will share customer content only under specific circumstances.>{#type2-Q1-1,#  <Mixpanel  ;  will share  ;  customer content  ;  under specific circumstances  ;  NULL  ;  NULL>  ,  <Third party is: NULL>}

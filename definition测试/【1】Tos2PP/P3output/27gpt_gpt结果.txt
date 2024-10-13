@@ -1,30 +1,27 @@
-Description: Each Party must adhere to their obligations concerning End User data as outlined in the Contract and relevant privacy laws.
+Description: Each Party must adhere to their obligations concerning End User data as outlined in this Contract and relevant privacy laws.
 Type Code: Type4
 ========================= pause ===========================
-Description: A privacy policy must be provided by each Party, which is conspicuous and complies with applicable privacy laws.
+Description: Each Party is required to have a privacy policy that is compliant with applicable privacy laws and is prominently displayed.
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <a privacy policy  ;  complies  ;  applicable privacy laws    ;  NULL  ;  NULL  ; NULL>  ,  <must be provided by each Party>}
+{#type1#,  <  Each Party  ;  have  ;  a privacy policy  ;  NULL  ;  compliant with applicable privacy laws  ;  prominently displayed>  ,  <need a privacy policy>}
 ========================= pause ===========================
-Description: The privacy policy must include a clear description of the data sets collected or permitted to be collected, and the use cases related to personal data/information.
-Type Code: Type4
-========================= pause ===========================
-Description: The privacy policy must explicitly state that personal data will be shared with certain third parties for specific use cases.
+Description: The privacy policy must include a clear description of the data sets collected or allowed to be collected, and the use cases related to personal data, including mentioning that such data will be shared with certain third parties for specific use cases.
 Type Code: Type2
 
 Processing for Type2 requirements.
-{#type2#,  <privacy policy  ;  must explicitly state  ;  personal data will be shared with certain third parties for specific use cases  ;  certain third parties  ;  for specific use cases  ;  NULL>  ,  <need to provide a link>  ,  <Third party is: certain third parties>}
+{#type2#,  <privacy policy  ;  must include  ;  a clear description of the data sets collected or allowed to be collected, and the use cases related to personal data  ;  mentioning that such data will be shared with certain third parties for specific use cases  ;  NULL  ;  NULL>  ,  <NO link>  ,  <Third party is: certain third parties>}
 ========================= pause ===========================
-Description: If applicable, privacy laws such as CCPA, CPRA, or other US state privacy laws require providing sufficient notice about End Users' rights regarding their personal information and mechanisms for Opt Out elections.
+Description: Privacy laws such as CCPA, CPRA, and other relevant US state privacy laws may require providing sufficient notice about End Users' rights to their personal information and mechanisms for opting out of data usage.
 Type Code: Type3
 
 Processing for Type3 requirements.
-{#type3-Q1#, <  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  >  ,  <need to mention opt-out>  ,  <NULL> }
+{#type3-Q1#, <NULL; NULL; NULL; NULL; NULL; NULL>, <need to mention opt-out>, <need link to guide how to opt-out>}
 ========================= pause ===========================
-Description: The privacy policy should mention the use of third parties and cookies for attribution and/or serving targeted advertisements.
+Description: The privacy policy should also disclose the use of third parties and cookies for attribution purposes and/or serving targeted advertisements.
 Type Code: Type2
 
 Processing for Type2 requirements.
-{#type2#,  < privacy policy  ;  should mention  ;  the use of third parties and cookies  ;  for attribution and/or serving targeted advertisements  ;  NULL  ;  NULL>  ,  <need to provide a link>  ,  <Third party is: third parties>}
+{#type1#,  <The privacy policy  ;  should disclose  ;  the use of third parties and cookies  ;  for attribution purposes and/or serving targeted advertisements  ;  NULL  ;  NULL>  ,  <NO link>  ,  <Third party is: NULL>}
 ========================= pause ===========================

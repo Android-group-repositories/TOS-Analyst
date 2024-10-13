@@ -1,6 +1,6 @@
-Description: Developers are required to make privacy policies related to the Relevant Service easily accessible at all times, including before and after a user begins to use the service.
+Description: Developers must ensure that privacy policies related to the Relevant Service are easily accessible at all times, including before and after a user begins to use the service.
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <Developers  ;  make privacy policies  ;  easily accessible  ;  before and after a user begins to use the service  ;  NULL  ;  NULL>  ,  <Developers are required to make privacy policies related to the Relevant Service easily accessible at all times>}
+{#type1#,  <Developers ; ensure ; privacy policies related to the Relevant Service ; easily accessible at all times, including before and after a user begins to use the service ; NULL ; NULL>  ,  <need a privacy policy>}
 ========================= pause ===========================

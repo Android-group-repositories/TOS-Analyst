@@ -1,17 +1,17 @@
 {
     "requirements": [
         {
-            "description": "客户及其用户不得使用Amplitude服务以违反适用法律、法规、隐私政策或与最终用户的协议的方式来处理客户数据。",
+            "description": "客户及其用户不得使用Amplitude服务提交、处理、存储或传输违反适用法律、法规、隐私政策或与最终用户协议的客户数据。",
             "type": {
                 "code": "Type1",
                 "summary": "遵守法律和监管标准"
             }
         },
         {
-            "description": "客户及其用户不得允许任何第三方以违反上述标准的方式间接使用Amplitude服务。",
+            "description": "客户及其用户不得允许第三方以违反任何适用法律、法规、隐私政策或与最终用户协议的方式间接使用Amplitude服务。",
             "type": {
                 "code": "Type2",
-                "summary": "禁止第三方间接违规"
+                "summary": "禁止通过第三方间接违规"
             }
         }
     ]

@@ -1,21 +1,21 @@
-Description: If using the Platform to process Platform Data, a privacy policy must be provided and must be publicly available and easily accessible.
+Description: If using the Platform to process Platform Data, a privacy policy must be provided and made publicly available and easily accessible.
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <a privacy policy ; must be provided and made available ; Platform Data ; using the Platform ; NULL ; NULL>  ,  <must be publicly available and easily accessible>}
+{#type1#,  <  a privacy policy  ;  must be provided and made  ;  publicly available and easily accessible  ;  NULL  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
 ========================= pause ===========================
-Description: The privacy policy must comply with applicable laws and regulations and must accurately and clearly explain the data being processed, the processing methods, the purposes of processing, and how users can request data deletion.
+Description: The privacy policy must comply with applicable laws and regulations, and must accurately and clearly explain the data being processed, the processing methods, the purposes of processing, and how users can request data deletion.
 Type Code: Type4
 ========================= pause ===========================
-Description: Publicly available links to the privacy policies must be maintained in the privacy policy field in the App Dashboard settings and in any applicable App Store.
+Description: Publicly available links to the privacy policy must be maintained in the privacy policy field in the App Dashboard settings and in any applicable App Store.
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <  Publicly available links  ;  must be maintained  ;  privacy policies  ;  in the privacy policy field in the App Dashboard settings and in any applicable App Store  ;  NULL  ;  NULL>  ,  <need to maintain publicly available links>}
+{#type1#,  <  Publicly available links  ;  must be maintained  ;  the privacy policy  ;  in the privacy policy field in the App Dashboard settings and in any applicable App Store  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
 ========================= pause ===========================
-Description: Ensure that the links to privacy policies remain current and up to date.
+Description: Ensure that the links to the privacy policy remain current and up to date.
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <  privacy policies  ;  remain  ;  current and up to date    ;  NULL  ;  NULL  ; NULL>  ,  <links to privacy policies need to be current and up to date>}
+{#type1#,  <  The privacy policy  ;    Ensure    ;    links to the privacy policy remain current and up to date    ;  NULL  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
 ========================= pause ===========================

@@ -4,7 +4,7 @@
             "description": "开发者必须确保用户数据的处理符合隐私政策。",
             "type": {
                 "code": "Type1",
-                "summary": "数据合规性"
+                "summary": "遵守隐私政策"
             }
         },
         {
@@ -18,14 +18,14 @@
             "description": "隐私政策必须清晰准确地描述开发者收集了哪些用户信息。",
             "type": {
                 "code": "Type1",
-                "summary": "数据收集的清晰说明"
+                "summary": "数据收集的清晰描述"
             }
         },
         {
             "description": "隐私政策还必须描述开发者如何使用和共享收集到的用户信息。",
             "type": {
                 "code": "Type1",
-                "summary": "使用和共享披露"
+                "summary": "数据使用和共享的透明度"
             }
         }
     ]

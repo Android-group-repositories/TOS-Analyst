@@ -4,14 +4,14 @@
             "description": "If End Users provide You with, or You gather or access End User Information, You must inform the End Users that certain information will be available to You.",
             "type": {
                 "code": "Type1",
-                "summary": "Notification of Data Collection"
+                "summary": "Notification of Information Availability"
             }
         },
         {
-            "description": "You must provide a legally adequate privacy notice to End Users regarding the End User Information that will be available to You.",
+            "description": "You must provide a legally adequate privacy notice to End Users regarding the End User Information.",
             "type": {
                 "code": "Type1",
-                "summary": "Privacy Notice Requirement"
+                "summary": "Provision of Privacy Notice"
             }
         },
         {
@@ -25,7 +25,7 @@
             "description": "You must ensure the protection of such End User Information.",
             "type": {
                 "code": "Type4",
-                "summary": "Data Protection"
+                "summary": "Protection of End User Information"
             }
         }
     ]

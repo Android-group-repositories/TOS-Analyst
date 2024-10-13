@@ -1,45 +1,31 @@
 {
     "requirements": [
         {
-            "description": "The Publisher is solely responsible for publishing the App on applicable app stores such as Google Play or AppStore.",
+            "description": "The Publisher is solely responsible for publishing the App on applicable app stores and ensuring compliance with the App Store Terms.",
             "type": {
                 "code": "Type4",
-                "summary": "Responsibility for App Publication"
+                "summary": "Responsibility for App Store Compliance"
             }
         },
         {
-            "description": "The Publisher must comply with the App Store Terms, including obtaining user consent and disclosing data collection practices.",
-            "type": {
-                "code": "Type1",
-                "summary": "Compliance with App Store Terms"
-            }
-        },
-        {
-            "description": "The Publisher must provide options for users to opt-out as required by the App Store Terms.",
+            "description": "The Publisher must comply with the App Store Terms, including obtaining user consent, disclosing data collection practices, and providing options to opt-out.",
             "type": {
                 "code": "Type3",
-                "summary": "Provision of Opt-Out Options"
+                "summary": "Compliance with App Store Requirements"
             }
         },
         {
-            "description": "StartApp does not guarantee that the use of the Service will comply with the App Store Terms.",
+            "description": "StartApp does not guarantee that the use of the Service will comply with the App Store Terms and is not liable for any costs or damages resulting from noncompliance.",
             "type": {
                 "code": "Type4",
-                "summary": "No Warranties by StartApp"
+                "summary": "No Warranties or Liability for App Store Compliance"
             }
         },
         {
-            "description": "StartApp is not liable for any costs or damages incurred by the Publisher due to noncompliance with the App Store Terms.",
+            "description": "Using the Service may require additional permissions from End Users beyond what the App originally requires.",
             "type": {
                 "code": "Type4",
-                "summary": "Liability Exclusion"
-            }
-        },
-        {
-            "description": "The use of the Service may necessitate additional permissions from End Users beyond what the App originally requires.",
-            "type": {
-                "code": "Type4",
-                "summary": "Additional Permissions from End Users"
+                "summary": "Additional User Permissions May Be Needed"
             }
         }
     ]

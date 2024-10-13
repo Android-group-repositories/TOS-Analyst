@@ -1,45 +1,38 @@
 {
     "requirements": [
         {
-            "description": "You must have a privacy policy for your Application that is easily accessible and linked from the Application.",
+            "description": "You must provide a privacy policy for your Application that is easily accessible and linked from the Application.",
             "type": {
                 "code": "Type1",
                 "summary": "Privacy Policy Accessibility"
             }
         },
         {
-            "description": "Your privacy policy should incorporate by reference and link to the Snap Privacy Policy.",
+            "description": "The privacy policy must incorporate by reference and link to the Snap Privacy Policy.",
             "type": {
                 "code": "Type2",
                 "summary": "Incorporate Snap Privacy Policy"
             }
         },
         {
-            "description": "The privacy policy must clearly and accurately describe to users what user information is accessed, collected, and stored by you and your Application.",
+            "description": "The privacy policy should clearly and accurately describe to users what user information is accessed, collected, and stored by your Application.",
             "type": {
-                "code": "Type1",
+                "code": "Type4",
                 "summary": "Information Access, Collection, and Storage Disclosure"
             }
         },
         {
-            "description": "The policy should also explain how and why you and your Application use, process, and share that information with Snap and other third parties.",
+            "description": "The privacy policy must explain how and why the Application uses, processes, and shares user information with Snap and other third parties.",
             "type": {
                 "code": "Type2",
-                "summary": "Usage, Processing, and Sharing Disclosure with Snap(Third-party partners)"
+                "summary": "Use, Processing, and Sharing Disclosure with Snap(Third-party partners)"
             }
         },
         {
-            "description": "Users may provide information directly to Snap through your implementation of the Snap Developer Program.",
+            "description": "While users may provide information directly to Snap, you must not provide Snap with any personal data unless agreed to in writing by both parties.",
             "type": {
                 "code": "Type4",
-                "summary": "User Information Provision to Snap"
-            }
-        },
-        {
-            "description": "You must not provide Snap with any personal data unless there is a written agreement between you and Snap.",
-            "type": {
-                "code": "Type4",
-                "summary": "Personal Data Sharing Agreement"
+                "summary": "Personal Data Provision Limitation"
             }
         }
     ]

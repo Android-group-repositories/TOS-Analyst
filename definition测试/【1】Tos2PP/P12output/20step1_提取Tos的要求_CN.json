@@ -8,21 +8,21 @@
             }
         },
         {
-            "description": "隐私政策必须向最终用户提供关于cookies、设备特定信息、位置信息以及从最终用户设备收集的其他数据的清晰和全面的信息。",
+            "description": "隐私政策必须向最终用户提供关于从他们的设备上收集的cookies、设备特定信息、位置信息以及其他数据的清晰和全面的信息。",
             "type": {
-                "code": "Type1",
+                "code": "Type4",
                 "summary": "数据收集披露"
             }
         },
         {
-            "description": "该政策应包括与服务相关的数据存储、访问或收集方式的信息。",
+            "description": "隐私政策应包括有关如何存储、访问或从最终用户设备上收集与服务相关的数据的信息。",
             "type": {
                 "code": "Type4",
-                "summary": "数据处理透明度"
+                "summary": "数据存储和访问披露"
             }
         },
         {
-            "description": "隐私政策必须告知最终用户管理cookies的选项。",
+            "description": "隐私政策必须通知最终用户他们管理cookies的选项。",
             "type": {
                 "code": "Type3",
                 "summary": "Cookie管理选项"

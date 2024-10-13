@@ -1,3 +1,3 @@
-: Do not copy Dropbox login credentials such as name, email address, and password
-: Do not use Dropbox login credentials except for initial user authentication
-: Do not store Dropbox login credentials outside of the developer app
+: Do not copy, use, or store any Dropbox login credentials such as name, email address, and password
+: The use of Dropbox login credentials is only allowed in connection with the initial user authentication
+: The handling of Dropbox login credentials is restricted to within the developer's app only

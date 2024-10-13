@@ -1,14 +1,11 @@
-Description: Each party is required to have a privacy policy posted on their website.
+Description: Each party is required to maintain a privacy policy on their website.
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <Each party  ;  have  ;  a privacy policy  ;  on their website  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+{#type1#,  <Each party  ;  maintain  ;  a privacy policy  ;  on their website  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
 ========================= pause ===========================
 Description: The privacy policy must describe the collection, use, and sharing of information.
-Type Code: Type1
-
-Processing for Type1 requirements.
-{#type1#,  <  a privacy policy  ;  describe  ;  the collection, use, and sharing of information  ;  NULL  ;  NULL  ; NULL>  ,  <need a privacy policy>}
+Type Code: Type4
 ========================= pause ===========================
 Description: The privacy policy must provide details on how End Users can opt out of interest-based advertising, such as online behavioral or mobile cross-app advertising.
 Type Code: Type3

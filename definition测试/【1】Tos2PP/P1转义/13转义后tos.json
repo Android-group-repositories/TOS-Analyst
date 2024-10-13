@@ -2,13 +2,13 @@
 {
     "requirements": [
         {
-            "description": "The developer must provide a full and accurate disclosure to the End Users regarding the privacy practices and policies applicable to the Application.",
+            "description": "The developer must provide a full and accurate disclosure to their End Users regarding the privacy practices and policies applicable to the Application.",
             "type": {
                 "summary": "Full Disclosure Requirement"
             }
         },
         {
-            "description": "The disclosure must be in compliance with the applicable laws and the Developer Terms.",
+            "description": "The disclosure must be in compliance with applicable laws and the Developer Terms.",
             "type": {
                 "summary": "Legal and Developer Terms Compliance"
             }

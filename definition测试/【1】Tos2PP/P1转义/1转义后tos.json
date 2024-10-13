@@ -4,25 +4,25 @@
         {
             "description": "The Customer is responsible for the legality, accuracy, and quality of their data.",
             "type": {
-                "summary": "Data Quality Responsibility"
+                "summary": "Data Quality and Legality"
             }
         },
         {
-            "description": "The Customer must ensure that their collection, submission, processing, storage, and transmission of data using Amplitude Services complies with all applicable laws and regulations.",
+            "description": "The Customer must ensure that their collection, submission, processing, storage, and transmission of data using Amplitude Services comply with all applicable laws and regulations.",
             "type": {
-                "summary": "Legal Compliance"
+                "summary": "Compliance with Laws and Regulations"
             }
         },
         {
             "description": "The Customer must also ensure compliance with any privacy policies, agreements, or other obligations they have with their end users.",
             "type": {
-                "summary": "Privacy Policy and Agreement Compliance"
+                "summary": "Compliance with Privacy Policies and Agreements"
             }
         },
         {
-            "description": "This includes obtaining all legally required consents and permissions from end users.",
+            "description": "This includes obtaining all legally required consents and permissions.",
             "type": {
-                "summary": "Consent and Permissions"
+                "summary": "Obtaining Necessary Consents and Permissions"
             }
         }
     ]

@@ -1,45 +1,38 @@
 {
     "requirements": [
         {
-            "description": "Each Party must adhere to their obligations concerning End User data as outlined in the Contract and relevant privacy laws.",
+            "description": "Each Party must adhere to their obligations concerning End User data as outlined in this Contract and relevant privacy laws.",
             "type": {
                 "code": "Type4",
                 "summary": "Compliance with Privacy Laws"
             }
         },
         {
-            "description": "A privacy policy must be provided by each Party, which is conspicuous and complies with applicable privacy laws.",
+            "description": "Each Party is required to have a privacy policy that is compliant with applicable privacy laws and is prominently displayed.",
             "type": {
                 "code": "Type1",
-                "summary": "Privacy Policy Provision"
+                "summary": "Prominent Privacy Policy"
             }
         },
         {
-            "description": "The privacy policy must include a clear description of the data sets collected or permitted to be collected, and the use cases related to personal data/information.",
-            "type": {
-                "code": "Type4",
-                "summary": "Data Collection and Use Disclosure"
-            }
-        },
-        {
-            "description": "The privacy policy must explicitly state that personal data will be shared with certain third parties for specific use cases.",
+            "description": "The privacy policy must include a clear description of the data sets collected or allowed to be collected, and the use cases related to personal data, including mentioning that such data will be shared with certain third parties for specific use cases.",
             "type": {
                 "code": "Type2",
-                "summary": "Disclosure of Data Sharing with Third Parties"
+                "summary": "Data Collection and Sharing Disclosure"
             }
         },
         {
-            "description": "If applicable, privacy laws such as CCPA, CPRA, or other US state privacy laws require providing sufficient notice about End Users' rights regarding their personal information and mechanisms for Opt Out elections.",
+            "description": "Privacy laws such as CCPA, CPRA, and other relevant US state privacy laws may require providing sufficient notice about End Users' rights to their personal information and mechanisms for opting out of data usage.",
             "type": {
                 "code": "Type3",
-                "summary": "Notice and Opt Out Compliance"
+                "summary": "Notice and Opt-Out Compliance"
             }
         },
         {
-            "description": "The privacy policy should mention the use of third parties and cookies for attribution and/or serving targeted advertisements.",
+            "description": "The privacy policy should also disclose the use of third parties and cookies for attribution purposes and/or serving targeted advertisements.",
             "type": {
                 "code": "Type2",
-                "summary": "Third Party and Cookie Usage Disclosure"
+                "summary": "Disclosure of Third-Party Use and Cookie Usage"
             }
         }
     ]

@@ -1,3 +1,3 @@
-: No sensitive personal information should be used with the service, except as permitted under section 4.5 for protected health information.
-: The service is not intended to meet legal obligations such as HIPAA requirements, and Sentry is not considered a business associate under HIPAA, except as detailed in a Business Associate Agreement (BAA).
-: Sentry has no liability for sensitive personal information, except for protected health information (PHI) submitted in accordance with section 4.5.
+: No sensitive personal information should be used with the service, except as permitted under section 4.5 (Protected Health Information).
+: The service is not intended to meet legal obligations, including HIPAA requirements, and Sentry is not a business associate under HIPAA, unless specified in a BAA.
+: Sentry has no liability for sensitive personal information, except for PHI submitted in accordance with section 4.5 (Protected Health Information).

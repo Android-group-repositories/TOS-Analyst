@@ -5,17 +5,17 @@ Description: Licensee is responsible for obtaining necessary consents to allow O
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <Licensee  ;  obtaining  ;  necessary consents  ;  to allow OneSignal to collect information  ;  from End Users' devices or browsers  ;  NULL  ;  NULL>  ,  <need to obtain necessary consents>}
+{#type1#,  <  Licensee  ;  obtaining necessary consents  ;  allow OneSignal to collect information  ;  from End Users' devices or browsers  ;  NULL  ;  NULL>  ,  <NULL>}
 ========================= pause ===========================
 Description: Licensee must publish privacy policies and disclosures for the Properties that are in compliance with applicable laws and the terms of this EULA.
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <Licensee  ;  publish  ;  privacy policies and disclosures  ;  for the Properties  ;  in compliance with applicable laws and the terms of this EULA  ;  NULL>  ,  <need to publish privacy policies and disclosures>}
+{#type1#,  <  Licensee  ;  publish  ;  privacy policies and disclosures  ;  for the Properties  ;  in compliance with applicable laws and the terms of this EULA  ;  NULL>  ,  <need a privacy policy>}
 ========================= pause ===========================
-Description: The privacy policies must clearly disclose that SDK Information will be collected and explain how it will be used, as detailed in Section 5 of the EULA.
+Description: The privacy policies must clearly disclose the collection of SDK Information and its intended use, as detailed in Section 5 of the EULA.
 Type Code: Type2
 
 Processing for Type2 requirements.
-{#type2#, <The privacy policies ; must clearly disclose ; that SDK Information will be collected and explain how it will be used ; NULL ; to comply with Section 5 of the EULA ; NULL>, <need to provide a link>, <Third party is: NULL>}
+{#type1#, <The privacy policies ; must disclose ; the collection of SDK Information and its intended use ; NULL ; as detailed in Section 5 of the EULA ; NULL>, <NO link>, <Third party is: NULL>}
 ========================= pause ===========================

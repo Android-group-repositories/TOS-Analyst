@@ -2,27 +2,33 @@
 {
     "requirements": [
         {
-            "description": "Customers with services/apps directed to children must comply with the US Children’s Online Privacy Protection Act (COPPA).",
+            "description": "Customers with services/apps directed to children are subject to COPPA.",
             "type": {
-                "summary": "Compliance with COPPA for services directed to children"
+                "summary": "Compliance with Children's Online Privacy Protection Act"
             }
         },
         {
-            "description": "Customers are not allowed to share personal identifiers such as IP addresses, IDFA, IDFV, Android ID, Google Play Advertising ID, Google Play Store Referrer, Windows Hardware ID, Windows NetworkID, Windows Phone Device ID, and UUIDs with Adjust partners or other third parties.",
+            "description": "Customers are not allowed to share personal identifiers with partners of Adjust or other third parties.",
             "type": {
                 "summary": "Prohibition on sharing personal identifiers with third parties"
             }
         },
         {
-            "description": "The mentioned identifiers are considered data collected within the services.",
+            "description": "Personal identifiers include IP addresses, IDFA, IDFV, Android ID, Google Play Advertising ID, Google Play Store Referrer, Windows Hardware ID, Windows NetworkID, Windows Phone Device ID, and UUIDs.",
             "type": {
-                "summary": "Data collection within services includes personal identifiers"
+                "summary": "Definition of personal identifiers"
             }
         },
         {
-            "description": "For more information on COPPA's definition of services directed to children and the rule's requirements, refer to the provided link.",
+            "description": "These identifiers are potentially data collected within the services.",
             "type": {
-                "summary": "Refer to COPPA for detailed definitions and requirements"
+                "summary": "Data collection within services"
+            }
+        },
+        {
+            "description": "For more information on COPPA's definition of services directed to children and requirements, see the provided link.",
+            "type": {
+                "summary": "Additional information on COPPA requirements"
             }
         }
     ]

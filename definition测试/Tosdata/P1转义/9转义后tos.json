@@ -2,21 +2,21 @@
 {
     "requirements": [
         {
-            "description": "Developers are prohibited from using the Vungle SDK, Vungle Platform, or any data obtained through these services in any way not explicitly allowed by the agreement.",
+            "description": "Developers are prohibited from using the Vungle SDK, Vungle Platform, or any data collected through these means, except as explicitly allowed in the agreement.",
             "type": {
-                "summary": "Limited Use of Vungle Services and Data"
+                "summary": "Limited Use of Vungle SDK and Platform"
             }
         },
         {
-            "description": "Developers must not permit third parties to use the Vungle SDK, Vungle Platform, or any data accessed through these services except as permitted in the agreement.",
+            "description": "Developers are also prohibited from allowing third parties to use the Vungle SDK, Vungle Platform, or any data accessed via these tools, beyond what is permitted in the agreement.",
             "type": {
                 "summary": "Prohibition on Third-Party Use Beyond Agreement Scope"
             }
         },
         {
-            "description": "Developers are not allowed to use the Vungle SDK or Platform to re-identify individual end users.",
+            "description": "The agreement explicitly forbids the use of the Vungle SDK or Platform to re-identify individual end users.",
             "type": {
-                "summary": "Prohibition on Re-identification of End Users"
+                "summary": "Prohibition on Re-identification of Users"
             }
         }
     ]

@@ -1,3 +1,4 @@
+```json
 {
     "requirements": [
         {
@@ -9,32 +10,33 @@
         {
             "description": "The Mixpanel Privacy Statement is available at https://mixpanel.com/legal/privacy-policy/.",
             "type": {
-                "summary": "Privacy Statement Access"
+                "summary": "Privacy Statement Accessibility"
             }
         },
         {
-            "description": "The Mixpanel Privacy Statement does not cover information Mixpanel processes on behalf of the Customer for Application Services.",
+            "description": "The Mixpanel Privacy Statement does not cover information Mixpanel processes on behalf of the Customer in providing the Application Services.",
             "type": {
                 "summary": "Scope of Privacy Statement"
             }
         },
         {
-            "description": "It is the Customer's responsibility to provide their own privacy statement or notice to their End Users.",
+            "description": "It is the Customer's obligation to provide their own privacy statement or notice to their End Users.",
             "type": {
-                "summary": "Customer's Privacy Disclosure"
+                "summary": "Customer's Privacy Disclosure Responsibility"
             }
         },
         {
-            "description": "The Customer must provide all required disclosures and obtain all necessary consents from their employees and/or agents.",
+            "description": "The Customer must provide all required disclosures to and obtain all required consents from their employees and/or agents.",
             "type": {
-                "summary": "Customer's Consent Management"
+                "summary": "Customer's Consent and Disclosure Responsibility"
             }
         },
         {
-            "description": "Mixpanel may collect registration and other information about the Customer as Mixpanel's customer through Mixpanel Sites.",
+            "description": "Mixpanel may collect registration and other information about the Customer as Mixpanel’s customer through Mixpanel Sites.",
             "type": {
-                "summary": "Data Collection by Mixpanel"
+                "summary": "Customer Information Collection"
             }
         }
     ]
 }
+```

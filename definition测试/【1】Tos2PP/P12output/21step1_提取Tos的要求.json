@@ -22,7 +22,7 @@
             }
         },
         {
-            "description": "The notice must state that third parties may collect or receive Personal Data and use it for measurement services and targeted ads.",
+            "description": "The notice must disclose that third parties may collect or receive Personal Data and use it for measurement services and targeted ads.",
             "type": {
                 "code": "Type2",
                 "summary": "Third Party Data Collection Disclosure"

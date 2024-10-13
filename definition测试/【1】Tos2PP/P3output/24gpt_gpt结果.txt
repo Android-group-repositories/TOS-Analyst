@@ -1,15 +1,18 @@
-Description: Sentry collects data that you configure to be sent, typically errors, API calls, page loads, or similar requests and responses.
+Description: Sentry collects data configured by the user, typically errors, API calls, page loads, or similar requests and responses.
 Type Code: Type4
 ========================= pause ===========================
-Description: By default, Sentry does not collect personally identifiable information (PII), but additional context and metadata can be included if you choose to send it.
+Description: By default, Sentry does not collect personally identifiable information (PII), but additional context and metadata can be included at the user's discretion.
 Type Code: Type4
 ========================= pause ===========================
-Description: Sentry processes the data sent to it to provide application monitoring services.
+Description: Users have the option to include PII such as usernames, email addresses, or attach files like logs or crash reports to the data sent to Sentry.
 Type Code: Type4
 ========================= pause ===========================
-Description: You must disclose in your app privacy policy all types of data collected by your app, including data sent to Sentry.
+Description: Sentry processes the collected data to provide application monitoring services.
+Type Code: Type4
+========================= pause ===========================
+Description: Users must disclose all data collection practices in their app's privacy policy, including the data sent to Sentry.
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <  your app privacy policy  ;  disclose  ;  all types of data collected by your app  ;  including data sent to Sentry  ;  NULL  ;  NULL>  ,  <need to disclose all types of data>}
+{#type1#,  <  Users  ;  disclose  ;  all data collection practices  ;  in their app's privacy policy  ;  including the data sent to Sentry  ;  NULL>  ,  <need a privacy policy>}
 ========================= pause ===========================

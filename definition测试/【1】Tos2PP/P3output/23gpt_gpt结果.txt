@@ -1,24 +1,15 @@
-Description: The Publisher is solely responsible for publishing the App on applicable app stores such as Google Play or AppStore.
+Description: The Publisher is solely responsible for publishing the App on applicable app stores and ensuring compliance with the App Store Terms.
 Type Code: Type4
 ========================= pause ===========================
-Description: The Publisher must comply with the App Store Terms, including obtaining user consent and disclosing data collection practices.
-Type Code: Type1
-
-Processing for Type1 requirements.
-{#type1#,  <The Publisher  ;  comply  ;  App Store Terms  ;  NULL  ;  obtaining user consent and disclosing data collection practices  ;  NULL>  ,  <need to comply with App Store Terms>}
-========================= pause ===========================
-Description: The Publisher must provide options for users to opt-out as required by the App Store Terms.
+Description: The Publisher must comply with the App Store Terms, including obtaining user consent, disclosing data collection practices, and providing options to opt-out.
 Type Code: Type3
 
 Processing for Type3 requirements.
-{#type3-Q1#, <NULL; NULL; NULL; NULL; NULL; NULL>, <need to mention opt-out>, <NULL>}
+{#type3-Q1#, <NULL; NULL; NULL; NULL; NULL; NULL>, <need to mention opt-out>, <need link to guide how to opt-out>}
 ========================= pause ===========================
-Description: StartApp does not guarantee that the use of the Service will comply with the App Store Terms.
+Description: StartApp does not guarantee that the use of the Service will comply with the App Store Terms and is not liable for any costs or damages resulting from noncompliance.
 Type Code: Type4
 ========================= pause ===========================
-Description: StartApp is not liable for any costs or damages incurred by the Publisher due to noncompliance with the App Store Terms.
-Type Code: Type4
-========================= pause ===========================
-Description: The use of the Service may necessitate additional permissions from End Users beyond what the App originally requires.
+Description: Using the Service may require additional permissions from End Users beyond what the App originally requires.
 Type Code: Type4
 ========================= pause ===========================

@@ -2,25 +2,25 @@
 {
     "requirements": [
         {
-            "description": "If using the Platform to process Platform Data, a privacy policy must be provided and must be publicly available and easily accessible.",
+            "description": "If using the Platform to process Platform Data, a privacy policy must be provided and made publicly available and easily accessible.",
             "type": {
                 "summary": "Privacy Policy Provision"
             }
         },
         {
-            "description": "The privacy policy must comply with applicable laws and regulations and must accurately and clearly explain the data being processed, the processing methods, the purposes of processing, and how users can request data deletion.",
+            "description": "The privacy policy must comply with applicable laws and regulations, and must accurately and clearly explain the data being processed, the processing methods, the purposes of processing, and how users can request data deletion.",
             "type": {
                 "summary": "Policy Compliance and Clarity"
             }
         },
         {
-            "description": "Publicly available links to the privacy policies must be maintained in the privacy policy field in the App Dashboard settings and in any applicable App Store.",
+            "description": "Publicly available links to the privacy policy must be maintained in the privacy policy field in the App Dashboard settings and in any applicable App Store.",
             "type": {
-                "summary": "Policy Link Maintenance"
+                "summary": "Link Maintenance"
             }
         },
         {
-            "description": "Ensure that the links to privacy policies remain current and up to date.",
+            "description": "Ensure that the links to the privacy policy remain current and up to date.",
             "type": {
                 "summary": "Policy Link Updates"
             }

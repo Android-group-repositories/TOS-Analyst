@@ -28,13 +28,13 @@
         {
             "description": "The privacy policy must contain a link to Flurry’s Privacy Policy and describe how visitors may learn more about the choices offered in connection with Flurry’s use of User Data.",
             "type": {
-                "summary": "Link to Flurry Privacy Policy"
+                "summary": "Link to Flurry's Privacy Policy"
             }
         },
         {
-            "description": "The privacy policy must include advice on how users can opt-out of targeted advertising on a device-by-device basis by enabling 'Limit Ad Tracking' and provide active links to Flurry’s Privacy Dashboard and other relevant opt-out resources.",
+            "description": "The privacy policy must include a statement advising users on how to opt-out of targeted ads on a device by device basis and provide active links to opt-out resources.",
             "type": {
-                "summary": "Opt-Out Advice and Links"
+                "summary": "Opt-Out Information"
             }
         },
         {
@@ -46,7 +46,7 @@
         {
             "description": "You must comply with all applicable laws, policies, and regulations relating to the collection, usage, and sharing of information from users.",
             "type": {
-                "summary": "Compliance with Data Collection Regulations"
+                "summary": "Compliance with Collection, Usage, and Sharing Regulations"
             }
         }
     ]

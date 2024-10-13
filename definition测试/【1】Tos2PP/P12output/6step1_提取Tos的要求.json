@@ -1,24 +1,24 @@
 {
     "requirements": [
         {
-            "description": "Each party is required to have a privacy policy posted on their website.",
+            "description": "Each party is required to maintain a privacy policy on their website.",
             "type": {
                 "code": "Type1",
-                "summary": "Privacy Policy Posting"
+                "summary": "Privacy Policy Requirement"
             }
         },
         {
             "description": "The privacy policy must describe the collection, use, and sharing of information.",
             "type": {
-                "code": "Type1",
-                "summary": "Information Collection, Use, and Sharing"
+                "code": "Type4",
+                "summary": "Information Handling Disclosure"
             }
         },
         {
             "description": "The privacy policy must provide details on how End Users can opt out of interest-based advertising, such as online behavioral or mobile cross-app advertising.",
             "type": {
                 "code": "Type3",
-                "summary": "Opt-Out Option for Interest-Based Advertising"
+                "summary": "Opt-Out Option for Advertising"
             }
         }
     ]

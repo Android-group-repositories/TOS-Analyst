@@ -4,7 +4,7 @@
             "description": "You agree not to store personal data using Stripe apps interfaces, except as needed for your Stripe app listing.",
             "type": {
                 "code": "Type1",
-                "summary": "Limitation on Storing Personal Data"
+                "summary": "Restriction on Storing Personal Data"
             }
         },
         {
@@ -18,7 +18,7 @@
             "description": "You agree not to store data that could infringe upon intellectual property rights using Stripe apps interfaces.",
             "type": {
                 "code": "Type1",
-                "summary": "Prohibition on Storing Infringing Intellectual Property Data"
+                "summary": "Prohibition on Storing Infringing Data"
             }
         }
     ]

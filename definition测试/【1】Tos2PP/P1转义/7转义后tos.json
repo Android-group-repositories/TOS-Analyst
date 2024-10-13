@@ -2,15 +2,15 @@
 {
     "requirements": [
         {
-            "description": "The privacy notice or privacy policy must be made accessible to the Business User.",
+            "description": "Ensure that the privacy notice or privacy policy for the Stripe Application is easily accessible to the Business User.",
             "type": {
                 "summary": "Accessibility of Privacy Policy"
             }
         },
         {
-            "description": "The privacy notice or privacy policy should be available through a link in the Stripe App listing within the Stripe Apps Marketplace.",
+            "description": "Include a link to the privacy notice or privacy policy in the Stripe Application's listing within the Stripe Apps Marketplace.",
             "type": {
-                "summary": "Link to Privacy Policy in Marketplace"
+                "summary": "Link to Privacy Policy in Marketplace Listing"
             }
         }
     ]

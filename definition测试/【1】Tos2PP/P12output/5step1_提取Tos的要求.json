@@ -22,10 +22,10 @@
             }
         },
         {
-            "description": "The privacy policies must clearly disclose that SDK Information will be collected and explain how it will be used, as detailed in Section 5 of the EULA.",
+            "description": "The privacy policies must clearly disclose the collection of SDK Information and its intended use, as detailed in Section 5 of the EULA.",
             "type": {
                 "code": "Type2",
-                "summary": "Disclosure of Data Collection and Usage"
+                "summary": "Disclosure of Data Collection and Use"
             }
         }
     ]

@@ -4,7 +4,7 @@
             "description": "The privacy policy must explain the use, collection, and sharing of mobile device advertising identifiers and other personal information by the company and its third-party service providers, vendors, or partners, such as Tapjoy.",
             "type": {
                 "code": "Type2",
-                "summary": "Data Collection and Sharing Disclosure with Third-Party Partners"
+                "summary": "Data Collection and Sharing Disclosure"
             }
         },
         {
@@ -25,7 +25,7 @@
             "description": "The privacy policy must provide California users with the ability to opt-out from the sale of their personal information.",
             "type": {
                 "code": "Type3",
-                "summary": "California Privacy Rights Compliance with Opt-Out Option"
+                "summary": "California Privacy Rights Compliance"
             }
         }
     ]

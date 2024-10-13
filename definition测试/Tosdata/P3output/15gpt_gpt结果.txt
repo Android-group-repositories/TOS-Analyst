@@ -1,6 +1,6 @@
-Description: Only access, store, transfer, and process user data in accordance with users' instructions and the developer app's configuration settings.
+Description: Only access, store, transfer, and process user data as directed by the user, including through a developer app's configuration settings.
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1-Q1-1#,<Developer app  ;  Access, store, transfer, and process  ;  user data  ;  in accordance with users' instructions and the developer app's configuration settings  ;  NULL  ;  NULL>}
+{#type1-Q1-1#,<User  ;  Access, store, transfer, process  ;  user data  ;  through a developer app's configuration settings  ;  NULL  ;  directed by the user>}
 ========================= pause ===========================
