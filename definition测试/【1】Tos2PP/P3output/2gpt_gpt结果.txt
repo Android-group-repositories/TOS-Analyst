@@ -1,30 +1,24 @@
-Description: You are prohibited from passing personally identifiable information to Google, except under specific conditions related to Google Analytics features.
+Description: Personal identifiable information can only be passed to Google if it is permitted by Google Analytics policies and terms and the information is hashed using industry standards.
 Type Code: Type4
 ========================= pause ===========================
-Description: Any information shared with Google for Google Analytics must be hashed using industry standards to protect user privacy.
-Type Code: Type4
-========================= pause ===========================
-Description: You must have and adhere to an appropriate Privacy Policy that complies with all relevant laws, policies, and regulations regarding the collection of user information.
+Description: You must have and abide by an appropriate Privacy Policy that complies with all applicable laws, policies, and regulations regarding the collection of information from Users.
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <  a Privacy Policy  ;  complies with  ;  all relevant laws, policies, and regulations  ;  regarding the collection of user information  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+{#type1#, <You ; must have and abide by ; an appropriate Privacy Policy ; from Users ; to comply with all applicable laws, policies, and regulations regarding the collection of information ; NULL>}
 ========================= pause ===========================
-Description: Your Privacy Policy must inform users about your use of cookies, mobile device identifiers, or similar technologies for data collection.
+Description: Your Privacy Policy must disclose Your use of cookies, mobile device identifiers, or similar technology used to collect data.
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <Your Privacy Policy ; informs users ; your use of cookies, mobile device identifiers, or similar technologies ; for data collection ; NULL ; NULL>  ,  <need a privacy policy>}
+{#type2#, <Your Privacy Policy ; must disclose ; Your use of cookies, mobile device identifiers, or similar technology used to collect data ; NULL ; NULL ; NULL>, <NULL>}
 ========================= pause ===========================
-Description: You must disclose your use of Google Analytics and how it collects and processes data, potentially by linking to Google's privacy policy for partners.
+Description: You must disclose the use of Google Analytics and how it collects and processes data, including by providing a prominent link to Google's privacy policy for partners.
 Type Code: Type2
 
 Processing for Type2 requirements.
-{#type2#,  < you  ;  must disclose  ;  your use of Google Analytics and how it collects and processes data  ;  NULL  ;  potentially by linking to Google's privacy policy for partners  ;  NULL>  ,  <need to provide a link>  ,  <Third party is: Google>}
+{#type2#, <You ; must disclose ; the use of Google Analytics and how it collects and processes data ; NULL ; NULL ; providing a prominent link to Google's privacy policy for partners>}, <Third party is: Google Analytics>
 ========================= pause ===========================
-Description: You are required to provide clear and comprehensive information about, and obtain consent for, storing and accessing cookies or other information on users' devices where required by law.
-Type Code: Type1
-
-Processing for Type1 requirements.
-{#type1#,  <  You  ;  provide information and obtain consent  ;  storing and accessing cookies or other information  ;  on users' devices  ;  where required by law  ;  NULL>  ,  <need a privacy policy>}
+Description: You can use the Service to store and access cookies or other information on Users' devices only if Users are provided with clear and comprehensive information about, and consent to, such storage and access where required by law.
+Type Code: Type4
 ========================= pause ===========================

@@ -1,46 +1,54 @@
+```json
 {
     "requirements": [
         {
-            "description": "Partner will use the Services in accordance with this Agreement and the Services Documentation.",
+            "description": "The Partner's use of the Services is only permissible if it is in a manner consistent with this Agreement and the Services Documentation",
             "type": {
-                "summary": "Compliance with Agreement"
+                "summary": "Compliance with Agreement and Documentation"
             }
         },
         {
-            "description": "Partner must comply with all Applicable Rules, including data protection and privacy laws and rules.",
+            "description": "Compliance with all Applicable Rules, including data protection and privacy laws, is mandatory for the Partner",
             "type": {
-                "summary": "Legal and Regulatory Compliance"
+                "summary": "Compliance with Applicable Rules and Laws"
             }
         },
         {
-            "description": "Partner will handle End Users' data in a manner consistent with the rules applicable to data being accessed, collected, used, and/or shared.",
+            "description": "Accessing, collecting, using, and sharing End Users' data by the Partner can only be done in compliance with applicable rules",
             "type": {
                 "summary": "Data Handling Compliance"
             }
         },
         {
-            "description": "Partner must post a privacy policy in their App that complies with all applicable rules, laws, acts, and regulations.",
+            "description": "The Partner must post a privacy policy in their App that adheres to all applicable rules, laws, acts, and regulations",
             "type": {
-                "summary": "Privacy Policy Posting"
+                "summary": "Post Privacy Policy in Compliance"
             }
         },
         {
-            "description": "The privacy policy must disclose to End Users any information that will be provided to ironSource or is accessible to ironSource in connection with the Services, as detailed in the IronSource Mobile Privacy Policy.",
+            "description": "Any information relating to End Users that will be provided or is accessible to ironSource must be legally disclosed in the privacy policy",
             "type": {
-                "summary": "Disclosure of Data Sharing"
+                "summary": "Disclosure of Data Access to ironSource"
             }
         },
         {
-            "description": "If applicable, the privacy policy must include a mechanism for End Users to opt-out of receiving targeted ads based on their behavior and interests.",
+            "description": "The privacy policy should include an opt-out mechanism for End Users regarding targeted ads based on their behavior and interests",
             "type": {
                 "summary": "Opt-Out Mechanism for Targeted Ads"
             }
         },
         {
-            "description": "Partner confirms having read and understood the IronSource Mobile Privacy Policy and that it does not conflict with Partner's privacy policy.",
+            "description": "The Partner confirms having read and understood the IronSource Mobile Privacy Policy",
             "type": {
-                "summary": "Understanding and Non-Contradiction of Privacy Policies"
+                "summary": "Understanding of IronSource Privacy Policy"
+            }
+        },
+        {
+            "description": "The Partner confirms that their privacy policy is consistent with the IronSource Mobile Privacy Policy",
+            "type": {
+                "summary": "Consistency with IronSource Privacy Policy"
             }
         }
     ]
 }
+```

@@ -16,7 +16,7 @@ Type Code: Type2
 Processing for Type2 requirements.
 {#type2#,  < privacy policy  ;  must inform  ;  End Users  ;  information that will be provided to ironSource or is accessible to ironSource  ;  NULL  ;  NULL>  ,  <NULL>}
 ========================= pause ===========================
-Description: The privacy policy must detail this information as per the IronSource Mobile Privacy Policy found on ironSource’s website.
+Description: The privacy policy must detail this information as per the IronSource Mobile Privacy Policy found on ironSource's website.
 Type Code: Type2
 
 Processing for Type2 requirements.

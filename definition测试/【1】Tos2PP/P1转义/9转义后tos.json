@@ -1,30 +1,42 @@
-```json
+Here are the rewritten descriptions in the requested format:
+
 {
     "requirements": [
         {
-            "description": "Display the service's privacy policy before allowing users to download, install, or sign up for the service.",
+            "description": "People can only download, install, or sign up to your service if your service's privacy policy is displayed to them.",
             "type": {
-                "summary": "Privacy Policy Disclosure"
+                "summary": "Display Privacy Policy Before Service Use"
             }
         },
         {
-            "description": "The privacy policy must include the information collected from users, how it is used and shared (including with X), and contact details for inquiries about their information.",
+            "description": "Your privacy policy must disclose the information that you collect from people who use your service.",
             "type": {
-                "summary": "Information Disclosure Requirements"
+                "summary": "Disclosure of Collected Information"
             }
         },
         {
-            "description": "The privacy policy must comply with all applicable laws and be at least as protective as X’s Privacy Policy and the policies of other services and corporate affiliates.",
+            "description": "Your privacy policy must explain how you use and share that information (including with X).",
             "type": {
-                "summary": "Legal and Protective Standards"
+                "summary": "Disclosure of Information Use and Sharing"
             }
         },
         {
-            "description": "If unable to comply with the privacy policy requirements, the service must cease access to the X API and the use of all X Content.",
+            "description": "Your privacy policy must provide contact information for people to inquire and request regarding their information.",
             "type": {
-                "summary": "Compliance and Termination"
+                "summary": "Contact Information for Privacy Inquiries"
+            }
+        },
+        {
+            "description": "Your privacy policy must be consistent with all applicable laws and be no less protective of people than X's Privacy Policy and the privacy policy of our other services and corporate affiliates.",
+            "type": {
+                "summary": "Privacy Policy Legal and Protective Standards"
+            }
+        },
+        {
+            "description": "You must cease your access to the X API and the use of all X Content if you are unable to comply with your and/or X's Privacy Policy.",
+            "type": {
+                "summary": "Compliance with Privacy Policy Requirement"
             }
         }
     ]
 }
-```

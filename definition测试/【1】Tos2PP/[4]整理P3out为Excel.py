@@ -72,14 +72,14 @@ for i in range(0,N):
         tmp1 = func(contents)
         split_contents_list.append(tmp1)
         
-ZHUANYI_sentence = []
-for i in range(0,N):
-    tmp = 'P3output/' + str(i) + "gpt_gpt结果_YES_转义.txt"
-    with open(tmp, 'r') as file:
-        contents = file.read()
-        # print(contents)
-        # input()
-        ZHUANYI_sentence.append(contents)
+# ZHUANYI_sentence = []
+# for i in range(0,N):
+#     tmp = 'P3output/' + str(i) + "gpt_gpt结果_YES_转义.txt"
+#     with open(tmp, 'r') as file:
+#         contents = file.read()
+#         # print(contents)
+#         # input()
+#         ZHUANYI_sentence.append(contents)
 
 
 tmp = {
@@ -122,7 +122,7 @@ for sentence in df['sentence']:
 from icecream import *
 # print(len(name_list))
 # print(len(split_contents_list))
-ans = [["sdkname","原文","type","转义","entity",  "Actions"  ,   "object"  ,   "Modifier"  ,   "purpose"  ,  "Other conditions", "type requirement1","type requirement2"   ]]
+ans = [["sdkname","原文","type","转义","entity",  "Actions"  ,   "object"  ,   "object source/target"  ,   "purpose"  ,  "Other conditions", "type requirement1","type requirement2"   ]]
 # ans=[]
 for i in range(len(name_list)):
     for tuple in split_contents_list[i]:

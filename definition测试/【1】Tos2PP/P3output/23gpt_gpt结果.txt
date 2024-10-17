@@ -1,15 +1,18 @@
-Description: The Publisher is solely responsible for publishing the App on applicable app stores and ensuring compliance with the App Store Terms.
+Description: Publisher can publish the App on the applicable app store only if they are solely responsible for compliance with the App Store Terms.
 Type Code: Type4
 ========================= pause ===========================
-Description: The Publisher must comply with the App Store Terms, including obtaining user consent, disclosing data collection practices, and providing options to opt-out.
+Description: App Store Terms require obtaining user consent, disclosing data collection practices, and providing opt-out options for compliance.
 Type Code: Type3
 
 Processing for Type3 requirements.
-{#type3-Q1#, <NULL; NULL; NULL; NULL; NULL; NULL>, <need to mention opt-out>, <need link to guide how to opt-out>}
+{#type3-Q1#, < NULL ; NULL ; NULL ; NULL ; NULL ; NULL > , <mention opt-out> , <need link to guidance how to opt-out> }
 ========================= pause ===========================
-Description: StartApp does not guarantee that the use of the Service will comply with the App Store Terms and is not liable for any costs or damages resulting from noncompliance.
+Description: StartApp does not represent or warrant that use of the Service will comply with the App Store Terms.
 Type Code: Type4
 ========================= pause ===========================
-Description: Using the Service may require additional permissions from End Users beyond what the App originally requires.
+Description: StartApp shall have no liability for any costs or damages incurred to the Publisher as a result of noncompliance with the App Store Terms.
+Type Code: Type4
+========================= pause ===========================
+Description: The App may require additional permissions from End Users when using the Service that were not originally required.
 Type Code: Type4
 ========================= pause ===========================

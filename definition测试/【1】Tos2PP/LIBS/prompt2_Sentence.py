@@ -9,18 +9,22 @@ Classification is based only on <text> descriptions, without considering general
 Classification type:
 
 
-Type 1. Require developers to provide a privacy policy or statement.
+Type 1. Require developers to provide a privacy policy or data collection statement.
 
 Type 2. Require developers to provide content related to third parties in their privacy policy, including the keyword 'third party'
 
-Type 3. Require developers to provide content related to opt out in their privacy policy, including the keyword 'opt out'
+Type 3. Require developers to provide content related to opt out in their privacy policy, including the keyword 'opt out' or 'opt-out'
 
-Type 4. Other related content that does not explicitly mention privacy policy keywords.
+Type 4. Other related content that does not explicitly mention the keyword 'privacy policy', although mentioning data use and consent to access, is unrelated to privacy policy
 
-
+for type1
+If the paragraph mentions that something needs to be declared in the Privacy Policy , it should be attributed to type1
 
 for Type2
 I will provide a list of some of the full names of specific software development kits (SDKS). Within the text discussed in this paper, these SDK names are considered third-party entities. The researcher requests that the SDK names appearing in the text be replaced with the generic term 'third party' to ensure the consistency of the text and to protect the anonymity of the related entities.
+
+for Type3
+As long as there is an opt out, it is classified as type3
 
 list of SDK names:
 ============== start of list ================
@@ -65,74 +69,101 @@ Directly output JSON text
   json
 }
 
-The classification results are as follows
+The classification result example is as follow
 
 
 {
     "requirements": [
     {
-        "description": "The Partner must ensure that any data of the End Users accessed, collected, used, or shared is in line with the aforementioned rules and regulations.",
+        "description": "You represent and warrant that with respect to any data collected by Unity, provided by you to Unity, or to which you grant Unity access under or in connection with these Terms that constitutes "personal data" or "personal information" as defined under applicable privacy and data protection laws",
         "type": {
-        "summary": "Data Handling"
+        "summary": "Declaration of Compliance with Laws"
         }
     },
     {
-        "description": "The Partner is required to comply with all relevant laws and regulations, especially those related to data protection and privacy.",
+        "description": "Your privacy policy must include a link to the Unity Privacy Policy, or ironSource Privacy Policy, as applicable",
         "type": {
-        "summary": "Adherence to Applicable Rules"
+        "summary": "privacy policy must include a link"
         }
     },
     {
-        "description": "The policy should clearly inform End Users about any information related to them that will be provided to ironSource or is otherwise accessible to ironSource in connection with the Services. This should be detailed as per the IronSource Mobile Privacy Policy available on ironSource’s website.",
+        "description": "You must develop a privacy policy informs end users how you utilize and distribute such information to third parties, including for advertising purposes.",
         "type": {
-        "summary": "Disclosure of Information Sharing"
+        "summary": "Detailing data use and sharing with third parties in privacy policy "
         }
     },
     {
-        "description": "If applicable, the privacy policy must include a conspicuous mechanism that allows End Users to opt-out of receiving targeted advertisements based on their behavior and interests",
+        "description": "Your privacy policy must explains how End-Users can opt out of the offerings,if applicable",
         "type": {
-        "summary": "privacy policy must include Opt-Out Mechanism for Targeted Ads"
+        "summary": "explains opt-out to End-Users in privacy policy " 
         }
-    }
+    },
+    {
+        "description": "Your privacy policy must  provide notice of your use of a tracking pixel, agent or any other visitor identification technology that collects, uses, shares and stores data about end users of your Application",
+        "type": {
+        "summary": "Data Collection Technology Statement in privacy policy "
+        }
+    },
+    {
+        "description": "Customer can collect registration and other information about Customer's employees and/or agents only if providing all required disclosures and obtaining all required consents",
+        "type": {
+        "summary": "Users collect data according to conditions"
+        }
+    },
+    
     ]
 }
 
 
-You need to classify the description and code the requirement type in the input json, as shown below
+You need to classify the description and code the requirement type in the input json, the example as shown below
 
 {
     "requirements": [
     {
-        "description": "The Partner must ensure that any data of the End Users accessed, collected, used, or shared is in line with the aforementioned rules and regulations.",
+        "description": "You represent and warrant that with respect to any data collected by Unity, provided by you to Unity, or to which you grant Unity access under or in connection with these Terms that constitutes "personal data" or "personal information" as defined under applicable privacy and data protection laws",
         "type": {
-          "code": "Type1",
-          "summary": "Users Data Handling"
+        "code": "Type4",
+        "summary": "Declaration of Compliance with Laws"
         }
     },
     {
-        "description": "The Partner is required to comply with all relevant laws and regulations, especially those related to data protection and privacy.",
+        "description": "Your privacy policy must include a link to the Unity Privacy Policy, or ironSource Privacy Policy, as applicable",
         "type": {
-          "code": "Type4",
-          "summary": "Adherence to Applicable Rules"
+        "code": "Type3",
+        "summary": "privacy policy must include a Unity link"
         }
     },
     {
-        "description": "The policy should clearly inform End Users about any information related to them that will be provided to ironSource or is otherwise accessible to ironSource in connection with the Services. This should be detailed as per the IronSource Mobile Privacy Policy available on ironSource’s website.",
+        "description": "You must develop a privacy policy informs end users how you utilize and distribute such information to third parties, including for advertising purposes.",
         "type": {
-          "code": "Type2",
-          "summary": "Disclosure of Information Sharing with ironSource(Third-party partners)"
+        "code": "Type2",
+        "summary": "Detailing data use and sharing with third parties"
         }
     },
     {
-        "description": "If applicable, the privacy policy must include a conspicuous mechanism that allows End Users to opt-out of receiving targeted advertisements based on their behavior and interests",
+        "description": "Your privacy policy must explains how End-Users can opt out of the offerings,if applicable",
         "type": {
-          "code": "Type3",
-          "summary": "privacy policy must include Opt-Out Mechanism for Targeted Ads"
+        "code": "Type3",
+        "summary": "explains opt-out to End-Users" 
         }
-    }
+    },
+    {
+        "description": "Your privacy policy must  provide notice of your use of a tracking pixel, agent or any other visitor identification technology that collects, uses, shares and stores data about end users of your Application",
+        "type": {
+        "code": "Type1",
+        "summary": "Data Collection Technology Statement"
+        }
+    },
+        {
+        "description": "Customer can collect registration and other information about Customer's employees and/or agents only if providing all required disclosures and obtaining all required consents",
+        "type": {
+        "code": "Type4",
+        "summary": "Users collect data according to conditions"
+        }
+    },
+    
     ]
 }
-
 
 
 
@@ -141,7 +172,7 @@ You need to classify the description and code the requirement type in the input 
 
 P2_ASk2 = '''
 
-Now, read the following text and generate a json according to the above requirements and methods
+Now, read the following text and generate a json like the above requirements and examples
 
 Note that only the json should be output, and no useless information should be output.
 '''

@@ -1,39 +1,42 @@
-Description: You must represent and warrant that any personal data collected by Unity, provided to Unity, or to which Unity is granted access, complies with applicable privacy and data protection laws.
+Description: Personal data or personal information collected by Unity, provided to Unity, or accessed by Unity can only be processed if you represent and warrant compliance with applicable privacy and data protection laws.
 Type Code: Type4
 ========================= pause ===========================
-Description: You must provide clear, meaningful, and prominent notices to individuals regarding the collection, disclosure, use, and security of their personal data.
+Description: Data collection, disclosure, use and security practices can only be implemented if you provide clear notices, make required disclosures, and obtain necessary consent or permission from data subjects.
+Type Code: Type4
+========================= pause ===========================
+Description: A privacy policy making appropriate disclosures to End-Users must be maintained, displayed and adhered to at all times.
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <  You  ;  provide  ;  clear, meaningful, and prominent notices  ;  regarding the collection, disclosure, use, and security of their personal data  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+{#type2#, <A privacy policy  ;  making appropriate disclosures  ;  End-Users  ;  NULL  ;  NULL  ;  NULL>}
 ========================= pause ===========================
-Description: You must obtain necessary consent or permission from individuals before collecting their personal data.
+Description: Your privacy policy must comply with all applicable privacy and data protection laws, regulations, requirements, terms, and guidelines.
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <  You  ;  obtain necessary consent or permission  ;  personal data  ;  from individuals  ;  before collecting  ;  NULL>  ,  <NULL>}
+{#type1#, <Your privacy policy ; must comply with ; all applicable privacy and data protection laws, regulations, requirements, terms, and guidelines ; NULL ; NULL ; NULL>}
 ========================= pause ===========================
-Description: You must maintain, display, and abide by a privacy policy that complies with all applicable privacy and data protection laws and regulations, and any requirements from platform providers.
+Description: Your privacy policy must explain that Services Data will be processed in accordance with these Terms and the Unity Privacy Policy or ironSource Privacy Policy.
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <  a privacy policy  ;  complies with  ;  all applicable privacy and data protection laws and regulations  ;  NULL  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+{#type2#, <Your privacy policy ; must explain ; Services Data will be processed in accordance with these Terms and the Unity Privacy Policy or ironSource Privacy Policy ; NULL ; NULL ; NULL> , <Third party is: Unity Privacy Policy and ironSource Privacy Policy> }
 ========================= pause ===========================
-Description: The privacy policy must explain that Services Data can be processed in accordance with the Terms and the Unity Privacy Policy or ironSource Privacy Policy, as applicable.
-Type Code: Type2
+Description: Your privacy policy must disclose the use of tracking pixels, agents or other technologies that collect, use, share and store data about end users.
+Type Code: Type1
 
-Processing for Type2 requirements.
-{#type2#,  <The privacy policy  ;  must explain  ;  Services Data can be processed  ;  in accordance with the Terms and the Unity Privacy Policy or ironSource Privacy Policy  ;  NULL  ;  as applicable>  ,  <NO link>  ,  <Third party is: Unity Privacy Policy, ironSource Privacy Policy>}
+Processing for Type1 requirements.
+{#type2#, <Your privacy policy ; must disclose ; the use of tracking pixels, agents or other technologies that collect, use, share and store data ; about end users ; NULL ; NULL>, <Third party is: NULL>}
 ========================= pause ===========================
-Description: The privacy policy must notify users of your use of tracking technologies and provide a link to the Unity Privacy Policy or ironSource Privacy Policy, as applicable.
-Type Code: Type2
+Description: Your privacy policy must include a link to the Unity Privacy Policy or ironSource Privacy Policy, as applicable.
+Type Code: Type1
 
-Processing for Type2 requirements.
-{#type2#,  < The privacy policy  ;  must notify  ;  users of your use of tracking technologies  ;  NULL  ;  provide a link to the Unity Privacy Policy or ironSource Privacy Policy  ;  as applicable>  ,  <need to provide a link>  ,  <Third party is: Unity Privacy Policy or ironSource Privacy Policy>}
+Processing for Type1 requirements.
+{#type2#, <Your privacy policy ; must include ; a link to the Unity Privacy Policy or ironSource Privacy Policy ; NULL ; NULL ; NULL>, <Third party is: Unity Privacy Policy or ironSource Privacy Policy>}
 ========================= pause ===========================
-Description: If applicable, the privacy policy must explain how End-Users can opt out of the Offerings.
+Description: Your privacy policy must explain how End-Users can opt out of the Offerings, if applicable.
 Type Code: Type3
 
 Processing for Type3 requirements.
-{#type3-Q1#, <NULL; NULL; NULL; NULL; NULL; NULL>, <need to mention opt-out>, <need link to guide how to opt-out>}
+{#type3-Q1#, <NULL; NULL; NULL; NULL; NULL; NULL>, <mention opt out>, <NULL>}
 ========================= pause ===========================

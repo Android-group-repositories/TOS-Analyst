@@ -1,56 +1,56 @@
 {
     "requirements": [
         {
-            "description": "You must adhere to a privacy policy that complies with all applicable laws and industry standards.",
+            "description": "Your privacy policy must comply with all applicable laws and industry standards.",
             "type": {
                 "code": "Type1",
-                "summary": "Privacy Policy Compliance"
+                "summary": "Compliance with Laws and Standards"
             }
         },
         {
-            "description": "You must comply with all applicable laws relating to the collection of information from end users of your applications.",
+            "description": "Data collection from end users of your applications can only take place if you comply with all applicable laws.",
             "type": {
                 "code": "Type4",
-                "summary": "Legal Compliance"
+                "summary": "Legal Compliance for Data Collection"
             }
         },
         {
-            "description": "You must post a privacy policy clearly and conspicuously within your application, in any store, and on any website where the application may be acquired.",
+            "description": "Your privacy policy must be clearly and conspicuously posted within your application, in any store, and on any website where the application may be acquired.",
             "type": {
                 "code": "Type1",
-                "summary": "Privacy Policy Posting"
+                "summary": "Prominently Display Privacy Policy"
             }
         },
         {
-            "description": "The privacy policy must provide notice of the use of tracking technologies that collect, use, share, and store data, including precise location data, about end users.",
+            "description": "Your privacy policy must provide notice of your use of tracking pixels, agents or other visitor identification technologies that collect, use, share and store data about end users.",
             "type": {
-                "code": "Type4",
-                "summary": "Notice of Data Collection"
+                "code": "Type1",
+                "summary": "Notice of Data Collection Methods"
             }
         },
         {
-            "description": "The privacy policy must contain a link to Flurry’s Privacy Policy and describe how visitors may learn more about the choices offered in connection with Flurry’s use of User Data.",
+            "description": "Your privacy policy must contain a link to Flurry's Privacy Policy and describe how visitors may learn more about the choices offered in connection with Flurry's use of User Data.",
             "type": {
                 "code": "Type2",
-                "summary": "Link to Flurry's Privacy Policy"
+                "summary": "Link to Flurry Privacy Policy and User Choices"
             }
         },
         {
-            "description": "The privacy policy must include a statement advising users on how to opt-out of targeted ads on a device by device basis and provide active links to opt-out resources.",
+            "description": "You must advise users who wish to opt-out that they may do so on a device by device basis by enabling 'Limit Ad Tracking' and provide active links to opt-out resources.",
             "type": {
                 "code": "Type3",
-                "summary": "Opt-Out Information"
+                "summary": "Opt-Out Information and Links"
             }
         },
         {
-            "description": "You must obtain all required end-user consents before using the Services.",
+            "description": "Using the Services can only take place if you obtain any and all end-user consents required by applicable law.",
             "type": {
                 "code": "Type4",
-                "summary": "End-User Consent"
+                "summary": "Obtain Necessary End-User Consents"
             }
         },
         {
-            "description": "You must comply with all applicable laws, policies, and regulations relating to the collection, usage, and sharing of information from users.",
+            "description": "You must comply with all applicable laws, policies, and regulations relating to the collection, usage and sharing of information from users.",
             "type": {
                 "code": "Type4",
                 "summary": "Compliance with Collection, Usage, and Sharing Regulations"

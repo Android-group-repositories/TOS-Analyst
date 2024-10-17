@@ -1,24 +1,24 @@
 {
     "requirements": [
         {
-            "description": "You are responsible for notifying your users about the data collection and disclosure practices associated with the use of our Services.",
+            "description": "Your use of our Services can only be implemented if you provide notice to your users of the data collection and disclosure practices involved and obtain their consent.",
             "type": {
                 "code": "Type1",
-                "summary": "Notification Responsibility"
+                "summary": "Responsibility for User Notification"
             }
         },
         {
-            "description": "You must obtain user consent for the data collection and use practices related to our Services.",
+            "description": "Using our Services is only permissible if you provide appropriate notices to users of your application(s) about data collection and use practices related to your use of our Services.",
             "type": {
                 "code": "Type1",
-                "summary": "Consent Requirement"
+                "summary": "Provision of Notice to Users"
             }
         },
         {
-            "description": "This includes obtaining consent for rewarding users for their engagement with Campaign Content in incentivized campaigns and for behaviorally targeted online advertising.",
+            "description": "Our Services can only be used if you obtain user consent to the data collection and use practices, including for rewarding user engagement and behaviorally targeted online advertising.",
             "type": {
-                "code": "Type3",
-                "summary": "Consent for Specific Uses"
+                "code": "Type1",
+                "summary": "Obtaining User Consent"
             }
         }
     ]

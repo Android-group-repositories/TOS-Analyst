@@ -86,7 +86,7 @@ The classification results are as follows
         }
     },
     {
-        "description": "The policy should clearly inform End Users about any information related to them that will be provided to ironSource or is otherwise accessible to ironSource in connection with the Services. This should be detailed as per the IronSource Mobile Privacy Policy available on ironSource’s website.",
+        "description": "The policy should clearly inform End Users about any information related to them that will be provided to ironSource or is otherwise accessible to ironSource in connection with the Services. This should be detailed as per the IronSource Mobile Privacy Policy available on ironSource's website.",
         "type": {
         "summary": "Disclosure of Information Sharing"
         }
@@ -120,7 +120,7 @@ You need to classify the description and code the requirement type in the input 
         }
     },
     {
-        "description": "The policy should clearly inform End Users about any information related to them that will be provided to ironSource or is otherwise accessible to ironSource in connection with the Services. This should be detailed as per the IronSource Mobile Privacy Policy available on ironSource’s website.",
+        "description": "The policy should clearly inform End Users about any information related to them that will be provided to ironSource or is otherwise accessible to ironSource in connection with the Services. This should be detailed as per the IronSource Mobile Privacy Policy available on ironSource's website.",
         "type": {
             "code": "Type2",
             "summary": "Disclosure of Information Sharing with ironSource(Third-party partners)"

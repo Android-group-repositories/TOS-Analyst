@@ -1,28 +1,30 @@
+Here are the rewritten descriptions in the requested format:
+
 ```json
 {
     "requirements": [
         {
-            "description": "Both parties must adhere to all relevant privacy laws.",
+            "description": "Compliance with all applicable privacy laws is required",
             "type": {
                 "summary": "Compliance with Privacy Laws"
             }
         },
         {
-            "description": "Licensee is responsible for obtaining necessary consents to allow OneSignal to collect information from End Users' devices or browsers.",
+            "description": "Information collection from End User's device or browser by OneSignal can only be done if Licensee obtains all applicable consents",
             "type": {
-                "summary": "Consent for Data Collection"
+                "summary": "Licensee Consent Responsibility"
             }
         },
         {
-            "description": "Licensee must publish privacy policies and disclosures for the Properties that are in compliance with applicable laws and the terms of this EULA.",
+            "description": "Licensee must publish privacy policies and disclosures for the Properties that comply with applicable law and the terms of this EULA",
             "type": {
-                "summary": "Publication of Privacy Policies"
+                "summary": "Publishing Privacy Policies"
             }
         },
         {
-            "description": "The privacy policies must clearly disclose the collection of SDK Information and its intended use, as detailed in Section 5 of the EULA.",
+            "description": "The privacy policies must clearly disclose that the SDK Information will be collected and specify its usage as set forth in Section 5",
             "type": {
-                "summary": "Disclosure of Data Collection and Use"
+                "summary": "Clear Disclosure of Data Collection and Usage"
             }
         }
     ]

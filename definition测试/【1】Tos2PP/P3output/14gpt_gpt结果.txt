@@ -1,24 +1,33 @@
-Description: You must provide a privacy policy for your Application that is easily accessible and linked from the Application.
+Description: Your Application can only collect and process user data if you provide and adhere to a published privacy policy
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <  a privacy policy  ;  provide  ;  your Application  ;  easily accessible and linked from the Application  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+{#type2#, <Your Application ; collect and process ; user data ; from user ; NULL ; if you provide and adhere to a published privacy policy>, <NULL>}
 ========================= pause ===========================
-Description: The privacy policy must incorporate by reference and link to the Snap Privacy Policy.
+Description: Your privacy policy must be easily accessible and conspicuously linked from the Application
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type2#, <Your privacy policy ; must be easily accessible and conspicuously linked ; from the Application ; from user ; NULL ; NULL>, <NULL>}
+========================= pause ===========================
+Description: Your privacy policy must incorporate by reference and link to the Snap Privacy Policy
 Type Code: Type2
 
 Processing for Type2 requirements.
-{#type2#,  < your privacy policy  ;  must incorporate by reference and link  ;  the Snap Privacy Policy  ;  NULL  ;  NULL  ;  NULL>  ,  <need to provide a link>  ,  <Third party is: Snap>}
+{#type2#,  <Your privacy policy  ;  must incorporate by reference and link  ;  the Snap Privacy Policy  ;  NULL  ;  NULL  ;  NULL>}
 ========================= pause ===========================
-Description: The privacy policy should clearly and accurately describe to users what user information is accessed, collected, and stored by your Application.
-Type Code: Type4
+Description: Your privacy policy must clearly and accurately describe to users what user information is accessed, collected, and stored by you and your Application
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#, <Your privacy policy ; must clearly and accurately describe ; what user information is accessed, collected, and stored by you and your Application ; NULL ; NULL ; NULL>}
 ========================= pause ===========================
-Description: The privacy policy must explain how and why the Application uses, processes, and shares user information with Snap and other third parties.
+Description: Your privacy policy must explain how and why the user information is used, processed, and shared with Snap and other third parties
 Type Code: Type2
 
 Processing for Type2 requirements.
-{#type2#,  < The privacy policy  ;  must explain  ;  how and why the Application uses, processes, and shares user information  ;  with Snap and other third parties  ;  NULL  ;  NULL>  ,  <NO link>  ,  <Third party is: Snap>}
+{#type2#, <Your privacy policy ; must explain ; how and why user information is used, processed, and shared ; with Snap and other third parties ; NULL ; NULL> , <Third party is: Snap and other third parties> }
 ========================= pause ===========================
-Description: While users may provide information directly to Snap, you must not provide Snap with any personal data unless agreed to in writing by both parties.
+Description: You can only provide Snap with personal data if otherwise agreed to in writing by you and Snap
 Type Code: Type4
 ========================= pause ===========================

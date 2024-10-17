@@ -1,52 +1,59 @@
 {
     "requirements": [
         {
-            "description": "您必须声明并保证Unity收集的、提供给Unity的或Unity被授权访问的任何个人数据均符合适用的隐私和数据保护法律。",
+            "description": "只有当你声明并保证遵守适用的隐私和数据保护法律时，Unity收集的个人数据或个人信息、提供给Unity的或Unity访问的数据才能被处理。",
             "type": {
                 "code": "Type4",
-                "summary": "遵守数据保护法律"
+                "summary": "法律合规声明"
             }
         },
         {
-            "description": "您必须向个人提供清晰、有意义且显著的通知，关于收集、披露、使用和保护他们的个人数据。",
+            "description": "只有在你提供清晰的公告，进行必要的披露，并从数据主体获得必要的同意或许可后，才能实施数据收集、披露、使用和安全做法。",
+            "type": {
+                "code": "Type4",
+                "summary": "获取必要的同意和披露"
+            }
+        },
+        {
+            "description": "必须始终维护、展示并遵守对最终用户进行适当披露的隐私政策。",
             "type": {
                 "code": "Type1",
-                "summary": "提供清晰的隐私通知"
+                "summary": "维护并向最终用户适当披露隐私政策"
             }
         },
         {
-            "description": "在收集个人数据之前，您必须获得个人的同意或许可。",
+            "description": "你的隐私政策必须符合所有适用的隐私和数据保护法律、法规、要求、条款和指导方针。",
             "type": {
                 "code": "Type1",
-                "summary": "获取必要的同意"
+                "summary": "遵守法律和监管框架"
             }
         },
         {
-            "description": "您必须维护、展示并遵守符合所有适用的隐私和数据保护法律、法规以及平台提供商的任何要求的隐私政策。",
+            "description": "你的隐私政策必须解释服务数据将根据这些条款和Unity隐私政策或ironSource隐私政策进行处理。",
             "type": {
                 "code": "Type1",
-                "summary": "维护隐私政策"
+                "summary": "符合隐私政策的服务数据处理"
             }
         },
         {
-            "description": "隐私政策必须解释服务数据可以按照条款和Unity隐私政策或ironSource隐私政策（如适用）进行处理。",
+            "description": "你的隐私政策必须披露使用跟踪像素、代理或其他技术收集、使用、共享和存储最终用户数据的做法。",
             "type": {
-                "code": "Type2",
-                "summary": "披露与Unity或ironSource(第三方合作伙伴)的数据处理"
+                "code": "Type1",
+                "summary": "数据收集方法的披露"
             }
         },
         {
-            "description": "隐私政策必须通知用户您使用跟踪技术，并提供链接至Unity隐私政策或ironSource隐私政策（如适用）。",
+            "description": "你的隐私政策必须包含指向Unity隐私政策或ironSource隐私政策的链接，如适用。",
             "type": {
-                "code": "Type2",
-                "summary": "通知使用跟踪技术与Unity或ironSource(第三方合作伙伴)"
+                "code": "Type1",
+                "summary": "相关隐私政策的链接"
             }
         },
         {
-            "description": "如适用，隐私政策必须解释最终用户如何退出提供的产品或服务。",
+            "description": "如果适用，你的隐私政策必须解释最终用户如何选择退出提供的内容。",
             "type": {
                 "code": "Type3",
-                "summary": "退出说明"
+                "summary": "最终用户的退出选项"
             }
         }
     ]

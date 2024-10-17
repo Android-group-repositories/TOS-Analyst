@@ -2,39 +2,45 @@
 {
     "requirements": [
         {
-            "description": "Developer must post a privacy notice within the Developer App that meets the transparency and information requirements of the Privacy Requirements and the Agreement.",
+            "description": "A publicly accessible privacy notice within the Developer App can only be posted, maintained, and followed if it satisfies the transparency and information requirements of the Privacy Requirements and the Agreement.",
             "type": {
-                "summary": "Privacy Notice Posting"
+                "summary": "Maintain a Privacy Notice"
             }
         },
         {
-            "description": "If notice cannot be provided in or around Vungle Ads, Developer should provide notice within the Developer App or on the landing page of the Vungle Ad.",
+            "description": "The privacy notice must satisfy the transparency and information requirements of the Privacy Requirements and the Agreement.",
             "type": {
-                "summary": "Alternative Notice Provision"
+                "summary": "Comply with Privacy Requirements"
+            }
+        },
+        {
+            "description": "If notice cannot be provided in or around Vungle Ads, arrangements to provide notice within the Developer App or on the landing page of the Vungle Ad must be made.",
+            "type": {
+                "summary": "Provide Notice in Developer App or Landing Page"
             }
         },
         {
             "description": "The notice must include information about Vungle and its Demand Partner's use of Tracking Technology to collect, use, and share Ad Data.",
             "type": {
-                "summary": "Tracking Technology Disclosure"
+                "summary": "Disclosure of Tracking Technology Use"
             }
         },
         {
-            "description": "The notice must disclose that third parties may collect or receive Personal Data and use it for measurement services and targeted ads.",
+            "description": "The notice must state that third parties may collect or receive Personal Data and use it to provide measurement services and targeted ads.",
             "type": {
-                "summary": "Third Party Data Collection Disclosure"
+                "summary": "Disclosure of Third Party Data Collection and Use"
             }
         },
         {
-            "description": "A conspicuous link or description for users to opt-out of collection and use of information for ad targeting must be provided.",
+            "description": "The notice must include a conspicuous link to or description of how and where users can opt-out of collection and use of information for ad targeting.",
             "type": {
-                "summary": "Opt-Out Option Disclosure"
+                "summary": "Opt-Out Information"
             }
         },
         {
             "description": "The notice must describe the types of Ad Data collected, including Personal Data, and how and for what purposes the Ad Data will be used or transferred to third parties.",
             "type": {
-                "summary": "Data Collection and Usage Description"
+                "summary": "Description of Data Collection and Purpose"
             }
         },
         {

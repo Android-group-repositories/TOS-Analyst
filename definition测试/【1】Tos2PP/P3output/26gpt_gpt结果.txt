@@ -1,9 +1,6 @@
-Description: You must provide your own terms of service, privacy policy, and support information when submitting your App to the Zoom Marketplace.
+Description: Your App can only be submitted to the Zoom Marketplace if you provide your terms of service, privacy policy, and support information ('Your Terms').
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <  you  ;  provide  ;  your own terms of service, privacy policy, and support information  ;  when submitting your App to the Zoom Marketplace  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
-========================= pause ===========================
-Description: These terms, collectively referred to as 'Your Terms', are what govern the use of your App by users.
-Type Code: Type4
+{#type2#, <Your Terms  ;  can be submitted  ;  Your App  ;  to the Zoom Marketplace  ;  NULL  ;  NULL>  ,  <NULL>}
 ========================= pause ===========================

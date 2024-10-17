@@ -1,31 +1,31 @@
 {
     "requirements": [
         {
-            "description": "The privacy policy must explain the use, collection, and sharing of mobile device advertising identifiers and other personal information by the company and its third-party service providers, vendors, or partners, such as Tapjoy.",
-            "type": {
-                "code": "Type2",
-                "summary": "Data Collection and Sharing Disclosure"
-            }
-        },
-        {
-            "description": "The privacy policy must cover the use of personal information for behaviorally targeted online advertising.",
+            "description": "Your use, collection, and sharing of mobile device advertising identifiers and other personal information can only be implemented if your privacy policy describes these practices.",
             "type": {
                 "code": "Type1",
-                "summary": "Behavioral Advertising Disclosure"
+                "summary": "Description of Data Use by You and Third Parties"
             }
         },
         {
-            "description": "The privacy policy must include an opt-out link that directs users to an industry-recognized platform for opting out of online behavioral advertising.",
+            "description": "Your privacy policy must include the use of information for behaviorally targeted online advertising.",
             "type": {
-                "code": "Type3",
-                "summary": "Opt-Out Link for Behavioral Advertising"
+                "code": "Type1",
+                "summary": "Inclusion of Behavioral Advertising"
             }
         },
         {
-            "description": "The privacy policy must provide California users with the ability to opt-out from the sale of their personal information.",
+            "description": "Your privacy policy must provide an opt-out link directing users to an industry-recognized opt-out from online behavioral advertising.",
             "type": {
                 "code": "Type3",
-                "summary": "California Privacy Rights Compliance"
+                "summary": "Provision of Industry-Recognized Opt-Out Link"
+            }
+        },
+        {
+            "description": "You must provide California users the ability to opt-out from the sale of their information.",
+            "type": {
+                "code": "Type3",
+                "summary": "Opt-Out Option for California Users"
             }
         }
     ]

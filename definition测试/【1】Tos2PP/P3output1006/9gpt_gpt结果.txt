@@ -19,7 +19,7 @@ Processing for Type2 requirements.
 Description: Provide contact information for users to inquire about their data.
 Type Code: Type4
 ========================= pause ===========================
-Description: Ensure the privacy policy complies with all applicable laws and is at least as protective as X’s Privacy Policy and the policies of other services and corporate affiliates.
+Description: Ensure the privacy policy complies with all applicable laws and is at least as protective as X's Privacy Policy and the policies of other services and corporate affiliates.
 Type Code: Type4
 ========================= pause ===========================
 Description: Cease access to the X API and use of X Content if unable to comply with privacy policies.

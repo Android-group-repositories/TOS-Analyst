@@ -1,21 +1,35 @@
 {
     "requirements": [
         {
-            "description": "Customer is responsible for making all necessary disclosures to their users and obtaining the required consents and authorizations for RevenueCat to perform the Services.",
+            "description": "Customer's data collection and use practices can only be implemented if all necessary disclosures are made to, and consents and authorizations are obtained from, Customer's users.",
             "type": {
                 "code": "Type1",
-                "summary": "Necessary Disclosures and Consents"
+                "summary": "Disclosure and Consent Requirement"
             }
         },
         {
-            "description": "This includes RevenueCat's and Stripe's processing of personally identifiable information of the users, which must be disclosed in Customer's privacy policy.",
+            "description": "Customer's data collection and use practices can only be implemented if they are necessary or appropriate for RevenueCat's performance of the Services.",
+            "type": {
+                "code": "Type4",
+                "summary": "Necessity for Service Performance"
+            }
+        },
+        {
+            "description": "RevenueCat's and Stripe's processing of personally identifiable information relating to users can only take place if Customer has made all necessary disclosures to, and obtained consents and authorizations from, its users.",
             "type": {
                 "code": "Type2",
-                "summary": "Disclosure of Processing Information with RevenueCat and Stripe (Third-party partners)"
+                "summary": "Processing of Personal Information"
             }
         },
         {
-            "description": "The disclosure should be made in a reasonable and industry-standard manner within the Customer's privacy policy.",
+            "description": "Customer's privacy policy must disclose RevenueCat's and Stripe's processing of such information in a reasonable and industry-standard manner.",
+            "type": {
+                "code": "Type1",
+                "summary": "Disclosure in Privacy Policy"
+            }
+        },
+        {
+            "description": "Customer must make all necessary disclosures in a reasonable and industry-standard manner.",
             "type": {
                 "code": "Type1",
                 "summary": "Standard Disclosure Method"

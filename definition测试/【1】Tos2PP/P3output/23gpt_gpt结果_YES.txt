@@ -1,1 +1,1 @@
-<Description: The Publisher must comply with the App Store Terms, including obtaining user consent, disclosing data collection practices, and providing options to opt-out.>{#type3-Q1#, <NULL; NULL; NULL; NULL; NULL; NULL>, <need to mention opt-out>, <need link to guide how to opt-out>}
+<Description: App Store Terms require obtaining user consent, disclosing data collection practices, and providing opt-out options for compliance.>{#type3-Q1#, < NULL ; NULL ; NULL ; NULL ; NULL ; NULL > , <mention opt-out> , <need link to guidance how to opt-out> }

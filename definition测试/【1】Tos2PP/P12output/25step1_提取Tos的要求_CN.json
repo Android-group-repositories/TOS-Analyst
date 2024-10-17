@@ -1,28 +1,28 @@
 {
     "requirements": [
         {
-            "description": "开发者必须确保用户数据的处理符合隐私政策。",
+            "description": "如果符合隐私政策，可以收集、处理、传输、维护和使用用户数据",
             "type": {
                 "code": "Type1",
                 "summary": "遵守隐私政策"
             }
         },
         {
-            "description": "隐私政策必须可供用户访问。",
+            "description": "隐私政策必须可供用户使用",
             "type": {
                 "code": "Type1",
                 "summary": "隐私政策的可访问性"
             }
         },
         {
-            "description": "隐私政策必须清晰准确地描述开发者收集了哪些用户信息。",
+            "description": "隐私政策必须清晰准确地描述开发者收集的用户信息",
             "type": {
                 "code": "Type1",
                 "summary": "数据收集的清晰描述"
             }
         },
         {
-            "description": "隐私政策还必须描述开发者如何使用和共享收集到的用户信息。",
+            "description": "隐私政策还必须描述开发者如何使用和共享该信息",
             "type": {
                 "code": "Type1",
                 "summary": "数据使用和共享的透明度"

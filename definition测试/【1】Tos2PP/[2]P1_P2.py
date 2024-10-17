@@ -39,8 +39,8 @@ def chat(query, history,save_to_history):
 
 
 
-def prompt1(history):
-    from LIBS.prompt1_Sentence import P1_Background_Definition,P1_input_example,P1_ask
+def prompt1_1(history):
+    from LIBS.prompt1_Sentence import P1_Background_Definition,P1_input_example1,P1_ask
     
     history.append({
     "role": "system",  # 标记为系统消息
@@ -48,12 +48,19 @@ def prompt1(history):
     })
     history.append({
     "role": "system",  # 标记为系统消息
-    "content": P1_input_example   # 这里放置你想要“教”给AI的内容
+    "content": P1_input_example1   # 这里放置你想要“教”给AI的内容
+    })
+    return history
+    
+def prompt1_2(history):
+    from LIBS.prompt1_Sentence import P1_Background_Definition,P1_input_example2
+    
+    history.append({
+    "role": "system",  # 标记为系统消息
+    "content": P1_input_example2   # 这里放置你想要“教”给AI的内容
     })
     
-    # pro = "new I give you a text:\n"
-    # ask = "Regarding this TOS, as a developer, What points should I pay attention to? Answer with original text"
-    # query = pro + raw_tos + ask 
+
 
     
     return history
@@ -96,27 +103,45 @@ def main():
         ]
         
         # ==================================================================
-        from LIBS.prompt1_Sentence import P1_Background_Definition,P1_input_example,P1_ask
+        from LIBS.prompt1_Sentence import P1_Background_Definition,P1_input_example1,P1_ask
         
 
-        history = prompt1(history) # teach json
+        
+# 转json
+        history = prompt1_1(history) # teach json
         raw_tos  = sentence_list[i]
-        # query = "\""+raw_tos+"\"" + P1_ask
-        replaceed_tos = raw_tos
+        replaceed_tos = "\""+raw_tos+"\""
         intojson= """
 Summarize the Term of Service above, output the key points of the text.  Try to express it in the original text. The output format is JSON, as described above
         """
         query = replaceed_tos+intojson
+        print(query)
+        # input("暂停看输入")
+        inited_tos = chat(query, history,False)
+        # print(inited_tos)
+# 改句式
+        history = prompt1_2(history)
+        rewrite_des = """
+there is the json you need to rewrite        
+        """
+        query = rewrite_des+inited_tos
         inited_tos = chat(query, history,False)
         print(inited_tos)
+        
+        
         with open('./P1转义/'+str(i)+'转义后tos.json', 'w',encoding="utf-8") as f:
             print(inited_tos,file=f)
-        # ==================================================================
-        from LIBS.prompt2_Sentence import P2_Types_fmt,P2_ASk2
+        
+        
+# 分类 ==================================================================
+
+        from LIBS.prompt2_Sentence import P2_Types_fmt
         history = prompt2(history)
         
-        
-        
+        P2_ASk2 = '''
+Now, read the following text and generate a json according to the above requirements and methods
+Note that only the json should be output, and no useless information should be output.
+'''       
         query = P2_ASk2 + inited_tos
     
         

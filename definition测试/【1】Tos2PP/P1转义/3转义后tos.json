@@ -1,28 +1,30 @@
+Here are the rewritten descriptions in the requested format:
+
 ```json
 {
     "requirements": [
         {
-            "description": "If End Users provide You with, or You gather or access End User Information, You must inform the End Users that certain information will be available to You.",
+            "description": "You can gather or access End User Information only if making the End Users aware that certain End User Information will be available to You",
             "type": {
-                "summary": "Notification of Information Availability"
+                "summary": "Inform End Users about data availability"
             }
         },
         {
-            "description": "You must provide a legally adequate privacy notice to End Users regarding the End User Information.",
+            "description": "You must provide a legally adequate privacy notice to End Users about it",
             "type": {
-                "summary": "Provision of Privacy Notice"
+                "summary": "Provide legally adequate privacy notice"
             }
         },
         {
-            "description": "You must obtain the End User’s permission to gather and use End User Information.",
+            "description": "You can gather and use End User Information only if obtaining the End User's permission",
             "type": {
-                "summary": "Obtaining User Consent"
+                "summary": "Obtain End User permission for data collection and use"
             }
         },
         {
-            "description": "You must ensure the protection of such End User Information.",
+            "description": "You must ensure the protection of such End User Information",
             "type": {
-                "summary": "Protection of End User Information"
+                "summary": "Ensure protection of End User Information"
             }
         }
     ]

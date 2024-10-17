@@ -1,31 +1,52 @@
 {
     "requirements": [
         {
-            "description": "用户在使用服务时，必须有一个始终清晰标记且易于访问的隐私政策。",
+            "description": "只有当你有一个清晰标记且易于访问的隐私政策时，你才能使用服务",
             "type": {
                 "code": "Type1",
-                "summary": "隐私政策的可访问性"
+                "summary": "维护一个清晰且易于访问的隐私政策"
             }
         },
         {
-            "description": "隐私政策必须遵守所有适用的法律。",
+            "description": "你的隐私政策必须遵守所有适用的法律",
             "type": {
-                "code": "Type4",
-                "summary": "法律合规性"
+                "code": "Type1",
+                "summary": "遵守法律要求"
             }
         },
         {
-            "description": "隐私政策必须向最终用户提供关于cookies、设备特定信息、位置信息以及从最终用户设备上存储、访问或收集的其他数据的清晰和全面的信息。",
+            "description": "你必须向最终用户提供关于cookies的清晰和全面的信息",
             "type": {
                 "code": "Type1",
-                "summary": "数据收集披露"
+                "summary": "告知用户关于cookies的使用"
             }
         },
         {
-            "description": "该政策应包括有关最终用户管理cookies的选项的信息。",
+            "description": "你必须向最终用户提供关于设备特定信息的清晰和全面的信息",
             "type": {
                 "code": "Type1",
-                "summary": "Cookie管理选项"
+                "summary": "告知用户关于设备特定数据"
+            }
+        },
+        {
+            "description": "你必须向最终用户提供关于位置信息的清晰和全面的信息",
+            "type": {
+                "code": "Type1",
+                "summary": "告知用户关于位置数据"
+            }
+        },
+        {
+            "description": "你必须向最终用户提供关于在与服务相关的最终用户设备上存储、访问或收集的其他信息的清晰和全面的信息",
+            "type": {
+                "code": "Type1",
+                "summary": "告知用户关于其他收集的数据"
+            }
+        },
+        {
+            "description": "你必须向最终用户提供关于cookie管理选项的信息，如适用",
+            "type": {
+                "code": "Type3",
+                "summary": "提供cookie管理选项"
             }
         }
     ]

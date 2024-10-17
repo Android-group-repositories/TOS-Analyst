@@ -2,6 +2,6 @@ Description: The Partner must use the Services in accordance with the Agreement 
 Description: The Partner must adhere to all applicable rules, including data protection and privacy laws.
 Description: The Partner must have a privacy policy posted in their App that complies with all applicable laws and regulations.
 Description: The privacy policy must inform End Users about the information that will be provided to ironSource or is accessible to ironSource.
-Description: The privacy policy must detail this information as per the IronSource Mobile Privacy Policy found on ironSource’s website.
+Description: The privacy policy must detail this information as per the IronSource Mobile Privacy Policy found on ironSource's website.
 Description: The privacy policy should include an opt-out mechanism for End Users who do not wish to receive targeted ads based on their behavior and interests.
 Description: The Partner confirms they have read and understood the IronSource Mobile Privacy Policy and that it aligns with their own privacy policy.

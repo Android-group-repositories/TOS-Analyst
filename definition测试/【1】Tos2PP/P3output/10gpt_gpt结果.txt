@@ -1,6 +1,18 @@
-Description: Developers must ensure that privacy policies related to the Relevant Service are easily accessible at all times, including before and after a user begins to use the service.
+Description: Relevant Service-related privacy policies can only be implemented if they are disclosed by developers
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <Developers ; ensure ; privacy policies related to the Relevant Service ; easily accessible at all times, including before and after a user begins to use the service ; NULL ; NULL>  ,  <need a privacy policy>}
+{#type2#,  <Relevant Service-related privacy policies  ;  can only be implemented  ;  they are disclosed  ;  by developers  ;  NULL  ;  NULL>  ,  <NULL>}
+========================= pause ===========================
+Description: Privacy policies can only be considered compliant if they are easily viewable to anyone at any time
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type2#, <Privacy policies  ;  can be considered  ;  compliant  ;  easily viewable to anyone at any time ;  NULL  ;  NULL>  ,  <NULL>}
+========================= pause ===========================
+Description: Privacy policies can only be considered compliant if they are available before and after a user starts to use the Relevant Service
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type2#, <Privacy policies  ;  can be considered  ;  compliant  ;  NULL  ;  available before and after a user starts to use the Relevant Service  ;  NULL>}
 ========================= pause ===========================

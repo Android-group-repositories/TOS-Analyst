@@ -2,27 +2,33 @@
 {
     "requirements": [
         {
-            "description": "The Publisher is solely responsible for publishing the App on applicable app stores and ensuring compliance with the App Store Terms.",
+            "description": "Publisher can publish the App on the applicable app store only if they are solely responsible for compliance with the App Store Terms.",
             "type": {
                 "summary": "Responsibility for App Store Compliance"
             }
         },
         {
-            "description": "The Publisher must comply with the App Store Terms, including obtaining user consent, disclosing data collection practices, and providing options to opt-out.",
+            "description": "App Store Terms require obtaining user consent, disclosing data collection practices, and providing opt-out options for compliance.",
             "type": {
                 "summary": "Compliance with App Store Requirements"
             }
         },
         {
-            "description": "StartApp does not guarantee that the use of the Service will comply with the App Store Terms and is not liable for any costs or damages resulting from noncompliance.",
+            "description": "StartApp does not represent or warrant that use of the Service will comply with the App Store Terms.",
             "type": {
-                "summary": "No Warranties or Liability for App Store Compliance"
+                "summary": "No Warrant of Compliance"
             }
         },
         {
-            "description": "Using the Service may require additional permissions from End Users beyond what the App originally requires.",
+            "description": "StartApp shall have no liability for any costs or damages incurred to the Publisher as a result of noncompliance with the App Store Terms.",
             "type": {
-                "summary": "Additional User Permissions May Be Needed"
+                "summary": "No Liability for Noncompliance"
+            }
+        },
+        {
+            "description": "The App may require additional permissions from End Users when using the Service that were not originally required.",
+            "type": {
+                "summary": "Additional Permissions May Be Needed"
             }
         }
     ]

@@ -1,0 +1,33 @@
+We consider three forms of purpose clauses that either 
+(1) startwith "to" followed by a base-form verb, 
+(2) start with "in order to'followed by a base-form verb, or 
+(3) start with "for" followed by agerund (a noun derived from a verb ending with -ing) or a noun. 
+
+Thefirst two forms are the standard identification of purpose clauses in English
+The third form is common in privacy policiessuch as in "for providing services" or "for the purposes of ..."
+
+purpose(advertising)
+The notices must also include data collection and use for behaviorally targeted online advertising.
+The privacy policy must disclose the collection of Service Data by third parties, such as MoPub, for the purpose of personalized advertising.
+The privacy policy must cover the use of personal information for behaviorally targeted online advertising.
+Description: You must have a privacy policy that clearly informs end users about the collection, use, and sharing of their personal data, including for advertising purposes, with WeChat or Weixin and other third parties.
+
+
+
+Condition(consent) 改句子
+Licensee is responsible for obtaining any necessary consents to allow OneSignal to collect information from End Users' devices or browsers.
+The Customer is responsible for making all necessary disclosures to their users and obtaining the required consents and authorizations for RevenueCat to perform the Services.
+If you process any personal data, you shall obtain users' express consent to such processing at the time you request such data
+You must obtain user consent for the data collection and use practices associated with our Services.
+
+
+长难句
+Your privacy policy must  provide notice of your use of a tracking pixel, agent or any other visitor identification technology that（that后面修饰 technology,重点是technology） collects, uses, shares and stores data about end users of your Application
+
+
+TYPE2
+
+TYPE3
+include an opt-out link directing users to an industry-recognized opt-out from online behavioral advertising and provide California users the ability to opt-out from the sale of their personal information to third parties. (TYPE3-Q2 需要提供opt-out指导)
+
+if applicable, explains how End-Users can opt out of the Offerings.如果适用，解释最终用户如何选择退出产品。 Type3-Q1

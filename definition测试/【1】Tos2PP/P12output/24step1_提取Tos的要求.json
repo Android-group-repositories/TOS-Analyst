@@ -1,38 +1,45 @@
 {
     "requirements": [
         {
-            "description": "Sentry collects data configured by the user, typically errors, API calls, page loads, or similar requests and responses.",
+            "description": "Sentry collects data only if you configure it to send data to Sentry.",
+            "type": {
+                "code": "Type4",
+                "summary": "Data Collection Control"
+            }
+        },
+        {
+            "description": "This data typically includes software bugs (Errors), API calls, page loads, or similar requests and responses from your apps (Transactions).",
             "type": {
                 "code": "Type4",
                 "summary": "Data Collection Scope"
             }
         },
         {
-            "description": "By default, Sentry does not collect personally identifiable information (PII), but additional context and metadata can be included at the user's discretion.",
+            "description": "By default, data collected by Sentry does not include any personally identifiable information (PII).",
             "type": {
                 "code": "Type4",
-                "summary": "Default Data Collection"
+                "summary": "Default Data Collection Exclusion of PII"
             }
         },
         {
-            "description": "Users have the option to include PII such as usernames, email addresses, or attach files like logs or crash reports to the data sent to Sentry.",
+            "description": "You can send additional context and metadata to Sentry, including user names, email addresses, or by attaching files such as logs or crash reports.",
             "type": {
                 "code": "Type4",
-                "summary": "Optional Inclusion of PII"
+                "summary": "Augmentation of Data with PII"
             }
         },
         {
-            "description": "Sentry processes the collected data to provide application monitoring services.",
+            "description": "Sentry processes data only if you send data to provide application monitoring services.",
             "type": {
                 "code": "Type4",
                 "summary": "Data Processing Purpose"
             }
         },
         {
-            "description": "Users must disclose all data collection practices in their app's privacy policy, including the data sent to Sentry.",
+            "description": "You must disclose and/or include in your app privacy policy all types of data collected through your app, including data sent to Sentry.",
             "type": {
                 "code": "Type1",
-                "summary": "Disclosure Requirement"
+                "summary": "Disclosure Requirement for Privacy Policy"
             }
         }
     ]

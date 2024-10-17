@@ -1,0 +1,33 @@
+6.6. You represent and warrant that with respect to any data collected by Unity, provided by you to Unity, or to which you grant Unity access under or in connection with these Terms that constitutes "personal data" or "personal information" as defined under applicable privacy and data protection laws, 
+
+you agree to provide sufficiently clear, meaningful and prominent notices to, make all required disclosures to, and obtain the necessary consent or permission from any individual to whom such data relates regarding the collection, disclosure, use and security of such data. 
+
+
+you  maintain, display and abide by a placed privacy policy that makes appropriate disclosures to End-Users, including disclosures that (i) comply with all applicable privacy and data protection laws and regulations and/or any applicable requirements, terms, or guidelines required by your platform providers; (ii) 
+
+explain that Services Data can be processed as contemplated by these Terms and as set out in the Unity Privacy Policy, or ironSource Privacy Policy, as applicable; 
+
+
+(iii) provide notice of your use of a tracking pixel, agent or any other visitor identification technology that collects, uses, shares and stores data about end users of your Application, 
+
+
+which privacy policy shall also include a link to the Unity Privacy Policy, or ironSource Privacy Policy, as applicable
+
+; and (iv) if applicable, explains how End-Users can opt out of the offerings.
+
+
+==
+"6.6. You represent and warrant that with respect to any data collected by Unity, provided by you to Unity, or to which you grant Unity access under or in connection with these Terms that constitutes “personal data” or “personal information” as defined under applicable privacy and data protection laws, 
+
+you agree to provide sufficiently clear, meaningful and prominent notices to, make all required disclosures to, and obtain the necessary consent or permission from any individual to whom such data relates regarding the collection, disclosure, use and security of such data. 
+
+
+In addition, you will at all times maintain, display and abide by a conspicuously placed privacy policy that makes appropriate disclosures to End-Users, including disclosures that (i) comply with all applicable privacy and data protection laws and regulations and/or any applicable requirements, terms, or guidelines required by your platform providers; (ii) explain that Services Data can be processed as contemplated by these Terms and as set out in the Unity Privacy Policy, or ironSource Privacy Policy, as applicable; (iii) provide notice of your use of a tracking pixel, agent or any other visitor identification technology that collects, uses, shares and stores data about end users of your Application, which privacy policy shall also include a link to the Unity Privacy Policy, or ironSource Privacy Policy, as applicable; and (iv) if applicable, explains how End-Users can opt out of the Offerings.
+
+==
+You represent and warrant that with respect to any data collected by Unity, provided by you to Unity, or to which you grant Unity access under or in connection with these Terms that constitutes "personal data" or "personal information" as defined under applicable privacy and data protection laws, 
+you agree to provide sufficiently clear, meaningful and prominent notices to, make all required disclosures to, and obtain the necessary consent or permission from any individual to whom such data relates regarding the collection, disclosure, use and security of such data. 
+You must maintain, display, and adhere to a privacy policy that makes suitable disclosures to End-Users
+Your privacy policy must  provide notice of your use of a tracking pixel, agent or any other visitor identification technology that collects, uses, shares and stores data about end users of your Application 
+Your privacy policy must include a link to the Unity Privacy Policy, or ironSource Privacy Policy, as applicable
+Your privacy policy must explains how End-Users can opt out of the offerings,if applicable

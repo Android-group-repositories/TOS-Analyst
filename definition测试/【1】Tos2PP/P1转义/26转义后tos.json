@@ -1,16 +1,12 @@
+Here are the rewritten points in front of the JSON:
+
 ```json
 {
     "requirements": [
         {
-            "description": "You must provide your own terms of service, privacy policy, and support information when submitting your App to the Zoom Marketplace.",
+            "description": "Your App can only be submitted to the Zoom Marketplace if you provide your terms of service, privacy policy, and support information ('Your Terms').",
             "type": {
-                "summary": "Submission Requirements"
-            }
-        },
-        {
-            "description": "These terms, collectively referred to as 'Your Terms', are what govern the use of your App by users.",
-            "type": {
-                "summary": "Governance of App Use"
+                "summary": "Submission of Terms and Policies"
             }
         }
     ]

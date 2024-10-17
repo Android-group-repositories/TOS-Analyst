@@ -1,12 +1,24 @@
-Description: The Publisher must post a privacy policy that is both conspicuous and legally adequate on each application and/or service within the Publisher Network.
+Description: You can only post a privacy policy if it is conspicuous and legally adequate
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <  The Publisher  ;  post  ;  a privacy policy  ;  on each application and/or service within the Publisher Network  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+{#type2#, <You  ;  can post  ;  a privacy policy  ;  NULL  ;  conspicuous and legally adequate  ;  NULL>}
 ========================= pause ===========================
-Description: The privacy policy must disclose the collection of Service Data by third parties such as MoPub for the purpose of personalized advertising.
+Description: Your privacy policy can only be posted on each application and/or service of the Publisher Network if it is conspicuous and legally adequate
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type2#, <Your privacy policy  ;  can be posted  ;  on each application and/or service of the Publisher Network  ;  NULL  ;  NULL  ;  if it is conspicuous and legally adequate>  ,  <NULL>}
+========================= pause ===========================
+Description: Your data collection practices can only involve third parties such as MoPub if your privacy policy discloses this collection
 Type Code: Type2
 
 Processing for Type2 requirements.
-{#type1#,  <The privacy policy  ;  must disclose  ;  the collection of Service Data by third parties such as MoPub  ;  NULL  ;  for the purpose of personalized advertising  ;  NULL>  ,  <NO link>  ,  <Third party is: MoPub>}
+{#type2#,  <Your privacy policy  ;  can only involve  ;  data collection practices  ;  from user, share to third parties  ;  NULL  ;  NULL>  ,  <Third party is: MoPub > }
+========================= pause ===========================
+Description: Your data collection practices can only be for personalized advertising purposes if your policy specifies this
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#, <Your policy ; specifies ; data collection practices for personalized advertising ; NULL ; NULL ; NULL>}
 ========================= pause ===========================

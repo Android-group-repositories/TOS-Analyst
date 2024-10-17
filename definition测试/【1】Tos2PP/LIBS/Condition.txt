@@ -1,0 +1,79 @@
+
+
+Input example2:
+Data collection and processing can only proceed if all legally required consents and permissions from end users are obtained.
+Output example2:
+{#type1#,  <    The Customer    ;  collect and process  ;  data  ;    from end users  ;    NULL    ;    need obtain consents and permissions>  ,  <need a privacy policy>}
+
+做一个 
+不整理句式 条件提取出问题 
+整理句式 条件提取不出问题 
+的例子
+
+所有条件相关 改写成 当且仅当
+
+
+我比较关注 数据操作，但我需要对一些句式杂乱的句子进行处理
+规则为以下2个cases
+
+--- case 1 start---
+我想要你将 具有同意(consents)等条件的句式 改写为以数据处理为主的形式
+obtain + (consents等条件) + for/to + (数据收集\服务使用) 
+改写为 
+(数据收集) + only if + (consents等条件)
+
+example1:
+The Customer is required to obtain all legally required consents and permissions from end users for data collection and processing.
+对于这种对数据和收集有条件的句子，结构为 Customer obtain + (consents等条件) + for/to + (数据收集) 
+改写为 
+(数据收集) + only if + (consents等条件)
+Data collection and processing can only take place only if the Customer has obtained all legally required consents and permissions from end users."    
+
+example2:
+The Customer is responsible for making all necessary disclosures to their users and obtaining the required consents and authorizations for RevenueCat to perform the Services.
+结构为 Customer responsible\obtain + (consents等条件) + for/to + (服务使用) 
+改写为 
+(服务使用) + only if + (consents等条件)
+Customer can use RevenueCat's services only if making all necessary disclosures to their users and obtaining the required consents and authorizations
+
+notice：
+legally required不是条件
+privacy policy不是条件
+--- case 1 end ---
+
+
+--- case 2 start---
+We consider three forms of purpose clauses that either 
+(1) startwith "to" followed by a base-form verb, 
+(2) start with "in order to'followed by a base-form verb, or 
+(3) start with "for" followed by agerund (a noun derived from a verb ending with -ing) or a noun. 
+
+Thefirst two forms are the standard identification of purpose clauses in English
+The third form is common in privacy policiessuch as in "for providing services" or "for the purposes of ..."
+请将具有 purpose 的句式标记并输出 purpose
+常见purpose : advertising
+--- case 2 end ---
+
+
+
+现在对以下句子进行处理,不符合上面的case就标记并按照原句输出：
+
+Licensee is responsible for obtaining any necessary consents to allow OneSignal to collect information from End Users' devices or browsers.
+If you process any personal data, you shall obtain users' express consent to such processing at the time you request such data
+You must obtain user consent for the data collection and use practices associated with our Services.
+
+You must develop a privacy policy that clearly and accurately informs end users about the personal data you collect 
+
+If applicable, the privacy policy must include a conspicuous mechanism that allows End Users to opt-out of receiving targeted advertisements based on their behavior and interests
+
+The privacy policy must specifically address the use of personal information for behaviorally targeted online advertising.
+The notices must also include data collection and use for behaviorally targeted online advertising.
+The privacy policy must disclose the collection of Service Data by third parties, such as MoPub, for the purpose of personalized advertising.
+The privacy policy must cover the use of personal information for behaviorally targeted online advertising.
+
+You must have a privacy policy that clearly informs end users about the collection, use, and sharing of their personal data, including for advertising purposes, with WeChat or Weixin and other third parties.
+
+
+
+
+

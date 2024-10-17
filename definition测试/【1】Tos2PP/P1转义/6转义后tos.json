@@ -1,22 +1,24 @@
+Here are the rewritten descriptions in the requested format:
+
 ```json
 {
     "requirements": [
         {
-            "description": "Each party is required to maintain a privacy policy on their website.",
+            "description": "A privacy policy can only be posted on a website if it describes how the party collects, uses, and shares information.",
             "type": {
-                "summary": "Privacy Policy Requirement"
+                "summary": "Website Privacy Policy Requirement"
             }
         },
         {
-            "description": "The privacy policy must describe the collection, use, and sharing of information.",
+            "description": "A privacy policy can only be posted on a website if it provides information about how an End User can opt out of interest-based advertising.",
             "type": {
-                "summary": "Information Handling Disclosure"
+                "summary": "Opt-Out Information for End Users"
             }
         },
         {
-            "description": "The privacy policy must provide details on how End Users can opt out of interest-based advertising, such as online behavioral or mobile cross-app advertising.",
+            "description": "The opt-out information can only be provided if it includes methods for online behavioral or mobile cross-app advertising.",
             "type": {
-                "summary": "Opt-Out Option for Advertising"
+                "summary": "Specific Advertising Opt-Out Details"
             }
         }
     ]

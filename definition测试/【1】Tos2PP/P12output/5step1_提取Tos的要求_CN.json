@@ -1,31 +1,31 @@
 {
     "requirements": [
         {
-            "description": "双方必须遵守所有相关的隐私法律。",
+            "description": "必须遵守所有适用的隐私法律",
             "type": {
                 "code": "Type4",
                 "summary": "遵守隐私法律"
             }
         },
         {
-            "description": "许可方负责获取必要的同意，以允许OneSignal从最终用户的设备或浏览器中收集信息。",
+            "description": "只有在被许可方获得所有适用的同意后，OneSignal才能从最终用户的设备或浏览器收集信息",
             "type": {
-                "code": "Type1",
-                "summary": "数据收集的同意"
+                "code": "Type4",
+                "summary": "被许可方同意责任"
             }
         },
         {
-            "description": "许可方必须发布符合适用法律和本EULA条款的属性隐私政策和披露。",
+            "description": "被许可方必须发布符合适用法律和本EULA条款的属性隐私政策和披露",
             "type": {
                 "code": "Type1",
                 "summary": "发布隐私政策"
             }
         },
         {
-            "description": "隐私政策必须清楚地披露SDK信息的收集及其预期用途，如EULA第5节所详述。",
+            "description": "隐私政策必须清楚地披露将收集SDK信息，并具体说明其使用方式，如第5节所述",
             "type": {
-                "code": "Type2",
-                "summary": "披露数据收集和使用"
+                "code": "Type1",
+                "summary": "清楚披露数据收集和使用情况"
             }
         }
     ]

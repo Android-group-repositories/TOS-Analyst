@@ -1,36 +1,39 @@
-Description: You must adhere to a privacy policy that complies with all applicable laws and industry standards.
+Description: Your privacy policy must comply with all applicable laws and industry standards.
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <  a privacy policy  ;  complies with  ;  all applicable laws and industry standards  ;  NULL  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+{#type1#, <Your privacy policy ; must comply ; with all applicable laws and industry standards ; NULL ; NULL ; NULL>}
 ========================= pause ===========================
-Description: You must comply with all applicable laws relating to the collection of information from end users of your applications.
+Description: Data collection from end users of your applications can only take place if you comply with all applicable laws.
 Type Code: Type4
 ========================= pause ===========================
-Description: You must post a privacy policy clearly and conspicuously within your application, in any store, and on any website where the application may be acquired.
+Description: Your privacy policy must be clearly and conspicuously posted within your application, in any store, and on any website where the application may be acquired.
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <  a privacy policy  ;  post  ;  clearly and conspicuously  ;  within your application, in any store, and on any website  ;  where the application may be acquired  ;  NULL>  ,  <need a privacy policy>}
+{#type2#, <Your privacy policy ; must be posted ; within your application, in any store, and on any website where the application may be acquired ; from user ; NULL ; NULL>}
 ========================= pause ===========================
-Description: The privacy policy must provide notice of the use of tracking technologies that collect, use, share, and store data, including precise location data, about end users.
-Type Code: Type4
+Description: Your privacy policy must provide notice of your use of tracking pixels, agents or other visitor identification technologies that collect, use, share and store data about end users.
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type2#,  <Your privacy policy  ;  must provide notice  ;  your use of tracking pixels, agents or other visitor identification technologies that collect, use, share and store data  ;  about end users  ;  NULL  ;  NULL>  ,  <Third party is: NULL> }
 ========================= pause ===========================
-Description: The privacy policy must contain a link to Flurry’s Privacy Policy and describe how visitors may learn more about the choices offered in connection with Flurry’s use of User Data.
+Description: Your privacy policy must contain a link to Flurry's Privacy Policy and describe how visitors may learn more about the choices offered in connection with Flurry's use of User Data.
 Type Code: Type2
 
 Processing for Type2 requirements.
-{#type2#,  < your privacy policy  ;  must contain  ;  a link to Flurry's Privacy Policy  ;  NULL  ;  to describe how visitors may learn more about the choices offered in connection with Flurry's use of User Data  ;  NULL>  ,  <need to provide a link>  ,  <Third party is: Flurry>}
+{#type2#,  <Your privacy policy  ;  must contain  ;  a link to Flurry��s Privacy Policy and describe how visitors may learn more about the choices offered in connection with Flurry��s use of User Data  ;  NULL  ;  NULL  ;  NULL>  ,  <Third party is: Flurry> }
 ========================= pause ===========================
-Description: The privacy policy must include a statement advising users on how to opt-out of targeted ads on a device by device basis and provide active links to opt-out resources.
+Description: You must advise users who wish to opt-out that they may do so on a device by device basis by enabling 'Limit Ad Tracking' and provide active links to opt-out resources.
 Type Code: Type3
 
 Processing for Type3 requirements.
-{#type3-Q1#, <NULL; NULL; NULL; NULL; NULL; NULL>, <need to mention opt-out>, <need link to guide how to opt-out>}
+{#type3-Q1#, <NULL ; NULL ; NULL ; NULL ; NULL ; NULL> , <mention opt-out : Limit Ad Tracking> , <need link to guide how to opt-out>}
 ========================= pause ===========================
-Description: You must obtain all required end-user consents before using the Services.
+Description: Using the Services can only take place if you obtain any and all end-user consents required by applicable law.
 Type Code: Type4
 ========================= pause ===========================
-Description: You must comply with all applicable laws, policies, and regulations relating to the collection, usage, and sharing of information from users.
+Description: You must comply with all applicable laws, policies, and regulations relating to the collection, usage and sharing of information from users.
 Type Code: Type4
 ========================= pause ===========================

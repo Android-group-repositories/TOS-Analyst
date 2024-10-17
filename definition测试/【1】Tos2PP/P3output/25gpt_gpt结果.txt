@@ -1,24 +1,24 @@
-Description: Developer must ensure that User Data is handled in compliance with a privacy policy.
+Description: User Data can only be collected, processed, transmitted, maintained, and used if it complies with a privacy policy
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <  Developer  ;  ensure  ;  User Data is handled  ;  in compliance with a privacy policy  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+{#type1#, <a privacy policy ; allows ; User Data to be collected, processed, transmitted, maintained, and used ; NULL ; NULL ; if it complies with a privacy policy>}
 ========================= pause ===========================
-Description: The privacy policy must be made available to Users.
+Description: The privacy policy must be made available to Users
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <  The privacy policy  ;    be made available  ;   NULL  ;  Users  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+{#type2#, <The privacy policy ; must be made available ; to Users ; from user ; NULL ; NULL>, <NULL>}
 ========================= pause ===========================
-Description: The privacy policy must clearly and accurately describe what user information is collected by Developer.
+Description: The privacy policy must clearly and accurately describe what user information Developer collects
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <  a privacy policy  ;  describe  ;  user information collected by Developer  ;  NULL  ;  clearly and accurately  ;  NULL>  ,  <need a privacy policy>}
+{#type1#, <The privacy policy ; must clearly and accurately describe ; what user information Developer collects ; NULL ; NULL ; NULL>}
 ========================= pause ===========================
-Description: The privacy policy must also describe how Developer uses and shares the collected user information.
+Description: The privacy policy must also describe how Developer uses and shares that information
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#,  <  a privacy policy  ;  describe  ;  how Developer uses and shares the collected user information  ;  NULL  ;  NULL  ;  NULL>  ,  <need a privacy policy>}
+{#type2#,  <The privacy policy  ;  must describe  ;  how Developer uses and shares information  ;  NULL  ;  NULL  ;  NULL>  ,  <NULL>}
 ========================= pause ===========================

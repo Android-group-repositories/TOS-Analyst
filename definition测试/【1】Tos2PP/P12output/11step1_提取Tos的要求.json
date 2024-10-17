@@ -1,31 +1,31 @@
 {
     "requirements": [
         {
-            "description": "Your application or service must collect, store, process, or use end user data in compliance with the specified requirements.",
-            "type": {
-                "code": "Type4",
-                "summary": "Data Collection and Processing Compliance"
-            }
-        },
-        {
-            "description": "You must have a privacy policy that clearly informs end users about the personal data collected and how it is used and shared, including for advertising purposes, with WeChat or Weixin and other third parties.",
-            "type": {
-                "code": "Type2",
-                "summary": "Privacy Policy Requirements"
-            }
-        },
-        {
-            "description": "The privacy policy must comply with and be consistent with the terms and requirements of the Agreement and the WeChat or Weixin Privacy Policy.",
+            "description": "Your application or service can only collect, store, process or use data of end users (including any personal data or information) if it complies with the privacy policy and other requirements",
             "type": {
                 "code": "Type1",
-                "summary": "Consistency with Agreement and WeChat/Weixin Privacy Policy"
+                "summary": "Data Collection Scope"
             }
         },
         {
-            "description": "You must obtain users' express consent before processing their personal data.",
+            "description": "You must establish a privacy policy that clearly and accurately describes to end users what personal data you collect and how you use and share such information",
+            "type": {
+                "code": "Type1",
+                "summary": "Establish Privacy Policy"
+            }
+        },
+        {
+            "description": "Your privacy policy must comply with and be consistent with the terms and requirements set out in the Agreement and the WeChat or Weixin Privacy Policy",
+            "type": {
+                "code": "Type1",
+                "summary": "Compliance with Agreement and WeChat/Weixin Privacy Policy"
+            }
+        },
+        {
+            "description": "Processing of personal data can only take place if you obtain users' express consent to such processing at the time you request such data",
             "type": {
                 "code": "Type4",
-                "summary": "User Consent for Personal Data Processing"
+                "summary": "Obtain Express Consent for Personal Data Processing"
             }
         }
     ]

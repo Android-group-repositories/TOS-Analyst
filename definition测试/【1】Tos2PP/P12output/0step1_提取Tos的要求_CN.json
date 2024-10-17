@@ -1,45 +1,38 @@
 {
     "requirements": [
         {
-            "description": "Mixpanel对客户在Mixpanel网站上的信息跟踪和使用受Mixpanel隐私声明的约束。",
+            "description": "Mixpanel隐私声明管理Mixpanel在Mixpanel网站上对客户信息的跟踪和使用",
             "type": {
-                "code": "Type2",
-                "summary": "隐私声明管辖"
+                "code": "Type4",
+                "summary": "受Mixpanel隐私声明管理"
             }
         },
         {
-            "description": "Mixpanel隐私声明可在 https://mixpanel.com/legal/privacy-policy/ 查阅。",
+            "description": "Mixpanel隐私声明不包括Mixpanel代表客户处理的信息，以提供应用程序服务",
+            "type": {
+                "code": "Type4",
+                "summary": "客户数据处理的排除"
+            }
+        },
+        {
+            "description": "客户必须向其最终用户提供自己的隐私声明或通知",
             "type": {
                 "code": "Type1",
-                "summary": "隐私声明的可访问性"
+                "summary": "客户隐私通知的责任"
             }
         },
         {
-            "description": "Mixpanel隐私声明不涵盖Mixpanel代表客户处理的、在提供应用程序服务中的信息。",
+            "description": "客户只能通过Mixpanel网站收集关于客户的注册信息和其他信息，前提是向客户的员工和/或代理提供所有必需的披露，并从他们那里获得所有必需的同意",
             "type": {
                 "code": "Type4",
-                "summary": "隐私声明的范围"
+                "summary": "客户披露和同意的责任"
             }
         },
         {
-            "description": "客户有责任向其最终用户提供自己的隐私声明或通知。",
-            "type": {
-                "code": "Type1",
-                "summary": "客户隐私披露责任"
-            }
-        },
-        {
-            "description": "客户必须向其员工和/或代理人提供所有必需的披露，并获取所有必需的同意。",
+            "description": "Mixpanel可以作为Mixpanel的客户，通过Mixpanel网站收集关于客户的注册信息和其他信息",
             "type": {
                 "code": "Type4",
-                "summary": "客户同意和披露责任"
-            }
-        },
-        {
-            "description": "Mixpanel可能会通过Mixpanel网站收集关于客户作为Mixpanel客户注册和其他信息。",
-            "type": {
-                "code": "Type4",
-                "summary": "客户信息收集"
+                "summary": "Mixpanel收集客户信息的权利"
             }
         }
     ]

@@ -1,36 +1,42 @@
-```json
+Here are the rewritten descriptions in the requested format:
+
 {
     "requirements": [
         {
-            "description": "You must provide a privacy policy for your Application that is easily accessible and linked from the Application.",
+            "description": "Your Application can only collect and process user data if you provide and adhere to a published privacy policy",
             "type": {
-                "summary": "Privacy Policy Accessibility"
+                "summary": "Maintain a Privacy Policy"
             }
         },
         {
-            "description": "The privacy policy must incorporate by reference and link to the Snap Privacy Policy.",
+            "description": "Your privacy policy must be easily accessible and conspicuously linked from the Application",
             "type": {
-                "summary": "Incorporate Snap Privacy Policy"
+                "summary": "Accessibility and Visibility"
             }
         },
         {
-            "description": "The privacy policy should clearly and accurately describe to users what user information is accessed, collected, and stored by your Application.",
+            "description": "Your privacy policy must incorporate by reference and link to the Snap Privacy Policy",
             "type": {
-                "summary": "Information Access, Collection, and Storage Disclosure"
+                "summary": "Reference and Link to Snap Privacy Policy"
             }
         },
         {
-            "description": "The privacy policy must explain how and why the Application uses, processes, and shares user information with Snap and other third parties.",
+            "description": "Your privacy policy must clearly and accurately describe to users what user information is accessed, collected, and stored by you and your Application",
             "type": {
-                "summary": "Use, Processing, and Sharing Disclosure"
+                "summary": "Transparency on Data Access, Collection, and Storage"
             }
         },
         {
-            "description": "While users may provide information directly to Snap, you must not provide Snap with any personal data unless agreed to in writing by both parties.",
+            "description": "Your privacy policy must explain how and why the user information is used, processed, and shared with Snap and other third parties",
             "type": {
-                "summary": "Personal Data Provision Limitation"
+                "summary": "Clarity on Data Usage, Processing, and Sharing"
+            }
+        },
+        {
+            "description": "You can only provide Snap with personal data if otherwise agreed to in writing by you and Snap",
+            "type": {
+                "summary": "Written Agreement for Personal Data Provision"
             }
         }
     ]
 }
-```

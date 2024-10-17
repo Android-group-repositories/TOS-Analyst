@@ -1,14 +1,21 @@
 {
     "requirements": [
         {
-            "description": "The developer must provide a full and accurate disclosure to their End Users regarding the privacy practices and policies applicable to the Application.",
+            "description": "Your disclosure to End Users can only be complete and accurate if you provide all necessary information about the data collection and use practices associated with the Application.",
             "type": {
                 "code": "Type1",
-                "summary": "Full Disclosure Requirement"
+                "summary": "Full Disclosure to End Users"
             }
         },
         {
-            "description": "The disclosure must be in compliance with applicable laws and the Developer Terms.",
+            "description": "Your privacy practices and policies applicable to the Application can only be disclosed if you provide clear and prominent notice to End Users about the collection, use, sharing, and storage of their personal information.",
+            "type": {
+                "code": "Type1",
+                "summary": "Disclosure of Privacy Practices and Policies"
+            }
+        },
+        {
+            "description": "Compliance with applicable law and these Developer Terms can only be achieved if you adhere to all legal requirements and the provisions of these Terms.",
             "type": {
                 "code": "Type4",
                 "summary": "Legal and Developer Terms Compliance"

@@ -1,28 +1,30 @@
+Here are the rewritten descriptions in the requested format:
+
 ```json
 {
     "requirements": [
         {
-            "description": "The privacy policy must explain the use, collection, and sharing of mobile device advertising identifiers and other personal information by the company and its third-party service providers, vendors, or partners, such as Tapjoy.",
+            "description": "Your use, collection, and sharing of mobile device advertising identifiers and other personal information can only be implemented if your privacy policy describes these practices.",
             "type": {
-                "summary": "Data Collection and Sharing Disclosure"
+                "summary": "Description of Data Use by You and Third Parties"
             }
         },
         {
-            "description": "The privacy policy must cover the use of personal information for behaviorally targeted online advertising.",
+            "description": "Your privacy policy must include the use of information for behaviorally targeted online advertising.",
             "type": {
-                "summary": "Behavioral Advertising Disclosure"
+                "summary": "Inclusion of Behavioral Advertising"
             }
         },
         {
-            "description": "The privacy policy must include an opt-out link that directs users to an industry-recognized platform for opting out of online behavioral advertising.",
+            "description": "Your privacy policy must provide an opt-out link directing users to an industry-recognized opt-out from online behavioral advertising.",
             "type": {
-                "summary": "Opt-Out Link for Behavioral Advertising"
+                "summary": "Provision of Industry-Recognized Opt-Out Link"
             }
         },
         {
-            "description": "The privacy policy must provide California users with the ability to opt-out from the sale of their personal information.",
+            "description": "You must provide California users the ability to opt-out from the sale of their information.",
             "type": {
-                "summary": "California Privacy Rights Compliance"
+                "summary": "Opt-Out Option for California Users"
             }
         }
     ]
