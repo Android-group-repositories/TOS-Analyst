@@ -1,0 +1,17 @@
+#pattern3# privacy police need provide a {link to opt-out} , include {active links to opt-out resources} , to opt-out from {device by device advertising tracking}
+
+#pattern1# privacy police need {provide sufficient notice regarding rights of End Users with regard to their personal information}  ,  provide Optout mechanism  ,  to opt-out from {the Inventory}
+
+#pattern1# privacy police need {provide Optout mechanism}  ,  to opt-out from {receiving targeted ads based on their behavior and interests}
+
+#pattern2# privacy police need {to explain how End-Users can opt out of the Offerings}, to opt-out from {the Offerings}
+
+#pattern4# privacy police need provide a {link to opt-out}, include {a conspicuous link}, to opt-out from {online behavioral advertising}
+#pattern3# privacy police need provide a {link to opt-out}  ,  include {an opt-out link}
+#pattern4# privacy police need provide a {link or description to opt-out}, include {a conspicuous link}, to opt-out from {collection and use of information for ad targeting}
+#pattern1# privacy police need {provide an opt-out mechanism}, include {an option to opt out of personalized content in embedded posts and timelines}, to opt-out from {personalized content for 
+#pattern2# privacy police need {to provide an opt-out opportunity}, to opt-out from {data being sent to OneSignal}
+#pattern3# privacy police need provide a {link to opt-out} , include {active links to opt-out resources} , to opt-out from {advertising}
+
+
+Optout不需要太细致的模式，只需要关注是和否的层面

@@ -1,24 +1,24 @@
-Here are the rewritten descriptions in the requested format:
-
+```json
 {
     "requirements": [
         {
-            "description": "Your disclosure to End Users can only be complete and accurate if you provide all necessary information about the data collection and use practices associated with the Application.",
+            "description": "make a complete and accurate disclosure to your End Users",
             "type": {
-                "summary": "Full Disclosure to End Users"
+                "summary": "Full Disclosure Requirement"
             }
         },
         {
-            "description": "Your privacy practices and policies applicable to the Application can only be disclosed if you provide clear and prominent notice to End Users about the collection, use, sharing, and storage of their personal information.",
+            "description": "disclosure of the privacy practices and policies applicable to the Application",
             "type": {
-                "summary": "Disclosure of Privacy Practices and Policies"
+                "summary": "Privacy Practices Disclosure"
             }
         },
         {
-            "description": "Compliance with applicable law and these Developer Terms can only be achieved if you adhere to all legal requirements and the provisions of these Terms.",
+            "description": "disclosure must be compliant with applicable law and these Developer Terms",
             "type": {
                 "summary": "Legal and Developer Terms Compliance"
             }
         }
     ]
 }
+```

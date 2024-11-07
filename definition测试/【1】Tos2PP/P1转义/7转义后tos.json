@@ -2,13 +2,13 @@
 {
     "requirements": [
         {
-            "description": "Your Stripe Application can only be made available to the Business User if the privacy notice or privacy policy is readily accessible",
+            "description": "make the privacy notice or privacy policy applicable to your Stripe Application readily available to the Business User",
             "type": {
                 "summary": "Accessibility of Privacy Notice"
             }
         },
         {
-            "description": "This includes providing a link in your Stripe App listing in the Stripe Apps Marketplace",
+            "description": "including via a link in your Stripe App listing in the Stripe Apps Marketplace",
             "type": {
                 "summary": "Link in Marketplace Listing"
             }

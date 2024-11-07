@@ -1,42 +1,45 @@
-Description: You can use the Services only if you have a clearly labeled and easily accessible privacy policy
+Description: User will ensure that at all times you use the Services
+Type Code: Type4
+========================= pause ===========================
+Description: you (including without limitation each Mobile Property) have a clearly labeled and easily accessible privacy policy
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type2#, <You  ;  can use  ;  the Services  ;  NULL  ;  NULL  ;  NULL>  ,  <NULL>}
+{#type1#,  <you (including without limitation each Mobile Property) ; have ; a clearly labeled and easily accessible privacy policy ; NULL ; NULL ; NULL> }
 ========================= pause ===========================
-Description: Your privacy policy must comply with all applicable laws
+Description: privacy policy complies with all applicable laws
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type2#, <Your privacy policy ; must comply ; with all applicable laws ; NULL ; NULL ; NULL>, <NULL>}
+{#type1#, <privacy policy ; complies with ; all applicable laws ; NULL ; NULL ; NULL>}
 ========================= pause ===========================
-Description: You must provide end users with clear and comprehensive information about cookies
+Description: provides end users with clear and comprehensive information about cookies
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type2#, <You ; provide ; clear and comprehensive information about cookies ; to end users ; NULL ; NULL>, <NULL>}
+{#type1#, <privacy policy; provides; clear and comprehensive information about cookies; to end users; NULL; NULL>}
 ========================= pause ===========================
-Description: You must provide end users with clear and comprehensive information about device-specific information
+Description: provides end users with clear and comprehensive information about device-specific information
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type2#, <You ; provide ; clear and comprehensive information about device-specific information ; to end users ; NULL ; NULL>, <NULL>}
+{#type1#,  <  Privacy Policy  ;  provides  ;  clear and comprehensive information  ;  about device-specific information  ;  NULL  ;  NULL> }
 ========================= pause ===========================
-Description: You must provide end users with clear and comprehensive information about location information
+Description: provides end users with clear and comprehensive information about location information
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type2#, <You ; provide ; clear and comprehensive information about location information ; to end users ; NULL ; NULL>, <NULL>}
+{#type1#, <a privacy policy; provides; clear and comprehensive information about location information; to end users; NULL; NULL>}
 ========================= pause ===========================
-Description: You must provide end users with clear and comprehensive information about other information stored on, accessed on, or collected from end users' devices in connection with the Services
+Description: provides end users with clear and comprehensive information about other information stored on, accessed on, or collected from end users' devices
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type2#, <You ; provide ; clear and comprehensive information about other information stored on, accessed on, or collected from end users' devices in connection with the Services ; from end users' devices ; NULL ; NULL>, <Third party is: Services>}
+{#type1#,  <  Privacy Policy  ;  provides  ;  clear and comprehensive information  ;  about other information stored on, accessed on, or collected from end users' devices  ;  NULL  ;  NULL> }
 ========================= pause ===========================
-Description: You must provide end users with information about their options for cookie management, as applicable
-Type Code: Type3
+Description: includes, as applicable, information about end users' options for cookie management
+Type Code: Type1
 
-Processing for Type3 requirements.
-{#type3-Q1#, <NULL; NULL; NULL; NULL; NULL; NULL>, <mention opt-out : cookie management>, <need link to guidance how to opt-out>}
+Processing for Type1 requirements.
+{#type1#, <privacy policy; includes; information about end users' options for cookie management; NULL; NULL; NULL>}
 ========================= pause ===========================

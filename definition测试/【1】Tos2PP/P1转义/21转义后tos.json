@@ -2,49 +2,49 @@
 {
     "requirements": [
         {
-            "description": "A publicly accessible privacy notice within the Developer App can only be posted, maintained, and followed if it satisfies the transparency and information requirements of the Privacy Requirements and the Agreement.",
+            "description": "Developer represents and warrants that it shall conspicuously post, maintain, and abide by a publically accessible privacy notice within the Developer App",
             "type": {
-                "summary": "Maintain a Privacy Notice"
+                "summary": "Public Privacy Notice"
             }
         },
         {
-            "description": "The privacy notice must satisfy the transparency and information requirements of the Privacy Requirements and the Agreement.",
+            "description": "The privacy notice must satisfy the transparency and information requirements of the Privacy Requirements and the Agreement",
             "type": {
-                "summary": "Comply with Privacy Requirements"
+                "summary": "Compliance with Privacy Requirements"
             }
         },
         {
-            "description": "If notice cannot be provided in or around Vungle Ads, arrangements to provide notice within the Developer App or on the landing page of the Vungle Ad must be made.",
+            "description": "If notice cannot be provided in or around Vungle Ads, Developer should make arrangements to provide notice within the Developer App or on the landing page of the Vungle Ad",
             "type": {
-                "summary": "Provide Notice in Developer App or Landing Page"
+                "summary": "Alternative Notice Provision"
             }
         },
         {
-            "description": "The notice must include information about Vungle and its Demand Partner's use of Tracking Technology to collect, use, and share Ad Data.",
+            "description": "The notice shall include information about Vungle and its Demand Partner's use of Tracking Technology to collect, use, and share Ad Data",
             "type": {
                 "summary": "Disclosure of Tracking Technology Use"
             }
         },
         {
-            "description": "The notice must state that third parties may collect or receive Personal Data and use it to provide measurement services and targeted ads.",
+            "description": "The notice shall state that third parties may collect or receive Personal Data and use it to provide measurement services and targeted ads",
             "type": {
-                "summary": "Disclosure of Third Party Data Collection and Use"
+                "summary": "Disclosure of Third Party Data Use"
             }
         },
         {
-            "description": "The notice must include a conspicuous link to or description of how and where users can opt-out of collection and use of information for ad targeting.",
+            "description": "The notice shall include a conspicuous link to or description of how and where users can opt-out of collection and use of information for ad targeting",
             "type": {
                 "summary": "Opt-Out Information"
             }
         },
         {
-            "description": "The notice must describe the types of Ad Data collected, including Personal Data, and how and for what purposes the Ad Data will be used or transferred to third parties.",
+            "description": "The notice shall describe the types of Ad Data collected, including Personal Data, and how and for what purposes the Ad Data will be used or transferred to third parties",
             "type": {
-                "summary": "Description of Data Collection and Purpose"
+                "summary": "Data Collection and Usage Description"
             }
         },
         {
-            "description": "If Ad Data is protected by EU Data Protection Law, the privacy notice must include the type of Personal Data collected, the purposes of processing, categories of individuals with access, legitimate interests pursued, the identity of the Controller(s), and any other information required by the EU Data Protection Law.",
+            "description": "For Ad Data protected by EU Data Protection Law, the privacy notice shall include the type of Personal Data collected, the purposes of processing, categories of individuals with access, legitimate interests pursued, the identity of the Controller(s), and any other information required by the EU Data Protection Law",
             "type": {
                 "summary": "EU Data Protection Law Compliance"
             }

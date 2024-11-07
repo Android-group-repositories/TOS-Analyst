@@ -1,42 +1,46 @@
-Description: Personal data or personal information collected by Unity, provided to Unity, or accessed by Unity can only be processed if you represent and warrant compliance with applicable privacy and data protection laws.
+Description: You represent and warrant that with respect to any data collected by Unity, provided by you to Unity, or to which you grant Unity access under or in connection with these Terms that constitutes 'personal data' or 'personal information' as defined under applicable privacy and data protection laws
 Type Code: Type4
 ========================= pause ===========================
-Description: Data collection, disclosure, use and security practices can only be implemented if you provide clear notices, make required disclosures, and obtain necessary consent or permission from data subjects.
+Description: you agree to provide sufficiently clear, meaningful and prominent notices to, make all required disclosures to, and obtain the necessary consent or permission from any individual to whom such data relates regarding the collection, disclosure, use and security of such data
 Type Code: Type4
 ========================= pause ===========================
-Description: A privacy policy making appropriate disclosures to End-Users must be maintained, displayed and adhered to at all times.
+Description: You will at all times maintain, display and abide by a conspicuously placed privacy policy that makes appropriate disclosures to End-Users
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type2#, <A privacy policy  ;  making appropriate disclosures  ;  End-Users  ;  NULL  ;  NULL  ;  NULL>}
+{#type1#, <a privacy policy ; maintain, display and abide by ; appropriate disclosures to End-Users ; from user ; NULL ; NULL>}
 ========================= pause ===========================
-Description: Your privacy policy must comply with all applicable privacy and data protection laws, regulations, requirements, terms, and guidelines.
+Description: Your privacy policy must comply with all applicable privacy and data protection laws and regulations and/or any applicable requirements, terms, or guidelines required by your platform providers
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#, <Your privacy policy ; must comply with ; all applicable privacy and data protection laws, regulations, requirements, terms, and guidelines ; NULL ; NULL ; NULL>}
+{#type1#,  <  privacy policy  ;  comply with  ;  all applicable privacy and data protection laws and regulations and/or any applicable requirements, terms, or guidelines required by your platform providers  ;  NULL  ;  NULL  ; NULL> }
 ========================= pause ===========================
-Description: Your privacy policy must explain that Services Data will be processed in accordance with these Terms and the Unity Privacy Policy or ironSource Privacy Policy.
+Description: Your privacy policy must explain that Services Data can be processed as contemplated by these Terms and as set out in the Unity Privacy Policy, or ironSource Privacy Policy, as applicable
+Type Code: Type2
+
+Processing for Type2 requirements.
+{#type2#, <Your privacy policy ; must explain ; Services Data can be processed as contemplated by these Terms and as set out in the Unity Privacy Policy, or ironSource Privacy Policy ; NULL ; NULL ; NULL>, <Third party is: Unity Privacy Policy, ironSource Privacy Policy>}
+========================= pause ===========================
+Description: Your privacy policy must provide notice of your use of a tracking pixel, agent or any other visitor identification technology that collects, uses, shares and stores data about end users of your Application
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type2#, <Your privacy policy ; must explain ; Services Data will be processed in accordance with these Terms and the Unity Privacy Policy or ironSource Privacy Policy ; NULL ; NULL ; NULL> , <Third party is: Unity Privacy Policy and ironSource Privacy Policy> }
+{#type1#,  <privacy policy ; provide notice of ; use of a tracking pixel, agent or any other visitor identification technology that collects, uses, shares and stores data ; about end users of your Application ; NULL ; NULL> }
 ========================= pause ===========================
-Description: Your privacy policy must disclose the use of tracking pixels, agents or other technologies that collect, use, share and store data about end users.
-Type Code: Type1
+Description: Your privacy policy must include a link to the Unity Privacy Policy, or ironSource Privacy Policy, as applicable
+Type Code: Type2
 
-Processing for Type1 requirements.
-{#type2#, <Your privacy policy ; must disclose ; the use of tracking pixels, agents or other technologies that collect, use, share and store data ; about end users ; NULL ; NULL>, <Third party is: NULL>}
+Processing for Type2 requirements.
+{#type2#, <Your privacy policy ; must include ; a link to the Unity Privacy Policy, or ironSource Privacy Policy ; NULL ; NULL ; as applicable>, <need LINK to : Unity Privacy Policy or ironSource Privacy Policy>}
 ========================= pause ===========================
-Description: Your privacy policy must include a link to the Unity Privacy Policy or ironSource Privacy Policy, as applicable.
-Type Code: Type1
-
-Processing for Type1 requirements.
-{#type2#, <Your privacy policy ; must include ; a link to the Unity Privacy Policy or ironSource Privacy Policy ; NULL ; NULL ; NULL>, <Third party is: Unity Privacy Policy or ironSource Privacy Policy>}
-========================= pause ===========================
-Description: Your privacy policy must explain how End-Users can opt out of the Offerings, if applicable.
+Description: Your privacy policy must explain how End-Users can opt out of the Offerings, if applicable
 Type Code: Type3
 
 Processing for Type3 requirements.
-{#type3-Q1#, <NULL; NULL; NULL; NULL; NULL; NULL>, <mention opt out>, <NULL>}
+{
+  "#type3-Q1#": null,
+  "privacy_policy_opt_out": "<mention opt-out : Offerings>",
+  "opt_out_guidance_link": <NULL>
+}
 ========================= pause ===========================

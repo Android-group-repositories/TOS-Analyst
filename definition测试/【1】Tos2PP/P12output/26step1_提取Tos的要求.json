@@ -1,7 +1,7 @@
 {
     "requirements": [
         {
-            "description": "Your App can only be submitted to the Zoom Marketplace if you provide your terms of service, privacy policy, and support information ('Your Terms').",
+            "description": "You will need to provide to the Zoom Marketplace, with your App, your terms of service, privacy policy and support information ('Your Terms').",
             "type": {
                 "code": "Type1",
                 "summary": "Submission of Terms and Policies"

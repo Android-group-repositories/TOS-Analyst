@@ -1,31 +1,24 @@
 {
     "requirements": [
         {
-            "description": "You can only post a privacy policy if it is conspicuous and legally adequate",
+            "description": "You must post and abide by a conspicuous and legally adequate privacy policy on each application and/or service of the Publisher Network",
             "type": {
                 "code": "Type1",
-                "summary": "Post a Legally Adequate Privacy Policy"
+                "summary": "Maintain a visible and legally sufficient privacy policy"
             }
         },
         {
-            "description": "Your privacy policy can only be posted on each application and/or service of the Publisher Network if it is conspicuous and legally adequate",
-            "type": {
-                "code": "Type1",
-                "summary": "Policy Disclosure on All Publisher Network Services"
-            }
-        },
-        {
-            "description": "Your data collection practices can only involve third parties such as MoPub if your privacy policy discloses this collection",
+            "description": "The privacy policy must disclose the collection of Service Data by third parties such as MoPub",
             "type": {
                 "code": "Type2",
-                "summary": "Disclosure of Third-Party Data Collection"
+                "summary": "Disclosure of third-party data collection"
             }
         },
         {
-            "description": "Your data collection practices can only be for personalized advertising purposes if your policy specifies this",
+            "description": "The collection is for personalized advertising purposes",
             "type": {
-                "code": "Type1",
-                "summary": "Purpose of Data Collection Disclosure"
+                "code": "Type4",
+                "summary": "Purpose of data collection"
             }
         }
     ]

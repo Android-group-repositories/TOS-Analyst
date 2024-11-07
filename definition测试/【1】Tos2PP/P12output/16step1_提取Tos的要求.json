@@ -1,24 +1,24 @@
 {
     "requirements": [
         {
-            "description": "Your use of our Services can only be implemented if you provide notice to your users of the data collection and disclosure practices involved and obtain their consent.",
+            "description": "Your first-party relationship with your user means that, as between you and us, you are better situated to provide notice to your users of the data collection and disclosure practices involved in your use of our Services and to obtain their consent.",
             "type": {
-                "code": "Type1",
-                "summary": "Responsibility for User Notification"
+                "code": "Type4",
+                "summary": "Responsibility for User Notification and Consent"
             }
         },
         {
-            "description": "Using our Services is only permissible if you provide appropriate notices to users of your application(s) about data collection and use practices related to your use of our Services.",
+            "description": "As a condition of using our Services, you must provide appropriate notices to users of your application(s) about data collection and use practices related to your use of our Services.",
             "type": {
                 "code": "Type1",
-                "summary": "Provision of Notice to Users"
+                "summary": "Provision of Data Collection Notices"
             }
         },
         {
-            "description": "Our Services can only be used if you obtain user consent to the data collection and use practices, including for rewarding user engagement and behaviorally targeted online advertising.",
+            "description": "You must obtain their consent to the Services' data collection and use, including use to reward users for their engagement with Campaign Content (for incentivized campaign types) and use for behaviorally targeted online advertising.",
             "type": {
-                "code": "Type1",
-                "summary": "Obtaining User Consent"
+                "code": "Type4",
+                "summary": "Obtaining User Consent for Data Use"
             }
         }
     ]

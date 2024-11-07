@@ -1,42 +1,42 @@
 {
     "requirements": [
         {
-            "description": "只有当你配置Sentry发送数据时，Sentry才会收集数据。",
+            "description": "Sentry仅收集您配置发送到Sentry的数据。",
             "type": {
                 "code": "Type4",
                 "summary": "数据收集控制"
             }
         },
         {
-            "description": "这些数据通常包括软件错误（错误）、API调用、页面加载或来自你的应用程序的类似请求和响应（事务）。",
+            "description": "这些数据通常包括软件错误（错误）、API调用、页面加载或来自您的应用程序的类似请求和响应（事务）。",
             "type": {
                 "code": "Type4",
                 "summary": "数据收集范围"
             }
         },
         {
-            "description": "默认情况下，Sentry收集的数据不包含任何个人身份识别信息（PII）。",
+            "description": "Sentry默认收集的数据不包括任何个人身份识别信息（PII）。",
             "type": {
                 "code": "Type4",
                 "summary": "默认数据收集排除PII"
             }
         },
         {
-            "description": "你可以向Sentry发送额外的上下文和元数据，包括用户名、电子邮件地址，或者通过附加文件（如日志或崩溃报告）发送。",
+            "description": "您可以通过添加额外的上下文和元数据，包括用户名、电子邮件地址，或附加日志文件或崩溃报告等文件，来增加发送到Sentry的数据。",
             "type": {
                 "code": "Type4",
                 "summary": "用PII增强数据"
             }
         },
         {
-            "description": "只有当你发送数据以提供应用程序监控服务时，Sentry才会处理数据。",
+            "description": "Sentry处理您发送的数据以提供应用程序监控服务。",
             "type": {
                 "code": "Type4",
                 "summary": "数据处理目的"
             }
         },
         {
-            "description": "你必须在你的应用隐私政策中披露和/或包含通过你的应用收集的所有类型的数据，包括发送给Sentry的数据。",
+            "description": "您需要在应用程序隐私政策中披露和/或包含您通过应用程序收集的所有类型的数据，包括您发送到Sentry的数据。",
             "type": {
                 "code": "Type1",
                 "summary": "隐私政策披露要求"

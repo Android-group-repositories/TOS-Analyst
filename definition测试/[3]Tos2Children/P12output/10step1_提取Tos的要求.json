@@ -1,0 +1,25 @@
+{
+    "requirements": [
+        {
+            "description": "Customers must configure the Services to prevent transmission of End User Data from Children to any Integrated Partner unless the Integrated Partner's service is designed to support and process such data and explicitly allows transmission of End User Data related to Children.",
+            "type": {
+                "code": "Type2",
+                "summary": "Transmission of Children's Data to Integrated Partners"
+            }
+        },
+        {
+            "description": "The Integrated Partner must have a service specifically tailored to support and process End User Data from Children.",
+            "type": {
+                "code": "Type2",
+                "summary": "Service Tailored for Children's Data"
+            }
+        },
+        {
+            "description": "The Integrated Partner must permit the Customer to transmit End User Data related to Children to them.",
+            "type": {
+                "code": "Type2",
+                "summary": "Permission from Integrated Partner"
+            }
+        }
+    ]
+}

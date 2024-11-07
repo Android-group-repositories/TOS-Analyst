@@ -1,0 +1,39 @@
+{
+    "requirements": [
+        {
+            "description": "公司在处理16岁以下儿童的个人数据时，必须确保遵守GDPR、COPPA和其他数据保护法律。",
+            "type": {
+                "code": "Type1",
+                "summary": "遵守儿童数据保护法律"
+            }
+        },
+        {
+            "description": "公司不得将Nuance的服务用于主要针对16岁以下儿童的在线网站、服务或产品。",
+            "type": {
+                "code": "Type1",
+                "summary": "禁止使用Nuance服务进行主要针对儿童的内容"
+            }
+        },
+        {
+            "description": "如果公司将Nuance软件用于针对儿童的网站，它不得向Nuance发送任何儿童数据。",
+            "type": {
+                "code": "Type2",
+                "summary": "不得将儿童数据传输给Nuance用于针对儿童的服务"
+            }
+        },
+        {
+            "description": "对于可能被16岁以下儿童访问的混合或普通受众网站，公司必须有可验证的父母同意机制，并就向Nuance传输儿童数据及Nuance收集和处理此类数据提供充分的通知。",
+            "type": {
+                "code": "Type2",
+                "summary": "非针对儿童服务的父母同意和通知要求"
+            }
+        },
+        {
+            "description": "Nuance不被视为COPPA定义下的运营商。",
+            "type": {
+                "code": "Type4",
+                "summary": "Nuance在COPPA下的地位"
+            }
+        }
+    ]
+}

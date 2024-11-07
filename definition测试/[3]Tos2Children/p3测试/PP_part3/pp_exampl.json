@@ -1,0 +1,35 @@
+{
+    "requirements": [
+        
+        {
+            "description": "The privacy policy must at least specify the data sets to be collected or allowed to be collected, the use cases related to personal data/information, and how these data will be shared with certain third parties in applicable use cases.",
+            "type": {
+                "code": "Type2",
+                "summary": "InMobi "
+            }
+        },
+        {
+            "description": "How you use and share that information (including with X).",
+            "type": {
+                "code": "Type2",
+                "summary": "Twitter "
+            }
+        },
+        {
+            "description": "Your privacy policy must describe how you and third parties use, collect, and share mobile device advertising identifiers and other personal information",
+            "type": {
+                "code": "Type2",
+                "summary": "Tapjoy "
+            }
+        },
+        {
+            "description": "clearly and accurately describes to Users what user information Developer collects and how Developer uses and shares that information",
+            "type": {
+                "code": "Type1",
+                "summary": "DropBox"
+            }
+        }
+        
+
+    ]
+}

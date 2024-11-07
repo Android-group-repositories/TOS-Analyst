@@ -1,0 +1,18 @@
+{
+    "requirements": [
+        {
+            "description": "采取合理措施，防止13岁以下用户使用Stripe应用程序。",
+            "type": {
+                "code": "Type1",
+                "summary": "防止未成年人使用"
+            }
+        },
+        {
+            "description": "确保Stripe应用程序不收集已知为13岁以下或根据适用的数据保护法律需要父母同意的年龄的用户个人数据。",
+            "type": {
+                "code": "Type1",
+                "summary": "禁止收集未成年人的个人数据"
+            }
+        }
+    ]
+}

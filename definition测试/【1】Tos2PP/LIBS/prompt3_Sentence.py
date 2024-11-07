@@ -45,15 +45,12 @@ privacy policy provide notice of  use of a tracking pixel, agent or any other vi
 Output example2:
 {#type1#,  <  privacy policy ;  provide notice of   ;  privacy policy provide notice of  use of a tracking pixel, agent or any other visitor identification technology that collects, uses, shares and stores data      ;  about end users of your Application  ; NULL  ; NULL> }
 
+
+
+
 Input example3:
-Such privacy policy shall also mention use of third parties service and use of cookies for the purposes of attribution and/or serving targeted Advertisements.
-Output example3:
-{#type1#,  <  Such privacy policy ;  shall also mention   ;  use of third parties service and use of cookies    ;  NULL  ;  for the purposes of attribution and/or serving targeted Advertisements.  ; NULL> }
-
-
-Input example4:
 The privacy policy must specifically address the use of personal information for behaviorally targeted online advertising.
-Output example4:
+Output example3:
 {#type1#,  <  The privacy policy  ;    address    ;    the use of personal information  ;  NULL  ;  for behaviorally targeted online advertising  ;  NULL>}
 
 
@@ -104,7 +101,7 @@ Output example3:
 Input example4:
 Customer's privacy policy should disclose RevenueCat's and Stripe's processing of personally identifiable information relating to such users
 Output example4:
-{#type2#,  < Customer's privacy policy ;  dshould disclose  ;  RevenueCat's and Stripe's processing of personally identifiable information relating to such users  ;  NULL  ;  NULL  ;  NULL>  ,  <Third party is: RevenueCat and Stripe  > }
+{#type2#,  < Customer's privacy policy ;  should disclose  ;  RevenueCat's and Stripe's processing of personally identifiable information relating to such users  ;  NULL  ;  NULL  ;  NULL>  ,  <Third party is: RevenueCat and Stripe  > }
 
 
 Input example5:
@@ -139,19 +136,16 @@ If TOS requires developers to describe and opt out related terms in their privac
 
 Input example1:
 provide a mechanism for which an End User may opt-out of receiving targeted ads Output Example , A link to guide users on optout
-
 Output example1:
 {#type3#,<  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  >  ,   <mention opt-out : receiving targeted ads>  ,  <need link to guide how to opt-out> }
 
 
 Input example2;
 This privacy policy must, at a minimum, clearly describe the data sets that are collected or permitted to be collected, including a clear statement that such data may be shared with specific third parties for certain use cases and that mechanisms for opting out be clearly established.
-
 Output example2:
 {#type3#, <  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  >  ,  <mention opt-out : data processing >  ,  <NULL> }
 
 
-增加情况 3 没有data processing DONE
 
 Input example3:
 You provide sufficient notice for mechanisms of Opt Out (defined below) elections which You agree to comply with, if applicable to the Inventory.

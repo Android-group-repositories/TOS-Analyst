@@ -1,18 +1,18 @@
-Description: Compliance with all applicable privacy laws is required
+Description: The Parties agree to comply with all applicable privacy laws
 Type Code: Type4
 ========================= pause ===========================
-Description: Information collection from End User's device or browser by OneSignal can only be done if Licensee obtains all applicable consents
+Description: Licensee is responsible for obtaining all applicable consents required to enable OneSignal to collect information from End User's device or browser
 Type Code: Type4
 ========================= pause ===========================
-Description: Licensee must publish privacy policies and disclosures for the Properties that comply with applicable law and the terms of this EULA
+Description: Licensee shall publish privacy policies and disclosures for the Properties that comply with applicable law and the terms of this EULA
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type2#, <Licensee  ;  must publish  ;  privacy policies and disclosures  ;  for the Properties  ;  comply with applicable law and the terms of this EULA  ;  NULL>  ,  <NULL>}
+{#type1#,  <  Licensee  ;  publish  ;  privacy policies and disclosures  ;  for the Properties  ;  comply with applicable law and the terms of this EULA  ;  NULL> }
 ========================= pause ===========================
-Description: The privacy policies must clearly disclose that the SDK Information will be collected and specify its usage as set forth in Section 5
+Description: The privacy policies must include clear disclosures that the SDK Information will be collected and how it may be used, as set forth in Section 5
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type2#, <The privacy policies ; must clearly disclose ; the SDK Information will be collected and specify its usage ; NULL ; as set forth in Section 5 ; NULL> , <Third party is: NULL>}
+{#type1#,  <  The privacy policies  ;  include clear disclosures  ;  the SDK Information will be collected and how it may be used  ;  NULL  ;  as set forth in Section 5  ;  NULL> }
 ========================= pause ===========================

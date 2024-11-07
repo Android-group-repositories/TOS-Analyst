@@ -1,0 +1,27 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "AppLovin 不会故意收集儿童的个人数据，也不会向儿童展示广告。",
+            "type": {
+                "code": "Type1",
+                "summary": "不得收集或使用儿童的个人信息"
+            }
+        },
+        {
+            "description": "开发者不得向 AppLovin 提供儿童的个人信息，也不得使用服务向儿童展示广告。",
+            "type": {
+                "code": "Type1",
+                "summary": "禁止处理儿童个人信息以及向他们展示广告"
+            }
+        },
+        {
+            "description": "开发者不得将服务用于任何专门设计或专门针对儿童的属性。",
+            "type": {
+                "code": "Type1",
+                "summary": "不得将服务用于专门面向儿童的属性"
+            }
+        }
+    ]
+}
+```

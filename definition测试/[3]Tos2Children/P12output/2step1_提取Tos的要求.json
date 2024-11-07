@@ -1,0 +1,39 @@
+{
+    "requirements": [
+        {
+            "description": "You agree not to use any Service for applications labeled or described as 'Kids' or 'Children' applications.",
+            "type": {
+                "code": "Type1",
+                "summary": "Prohibition on using Service for child-directed applications"
+            }
+        },
+        {
+            "description": "You agree not to use any Service in connection with applications, advertisements, or services directed towards children under the age of 17.",
+            "type": {
+                "code": "Type1",
+                "summary": "Prohibition on targeting children under 17 with Service"
+            }
+        },
+        {
+            "description": "You agree not to collect any personal information from children.",
+            "type": {
+                "code": "Type1",
+                "summary": "Prohibition on collecting children's personal information"
+            }
+        },
+        {
+            "description": "You agree not to request or permit any Ad Partner or Attribution Partner to transmit any personal information from children under the age of 17 to Flurry.",
+            "type": {
+                "code": "Type2",
+                "summary": "Prohibition on third-party transmission of children's personal information"
+            }
+        },
+        {
+            "description": "Compliance with the Network Advertising Initiative 2020 Code of Conduct, Section D.II.1 is required.",
+            "type": {
+                "code": "Type4",
+                "summary": "Compliance with NAI Code of Conduct"
+            }
+        }
+    ]
+}

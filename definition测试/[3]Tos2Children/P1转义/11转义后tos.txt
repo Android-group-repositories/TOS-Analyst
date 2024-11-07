@@ -1,0 +1,18 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "You must ensure that no applications within the Publisher Network are directed to children under the age of 13 as defined by COPPA.",
+            "type": {
+                "summary": "No child-directed applications in the Publisher Network"
+            }
+        },
+        {
+            "description": "You must not transmit any Personal Information of individuals under 13 years old to MoPub, as defined by COPPA.",
+            "type": {
+                "summary": "No transmission of personal information of children under 13 to MoPub"
+            }
+        }
+    ]
+}
+```

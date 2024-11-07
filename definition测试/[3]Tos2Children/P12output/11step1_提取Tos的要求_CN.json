@@ -1,0 +1,25 @@
+{
+    "requirements": [
+        {
+            "description": "You represent and warrant that (i) no application within the Publisher Network is a website or online service directed to children, as defined under the Children’s Online Privacy Protection Act (“COPPA”), and (ii) You will not transmit any “Personal Information” (as defined under COPPA) about or relating to an individual under the age of 13 to MoPub.",
+            "type": {
+                "code": "Type1",
+                "summary": "Ensure no child-directed applications and no transmission of children's personal information to MoPub"
+            }
+        }
+    ]
+}
+
+翻译成中文如下：
+
+{
+    "requirements": [
+        {
+            "description": "您声明并保证：(i) 出版商网络中的任何应用程序都不是针对儿童的网站或在线服务，如《儿童在线隐私保护法》（“COPPA”）所定义，并且 (ii) 您不会将任何“个人信息”（如COPPA所定义）关于或与13岁以下个人相关的信息传输给MoPub。",
+            "type": {
+                "code": "Type1",
+                "summary": "确保没有针对儿童的应用程序，并且不向MoPub传输儿童的个人信息"
+            }
+        }
+    ]
+}

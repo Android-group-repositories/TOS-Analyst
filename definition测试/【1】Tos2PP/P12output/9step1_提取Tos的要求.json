@@ -1,45 +1,45 @@
 {
     "requirements": [
         {
-            "description": "People can only download, install, or sign up to your service if your service's privacy policy is displayed to them.",
+            "description": "You must display your service's privacy policy to people before they are permitted to download, install, or sign up to your service.",
             "type": {
                 "code": "Type1",
-                "summary": "Display Privacy Policy Before Service Use"
+                "summary": "Display Privacy Policy Before Service Access"
             }
         },
         {
-            "description": "Your privacy policy must disclose the information that you collect from people who use your service.",
+            "description": "Your privacy policy must disclose at least the following information: The information that you collect from people who use your service.",
             "type": {
                 "code": "Type1",
                 "summary": "Disclosure of Collected Information"
             }
         },
         {
-            "description": "Your privacy policy must explain how you use and share that information (including with X).",
+            "description": "How you use and share that information (including with X).",
             "type": {
                 "code": "Type2",
-                "summary": "Disclosure of Information Use and Sharing"
+                "summary": "Usage and Sharing Information"
             }
         },
         {
-            "description": "Your privacy policy must provide contact information for people to inquire and request regarding their information.",
+            "description": "How people can contact you with inquiries and requests regarding their information.",
             "type": {
                 "code": "Type1",
                 "summary": "Contact Information for Privacy Inquiries"
             }
         },
         {
-            "description": "Your privacy policy must be consistent with all applicable laws and be no less protective of people than X's Privacy Policy and the privacy policy of our other services and corporate affiliates.",
+            "description": "Your privacy policy must be consistent with all applicable laws, and be no less protective of people than X's Privacy Policy and the privacy policy of our other services and corporate affiliates.",
             "type": {
                 "code": "Type1",
-                "summary": "Privacy Policy Legal and Protective Standards"
+                "summary": "Policy Consistency and Legal Compliance"
             }
         },
         {
             "description": "You must cease your access to the X API and the use of all X Content if you are unable to comply with your and/or X's Privacy Policy.",
             "type": {
                 "code": "Type4",
-                "summary": "Compliance with Privacy Policy Requirement"
+                "summary": "Cessation of Access for Non-Compliance"
             }
         }
     ]

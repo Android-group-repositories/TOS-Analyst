@@ -1,0 +1,298 @@
+{
+    "requirements": [
+        {
+            "description": "The customer is responsible for maintaining the security of user IDs, passwords, and other access credentials.",
+            "type": {
+                "code": "Type1",
+                "summary": "Customer Responsibility for Security"
+            }
+        },
+        {
+            "description": "The customer must ensure that these access credentials are kept strictly confidential.",
+            "type": {
+                "code": "Type1",
+                "summary": "Confidentiality of Access Credentials"
+            }
+        },
+        {
+            "description": "The customer must not share access credentials with any unauthorized person or entity.",
+            "type": {
+                "code": "Type2",
+                "summary": "Prohibition on Sharing with Unauthorized Entities"
+            }
+        },
+        {
+            "description": "Mixpanel does not sell, lease, rent, or otherwise share customer content for consideration.",
+            "type": {
+                "code": "Type2",
+                "summary": "No commercial sharing of customer content"
+            }
+        },
+        {
+            "description": "Mixpanel will share customer content only under specific circumstances.",
+            "type": {
+                "code": "Type2",
+                "summary": "Limited sharing of customer content"
+            }
+        },
+        {
+            "description": "Customers with services/apps directed to children are subject to COPPA.",
+            "type": {
+                "code": "Type3",
+                "summary": "Compliance with Children's Online Privacy Protection Act"
+            }
+        },
+        {
+            "description": "Customers are not allowed to share personal identifiers with partners of Adjust or other third parties.",
+            "type": {
+                "code": "Type2",
+                "summary": "Prohibition on sharing personal identifiers with third parties"
+            }
+        },
+        {
+            "description": "Personal identifiers include IP addresses, IDFA, IDFV, Android ID, Google Play Advertising ID, Google Play Store Referrer, Windows Hardware ID, Windows NetworkID, Windows Phone Device ID, and UUIDs,These identifiers are potentially data collected within the services",
+            "type": {
+                "code": "Type1",
+                "summary": "Definition of personal identifiers"
+            }
+        },
+        {
+            "description": "For more information on COPPA's definition of services directed to children and requirements, see the provided link.",
+            "type": {
+                "code": "Type3",
+                "summary": "Additional information on COPPA requirements"
+            }
+        },
+        {
+            "description": "You may not publicly display PayPal user information without the express consent of the PayPal user.",
+            "type": {
+                "code": "Type1",
+                "summary": "Restriction on Public Display of User Information"
+            }
+        },
+        {
+            "description": "You may not sell, lease, rent, transfer, assign, or otherwise disclose PayPal user information to a third party.",
+            "type": {
+                "code": "Type2",
+                "summary": "Prohibition on Disclosure of User Information"
+            }
+        },
+        {
+            "description": "You may not collect personal information directly from your user, a PayPal user, or any other third party on behalf of PayPal.",
+            "type": {
+                "code": "Type2",
+                "summary": "Prohibition on collecting personal information"
+            }
+        },
+        {
+            "description": "You may not collect financial information directly from your user, a PayPal user, or any other third party on behalf of PayPal.",
+            "type": {
+                "code": "Type2",
+                "summary": "Prohibition on collecting financial information"
+            }
+        },
+        {
+            "description": "You may not collect business information directly from your user, a PayPal user, or any other third party on behalf of PayPal.",
+            "type": {
+                "code": "Type2",
+                "summary": "Prohibition on collecting business information"
+            }
+        },
+        {
+            "description": "You may not collect any other information directly from your user, a PayPal user, or any other third party on behalf of PayPal.",
+            "type": {
+                "code": "Type2",
+                "summary": "Prohibition on collecting any other type of information"
+            }
+        },
+        {
+            "description": "You may not collect, capture, use or store PayPal Prohibited User Information such as passwords, PINs, and security questions and answers.",
+            "type": {
+                "code": "Type1",
+                "summary": "Prohibition on handling certain types of user credentials"
+            }
+        },
+        {
+            "description": "You may not collect, capture, use or store PayPal Prohibited User Information including identifiers used for tax or claiming government benefits, national identity numbers, passport numbers, driver' license numbers, and any other government issued identifiers.",
+            "type": {
+                "code": "Type1",
+                "summary": "Prohibition on handling certain types of personal identifiers"
+            }
+        },
+        {
+            "description": "You may not collect, capture, use or store PayPal Prohibited User Information such as full bank account numbers, full credit/debit card numbers, and credit card expiration dates or CVV2 numbers.",
+            "type": {
+                "code": "Type1",
+                "summary": "Prohibited Collection of Sensitive Financial Data"
+            }
+        },
+        {
+            "description": "You agree not to store personal data using Stripe apps interfaces, except as needed for your Stripe app listing.",
+            "type": {
+                "code": "Type1",
+                "summary": "Restriction on Storing Personal Data"
+            }
+        },
+        {
+            "description": "You agree not to store personal health data using Stripe apps interfaces.",
+            "type": {
+                "code": "Type1",
+                "summary": "Prohibition on Storing Personal Health Data"
+            }
+        },
+        {
+            "description": "You agree not to store data that could infringe upon intellectual property rights using Stripe apps interfaces.",
+            "type": {
+                "code": "Type1",
+                "summary": "Prohibition on Storing Infringing Data"
+            }
+        },
+        {
+            "description": "Developers are prohibited from using the Vungle SDK, Vungle Platform, or any data collected through these means, except as explicitly allowed in the agreement.",
+            "type": {
+                "code": "Type1",
+                "summary": "Limited Use of Vungle SDK and Platform"
+            }
+        },
+        {
+            "description": "Developers are also prohibited from allowing third parties to use the Vungle SDK, Vungle Platform, or any data accessed via these tools, beyond what is permitted in the agreement.",
+            "type": {
+                "code": "Type2",
+                "summary": "Prohibition on Third-Party Use Beyond Agreement Scope"
+            }
+        },
+        {
+            "description": "The agreement explicitly forbids the use of the Vungle SDK or Platform to re-identify individual end users.",
+            "type": {
+                "code": "Type1",
+                "summary": "Prohibition on Re-identification of Users"
+            }
+        },
+        {
+            "description": "AppsFlyer strictly prohibits the use of its services or developer tools to collect, store, upload, process, or transmit restricted data to AppsFlyer or any third party.",
+            "type": {
+                "code": "Type1",
+                "summary": "Prohibition on handling restricted data"
+            }
+        },
+        {
+            "description": "Customers are not allowed to configure the services or developer tools to enable the collection, transmission, or storage of restricted data through the services.",
+            "type": {
+                "code": "Type1",
+                "summary": "Prohibition on enabling restricted data collection"
+            }
+        },
+        {
+            "description": "You may use service data for internal business purposes.",
+            "type": {
+                "code": "Type1",
+                "summary": "Internal Use of Service Data"
+            }
+        },
+        {
+            "description": "Use of service data must comply with all applicable privacy policies, laws, rules, regulations, and industry self-regulatory regimes.",
+            "type": {
+                "code": "Type1",
+                "summary": "Compliance with Legal and Regulatory Frameworks"
+            }
+        },
+        {
+            "description": "You must obtain any necessary consents, waivers, approvals, authorizations, and clearances from end users as required by applicable laws.",
+            "type": {
+                "code": "Type1",
+                "summary": "Obtaining User Consents and Authorizations"
+            }
+        },
+        {
+            "description": "It shall not use the services in breach of this agreement.",
+            "type": {
+                "code": "Type3",
+                "summary": "Compliance with Agreement"
+            }
+        },
+        {
+            "description": "It shall not process, transfer or share any data without prior written consent of StartApp or in violation of StartApp end user privacy policy.",
+            "type": {
+                "code": "Type2",
+                "summary": "Data Handling Consent"
+            }
+        },
+        {
+            "description": "It shall not use the services for any illegal, immoral or unauthorized purpose.",
+            "type": {
+                "code": "Type3",
+                "summary": "Prohibition of Illegal and Immoral Use"
+            }
+        },
+        {
+            "description": "It shall not represent that publisher inventory is certified or endorsed by StartApp.",
+            "type": {
+                "code": "Type3",
+                "summary": "No Misrepresentation of Endorsement"
+            }
+        },
+        {
+            "description": "It shall not use StartApp' brand, trademarks, or service marks without prior written consent of StartApp.",
+            "type": {
+                "code": "Type3",
+                "summary": "Branding and Trademark Usage Consent"
+            }
+        },
+        {
+            "description": "No sensitive personal information should be used with the service, except as permitted under section 4.5 (Protected Health Information).",
+            "type": {
+                "code": "Type1",
+                "summary": "Restriction on Sensitive Personal Information"
+            }
+        },
+        {
+            "description": "The service is not intended to meet legal obligations, including HIPAA requirements, and Sentry is not a business associate under HIPAA, unless specified in a BAA.",
+            "type": {
+                "code": "Type3",
+                "summary": "Service Not Intended for HIPAA Compliance"
+            }
+        },
+        {
+            "description": "Sensitive personal information should be used with the service only if permitted under section 4.5 (Protected Health Information).",
+            "type": {
+                "code": "Type1",
+                "summary": "No Liability for Sensitive Personal Information"
+            }
+        },
+        {
+            "description": "Do not copy, use, or store any Dropbox login credentials such as name, email address, and password",
+            "type": {
+                "code": "Type1",
+                "summary": "Prohibition on unauthorized use of user credentials"
+            }
+        },
+        {
+            "description": "The use of Dropbox login credentials is only allowed in connection with the initial user authentication",
+            "type": {
+                "code": "Type1",
+                "summary": "Limited use of user credentials for authentication"
+            }
+        },
+        {
+            "description": "The handling of Dropbox login credentials is restricted to within the developer's app only",
+            "type": {
+                "code": "Type1",
+                "summary": "Scope limitation for handling user credentials"
+            }
+        },
+        {
+            "description": "Only access, store, transfer, and process user data as directed by the user, including through a developer app's configuration settings.",
+            "type": {
+                "code": "Type1",
+                "summary": "Compliance with User Instructions for Data Handling"
+            }
+        },
+        {
+            "description": "You may not use any Zoom data or other users' data from the site or services for advertising purposes or for targeting advertisements.",
+            "type": {
+                "code": "Type2",
+                "summary": "Prohibition on using user data for advertising"
+            }
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+儿童
+
+#pattern4# your app {can} {use sdk-service} ; {user:child} ; when {obtained verifiable and freely given consent of a child's parent or guardian}
+#pattern2# your app {can} {use Stripe Application} ; {user:under the age of 13} ; when {Implement reasonable measures to prevent}
+#pattern2# your app {cannot} {collect Personal Data} ; {user:under the age of 13 or the age that requires parental consent} ; when {as per applicable data protection laws}
+#pattern2# your app {can} {contact DPO@unity3d.com} ; {user:child under the age to provide lawful consent} ; when {become aware of receiving Personal Information}
+-- #pattern2# your app {can} {collect data} ; {user: depending on region} ; when {age of consent varies by region, such as 13 in the U.S., 16 in the E.U., and 16 in Japan}
+#pattern2# your app {must} {ensure compliance with GDPR, COPPA, and other data protection laws} ; {user:children under 16 years old} ; when {handling personal data}
+#pattern2# your app {cannot} {gather, utilize, or disclose} {personal location data} ; {user: children younger than 14} ; when {secure the approval of both the child and their legal guardian}
+
+
+
+Data
+#pattern4# your app {can} {use service data} ; {user} ; when {comply with all applicable privacy policies, laws, rules, regulations, and industry self-regulatory regimes}
+#pattern4# your app {can} {use sensitive personal information with sdk-service} ; {user:all users} ; when {permitted under section 4.5 (Protected Health Information)}
+#pattern4# your app {can} {use Dropbox login credentials} ; {user} ; when {allowed in connection with user authentication}
+#pattern4# your app {can} {handle Dropbox login credentials} ; when {within the developer's app only}

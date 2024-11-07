@@ -1,0 +1,11 @@
+{
+    "requirements": [
+        {
+            "description": "Services intended for children under 13 years old must include an option to opt out of personalized content in embedded posts and timelines.",
+            "parameter": "The opt-out parameter must be set to 'true' as per the instructions provided.",
+            "type": {
+                "summary": "Opt-out Requirement for Children's Services"
+            }
+        }
+    ]
+}

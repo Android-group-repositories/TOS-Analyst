@@ -1,0 +1,32 @@
+{
+    "requirements": [
+        {
+            "description": "服务旨在为一般受众设计，并非针对儿童。",
+            "type": {
+                "code": "Type1",
+                "summary": "目标受众"
+            }
+        },
+        {
+            "description": "我们不会故意收集13岁以下儿童的个人信息。",
+            "type": {
+                "code": "Type1",
+                "summary": "不收集13岁以下儿童的个人信息"
+            }
+        },
+        {
+            "description": "如果我们意识到某个未达到其地区提供法律同意处理年龄的儿童向我们提供了个人信息，应通过DPO@unity3d.com与我们联系。",
+            "type": {
+                "code": "Type1",
+                "summary": "意外收集儿童个人信息的报告机制"
+            }
+        },
+        {
+            "description": "同意处理数据的年龄因地区而异，例如美国为13岁，欧盟和日本为16岁。",
+            "type": {
+                "code": "Type1",
+                "summary": "不同地区数据处理同意年龄的差异"
+            }
+        }
+    ]
+}

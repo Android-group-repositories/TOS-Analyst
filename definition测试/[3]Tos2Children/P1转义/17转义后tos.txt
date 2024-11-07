@@ -1,0 +1,28 @@
+{
+    "requirements": [
+        {
+            "description": "The Services are designed for general audiences and are not intended for children.",
+            "type": {
+                "summary": "Intended audience"
+            }
+        },
+        {
+            "description": "We do not intentionally collect Personal Information from children under the age of 13.",
+            "type": {
+                "summary": "No collection of personal information from children under 13"
+            }
+        },
+        {
+            "description": "If we become aware that a child under the age to provide lawful consent to processing in their region has provided us with Personal Information, we should be contacted at DPO@unity3d.com.",
+            "type": {
+                "summary": "Reporting mechanism for unintended collection of children's personal information"
+            }
+        },
+        {
+            "description": "The age of consent varies by region, such as 13 in the U.S., 16 in the E.U., and 16 in Japan.",
+            "type": {
+                "summary": "Varying age of consent for data processing by region"
+            }
+        }
+    ]
+}

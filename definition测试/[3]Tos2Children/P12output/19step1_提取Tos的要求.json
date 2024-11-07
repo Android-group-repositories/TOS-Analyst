@@ -1,0 +1,18 @@
+{
+    "requirements": [
+        {
+            "description": "Implement reasonable measures to prevent the Stripe Application from being used by users under the age of 13.",
+            "type": {
+                "code": "Type1",
+                "summary": "Prevention of underage use"
+            }
+        },
+        {
+            "description": "Ensure that the Stripe Application does not collect Personal Data from users who are known to be under the age of 13 or the age that requires parental consent as per applicable data protection laws.",
+            "type": {
+                "code": "Type1",
+                "summary": "Prohibition on collecting personal data from minors"
+            }
+        }
+    ]
+}

@@ -1,1 +1,1 @@
-<Description: Your App can only be submitted to the Zoom Marketplace if you provide your terms of service, privacy policy, and support information ('Your Terms').>{#type2#, <Your Terms  ;  can be submitted  ;  Your App  ;  to the Zoom Marketplace  ;  NULL  ;  NULL>  ,  <NULL>}
+<Description: You will need to provide to the Zoom Marketplace, with your App, your terms of service, privacy policy and support information ('Your Terms').>{#type1#,  <  Your Terms  ;  provide  ;  terms of service, privacy policy and support information  ;  to the Zoom Marketplace  ;  NULL  ;  NULL> }

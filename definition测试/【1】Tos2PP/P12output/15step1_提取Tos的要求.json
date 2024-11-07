@@ -1,31 +1,31 @@
 {
     "requirements": [
         {
-            "description": "Your use, collection, and sharing of mobile device advertising identifiers and other personal information can only be implemented if your privacy policy describes these practices.",
+            "description": "Your privacy policy must describe how you and third parties use, collect, and share mobile device advertising identifiers and other personal information",
             "type": {
-                "code": "Type1",
-                "summary": "Description of Data Use by You and Third Parties"
+                "code": "Type2",
+                "summary": "Describe third-party data usage"
             }
         },
         {
-            "description": "Your privacy policy must include the use of information for behaviorally targeted online advertising.",
+            "description": "This includes the use for behaviorally targeted online advertising",
             "type": {
-                "code": "Type1",
-                "summary": "Inclusion of Behavioral Advertising"
+                "code": "Type4",
+                "summary": "Include behavioral advertising in the description"
             }
         },
         {
-            "description": "Your privacy policy must provide an opt-out link directing users to an industry-recognized opt-out from online behavioral advertising.",
+            "description": "Your privacy policy must include an opt-out link directing users to an industry-recognized opt-out from online behavioral advertising",
             "type": {
                 "code": "Type3",
-                "summary": "Provision of Industry-Recognized Opt-Out Link"
+                "summary": "Provide an opt-out link for behavioral advertising"
             }
         },
         {
-            "description": "You must provide California users the ability to opt-out from the sale of their information.",
+            "description": "Provide California users the ability to opt-out from the sale of their information",
             "type": {
                 "code": "Type3",
-                "summary": "Opt-Out Option for California Users"
+                "summary": "Offer California users opt-out for data sale"
             }
         }
     ]

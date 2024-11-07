@@ -1,31 +1,38 @@
 {
     "requirements": [
         {
-            "description": "只有在使最终用户意识到某些最终用户信息将可供您使用的情况下，您才能收集或访问最终用户信息",
+            "description": "如果最终用户提供给您，或者您收集或访问最终用户信息",
             "type": {
                 "code": "Type4",
-                "summary": "告知最终用户数据可用性"
+                "summary": "数据收集意识"
             }
         },
         {
-            "description": "您必须向最终用户提供关于此事的法律上充分的隐私通知",
+            "description": "您必须让最终用户意识到某些最终用户信息将对您可用",
             "type": {
                 "code": "Type1",
-                "summary": "提供法律上充分的隐私通知"
+                "summary": "数据可用性通知"
             }
         },
         {
-            "description": "只有在获得最终用户的许可的情况下，您才能收集和使用最终用户信息",
+            "description": "您必须向最终用户提供关于此事的法律充分隐私通知",
             "type": {
-                "code": "Type4",
-                "summary": "获取最终用户许可以收集和使用数据"
+                "code": "Type1",
+                "summary": "提供隐私通知"
             }
         },
         {
-            "description": "您必须确保此类最终用户信息的保护",
+            "description": "获得收集和使用最终用户信息的最终用户许可",
             "type": {
                 "code": "Type4",
-                "summary": "确保最终用户信息的保护"
+                "summary": "获取用户同意"
+            }
+        },
+        {
+            "description": "确保此类最终用户信息的保护",
+            "type": {
+                "code": "Type4",
+                "summary": "确保数据保护"
             }
         }
     ]

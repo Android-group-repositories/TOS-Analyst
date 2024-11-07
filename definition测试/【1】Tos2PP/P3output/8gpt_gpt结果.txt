@@ -1,27 +1,15 @@
-Description: Customer's data collection and use practices can only be implemented if all necessary disclosures are made to, and consents and authorizations are obtained from, Customer's users.
-Type Code: Type1
-
-Processing for Type1 requirements.
-{#type2#, <Customer's privacy policy ; must implement data collection and use practices ; necessary disclosures, consents and authorizations ; from Customer's users ; NULL ; NULL>}
-========================= pause ===========================
-Description: Customer's data collection and use practices can only be implemented if they are necessary or appropriate for RevenueCat's performance of the Services.
+Description: Customer will make all disclosures to, and procure all necessary consents and authorizations from, Customer's users
 Type Code: Type4
 ========================= pause ===========================
-Description: RevenueCat's and Stripe's processing of personally identifiable information relating to users can only take place if Customer has made all necessary disclosures to, and obtained consents and authorizations from, its users.
-Type Code: Type2
-
-Processing for Type2 requirements.
-{#type2#,  <Customer  ;  has made  ;  all necessary disclosures to, and obtained consents and authorizations from, its users  ;  NULL  ;  NULL  ;  NULL>  ,  <Third party is: RevenueCat and Stripe> }
+Description: as are reasonably necessary or appropriate for RevenueCat's performance of the Services
+Type Code: Type4
 ========================= pause ===========================
-Description: Customer's privacy policy must disclose RevenueCat's and Stripe's processing of such information in a reasonable and industry-standard manner.
+Description: including without limitation: (i) RevenueCat's and Stripe's processing of personally identifiable information relating to such users
+Type Code: Type4
+========================= pause ===========================
+Description: including, without limitation, by disclosing RevenueCat's and Stripe's processing of such information in Customer's privacy policy in a reasonable and industry-standard manner
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type2#,  <Customer's privacy policy  ;  must disclose  ;  RevenueCat's and Stripe's processing of such information  ;  NULL  ;  in a reasonable and industry-standard manner  ;  NULL>  ,  <Third party is: RevenueCat and Stripe> }
-========================= pause ===========================
-Description: Customer must make all necessary disclosures in a reasonable and industry-standard manner.
-Type Code: Type1
-
-Processing for Type1 requirements.
-{#type2#, <Customer ; make all necessary disclosures ; in a reasonable and industry-standard manner ; NULL ; NULL ; NULL>, <NULL>}
+{#type1#, <The privacy policy ; disclose ; RevenueCat's and Stripe's processing of such information ; in Customer's privacy policy ; in a reasonable and industry-standard manner ; NULL>}
 ========================= pause ===========================

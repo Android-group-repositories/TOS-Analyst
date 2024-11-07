@@ -1,0 +1,18 @@
+{
+    "requirements": [
+    {
+        "description": "To use our Services, if subject to COA, CCPA, or GDPR, you must have the verifiable and freely given consent of a child's parent or guardian.",
+        "type": {
+            "code": "Type1",
+            "summary": "Parental Consent Requirement"
+        }
+    },
+    {
+        "description": "This consent is for the use, collection, and sharing of mobile device advertising identifiers and other data for behaviorally targeted online advertising as described in our Privacy Policy.",
+        "type": {
+            "code": "Type2",
+            "summary": "Consent for Data Use and Collection"
+        }
+    }
+    ]
+}

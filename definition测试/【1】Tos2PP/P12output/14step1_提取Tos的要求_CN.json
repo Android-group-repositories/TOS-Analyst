@@ -1,45 +1,106 @@
 {
     "requirements": [
         {
-            "description": "只有在您提供并遵守已发布的隐私政策的情况下，您的应用程序才能收集和处理用户数据",
+            "description": "You will provide and adhere to a published privacy policy for your Application",
             "type": {
                 "code": "Type1",
-                "summary": "维护隐私政策"
+                "summary": "Provide and follow a privacy policy"
             }
         },
         {
-            "description": "您的隐私政策必须易于访问，并且从应用程序中明显链接",
+            "description": "The privacy policy must be easily accessible and conspicuously linked from the Application",
             "type": {
                 "code": "Type1",
-                "summary": "可访问性和可见性"
+                "summary": "Accessibility and visibility of privacy policy"
             }
         },
         {
-            "description": "您的隐私政策必须通过引用并链接到Snap的隐私政策",
+            "description": "The privacy policy must incorporate by reference and link to the Snap Privacy Policy",
             "type": {
                 "code": "Type2",
-                "summary": "引用并链接到Snap隐私政策"
+                "summary": "Reference and link to Snap's Privacy Policy"
             }
         },
         {
-            "description": "您的隐私政策必须向用户清晰准确地描述您和您的应用程序访问、收集和存储了哪些用户信息",
+            "description": "The privacy policy must clearly and accurately describe what user information is accessed, collected, and stored by you and your Application",
+            "type": {
+                "code": "Type1",
+                "summary": "Transparency in data access, collection, and storage"
+            }
+        },
+        {
+            "description": "The privacy policy must explain how and why you and your Application use, process, and share user information with Snap and other third parties",
+            "type": {
+                "code": "Type2",
+                "summary": "Explanation of data usage, processing, and sharing"
+            }
+        },
+        {
+            "description": "Users may provide information directly to Snap through your implementation of the Snap Developer Program",
+            "type": {
+                "code": "Type4",
+                "summary": "Direct information provision by users to Snap"
+            }
+        },
+        {
+            "description": "You must not provide Snap with any personal data unless otherwise agreed to in writing by you and Snap",
+            "type": {
+                "code": "Type4",
+                "summary": "No personal data sharing without written agreement"
+            }
+        }
+    ]
+}
+
+{
+    "requirements": [
+        {
+            "description": "您将为应用程序提供并遵守已发布的隐私政策",
+            "type": {
+                "code": "Type1",
+                "summary": "提供并遵循隐私政策"
+            }
+        },
+        {
+            "description": "隐私政策必须易于访问，并在应用程序中显著链接",
+            "type": {
+                "code": "Type1",
+                "summary": "隐私政策的可访问性和可见性"
+            }
+        },
+        {
+            "description": "隐私政策必须通过引用并链接到Snap的隐私政策",
+            "type": {
+                "code": "Type2",
+                "summary": "引用并链接到Snap的隐私政策"
+            }
+        },
+        {
+            "description": "隐私政策必须清晰准确地描述您和您的应用程序访问、收集和存储了哪些用户信息",
             "type": {
                 "code": "Type1",
                 "summary": "数据访问、收集和存储的透明度"
             }
         },
         {
-            "description": "您的隐私政策必须解释用户信息如何以及为何被使用、处理并与Snap和其他第三方共享",
+            "description": "隐私政策必须解释您和您的应用程序如何以及为何使用、处理并与Snap和其他第三方共享用户信息",
             "type": {
                 "code": "Type2",
-                "summary": "数据使用、处理和共享的清晰度"
+                "summary": "数据使用、处理和共享的解释"
             }
         },
         {
-            "description": "只有在您和Snap另有书面同意的情况下，您才能向Snap提供个人数据",
+            "description": "用户可以通过您实施的Snap开发者计划直接向Snap提供信息",
             "type": {
                 "code": "Type4",
-                "summary": "提供个人数据的书面协议"
+                "summary": "用户直接向Snap提供信息"
+            }
+        },
+        {
+            "description": "除非您和Snap另有书面约定，否则您不得向Snap提供任何个人数据",
+            "type": {
+                "code": "Type4",
+                "summary": "未经书面同意不得共享个人数据"
             }
         }
     ]

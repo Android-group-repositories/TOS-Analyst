@@ -1,0 +1,14 @@
+#pattern1# your app {cannot} {collect} {personal information}; {user:minors} ; Even obtain user consent
+#pattern1# your app {cannot} {collect} {personal information}; {user:children} ; Even obtain user consent
+#pattern1# your app {cannot} {collect} {personally identifiable information}; {user:children under the age of 13 or from online services directed toward children} ; Even obtain user consent
+
+#pattern4# your app {can} {use sdk-service} ; {user:child} ; when {obtained consent from child's parents or guardians}
+
+#pattern1# your app {cannot} {gather} {Personal Information}; {user:children under the age of 13} ; Even obtain user consent
+#pattern1# your app {cannot} {gather} {personal data}; {user:children} ; Even obtain user consent
+#pattern1# your app {cannot} {provide AppLovin with personal information of children; use Services to display ads to children} ; {user:children} ; Even obtain user consent
+#pattern1# your app {cannot} {gather} {personal data}; {user:children} ; Even obtain user consent
+
+#pattern3# your app {cannot} {use sdk-service} ; {user:labeled or described as 'Kids' or 'Children' applications} ; Even obtain user consent
+#pattern3# your app {cannot} {use sdk-service} ; {user:under the age of 17} ; Even obtain user consent
+#pattern3# your app {cannot} {use sdk-service} ; {user:children} ; Even obtain user consent

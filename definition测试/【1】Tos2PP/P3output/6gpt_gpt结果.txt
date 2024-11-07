@@ -1,18 +1,29 @@
-Description: A privacy policy can only be posted on a website if it describes how the party collects, uses, and shares information.
+Description: each party shall at all times post a privacy policy on its website
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type2#, <A privacy policy  ;  can be posted  ;  how the party collects, uses, and shares information  ;  NULL  ;  NULL  ;  NULL>  ,  <Third party is: the party> }
+{#type1#, <each party ; post ; a privacy policy ; on its website ; NULL ; NULL>}
 ========================= pause ===========================
-Description: A privacy policy can only be posted on a website if it provides information about how an End User can opt out of interest-based advertising.
+Description: the privacy policy describes how it collects, uses and shares information
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  The privacy policy  ;  describes  ;  how it collects, uses and shares information  ;  NULL  ;  NULL  ;  NULL> }
+========================= pause ===========================
+Description: the privacy policy provides information about how an End User can opt out of interest-based advertising
 Type Code: Type3
 
 Processing for Type3 requirements.
-{#type3-Q1#, <NULL; NULL; NULL; NULL; NULL; NULL>, <mention opt out: interest-based advertising>, <need link to guide how to opt-out>}
+{
+  "#type3-Q1#", 
+  <  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  ;  NULL  >  ,  
+  <mention opt-out : interest-based advertising>,  
+  <NULL>
+}
 ========================= pause ===========================
-Description: The opt-out information can only be provided if it includes methods for online behavioral or mobile cross-app advertising.
+Description: the opt-out information includes online behavioral or mobile cross-app advertising
 Type Code: Type3
 
 Processing for Type3 requirements.
-{#type3-Q1#, <NULL; NULL; NULL; NULL; NULL; NULL>, <mention opt out: online behavioral or mobile cross-app advertising>, <NULL>}
+{#type3-Q1#, <NULL; NULL; NULL; NULL; NULL; NULL>, <mention opt out : online behavioral or mobile cross-app advertising>, <NULL>}
 ========================= pause ===========================

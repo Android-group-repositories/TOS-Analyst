@@ -1,0 +1,130 @@
+Description: You are strictly prohibited from using the Site or Services to harm or exploit minors in any manner, including collecting their personal information.
+
+Processing for Type1 requirements.
+#Type1-pattern1# your app {cannot} {harm or exploit} {minors} ; {user:minors} ; Even obtain user consent
+========================= pause ===========================
+Description: You agree not to collect any personal information from children.
+
+Processing for Type1 requirements.
+#Type1-pattern1# your app {cannot} {collect} {personal information}; {user:children} ; Even obtain user consent
+========================= pause ===========================
+Description: Prohibited Information includes personally identifiable information collected from children under the age of 13 or from online services directed toward children.
+
+Processing for Type1 requirements.
+#Type2-pattern1# your app {cannot} {collect} {personally identifiable information} to {online services directed toward children}, {user:children under the age of 13}, Even obtain user consent.
+========================= pause ===========================
+Description: To use our Services, if subject to COA, CCPA, or GDPR, you must have the verifiable and freely given consent of a child's parent or guardian.
+
+Processing for Type1 requirements.
+#Type2-pattern2# your app {can} {use sdk-service} ; {user:subject to COA, CCPA, or GDPR} ; when {have verifiable and freely given consent of a child's parent or guardian}
+========================= pause ===========================
+Description: We do not intentionally gather Personal Information from children under the age of 13.
+
+Processing for Type1 requirements.
+#Type1-pattern1# your app {cannot} {gather} {Personal Information}; {user:children under the age of 13} ; Even obtain user consent
+========================= pause ===========================
+Description: AppLovin does not intentionally gather personal data from children nor does it target ads to children.
+
+Processing for Type1 requirements.
+#Type2-pattern1# your app {cannot} {gather} {personal data} to {AppLovin}, {user:children}, Even obtain user consent.
+========================= pause ===========================
+Description: Developers are prohibited from providing AppLovin with personal information of children and from using the Services to display ads to children.
+
+Processing for Type1 requirements.
+#Type2-pattern1# your app {can not} {provide} {personal information} to {AppLovin} , {user:children} , Even obtain user consent;
+========================= pause ===========================
+Description: AppLovin does not intentionally gather personal data from children nor does it target ads to children.
+
+Processing for Type1 requirements.
+#Type2-pattern1# your app {cannot} {gather} {personal data} to {AppLovin} , {user:children} , Even obtain user consent
+========================= pause ===========================
+Description: You agree not to use any Service for applications labeled or described as 'Kids' or 'Children' applications.
+
+Processing for Type1 requirements.
+#Type2-pattern1# your app {cannot} {use} {sdk-service} to {applications labeled or described as 'Kids' or 'Children' applications} , {user:children} , Even obtain user consent.
+========================= pause ===========================
+Description: You agree not to use any Service in connection with applications, advertisements, or services directed towards children under the age of 17.
+
+Processing for Type1 requirements.
+#Type2-pattern2# your app {can not} {use} {sdk-service} to {applications, advertisements, services} , {user:children under the age of 17} , when {obtain user or parental consent}
+========================= pause ===========================
+Description: The Services are designed for general audiences and not specifically for children.
+
+Processing for Type1 requirements.
+#Type2-pattern1# your app {can not} {use sdk-service} to {children} , {user:general audiences} , Even obtain user consent;
+========================= pause ===========================
+Description: Implement reasonable measures to prevent the Stripe Application from being used by users under the age of 13.
+
+Processing for Type1 requirements.
+#Type2-pattern1# your app {can not} {use} {Stripe Application} to {users under the age of 13} , Even obtain user consent;
+========================= pause ===========================
+Description: Ensure that the Stripe Application does not collect Personal Data from users who are known to be under the age of 13 or the age that requires parental consent as per applicable data protection laws.
+
+Processing for Type1 requirements.
+#Type2-pattern1# your app {cannot} {collect} {Personal Data} to {Stripe Application} , {user:Under 13 or the age that requires parental consent} , Even obtain user consent
+========================= pause ===========================
+Description: The Services are designed for general audiences and are not intended for children.
+
+Processing for Type1 requirements.
+#Type2-pattern1# your app {can not} {use sdk-service} ; {user:children} , Even obtain user consent
+========================= pause ===========================
+Description: We do not intentionally collect Personal Information from children under the age of 13.
+
+Processing for Type1 requirements.
+#Type1-pattern1# your app {cannot} {collect} {Personal Information}; {user:children under the age of 13} ; Even obtain user consent
+========================= pause ===========================
+Description: If we become aware that a child under the age to provide lawful consent to processing in their region has provided us with Personal Information, we should be contacted at DPO@unity3d.com.
+
+Processing for Type1 requirements.
+#Type2-pattern2# your app {can} {process} {Personal Information} to {Unity3D} , {user:child under the age to provide lawful consent} , when {contacted at DPO@unity3d.com}
+========================= pause ===========================
+Description: The age of consent varies by region, such as 13 in the U.S., 16 in the E.U., and 16 in Japan.
+
+Processing for Type1 requirements.
+#Type2-pattern2# your app {can} {collect} {data} to {third-party ENT} , {user:children} , when {obtain consent based on regional age of consent}
+========================= pause ===========================
+Description: Company must ensure compliance with GDPR, COPPA, and other data protection laws when handling personal data of children under 16 years old.
+
+Processing for Type1 requirements.
+#Type2-pattern2# your app {can} {handle} {personal data} to {children under 16 years old} , {user:children under 16 years old} , when {ensure compliance with GDPR, COPPA, and other data protection laws}
+========================= pause ===========================
+Description: Company must not use Nuance's services for online sites, services, or products that are primarily directed at children under 16 years old.
+
+Processing for Type1 requirements.
+#Type2-pattern2# your app {cannot} {use} {Nuance's services} to {online sites, services, or products} , {user:children under 16 years old} , when {primarily directed at children under 16 years old}
+========================= pause ===========================
+Description: When the Company plans to gather, utilize, or disclose the personal location data of children younger than 14, it must first secure the approval of both the child and their legal guardian.
+
+Processing for Type1 requirements.
+#Type2-pattern2# your app {can} {gather, utilize, disclose} {personal location data} to {Company} , {user: children younger than 14} , when {secure the approval of both the child and their legal guardian}
+========================= pause ===========================
+Description: You agree not to request or permit any Ad Partner or Attribution Partner to transmit any personal information from children under the age of 17 to Flurry.
+
+Processing for Type2 requirements.
+#Type2-pattern1# your app {can not} {request or permit} {transmit any personal information} to {Ad Partner, Attribution Partner} , {user:Under 17 years old} , Even obtain user consent
+========================= pause ===========================
+Description: This consent is for the use, collection, and sharing of mobile device advertising identifiers and other data for behaviorally targeted online advertising as described in our Privacy Policy.
+
+Processing for Type2 requirements.
+#Type2-pattern1# your app {can} {use, collection, and share} {mobile device advertising identifiers and other data} to {third-party ENT}, {user}, Even obtain user consent;
+========================= pause ===========================
+Description: Developers must obtain verifiable parental consent before sending any push tokens, emails, or other contact information to OneSignal.
+
+Processing for Type2 requirements.
+#Type2-pattern2# your app {must} {send} {push tokens, emails, contact information} to {OneSignal} , {user:children} , when {obtain verifiable parental consent}
+========================= pause ===========================
+Description: If Company uses Nuance software for child-directed sites, it must not send any child data to Nuance.
+
+Processing for Type2 requirements.
+#Type2-pattern2# your app {cannot} {send} {child data} to {Nuance} , {user:child-directed sites} , when {obtain user or parental consent}
+========================= pause ===========================
+Description: You must not knowingly share data of users under the age of 16 with Pollfish.
+
+Processing for Type2 requirements.
+#Type2-pattern1# your app {cannot} {share} {data} to {Pollfish} , {user:Under 16 years old} , Even obtain user consent.
+========================= pause ===========================
+Description: For mixed or general audience sites that may be accessed by children under 16, Company must have a verifiable parental consent mechanism and provide adequate notice regarding the transfer of child data to Nuance and Nuance's collection and processing of such data.
+
+Processing for Type2 requirements.
+#Type2-pattern2# your app {can} {transfer} {child data} to {Nuance} , {user: children under 16} , when {have verifiable parental consent mechanism and provide adequate notice}
+========================= pause ===========================

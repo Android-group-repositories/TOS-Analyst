@@ -1,4 +1,3 @@
-<Description: User Data can only be collected, processed, transmitted, maintained, and used if it complies with a privacy policy>{#type1#, <a privacy policy ; allows ; User Data to be collected, processed, transmitted, maintained, and used ; NULL ; NULL ; if it complies with a privacy policy>}
-<Description: The privacy policy must be made available to Users>{#type2#, <The privacy policy ; must be made available ; to Users ; from user ; NULL ; NULL>, <NULL>}
-<Description: The privacy policy must clearly and accurately describe what user information Developer collects>{#type1#, <The privacy policy ; must clearly and accurately describe ; what user information Developer collects ; NULL ; NULL ; NULL>}
-<Description: The privacy policy must also describe how Developer uses and shares that information>{#type2#,  <The privacy policy  ;  must describe  ;  how Developer uses and shares information  ;  NULL  ;  NULL  ;  NULL>  ,  <NULL>}
+<Description: in compliance with a privacy policy that is made available to Users>{#type1#,  <  privacy policy  ;  comply with  ;  privacy policy that is made available to Users  ;  NULL  ;  NULL  ; NULL> }
+<Description: that clearly and accurately describes to Users what user information Developer collects>{#type1#,  <  Privacy Policy  ;  describes  ;  what user information Developer collects  ;  from Users  ;  NULL  ;  NULL> }
+<Description: and how Developer uses and shares that information>{#type1#,  <  Developer  ;  uses and shares   ;  information    ;  NULL  ;  NULL  ; NULL> }

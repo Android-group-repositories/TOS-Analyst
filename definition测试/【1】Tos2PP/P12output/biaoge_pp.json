@@ -1,0 +1,928 @@
+{
+    "requirements": [
+        {
+            "description": "Customer shall be responsible for the legality, accuracy and quality of Customer Data",
+            "type": {
+                "code": "Type4",
+                "summary": "Responsibility for Data Quality"
+            }
+        },
+        {
+            "description": "ensuring that Customer's collection and submission of data to, and use of the Amplitude Services to process, store and transmit Customer Data",
+            "type": {
+                "code": "Type4",
+                "summary": "Compliance in Data Handling"
+            }
+        },
+        {
+            "description": "is compliant with all applicable laws and regulations",
+            "type": {
+                "code": "Type4",
+                "summary": "Legal Compliance"
+            }
+        },
+        {
+            "description": "as well as any privacy policies, agreements or other obligations Customer may maintain or enter into with its end users",
+            "type": {
+                "code": "Type1",
+                "summary": "Privacy Policy and Agreement Adherence"
+            }
+        },
+        {
+            "description": "including to obtain all legally required consents and permissions",
+            "type": {
+                "code": "Type4",
+                "summary": "Obtaining Necessary Consents"
+            }
+        },
+        {
+            "description": "You will not pass personally identifiable information to Google, except where permitted by Google Analytics policies and terms, and only if the information is hashed using industry standards.",
+            "type": {
+                "code": "Type4",
+                "summary": "Prohibition on Unhashed PII Transmission"
+            }
+        },
+        {
+            "description": "You will have and abide by an appropriate Privacy Policy that complies with all applicable laws, policies, and regulations regarding the collection of information from Users.",
+            "type": {
+                "code": "Type1",
+                "summary": "Compliance with Privacy Laws and Regulations"
+            }
+        },
+        {
+            "description": "You must post a Privacy Policy that provides notice of Your use of cookies, mobile device identifiers, or similar technology used to collect data.",
+            "type": {
+                "code": "Type1",
+                "summary": "Disclosure of Data Collection Methods"
+            }
+        },
+        {
+            "description": "You must disclose the use of Google Analytics and how it collects and processes data, which can be done by linking to Google's privacy policy for partners.",
+            "type": {
+                "code": "Type2",
+                "summary": "Disclosure of Google Analytics Use"
+            }
+        },
+        {
+            "description": "You will use commercially reasonable efforts to ensure that Users are provided with clear and comprehensive information about, and consent to, the storing and accessing of cookies or other information on their devices.",
+            "type": {
+                "code": "Type4",
+                "summary": "User Consent for Data Storage and Access"
+            }
+        },
+        {
+            "description": "If End Users provide You with, or You gather or access End User Information",
+            "type": {
+                "code": "Type4",
+                "summary": "Awareness of Data Collection"
+            }
+        },
+        {
+            "description": "You must make the End Users aware that certain End User Information will be available to You",
+            "type": {
+                "code": "Type1",
+                "summary": "Notification of Data Availability"
+            }
+        },
+        {
+            "description": "You must provide a legally adequate privacy notice to End Users about it",
+            "type": {
+                "code": "Type1",
+                "summary": "Provision of Privacy Notice"
+            }
+        },
+        {
+            "description": "obtain the End User's permission to gather and use End User Information",
+            "type": {
+                "code": "Type4",
+                "summary": "Obtaining User Consent"
+            }
+        },
+        {
+            "description": "ensure the protection of such End User Information",
+            "type": {
+                "code": "Type4",
+                "summary": "Ensuring Data Protection"
+            }
+        },
+        {
+            "description": "You agree that you have and will abide by a privacy policy that complies with all applicable laws and industry standards",
+            "type": {
+                "code": "Type1",
+                "summary": "Compliance with Laws and Standards"
+            }
+        },
+        {
+            "description": "You will comply with all applicable laws relating to the collection of information from end users of your applications",
+            "type": {
+                "code": "Type4",
+                "summary": "Legal Compliance for Data Collection"
+            }
+        },
+        {
+            "description": "You must clearly and conspicuously post a privacy policy within your application, in any store, and on any website where the application may be acquired",
+            "type": {
+                "code": "Type1",
+                "summary": "Prominently Display Privacy Policy"
+            }
+        },
+        {
+            "description": "That policy must provide notice of your use of a tracking pixel, agent or any other visitor identification technology that collects, uses, shares and stores data about end users",
+            "type": {
+                "code": "Type1",
+                "summary": "Notice of Data Collection Methods"
+            }
+        },
+        {
+            "description": "Policy must contain a link to Flurry's Privacy Policy and describe how visitors may learn more about the choices offered in connection with Flurry's use of User Data",
+            "type": {
+                "code": "Type2",
+                "summary": "Link to Flurry's Privacy Policy and User Choices"
+            }
+        },
+        {
+            "description": "Advise users who wish to opt-out that they may do so on a device by device basis by enabling 'Limit Ad Tracking' and provide active links to opt-out resources",
+            "type": {
+                "code": "Type3",
+                "summary": "Opt-Out Information and Links"
+            }
+        },
+        {
+            "description": "You agree to obtain any and all end-user consents required by applicable law before you use the Services",
+            "type": {
+                "code": "Type4",
+                "summary": "Obtain Necessary End-User Consents"
+            }
+        },
+        {
+            "description": "You agree to comply with all applicable laws, policies, and regulations relating to the collection, usage and sharing of information from users",
+            "type": {
+                "code": "Type4",
+                "summary": "Compliance with Collection, Usage, and Sharing Regulations"
+            }
+        },
+        {
+            "description": "The Parties agree to comply with all applicable privacy laws",
+            "type": {
+                "code": "Type4",
+                "summary": "Compliance with Privacy Laws"
+            }
+        },
+        {
+            "description": "Licensee is responsible for obtaining all applicable consents required to enable OneSignal to collect information from End User's device or browser",
+            "type": {
+                "code": "Type4",
+                "summary": "Licensee Consent Responsibility"
+            }
+        },
+        {
+            "description": "Licensee shall publish privacy policies and disclosures for the Properties that comply with applicable law and the terms of this EULA",
+            "type": {
+                "code": "Type1",
+                "summary": "Publishing Privacy Policies"
+            }
+        },
+        {
+            "description": "The privacy policies must include clear disclosures that the SDK Information will be collected and how it may be used, as set forth in Section 5",
+            "type": {
+                "code": "Type1",
+                "summary": "Disclosure of SDK Information Collection and Usage"
+            }
+        },
+        {
+            "description": "each party shall at all times post a privacy policy on its website",
+            "type": {
+                "code": "Type1",
+                "summary": "Maintain a Privacy Policy"
+            }
+        },
+        {
+            "description": "the privacy policy describes how it collects, uses and shares information",
+            "type": {
+                "code": "Type1",
+                "summary": "Describe Data Collection, Use, and Sharing"
+            }
+        },
+        {
+            "description": "the privacy policy provides information about how an End User can opt out of interest-based advertising",
+            "type": {
+                "code": "Type3",
+                "summary": "Provide Opt-Out Information for Advertising"
+            }
+        },
+        {
+            "description": "the opt-out information includes online behavioral or mobile cross-app advertising",
+            "type": {
+                "code": "Type3",
+                "summary": "Specify Types of Advertising for Opt-Out"
+            }
+        },
+        {
+            "description": "make the privacy notice or privacy policy applicable to your Stripe Application readily available to the Business User",
+            "type": {
+                "code": "Type1",
+                "summary": "Accessibility of Privacy Notice"
+            }
+        },
+        {
+            "description": "including via a link in your Stripe App listing in the Stripe Apps Marketplace",
+            "type": {
+                "code": "Type4",
+                "summary": "Link in Marketplace Listing"
+            }
+        },
+        {
+            "description": "Customer will make all disclosures to, and procure all necessary consents and authorizations from, Customer's users",
+            "type": {
+                "code": "Type4",
+                "summary": "Disclosure and Consent Requirement"
+            }
+        },
+        {
+            "description": "as are reasonably necessary or appropriate for RevenueCat's performance of the Services",
+            "type": {
+                "code": "Type4",
+                "summary": "Necessity for Service Performance"
+            }
+        },
+        {
+            "description": "including without limitation: (i) RevenueCat's and Stripe's processing of personally identifiable information relating to such users",
+            "type": {
+                "code": "Type4",
+                "summary": "Processing of Personal Information"
+            }
+        },
+        {
+            "description": "including, without limitation, by disclosing RevenueCat's and Stripe's processing of such information in Customer's privacy policy in a reasonable and industry-standard manner",
+            "type": {
+                "code": "Type1",
+                "summary": "Disclosure in Privacy Policy"
+            }
+        },
+        {
+            "description": "You must display your service's privacy policy to people before they are permitted to download, install, or sign up to your service.",
+            "type": {
+                "code": "Type1",
+                "summary": "Display Privacy Policy Before Service Access"
+            }
+        },
+        {
+            "description": "Your privacy policy must disclose at least the following information: The information that you collect from people who use your service.",
+            "type": {
+                "code": "Type1",
+                "summary": "Disclosure of Collected Information"
+            }
+        },
+        {
+            "description": "How you use and share that information (including with X).",
+            "type": {
+                "code": "Type2",
+                "summary": "Usage and Sharing Information"
+            }
+        },
+        {
+            "description": "How people can contact you with inquiries and requests regarding their information.",
+            "type": {
+                "code": "Type1",
+                "summary": "Contact Information for Privacy Inquiries"
+            }
+        },
+        {
+            "description": "Your privacy policy must be consistent with all applicable laws, and be no less protective of people than X's Privacy Policy and the privacy policy of our other services and corporate affiliates.",
+            "type": {
+                "code": "Type1",
+                "summary": "Policy Consistency and Legal Compliance"
+            }
+        },
+        {
+            "description": "You must cease your access to the X API and the use of all X Content if you are unable to comply with your and/or X's Privacy Policy.",
+            "type": {
+                "code": "Type4",
+                "summary": "Cessation of Access for Non-Compliance"
+            }
+        },
+        {
+            "description": "Developers shall disclose Relevant Service-related privacy policies",
+            "type": {
+                "code": "Type1",
+                "summary": "Disclosure of Privacy Policies"
+            }
+        },
+        {
+            "description": "Privacy policies must be easily viewable to anyone at any time",
+            "type": {
+                "code": "Type1",
+                "summary": "Accessibility of Privacy Policies"
+            }
+        },
+        {
+            "description": "Privacy policies should be available before and after a user starts to use the Relevant Service",
+            "type": {
+                "code": "Type1",
+                "summary": "Privacy Policies Availability"
+            }
+        },
+        {
+            "description": "To the extent your application or service collects, stores, processes, or uses data of end users (including any personal data or information), you must satisfy certain requirements.",
+            "type": {
+                "code": "Type4",
+                "summary": "Compliance with Data Handling Requirements"
+            }
+        },
+        {
+            "description": "You shall establish and comply with a privacy policy that clearly and accurately describes to end users what personal data you collect and how you use and share such information (including for advertising) with us and other third parties.",
+            "type": {
+                "code": "Type1",
+                "summary": "Establishment and Compliance with Privacy Policy"
+            }
+        },
+        {
+            "description": "The privacy policy must comply with and be consistent with the terms and requirements set out in the Agreement and the WeChat or Weixin Privacy Policy (as applicable).",
+            "type": {
+                "code": "Type2",
+                "summary": "Alignment with Agreement and WeChat/Weixin Privacy Policy"
+            }
+        },
+        {
+            "description": "If you process any personal data, you shall obtain users' express consent to such processing at the time you request such data.",
+            "type": {
+                "code": "Type4",
+                "summary": "Obtaining Express Consent for Personal Data Processing"
+            }
+        },
+        {
+            "description": "If you use Platform to Process Platform Data, you will provide and comply with a publicly available and easily accessible privacy policy.",
+            "type": {
+                "code": "Type1",
+                "summary": "Provide and Comply with Privacy Policy"
+            }
+        },
+        {
+            "description": "This policy must comply with applicable law and regulations and must accurately and clearly explain what data you are Processing, how you are Processing it, the purposes for which you are Processing it, and how Users may request deletion of that data.",
+            "type": {
+                "code": "Type1",
+                "summary": "Policy Compliance and Transparency"
+            }
+        },
+        {
+            "description": "You will maintain publicly available links to your privacy policies in the privacy policy field in the settings of your App Dashboard, as well as in any App Store that allows you to do so, if applicable, and ensure the links remain current and up to date.",
+            "type": {
+                "code": "Type1",
+                "summary": "Maintain Current Privacy Policy Links"
+            }
+        },
+        {
+            "description": "make a complete and accurate disclosure to your End Users",
+            "type": {
+                "code": "Type1",
+                "summary": "Full Disclosure Requirement"
+            }
+        },
+        {
+            "description": "disclosure of the privacy practices and policies applicable to the Application",
+            "type": {
+                "code": "Type1",
+                "summary": "Privacy Practices Disclosure"
+            }
+        },
+        {
+            "description": "disclosure must be compliant with applicable law and these Developer Terms",
+            "type": {
+                "code": "Type4",
+                "summary": "Legal and Developer Terms Compliance"
+            }
+        },
+        {
+            "description": "You will provide and adhere to a published privacy policy for your Application",
+            "type": {
+                "code": "Type1",
+                "summary": "Provide and follow a privacy policy"
+            }
+        },
+        {
+            "description": "The privacy policy must be easily accessible and conspicuously linked from the Application",
+            "type": {
+                "code": "Type1",
+                "summary": "Accessibility and visibility of privacy policy"
+            }
+        },
+        {
+            "description": "The privacy policy must incorporate by reference and link to the Snap Privacy Policy",
+            "type": {
+                "code": "Type2",
+                "summary": "Reference and link to Snap's Privacy Policy"
+            }
+        },
+        {
+            "description": "The privacy policy must clearly and accurately describe what user information is accessed, collected, and stored by you and your Application",
+            "type": {
+                "code": "Type1",
+                "summary": "Transparency in data access, collection, and storage"
+            }
+        },
+        {
+            "description": "The privacy policy must explain how and why you and your Application use, process, and share user information with Snap and other third parties",
+            "type": {
+                "code": "Type2",
+                "summary": "Explanation of data usage, processing, and sharing"
+            }
+        },
+        {
+            "description": "Users may provide information directly to Snap through your implementation of the Snap Developer Program",
+            "type": {
+                "code": "Type4",
+                "summary": "Direct information provision by users to Snap"
+            }
+        },
+        {
+            "description": "You must not provide Snap with any personal data unless otherwise agreed to in writing by you and Snap",
+            "type": {
+                "code": "Type4",
+                "summary": "No personal data sharing without written agreement"
+            }
+        },
+        {
+            "description": "Your privacy policy must describe how you and third parties use, collect, and share mobile device advertising identifiers and other personal information",
+            "type": {
+                "code": "Type2",
+                "summary": "Describe third-party data usage"
+            }
+        },
+        {
+            "description": "This includes the use for behaviorally targeted online advertising",
+            "type": {
+                "code": "Type4",
+                "summary": "Include behavioral advertising in the description"
+            }
+        },
+        {
+            "description": "Your privacy policy must include an opt-out link directing users to an industry-recognized opt-out from online behavioral advertising",
+            "type": {
+                "code": "Type3",
+                "summary": "Provide an opt-out link for behavioral advertising"
+            }
+        },
+        {
+            "description": "Provide California users the ability to opt-out from the sale of their information",
+            "type": {
+                "code": "Type3",
+                "summary": "Offer California users opt-out for data sale"
+            }
+        },
+        {
+            "description": "Your first-party relationship with your user means that, as between you and us, you are better situated to provide notice to your users of the data collection and disclosure practices involved in your use of our Services and to obtain their consent.",
+            "type": {
+                "code": "Type4",
+                "summary": "Responsibility for User Notification and Consent"
+            }
+        },
+        {
+            "description": "As a condition of using our Services, you must provide appropriate notices to users of your application(s) about data collection and use practices related to your use of our Services.",
+            "type": {
+                "code": "Type1",
+                "summary": "Provision of Data Collection Notices"
+            }
+        },
+        {
+            "description": "You must obtain their consent to the Services' data collection and use, including use to reward users for their engagement with Campaign Content (for incentivized campaign types) and use for behaviorally targeted online advertising.",
+            "type": {
+                "code": "Type4",
+                "summary": "Obtaining User Consent for Data Use"
+            }
+        },
+        {
+            "description": "Partner will use the Services only in a manner consistent with this Agreement and the Services Documentation",
+            "type": {
+                "code": "Type4",
+                "summary": "Compliance with Agreement and Documentation"
+            }
+        },
+        {
+            "description": "Partner will comply with all Applicable Rules, including data protection and privacy laws",
+            "type": {
+                "code": "Type4",
+                "summary": "Compliance with Applicable Rules"
+            }
+        },
+        {
+            "description": "Partner will comply with rules applicable to any data of the End Users that is being accessed, collected, used and/or shared",
+            "type": {
+                "code": "Type4",
+                "summary": "Data Handling Compliance"
+            }
+        },
+        {
+            "description": "Partner shall post in the Partner's App a privacy policy that abides by all applicable rules, laws, acts and regulations",
+            "type": {
+                "code": "Type1",
+                "summary": "Post Privacy Policy"
+            }
+        },
+        {
+            "description": "The privacy policy must provide legally adequate disclosure to its End Users about any information relating to End Users that will be provided or is otherwise accessible to ironSource",
+            "type": {
+                "code": "Type2",
+                "summary": "Disclosure of Data Access to ironSource"
+            }
+        },
+        {
+            "description": "The privacy policy must include a mechanism for End Users to opt-out of receiving targeted ads based on their behavior and interests",
+            "type": {
+                "code": "Type3",
+                "summary": "Opt-Out Mechanism for Targeted Ads"
+            }
+        },
+        {
+            "description": "Partner confirms that it has read and understood the IronSource Mobile Privacy Policy",
+            "type": {
+                "code": "Type2",
+                "summary": "Understanding of IronSource Privacy Policy"
+            }
+        },
+        {
+            "description": "Partner confirms that nothing in the IronSource Mobile Privacy Policy is contrary to Partner's privacy policy",
+            "type": {
+                "code": "Type2",
+                "summary": "Consistency with IronSource Privacy Policy"
+            }
+        },
+        {
+            "description": "You represent and warrant that with respect to any data collected by Unity, provided by you to Unity, or to which you grant Unity access under or in connection with these Terms that constitutes 'personal data' or 'personal information' as defined under applicable privacy and data protection laws",
+            "type": {
+                "code": "Type4",
+                "summary": "Declaration of Compliance with Laws"
+            }
+        },
+        {
+            "description": "you agree to provide sufficiently clear, meaningful and prominent notices to, make all required disclosures to, and obtain the necessary consent or permission from any individual to whom such data relates regarding the collection, disclosure, use and security of such data",
+            "type": {
+                "code": "Type4",
+                "summary": "Obtain necessary consent and disclosure"
+            }
+        },
+        {
+            "description": "You will at all times maintain, display and abide by a conspicuously placed privacy policy that makes appropriate disclosures to End-Users",
+            "type": {
+                "code": "Type1",
+                "summary": "Maintain and appropriately disclose a privacy policy to end users"
+            }
+        },
+        {
+            "description": "Your privacy policy must comply with all applicable privacy and data protection laws and regulations and/or any applicable requirements, terms, or guidelines required by your platform providers",
+            "type": {
+                "code": "Type1",
+                "summary": "Compliance with Legal and Regulatory Framework"
+            }
+        },
+        {
+            "description": "Your privacy policy must explain that Services Data can be processed as contemplated by these Terms and as set out in the Unity Privacy Policy, or ironSource Privacy Policy, as applicable",
+            "type": {
+                "code": "Type2",
+                "summary": "Explanation of Data Processing in Privacy Policy"
+            }
+        },
+        {
+            "description": "Your privacy policy must provide notice of your use of a tracking pixel, agent or any other visitor identification technology that collects, uses, shares and stores data about end users of your Application",
+            "type": {
+                "code": "Type1",
+                "summary": "Notification of Data Collection Methods"
+            }
+        },
+        {
+            "description": "Your privacy policy must include a link to the Unity Privacy Policy, or ironSource Privacy Policy, as applicable",
+            "type": {
+                "code": "Type2",
+                "summary": "Link to Relevant Privacy Policies"
+            }
+        },
+        {
+            "description": "Your privacy policy must explain how End-Users can opt out of the Offerings, if applicable",
+            "type": {
+                "code": "Type3",
+                "summary": "Opt-Out Information for End-Users"
+            }
+        },
+        {
+            "description": "User will ensure that at all times you use the Services",
+            "type": {
+                "code": "Type4",
+                "summary": "Continuous Compliance Requirement"
+            }
+        },
+        {
+            "description": "you (including without limitation each Mobile Property) have a clearly labeled and easily accessible privacy policy",
+            "type": {
+                "code": "Type1",
+                "summary": "Privacy Policy Accessibility"
+            }
+        },
+        {
+            "description": "privacy policy complies with all applicable laws",
+            "type": {
+                "code": "Type1",
+                "summary": "Legal Compliance"
+            }
+        },
+        {
+            "description": "provides end users with clear and comprehensive information about cookies",
+            "type": {
+                "code": "Type1",
+                "summary": "Cookie Information Disclosure"
+            }
+        },
+        {
+            "description": "provides end users with clear and comprehensive information about device-specific information",
+            "type": {
+                "code": "Type1",
+                "summary": "Device Information Disclosure"
+            }
+        },
+        {
+            "description": "provides end users with clear and comprehensive information about location information",
+            "type": {
+                "code": "Type1",
+                "summary": "Location Data Disclosure"
+            }
+        },
+        {
+            "description": "provides end users with clear and comprehensive information about other information stored on, accessed on, or collected from end users' devices",
+            "type": {
+                "code": "Type1",
+                "summary": "Data Collection Disclosure"
+            }
+        },
+        {
+            "description": "includes, as applicable, information about end users' options for cookie management",
+            "type": {
+                "code": "Type1",
+                "summary": "Cookie Management Options"
+            }
+        },
+        {
+            "description": "You will ensure that at all times you use the Services, the Properties have a clearly labeled and easily accessible privacy policy",
+            "type": {
+                "code": "Type1",
+                "summary": "Maintain a Privacy Policy"
+            }
+        },
+        {
+            "description": "The privacy policy provides end users with clear and comprehensive information about cookies",
+            "type": {
+                "code": "Type1",
+                "summary": "Inform about Cookies"
+            }
+        },
+        {
+            "description": "The privacy policy provides information about device-specific information",
+            "type": {
+                "code": "Type1",
+                "summary": "Inform about Device-Specific Information"
+            }
+        },
+        {
+            "description": "The privacy policy provides information about location information",
+            "type": {
+                "code": "Type1",
+                "summary": "Inform about Location Information"
+            }
+        },
+        {
+            "description": "The privacy policy provides information about other information stored on, accessed on, or collected from end users' devices in connection with the Services",
+            "type": {
+                "code": "Type1",
+                "summary": "Inform about Other Collected Information"
+            }
+        },
+        {
+            "description": "The privacy policy includes information about end users' options for cookie management",
+            "type": {
+                "code": "Type1",
+                "summary": "Inform about Cookie Management Options"
+            }
+        },
+        {
+            "description": "Developer represents and warrants that it shall conspicuously post, maintain, and abide by a publically accessible privacy notice within the Developer App",
+            "type": {
+                "code": "Type1",
+                "summary": "Public Privacy Notice"
+            }
+        },
+        {
+            "description": "The privacy notice must satisfy the transparency and information requirements of the Privacy Requirements and the Agreement",
+            "type": {
+                "code": "Type1",
+                "summary": "Compliance with Privacy Requirements"
+            }
+        },
+        {
+            "description": "If notice cannot be provided in or around Vungle Ads, Developer should make arrangements to provide notice within the Developer App or on the landing page of the Vungle Ad",
+            "type": {
+                "code": "Type1",
+                "summary": "Alternative Notice Provision"
+            }
+        },
+        {
+            "description": "The notice shall include information about Vungle and its Demand Partner's use of Tracking Technology to collect, use, and share Ad Data",
+            "type": {
+                "code": "Type1",
+                "summary": "Disclosure of Tracking Technology Use"
+            }
+        },
+        {
+            "description": "The notice shall state that third parties may collect or receive Personal Data and use it to provide measurement services and targeted ads",
+            "type": {
+                "code": "Type2",
+                "summary": "Disclosure of Third Party Data Use"
+            }
+        },
+        {
+            "description": "The notice shall include a conspicuous link to or description of how and where users can opt-out of collection and use of information for ad targeting",
+            "type": {
+                "code": "Type3",
+                "summary": "Opt-Out Information"
+            }
+        },
+        {
+            "description": "The notice shall describe the types of Ad Data collected, including Personal Data, and how and for what purposes the Ad Data will be used or transferred to third parties",
+            "type": {
+                "code": "Type1",
+                "summary": "Data Collection and Usage Description"
+            }
+        },
+        {
+            "description": "For Ad Data protected by EU Data Protection Law, the privacy notice shall include the type of Personal Data collected, the purposes of processing, categories of individuals with access, legitimate interests pursued, the identity of the Controller(s), and any other information required by the EU Data Protection Law",
+            "type": {
+                "code": "Type1",
+                "summary": "EU Data Protection Law Compliance"
+            }
+        },
+        {
+            "description": "You must post and abide by a conspicuous and legally adequate privacy policy on each application and/or service of the Publisher Network",
+            "type": {
+                "code": "Type1",
+                "summary": "Maintain a visible and legally sufficient privacy policy"
+            }
+        },
+        {
+            "description": "The privacy policy must disclose the collection of Service Data by third parties such as MoPub",
+            "type": {
+                "code": "Type2",
+                "summary": "Disclosure of third-party data collection"
+            }
+        },
+        {
+            "description": "The collection is for personalized advertising purposes",
+            "type": {
+                "code": "Type4",
+                "summary": "Purpose of data collection"
+            }
+        },
+        {
+            "description": "Publisher will publish the App on the applicable app store and be solely responsible for compliance with the App Store Terms",
+            "type": {
+                "code": "Type4",
+                "summary": "Responsibility for App Store Compliance"
+            }
+        },
+        {
+            "description": "App Store Terms include requirements for obtaining user consent, disclosing data collection practices, and providing opt-out options",
+            "type": {
+                "code": "Type1",
+                "summary": "Compliance with App Store Requirements"
+            }
+        },
+        {
+            "description": "StartApp does not represent or warrant that use of the Service will comply with the App Store Terms",
+            "type": {
+                "code": "Type4",
+                "summary": "No Warrant of Compliance"
+            }
+        },
+        {
+            "description": "StartApp shall have no liability for any costs or damages incurred to the Publisher as a result of noncompliance with the App Store Terms",
+            "type": {
+                "code": "Type4",
+                "summary": "No Liability for Noncompliance"
+            }
+        },
+        {
+            "description": "Using the Service may require additional permissions from End Users that the App may not originally require",
+            "type": {
+                "code": "Type4",
+                "summary": "Potential Need for Additional User Permissions"
+            }
+        },
+        {
+            "description": "Sentry collects only the data that you configure to be sent to Sentry.",
+            "type": {
+                "code": "Type4",
+                "summary": "Data Collection Control"
+            }
+        },
+        {
+            "description": "This data typically includes software bugs (Errors), API calls, page loads, or similar requests and responses from your apps (Transactions).",
+            "type": {
+                "code": "Type4",
+                "summary": "Data Collection Scope"
+            }
+        },
+        {
+            "description": "Data collected by Sentry does not, by default, include any personally identifiable information (PII).",
+            "type": {
+                "code": "Type4",
+                "summary": "Default Data Collection Exclusion of PII"
+            }
+        },
+        {
+            "description": "You can augment the data sent to Sentry with additional context and metadata, including user names, email addresses, or by attaching files such as logs or crash reports.",
+            "type": {
+                "code": "Type4",
+                "summary": "Augmentation of Data with PII"
+            }
+        },
+        {
+            "description": "Sentry processes the data you send to provide application monitoring services.",
+            "type": {
+                "code": "Type4",
+                "summary": "Data Processing Purpose"
+            }
+        },
+        {
+            "description": "You would need to disclose and/or include in your app privacy policy all types of data you are collecting through your app, including data you are sending to Sentry.",
+            "type": {
+                "code": "Type1",
+                "summary": "Disclosure Requirement for Privacy Policy"
+            }
+        },
+        {
+            "description": "In connection with operating the Developer App, Developer will ensure that User Data is collected, processed, transmitted, maintained, and used",
+            "type": {
+                "code": "Type4",
+                "summary": "Ensure Compliance with Privacy Standards"
+            }
+        },
+        {
+            "description": "in compliance with a privacy policy that is made available to Users",
+            "type": {
+                "code": "Type1",
+                "summary": "Provide Accessible Privacy Policy"
+            }
+        },
+        {
+            "description": "that clearly and accurately describes to Users what user information Developer collects",
+            "type": {
+                "code": "Type1",
+                "summary": "Transparent Data Collection Disclosure"
+            }
+        },
+        {
+            "description": "and how Developer uses and shares that information",
+            "type": {
+                "code": "Type1",
+                "summary": "Transparent Data Usage and Sharing Disclosure"
+            }
+        },
+        {
+            "description": "You will need to provide to the Zoom Marketplace, with your App, your terms of service, privacy policy and support information ('Your Terms').",
+            "type": {
+                "code": "Type1",
+                "summary": "Submission of Terms and Policies"
+            }
+        },
+        {
+            "description": "Each Party agrees to comply with its obligations with respect to End User data as stated in this Contract and as applicable to it in its processing thereof under relevant privacy laws.",
+            "type": {
+                "code": "Type4",
+                "summary": "Compliance with Privacy Laws"
+            }
+        },
+        {
+            "description": "Each Party shall provide for a conspicuous privacy policy which is adequate in accordance with applicable privacy laws.",
+            "type": {
+                "code": "Type1",
+                "summary": "Prominence of Privacy Policy"
+            }
+        },
+        {
+            "description": "Each privacy policy must at a minimum set out conspicuously a description of data sets collected or permitted to be collected, use cases related to personal data/information including a clear mention that such data will be shared with certain third parties for applicable use cases.",
+            "type": {
+                "code": "Type2",
+                "summary": "Data Collection and Sharing Disclosure"
+            }
+        },
+        {
+            "description": "Certain privacy laws such as CCPA, CPRA and/or other applicable US state privacy laws also requires that You provide sufficient notice regarding rights of End Users with regard to their personal information and clearly provide for mechanisms of Opt Out elections which You agree to comply with, if applicable to the Inventory.",
+            "type": {
+                "code": "Type3",
+                "summary": "Notice and Opt-Out Mechanisms"
+            }
+        },
+        {
+            "description": "Such privacy policy shall also mention use of third parties and use of cookies for the purposes of attribution and/or serving targeted Advertisements.",
+            "type": {
+                "code": "Type2",
+                "summary": "Disclosure of Third-Party Use and Cookie Usage"
+            }
+        }
+    ]
+}

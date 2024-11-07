@@ -1,0 +1,27 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "要使用Start.io解决方案，您必须至少十三（13）岁。",
+            "type": {
+                "code": "Type1",
+                "summary": "最低年龄要求"
+            }
+        },
+        {
+            "description": "Start.io可能会要求提供年龄证明，以确保十八（18）岁以下的用户不使用该服务。",
+            "type": {
+                "code": "Type1",
+                "summary": "年龄验证"
+            }
+        },
+        {
+            "description": "如果发现十八（18）岁以下的用户使用Start.io解决方案，Start.io将禁止并阻止该用户访问或使用该服务。",
+            "type": {
+                "code": "Type1",
+                "summary": "禁止和封锁未成年人"
+            }
+        }
+    ]
+}
+```

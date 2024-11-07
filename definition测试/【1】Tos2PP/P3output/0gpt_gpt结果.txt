@@ -1,18 +1,27 @@
-Description: The Mixpanel Privacy Statement governs Mixpanel's tracking and use of information collected about Customer on Mixpanel Sites
-Type Code: Type4
+Description: Mixpanel's tracking and use of information collected about Customer on Mixpanel Sites are governed by the Mixpanel Privacy Statement
+Type Code: Type2
+
+Processing for Type2 requirements.
+{#type2#, <Mixpanel's tracking and use of information  ;  are governed  ;  by the Mixpanel Privacy Statement  ;  NULL  ;  NULL  ;  NULL>}, <Third party is: Mixpanel>
 ========================= pause ===========================
-Description: The Mixpanel Privacy Statement excludes information Mixpanel processes on Customer's behalf in providing the Application Services
-Type Code: Type4
-========================= pause ===========================
-Description: Customer must provide its own privacy statement or notice to its End Users
+Description: The Mixpanel Privacy Statement is available at https://mixpanel.com/legal/privacy-policy/
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type2#,  <Customer  ;  must provide  ;  privacy statement or notice  ;  to its End Users  ;  NULL  ;  NULL>  ,  <NULL>}
+{#type1#,  <  The Mixpanel Privacy Statement  ;  is available   ;  NULL    ;  https://mixpanel.com/legal/privacy-policy/  ;  NULL  ; NULL> }
 ========================= pause ===========================
-Description: Customer can collect registration and other information about Customer through Mixpanel Sites only if providing all required disclosures to and obtaining all required consents from Customer's employees and/or agents
+Description: The Mixpanel Privacy Statement does not cover information Mixpanel processes on Customer's behalf in providing the Application Services
 Type Code: Type4
 ========================= pause ===========================
-Description: Mixpanel can collect registration and other information about Customer as Mixpanel's customer through Mixpanel Sites
+Description: It shall be Customer's obligation to provide Customer's own privacy statement or notice to its End Users
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  Customer's privacy statement or notice  ;  provide  ;  Customer's own privacy statement or notice  ;  to its End Users  ;  NULL  ;  NULL> }
+========================= pause ===========================
+Description: Customer must provide all required disclosures to and obtain all required consents from Customer's employees and/or agents
+Type Code: Type4
+========================= pause ===========================
+Description: Mixpanel may collect registration and other information about Customer as Mixpanel's customer through Mixpanel Sites
 Type Code: Type4
 ========================= pause ===========================

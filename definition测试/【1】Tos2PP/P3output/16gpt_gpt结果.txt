@@ -1,18 +1,12 @@
-Description: Your use of our Services can only be implemented if you provide notice to your users of the data collection and disclosure practices involved and obtain their consent.
-Type Code: Type1
-
-Processing for Type1 requirements.
-{#type2#, <Your use of our Services  ;  can only be implemented  ;  provide notice to your users of the data collection and disclosure practices involved and obtain their consent  ;  NULL  ;  NULL  ;  NULL>}
+Description: Your first-party relationship with your user means that, as between you and us, you are better situated to provide notice to your users of the data collection and disclosure practices involved in your use of our Services and to obtain their consent.
+Type Code: Type4
 ========================= pause ===========================
-Description: Using our Services is only permissible if you provide appropriate notices to users of your application(s) about data collection and use practices related to your use of our Services.
+Description: As a condition of using our Services, you must provide appropriate notices to users of your application(s) about data collection and use practices related to your use of our Services.
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type2#, <You ; provide ; appropriate notices to users of your application(s) ; about data collection and use practices related to your use of our Services ; NULL ; NULL>, <Third party is: NULL>}
+{#type1#, <a privacy policy ; provide appropriate notices to users ; data collection and use practices related to your use of our Services ; from user ; NULL ; as a condition of using our Services>}
 ========================= pause ===========================
-Description: Our Services can only be used if you obtain user consent to the data collection and use practices, including for rewarding user engagement and behaviorally targeted online advertising.
-Type Code: Type1
-
-Processing for Type1 requirements.
-{#type2#, <Our Services  ;  can only be used  ;  user consent to the data collection and use practices, including for rewarding user engagement and behaviorally targeted online advertising  ;  from user  ;  NULL  ;  NULL>}
+Description: You must obtain their consent to the Services' data collection and use, including use to reward users for their engagement with Campaign Content (for incentivized campaign types) and use for behaviorally targeted online advertising.
+Type Code: Type4
 ========================= pause ===========================

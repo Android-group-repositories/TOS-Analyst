@@ -120,12 +120,12 @@ Summarize the Term of Service above, output the key points of the text.  Try to 
         inited_tos = chat(query, history,False)
         # print(inited_tos)
 # 改句式
-        history = prompt1_2(history)
+        # history = prompt1_2(history)
         rewrite_des = """
 there is the json you need to rewrite        
         """
-        query = rewrite_des+inited_tos
-        inited_tos = chat(query, history,False)
+        # query = rewrite_des+inited_tos
+        # inited_tos = chat(query, history,False)
         print(inited_tos)
         
         

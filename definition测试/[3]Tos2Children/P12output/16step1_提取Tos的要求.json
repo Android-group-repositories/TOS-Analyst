@@ -1,0 +1,39 @@
+{
+    "requirements": [
+        {
+            "description": "Company must ensure compliance with GDPR, COPPA, and other data protection laws when handling personal data of children under 16 years old.",
+            "type": {
+                "code": "Type1",
+                "summary": "Compliance with child data protection laws"
+            }
+        },
+        {
+            "description": "Company must not use Nuance's services for online sites, services, or products that are primarily directed at children under 16 years old.",
+            "type": {
+                "code": "Type1",
+                "summary": "Prohibition on using Nuance services for primarily child-directed content"
+            }
+        },
+        {
+            "description": "If Company uses Nuance software for child-directed sites, it must not send any child data to Nuance.",
+            "type": {
+                "code": "Type2",
+                "summary": "No transfer of child data to Nuance for child-directed services"
+            }
+        },
+        {
+            "description": "For mixed or general audience sites that may be accessed by children under 16, Company must have a verifiable parental consent mechanism and provide adequate notice regarding the transfer of child data to Nuance and Nuance's collection and processing of such data.",
+            "type": {
+                "code": "Type2",
+                "summary": "Parental consent and notice requirements for non-child-directed services"
+            }
+        },
+        {
+            "description": "Nuance is not considered an operator under COPPA.",
+            "type": {
+                "code": "Type4",
+                "summary": "Nuance's status under COPPA"
+            }
+        }
+    ]
+}

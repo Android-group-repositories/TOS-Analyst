@@ -1,0 +1,75 @@
+#Type2-pattern1# Your privacy policy needs to describe YOU {maintain or enter into} {privacy policies, agreements or other obligations} to {third-party Customer} ; Even obtain user consent
+#Type1-pattern4# You provide privacy policy and {comply with all applicable laws, policies, and regulations regarding the collection of information from Users}
+#Type1-pattern3# Your privacy policy needs to describe {you} {use cookies, mobile device identifiers, or similar technology} ; {to collect data} ; Even obtain user consent
+#Type2-pattern1# Your privacy policy needs to describe YOU {use, collect, process} {data} to {Google Analytics} ; Even obtain user consent
+#Type2-pattern1# Your privacy policy needs to describe YOU {make available} {End User Information} to {third-party You} ; Even obtain user consent
+#Type1-pattern4# You provide privacy policy and {legally adequate it to End Users}
+#Type1-pattern4# You provide privacy policy and {comply with all applicable laws and industry standards}
+#Type1-pattern4# You provide privacy policy and {post it in your application, in any store, and on any website}
+#Type1-pattern1# Your privacy policy needs to describe {you} {collects, uses, shares, stores} {data about end users} ; Even obtain user consent
+#Type2-pattern1# Your privacy policy needs to describe YOU {describe} {how visitors may learn more about the choices offered in connection with Flurry's use of User Data} to {Flurry} ; Even obtain user consent
+#Type1-pattern4# You provide privacy policy and {disclosures for the Properties that comply with applicable law and the terms of this EULA}
+#Type2-pattern1# Your privacy policy needs to describe YOU {collect} {SDK Information} ; to {third parties} ; Even obtain user consent
+#Type1-pattern4# You provide privacy policy and post it on website
+#Type1-pattern1# Your privacy policy needs to describe {you} {collects, uses, shares} {information} ; Even obtain user consent
+#Type2-pattern1# Your privacy policy needs to describe YOU {make available} {privacy notice or privacy policy} to {Business User} ; Even obtain user consent
+#Type2-pattern1# Your privacy policy needs to describe YOU {disclose} {RevenueCat's and Stripe's processing of such information} to {third parties} ; Even obtain user consent
+#Type1-pattern4# You provide privacy policy and {display it to people before they download, install, or sign up to your service}
+#Type1-pattern1# Your privacy policy needs to describe {you} {collect} {information} ; Even obtain user consent
+#Type2-pattern1# Your privacy policy needs to describe YOU {use and share} {that information} to {X} ; Even obtain user consent
+#Type1-pattern5# You provide privacy policy and CONDITION
+#Type1-pattern4# You provide privacy policy and {be consistent with all applicable laws, and be no less protective of people than X's Privacy Policy and the privacy policy of our other services and corporate affiliates}
+#Type2-pattern1# Your privacy policy needs to describe YOU {disclose} {Relevant Service-related privacy policies} to {third parties} ; Even obtain user consent
+#Type1-pattern4# You provide privacy policy and {be easily viewable to anyone at any time}
+#Type1-pattern4# You provide privacy policy and {be available before and after a user starts to use the Relevant Service}
+#Type2-pattern1# Your privacy policy needs to describe YOU {collect, use, share} {personal data} ; to {us and other third parties} ; Even obtain user consent
+#Type1-pattern4# You provide privacy policy and {be consistent with the terms and requirements set out in the Agreement and the WeChat or Weixin Privacy Policy (as applicable)}
+#Type1-pattern3# Your privacy policy needs to describe {you} {use Platform to Process Platform Data} ; for {providing and complying with a publicly available and easily accessible privacy policy} ; Even obtain user consent
+#Type1-pattern3# Your privacy policy needs to describe {you} {Processing} {data} ; for {the purposes} ; Even obtain user consent
+#Type1-pattern4# You provide privacy policy and ensure the links remain current and up to date in the privacy policy field in the settings of your App Dashboard, as well as in any App Store that allows you to do so.
+#Type1-pattern4# You provide privacy policy and {complete and accurate disclosure to your End Users}
+#Type1-pattern4# You provide privacy policy and {disclosure of the privacy practices and policies applicable to the Application}
+#Type1-pattern4# You provide privacy policy and adhere to a published policy for your Application
+#Type1-pattern4# You provide privacy policy and {be easily accessible and conspicuously linked from the Application}
+#Type2-pattern1# Your privacy policy needs to describe YOU {incorporate by reference and link} {Snap Privacy Policy} to {third parties} ; Even obtain user consent
+#Type2-pattern1# Your privacy policy needs to describe YOU {access, collect, store} {user information} to {your Application} ; Even obtain user consent
+#Type2-pattern1# Your privacy policy needs to describe YOU {use, process, share} {user information} to {Snap, other third parties} ; Even obtain user consent
+#Type2-pattern1# Your privacy policy needs to describe YOU {use, collect, share} {mobile device advertising identifiers and other personal information} to {third parties} ; Even obtain user consent
+#Type2-pattern1# Your privacy policy needs to describe YOU {collect, use} {data} ; to {our Services} ; Even obtain user consent
+#Type2-pattern1# Your privacy policy needs to describe YOU {post} {privacy policy} to {Partner's App} ; when {abides by all applicable rules, laws, acts and regulations}
+#Type2-pattern1# Your privacy policy needs to describe YOU {provide} {information relating to End Users} to {ironSource} ; Even obtain user consent
+#Type2-pattern1# Your privacy policy needs to describe YOU {read and understood} {IronSource Mobile Privacy Policy} to {Partner} ; Even obtain user consent
+#Type2-pattern1# Your privacy policy needs to describe YOU {comply} {privacy policy} to {Partner's privacy policy} ; Even obtain user consent
+#Type1-pattern4# You provide privacy policy and {maintain, display and abide by a conspicuously placed privacy policy that makes appropriate disclosures to End-Users}
+#Type1-pattern4# You provide privacy policy and comply with all applicable privacy and data protection laws and regulations and/or any applicable requirements, terms, or guidelines required by your platform providers
+#Type2-pattern1# Your privacy policy needs to describe YOU {process} {Services Data} to {Unity Privacy Policy, ironSource Privacy Policy} ; Even obtain user consent
+#Type1-pattern1# Your privacy policy needs to describe {you} {use a tracking pixel, agent or any other visitor identification technology that collects, uses, shares and stores data} {about end users} ; Even obtain user consent
+#Type2-pattern1# Your privacy policy needs to describe YOU {include a link} {Unity Privacy Policy, or ironSource Privacy Policy} to {third-party ENT} ; Even obtain user consent
+#Type1-pattern4# You provide privacy policy and {clearly labeled and easily accessible}
+#Type1-pattern5# You provide privacy policy and comply with all applicable laws
+#Type1-pattern3# Your privacy policy needs to describe {you} {provide} {clear and comprehensive information about cookies} ; for {end users} ; Even obtain user consent
+#Type1-pattern3# Your privacy policy needs to describe {you} {provide} {device-specific information} ; for {clear and comprehensive information to end users} ; Even obtain user consent
+#Type1-pattern3# Your privacy policy needs to describe {you} {provide} {location information} ; for {clear and comprehensive information to end users} ; Even obtain user consent
+#Type1-pattern3# Your privacy policy needs to describe {you} {store, access, collect} {other information} ; {on, from end users' devices} ; Even obtain user consent
+#Type2-pattern1# Your privacy policy needs to describe YOU {use} {the Services} ; to {the Properties} ; Even obtain user consent
+#Type1-pattern3# Your privacy policy needs to describe {you} {use cookies} ; for {providing end users with clear and comprehensive information} ; Even obtain user consent
+#Type1-pattern1# Your privacy policy needs to describe {you} {provide information about device-specific information} ; Even obtain user consent
+#Type1-pattern1# Your privacy policy needs to describe {you} {provide information about} {location information} ; Even obtain user consent
+#Type1-pattern1# Your privacy policy needs to describe {you} {store, access, collect} {other information} ; Even obtain user consent
+#Type1-pattern3# Your privacy policy needs to describe {you} {include information} ; for {end users' options for cookie management} ; Even obtain user consent
+#Type1-pattern4# You provide privacy policy and {conspicuously post, maintain, and abide by a publically accessible privacy notice within the Developer App}
+#Type1-pattern4# You provide privacy policy and {satisfy the transparency and information requirements of the Privacy Requirements and the Agreement}
+#Type2-pattern1# Your privacy policy needs to describe YOU {provide notice} {Vungle Ads} ; to {Developer App or on the landing page of the Vungle Ad} ; when notice cannot be provided in or around Vungle Ads.
+#Type2-pattern1# Your privacy policy needs to describe YOU {collect, use, share} {Ad Data} to {Vungle and its Demand Partner} ; Even obtain user consent
+#Type2-pattern1# Your privacy policy needs to describe YOU {collect or receive, use} {Personal Data} to {third parties} ; Even obtain user consent
+#Type1-pattern3# Your privacy policy needs to describe {you} {collect} {Personal Data} ; for {processing} ; Even obtain user consent
+#Type1-pattern4# You provide privacy policy and {post and abide by a conspicuous and legally adequate it on each application and/or service of the Publisher Network}
+#Type2-pattern1# Your privacy policy needs to describe YOU {collect} {Service Data} to {third parties such as MoPub} ; Even obtain user consent
+#Type1-pattern3# Your privacy policy needs to describe {you} {obtain user consent, disclose data collection practices, provide opt-out options} ; for {App Store Terms compliance} ; Even obtain user consent
+#Type1-pattern1# Your privacy policy needs to describe {you} {collect} {all types of data, including data sent to Sentry} ; Even obtain user consent
+#Type1-pattern5# You provide privacy policy and {in compliance with it that is made available to Users}
+#Type2-pattern1# Your privacy policy needs to describe YOU {collect, use, share} {user information} to {Developer} ; Even obtain user consent
+#Type1-pattern4# You provide privacy policy and {terms of service, privacy policy and support information to the Zoom Marketplace}
+#Type1-pattern4# You provide privacy policy and {is adequate in accordance with applicable privacy laws}
+#Type1-pattern3# Your privacy policy needs to describe {you} {collect or permit to be collected} {data sets} ; for {use cases related to personal data/information} ; Even obtain user consent
+#Type2-pattern1# Your privacy policy needs to describe YOU {use} {cookies} ; to {third parties} ; for {the purposes of attribution and/or serving targeted Advertisements} ; Even obtain user consent

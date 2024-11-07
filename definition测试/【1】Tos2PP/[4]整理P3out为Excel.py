@@ -145,4 +145,5 @@ for row in ans:
 df = pd.DataFrame(ans[1:],columns = ans[0])
 
 # 写入Excel文件
-df.to_excel('output_Tuple.xlsx', index=False)
+print("写入Excel文件...")
+df.to_excel('output_Tuple1.xlsx', index=False)

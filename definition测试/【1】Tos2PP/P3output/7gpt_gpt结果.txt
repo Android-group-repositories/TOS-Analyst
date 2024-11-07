@@ -1,12 +1,9 @@
-Description: Your Stripe Application can only be made available to the Business User if the privacy notice or privacy policy is readily accessible
+Description: make the privacy notice or privacy policy applicable to your Stripe Application readily available to the Business User
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type2#, <Your Stripe Application  ;  can be made available  ;  privacy notice or privacy policy  ;  from user  ;  NULL  ;  NULL>  ,  <Third party is: Stripe>}
+{#type1#, <privacy notice or privacy policy ; make applicable ; Stripe Application ; from user ; to ensure compliance with Stripe's requirements ; NULL>}
 ========================= pause ===========================
-Description: This includes providing a link in your Stripe App listing in the Stripe Apps Marketplace
-Type Code: Type1
-
-Processing for Type1 requirements.
-{#type2#, <Your privacy policy ; providing a link ; in your Stripe App listing in the Stripe Apps Marketplace ; share to Stripe Apps Marketplace ; NULL ; NULL>, <Third party is: Stripe Apps Marketplace>}
+Description: including via a link in your Stripe App listing in the Stripe Apps Marketplace
+Type Code: Type4
 ========================= pause ===========================

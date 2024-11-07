@@ -1,0 +1,11 @@
+{
+    "requirements": [
+        {
+            "description": "The Service is not intended for individuals under the age of 16 and should not be used by them. Customers must ensure that all users of the Service are over 16 years old.",
+            "type": {
+                "code": "Type1",
+                "summary": "Age Restriction"
+            }
+        }
+    ]
+}

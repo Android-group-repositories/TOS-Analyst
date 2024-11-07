@@ -1,0 +1,70 @@
+
+
+
+
+Advise users who wish to opt-out that they may do so on a device by device basis by enabling 'Limit Ad Tracking' and provide active links to opt-out resources.
+建议希望退出的用户可以在设备级别通过启用“限制广告跟踪”来实现，并提供退出资源的活跃链接。
+
+
+
+You need provide California users the ability to opt-out from the sale of their information.
+为加利福尼亚用户提供退出出售其信息的能力。
+
+
+
+
+
+Certain privacy laws such as CCPA, CPRA and/or other applicable US state privacy laws also requires that You provide sufficient notice regarding rights of End Users with regard to their personal information and clearly provide for mechanisms of Opt Out elections which You agree to comply with, if applicable to the Inventory.
+某些隐私法律，如CCPA、CPRA及其他适用的美国州隐私法律，还要求您提供关于最终用户个人资料权利的充分通知，并明确提供您同意遵守的退出选举机制，如果适用于库存的话。
+
+
+
+The privacy policy must include a mechanism for End Users to opt-out of receiving targeted ads based on their behavior and interests.
+隐私政策必须包含一个机制，允许最终用户退出基于其行为和兴趣的定向广告。
+Your privacy policy must explain how End-Users can opt out of the Offerings, if applicable.
+您的隐私政策必须解释最终用户如何退出服务，如果适用的话。
+your privacy police need need to describe the opt-out information includes online behavioral or mobile cross-app advertising.
+退出信息包括在线行为或移动跨应用广告。
+
+Your privacy policy must include an opt-out link directing users to an industry-recognized opt-out from online behavioral advertising.
+您的隐私政策必须包含一个退出链接，引导用户退出在线行为广告的行业认可的退出机制。
+
+Your privacy policy must include an opt-out link directing users to an industry-recognized opt-out 
+您的隐私政策必须包含一个退出链接，引导用户退出在线行为广告的行业认可的退出机制。
+
+The notice shall include a conspicuous link to or description of how and where users can opt-out of collection and use of information for ad targeting.
+通知应包含一个显眼的链接或描述，说明用户如何以及在哪里可以退出信息的收集和使用以进行广告定位。
+
+
+
+
+1. privacy police need provide a mechanism {to opt-out}
+2. privacy police need provide a mechanism {to opt-out}  ,  to opt-out from {online behavioral or mobile cross-app advertising}
+3. privacy police need provide a mechanism {to opt-out}  ,  include {an opt-out link}
+4. privacy police need provide a mechanism {to opt-out}  ,  include {a conspicuous link}  ,  to opt-out from  {online behavioral advertising} 
+
+
+
+-<text>	 your privacy police  need to describe the opt-out information includes online behavioral or mobile cross-app advertising.
+-pattern 2	privacy police need {to describe the opt-out information}  ,  to opt-out from {online behavioral or mobile cross-app advertising}
+
+-<text>	 Your privacy policy must include an opt-out link directing users to an industry-recognized opt-out 
+-pattern 3	privacy police need provide a {link to opt-out}  ,  include {an opt-out link}
+
+-<text>	 Your privacy policy must include an opt-out link directing users to an industry-recognized opt-out from online behavioral advertising.
+-pattern 4 privacy police need provide a  {link to opt-out}  ,  include {a conspicuous link}  ,  to opt-out from  {online behavioral advertising} 
+
+
+
+1. privacy police need provide a mechanism {to opt-out}
+
+
+your privacy police need need to describe the opt-out information includes online behavioral or mobile cross-app advertising.
+2. privacy police need provide a mechanism {to opt-out}  ,  to opt-out from {online behavioral or mobile cross-app advertising}
+
+Your privacy policy must include an opt-out link directing users to an industry-recognized opt-out from online behavioral advertising.
+3. privacy police need provide a mechanism {to opt-out}  ,  include {an opt-out link}
+
+Your privacy policy must include an opt-out link directing users to an industry-recognized opt-out from online behavioral advertising.
+4. privacy police need provide a mechanism {to opt-out}  ,  include {a conspicuous link}  ,  to opt-out from  {online behavioral advertising} 
+

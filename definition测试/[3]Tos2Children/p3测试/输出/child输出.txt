@@ -1,0 +1,31 @@
+#pattern1# your app {cannot} {use the Site or Services to harm or exploit minors} ; {user:minors} ; Even obtain user consent
+#pattern1# your app {cannot} {collect} {personal information}; {user:children} ; Even obtain user consent
+#pattern1# your app {cannot} {collect} {personally identifiable information}; {user:children under the age of 13} ; Even obtain user consent
+
+#pattern1# your app {cannot} {gather} {Personal Information}; {user:children under the age of 13} ; Even obtain user consent
+#pattern1# your app {cannot} {gather personal data} ; {user:children} ; Even obtain user consent
+#pattern3# your app {cannot} {provide personal information of children, use sdk-service to display ads} ; {user:children} ; Even obtain user consent
+#pattern1# your app {cannot} {gather personal data} ; {user:children} ; Even obtain user consent
+#pattern3# your app {cannot} {use sdk-service} ; {user: Kids or Children applications} ; Even obtain user consent
+#pattern3# your app {cannot} {use sdk-service} ; {user: under the age of 17} ; Even obtain user consent
+#pattern3# your app {cannot} {use sdk-service} ; {user:children} ; Even obtain user consent
+
+
+#pattern3# your app {cannot} {use sdk-service} ; {user:children} ; Even obtain user consent
+#pattern1# your app {cannot} {collect} {Personal Information}; {user:children under the age of 13} ; Even obtain user consent
+
+
+
+#pattern3# your app {cannot} {use sdk-service} ; {user:children under 16 years old} ; Even obtain user consent
+
+
+
+#pattern4# your app {can} {use sdk-service} ; {user:child} ; when {obtained verifiable and freely given consent of a child's parent or guardian}
+#pattern2# your app {can} {use Stripe Application} ; {user:under the age of 13} ; when {Implement reasonable measures to prevent}
+#pattern2# your app {cannot} {collect Personal Data} ; {user:under the age of 13 or the age that requires parental consent} ; when {as per applicable data protection laws}
+#pattern2# your app {can} {contact DPO@unity3d.com} ; {user:child under the age to provide lawful consent} ; when {become aware of receiving Personal Information}
+
+-- #pattern2# your app {can} {collect data} ; {user: depending on region} ; when {age of consent varies by region, such as 13 in the U.S., 16 in the E.U., and 16 in Japan}
+
+#pattern2# your app {must} {ensure compliance with GDPR, COPPA, and other data protection laws} ; {user:children under 16 years old} ; when {handling personal data}
+#pattern2# your app {cannot} {gather, utilize, or disclose} {personal location data} ; {user: children younger than 14} ; when {secure the approval of both the child and their legal guardian}

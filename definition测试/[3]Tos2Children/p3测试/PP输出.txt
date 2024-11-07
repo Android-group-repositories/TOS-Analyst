@@ -1,0 +1,4 @@
+#pattern1# Your privacy policy needs to describe YOU {collect} {data sets} ; to {certain third parties} ; when {applicable use cases}
+#pattern1# Your privacy policy needs to describe YOU {use and share} {that information} to {X} ; Even obtain user consent
+#pattern1# Your privacy policy needs to describe YOU {use, collect, share} {mobile device advertising identifiers and other personal information} to {third parties} ; Even obtain user consent
+#pattern1# Your privacy policy needs to describe YOU {collects, uses, shares} {user information} to {Users} ; Even obtain user consent

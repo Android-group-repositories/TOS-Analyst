@@ -1,0 +1,57 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "Developers are allowed to use OneSignal in applications directed at children under 13, but they must comply with specific obligations.",
+            "type": {
+                "code": "Type1",
+                "summary": "Use of OneSignal in children-directed apps requires compliance"
+            }
+        },
+        {
+            "description": "Developers must obtain verifiable parental consent before sending any push tokens, emails, or other contact information to OneSignal.",
+            "type": {
+                "code": "Type2",
+                "summary": "Obtaining verifiable parental consent is mandatory"
+            }
+        },
+        {
+            "description": "An opportunity for parents to opt-out must be provided before any data is sent to OneSignal.",
+            "type": {
+                "code": "Type3",
+                "summary": "Providing an opt-out option is required"
+            }
+        }
+    ]
+}
+```
+
+翻译成中文：
+
+```json
+{
+    "requirements": [
+        {
+            "description": "开发者可以在针对13岁以下儿童的应用程序中使用OneSignal，但他们必须遵守特定的义务。",
+            "type": {
+                "code": "Type1",
+                "summary": "在针对儿童的应用程序中使用OneSignal需要遵守规定"
+            }
+        },
+        {
+            "description": "开发者在向OneSignal发送任何推送令牌、电子邮件或其他联系信息之前，必须获得可验证的父母同意。",
+            "type": {
+                "code": "Type2",
+                "summary": "必须获得可验证的父母同意"
+            }
+        },
+        {
+            "description": "在向OneSignal发送任何数据之前，必须为父母提供选择退出的机会。",
+            "type": {
+                "code": "Type3",
+                "summary": "需要提供选择退出的选项"
+            }
+        }
+    ]
+}
+```

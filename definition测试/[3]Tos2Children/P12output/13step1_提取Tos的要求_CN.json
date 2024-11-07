@@ -1,0 +1,46 @@
+{
+    "requirements": [
+        {
+            "description": "Pollfish的服务不针对16岁以下的儿童，并且声明您的平台也不针对16岁以下的儿童。",
+            "type": {
+                "code": "Type1",
+                "summary": "服务的年龄限制"
+            }
+        },
+        {
+            "description": "您必须遵守美国儿童在线隐私保护法（COPPA），并确保在整个服务期内都符合该法案。",
+            "type": {
+                "code": "Type1",
+                "summary": "遵守COPPA"
+            }
+        },
+        {
+            "description": "您的隐私政策必须向用户说明未成年人在适用法律下的隐私权利。",
+            "type": {
+                "code": "Type1",
+                "summary": "披露未成年人的隐私权利"
+            }
+        },
+        {
+            "description": "您必须做出合理的努力来核实用户的年龄，并避免收集16岁以下儿童的数据。",
+            "type": {
+                "code": "Type1",
+                "summary": "努力核实用户年龄"
+            }
+        },
+        {
+            "description": "您不得故意与Pollfish共享16岁以下用户的任何数据。",
+            "type": {
+                "code": "Type2",
+                "summary": "禁止共享未成年人数据"
+            }
+        },
+        {
+            "description": "如果Pollfish检测到用户未满16岁，它将立即阻止该用户使用其服务。",
+            "type": {
+                "code": "Type1",
+                "summary": "阻止未成年人使用服务"
+            }
+        }
+    ]
+}

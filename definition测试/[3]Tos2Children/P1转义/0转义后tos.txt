@@ -1,0 +1,18 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "If your services or apps are directed at children and subject to COPPA, you must not share personal identifiers such as IP addresses, IDFA, IDFV, Android ID, Google Play Advertising ID, Google Play store referrer, WindowsHardware ID, Windows NetworkID, Windows Phone device ID, and UUIDs with Adjust's Partners or other third parties.",
+            "type": {
+                "summary": "Prohibition on sharing children's personal identifiers under COPPA"
+            }
+        },
+        {
+            "description": "These identifiers are considered data collected within the Services, and you should be aware of COPPA's definitions and requirements for services directed at children.",
+            "type": {
+                "summary": "Understanding and adhering to COPPA's requirements"
+            }
+        }
+    ]
+}
+```

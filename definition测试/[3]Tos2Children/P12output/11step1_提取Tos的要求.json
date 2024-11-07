@@ -1,0 +1,11 @@
+{
+    "requirements": [
+        {
+            "description": "You represent and warrant that (i) no application within the Publisher Network is a website or online service directed to children, as defined under the Children’s Online Privacy Protection Act (“COPPA”), and (ii) You will not transmit any “Personal Information” (as defined under COPPA) about or relating to an individual under the age of 13 to MoPub.",
+            "type": {
+                "code": "Type1",
+                "summary": "Ensure no child-directed applications and no transmission of children's personal information to MoPub"
+            }
+        }
+    ]
+}

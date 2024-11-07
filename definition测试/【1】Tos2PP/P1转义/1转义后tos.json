@@ -1,36 +1,34 @@
-Here are the rewritten descriptions in the requested format:
-
 ```json
 {
     "requirements": [
         {
-            "description": "Customer Data can only be collected, submitted, processed, stored, and transmitted if it is legal, accurate, and of high quality",
+            "description": "Customer shall be responsible for the legality, accuracy and quality of Customer Data",
             "type": {
                 "summary": "Responsibility for Data Quality"
             }
         },
         {
-            "description": "Customer can use Amplitude Services to process, store, and transmit Customer Data only if it complies with all applicable laws and regulations",
+            "description": "ensuring that Customer's collection and submission of data to, and use of the Amplitude Services to process, store and transmit Customer Data",
             "type": {
                 "summary": "Compliance in Data Handling"
             }
         },
         {
-            "description": "Customer's collection, submission, and use of data must comply with all applicable laws and regulations",
+            "description": "is compliant with all applicable laws and regulations",
             "type": {
-                "summary": "Legal and Regulatory Compliance"
+                "summary": "Legal Compliance"
             }
         },
         {
-            "description": "Customer must comply with any privacy policies, agreements, or other obligations it maintains or enters into with its end users",
+            "description": "as well as any privacy policies, agreements or other obligations Customer may maintain or enter into with its end users",
             "type": {
-                "summary": "Compliance with Privacy Policies and Agreements"
+                "summary": "Privacy Policy and Agreement Adherence"
             }
         },
         {
-            "description": "Customer can collect, submit, and use data only if it obtains all legally required consents and permissions",
+            "description": "including to obtain all legally required consents and permissions",
             "type": {
-                "summary": "Obtaining Necessary Consents and Permissions"
+                "summary": "Obtaining Necessary Consents"
             }
         }
     ]

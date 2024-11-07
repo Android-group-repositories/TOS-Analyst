@@ -1,36 +1,40 @@
-Here are the rewritten descriptions in the requested format:
-
 ```json
 {
     "requirements": [
         {
-            "description": "The Mixpanel Privacy Statement governs Mixpanel's tracking and use of information collected about Customer on Mixpanel Sites",
+            "description": "Mixpanel's tracking and use of information collected about Customer on Mixpanel Sites are governed by the Mixpanel Privacy Statement",
             "type": {
                 "summary": "Governance by Mixpanel Privacy Statement"
             }
         },
         {
-            "description": "The Mixpanel Privacy Statement excludes information Mixpanel processes on Customer's behalf in providing the Application Services",
+            "description": "The Mixpanel Privacy Statement is available at https://mixpanel.com/legal/privacy-policy/",
             "type": {
-                "summary": "Exclusion of Customer Data Processing"
+                "summary": "Availability of Mixpanel Privacy Statement"
             }
         },
         {
-            "description": "Customer must provide its own privacy statement or notice to its End Users",
+            "description": "The Mixpanel Privacy Statement does not cover information Mixpanel processes on Customer's behalf in providing the Application Services",
+            "type": {
+                "summary": "Non-coverage of Customer-specific Data Processing"
+            }
+        },
+        {
+            "description": "It shall be Customer's obligation to provide Customer's own privacy statement or notice to its End Users",
             "type": {
                 "summary": "Customer's Responsibility for Privacy Notice"
             }
         },
         {
-            "description": "Customer can collect registration and other information about Customer through Mixpanel Sites only if providing all required disclosures to and obtaining all required consents from Customer's employees and/or agents",
+            "description": "Customer must provide all required disclosures to and obtain all required consents from Customer's employees and/or agents",
             "type": {
                 "summary": "Customer's Responsibility for Disclosure and Consent"
             }
         },
         {
-            "description": "Mixpanel can collect registration and other information about Customer as Mixpanel's customer through Mixpanel Sites",
+            "description": "Mixpanel may collect registration and other information about Customer as Mixpanel's customer through Mixpanel Sites",
             "type": {
-                "summary": "Mixpanel's Right to Collect Customer Information"
+                "summary": "Collection of Customer Information by Mixpanel"
             }
         }
     ]

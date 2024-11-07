@@ -1,0 +1,21 @@
+{
+    "requirements": [
+        
+        {
+            "description": "The Services are designed for general audiences and are not intended for children.",
+            "type": {
+                "code": "Type1",
+                "summary": "Intended audience"
+            }
+        },
+        {
+            "description": "You agree not to request or permit any Ad Partner or Attribution Partner to transmit any personal information from children under the age of 17 to Flurry.",
+            "type": {
+                "code": "Type2",
+                "summary": "禁止第三方将17岁以下儿童的个人信息传输给Flurry"
+            }
+        }
+        
+
+    ]
+}

@@ -1,14 +1,14 @@
 {
     "requirements": [
         {
-            "description": "必须遵守所有适用的隐私法律",
+            "description": "各方同意遵守所有适用的隐私法律",
             "type": {
                 "code": "Type4",
                 "summary": "遵守隐私法律"
             }
         },
         {
-            "description": "只有在被许可方获得所有适用的同意后，OneSignal才能从最终用户的设备或浏览器收集信息",
+            "description": "被许可方负责获取所有必要的同意，以便OneSignal能够从最终用户的设备或浏览器收集信息",
             "type": {
                 "code": "Type4",
                 "summary": "被许可方同意责任"
@@ -22,10 +22,10 @@
             }
         },
         {
-            "description": "隐私政策必须清楚地披露将收集SDK信息，并具体说明其使用方式，如第5节所述",
+            "description": "隐私政策必须包括清晰的披露，即SDK信息将被收集以及其可能的使用方式，如第5节所述",
             "type": {
                 "code": "Type1",
-                "summary": "清楚披露数据收集和使用情况"
+                "summary": "披露SDK信息收集和使用"
             }
         }
     ]

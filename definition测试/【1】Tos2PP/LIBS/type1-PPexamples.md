@@ -61,6 +61,7 @@ The privacy policy must also include data collection and use for online advertis
 Input example3:
 each party shall at all times post a privacy policy on its website that describes how it collects, uses and shares information
 
+Input example3:
 each party shall post a privacy policy  that describes how it collects, uses and shares information
 Output example3:
 {#type1#,  <  each party shall post a privacy policy   ;    describes    ;    how it collects, uses and shares information ;  NULL  ;  NULL  ;  NULL>}

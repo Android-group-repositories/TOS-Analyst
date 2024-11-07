@@ -1,16 +1,37 @@
 {
     "requirements": [
         {
-            "description": "只有当Stripe应用程序的隐私通知或隐私政策易于访问时，才能向商业用户开放",
+            "description": "make the privacy notice or privacy policy applicable to your Stripe Application readily available to the Business User",
+            "type": {
+                "code": "Type1",
+                "summary": "Accessibility of Privacy Notice"
+            }
+        },
+        {
+            "description": "including via a link in your Stripe App listing in the Stripe Apps Marketplace",
+            "type": {
+                "code": "Type4",
+                "summary": "Link in Marketplace Listing"
+            }
+        }
+    ]
+}
+
+以下是上述JSON的中文翻译：
+
+{
+    "requirements": [
+        {
+            "description": "使适用于您的Stripe应用程序的隐私通知或隐私政策能够方便地提供给商业用户",
             "type": {
                 "code": "Type1",
                 "summary": "隐私通知的可访问性"
             }
         },
         {
-            "description": "这包括在Stripe应用市场列表中提供指向您Stripe应用程序的链接",
+            "description": "包括在Stripe应用市场中的应用列表中通过链接提供",
             "type": {
-                "code": "Type1",
+                "code": "Type4",
                 "summary": "市场列表中的链接"
             }
         }

@@ -1,0 +1,1 @@
+#pattern6# your app {can} {use service data} ; {for internal business purposes} ; Even obtain user consent

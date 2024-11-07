@@ -1,21 +1,21 @@
 {
     "requirements": [
         {
-            "description": "只有在开发者披露的情况下，相关服务相关的隐私政策才能被实施",
+            "description": "开发者应披露与相关服务相关的隐私政策",
             "type": {
                 "code": "Type1",
                 "summary": "隐私政策的披露"
             }
         },
         {
-            "description": "隐私政策只有在任何时候都能被任何人轻松查看时，才能被视为符合规定",
+            "description": "隐私政策应随时可供任何人查看",
             "type": {
                 "code": "Type1",
                 "summary": "隐私政策的可访问性"
             }
         },
         {
-            "description": "隐私政策只有在用户开始使用相关服务之前和之后都能获取时，才能被视为符合规定",
+            "description": "隐私政策应在用户开始使用相关服务之前和之后都可获得",
             "type": {
                 "code": "Type1",
                 "summary": "隐私政策的可用性"

@@ -1,0 +1,39 @@
+{
+    "requirements": [
+        {
+            "description": "如果您的服务或应用程序面向儿童并受COPPA约束，您不得与Adjust的合作伙伴或其他第三方共享个人标识符，如IP地址、IDFA、IDFV、Android ID、Google Play广告ID、Google Play商店推荐人、WindowsHardware ID、Windows NetworkID、Windows Phone设备ID和UUIDs。",
+            "type": {
+                "code": "Type2",
+                "summary": "根据COPPA禁止共享儿童个人标识符"
+            }
+        },
+        {
+            "description": "这些标识符被视为在服务中收集的数据，您应当了解COPPA对面向儿童的服务的定义和要求。",
+            "type": {
+                "code": "Type1",
+                "summary": "理解并遵守COPPA的要求"
+            }
+        }
+    ]
+}
+
+以下是中文翻译：
+
+{
+    "requirements": [
+        {
+            "description": "如果您的服务或应用是针对儿童并且需要遵守儿童在线隐私保护法（COPPA），您不得与Adjust的合作伙伴或其他第三方共享个人标识信息，例如IP地址、IDFA、IDFV、Android ID、Google Play广告ID、Google Play商店推荐人、WindowsHardware ID、Windows NetworkID、Windows Phone设备ID和UUIDs。",
+            "type": {
+                "code": "Type2",
+                "summary": "在COPPA下禁止共享儿童个人标识信息"
+            }
+        },
+        {
+            "description": "这些标识符被视为在服务中收集的数据，您需要了解COPPA对针对儿童的服务的定义和要求。",
+            "type": {
+                "code": "Type1",
+                "summary": "理解并遵循COPPA的要求"
+            }
+        }
+    ]
+}

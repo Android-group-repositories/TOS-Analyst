@@ -1,18 +1,18 @@
-Description: Publisher can publish the App on the applicable app store only if they are solely responsible for compliance with the App Store Terms.
+Description: Publisher will publish the App on the applicable app store and be solely responsible for compliance with the App Store Terms
 Type Code: Type4
 ========================= pause ===========================
-Description: App Store Terms require obtaining user consent, disclosing data collection practices, and providing opt-out options for compliance.
-Type Code: Type3
+Description: App Store Terms include requirements for obtaining user consent, disclosing data collection practices, and providing opt-out options
+Type Code: Type1
 
-Processing for Type3 requirements.
-{#type3-Q1#, < NULL ; NULL ; NULL ; NULL ; NULL ; NULL > , <mention opt-out> , <need link to guidance how to opt-out> }
+Processing for Type1 requirements.
+{#type1#,  <App Store Terms  ;  require obtaining user consent  ;  obtaining user consent  ;  from user  ;  disclosing data collection practices  ;  unless user opts out>}
 ========================= pause ===========================
-Description: StartApp does not represent or warrant that use of the Service will comply with the App Store Terms.
+Description: StartApp does not represent or warrant that use of the Service will comply with the App Store Terms
 Type Code: Type4
 ========================= pause ===========================
-Description: StartApp shall have no liability for any costs or damages incurred to the Publisher as a result of noncompliance with the App Store Terms.
+Description: StartApp shall have no liability for any costs or damages incurred to the Publisher as a result of noncompliance with the App Store Terms
 Type Code: Type4
 ========================= pause ===========================
-Description: The App may require additional permissions from End Users when using the Service that were not originally required.
+Description: Using the Service may require additional permissions from End Users that the App may not originally require
 Type Code: Type4
 ========================= pause ===========================

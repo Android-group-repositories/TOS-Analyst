@@ -1,15 +1,21 @@
-Description: You can gather or access End User Information only if making the End Users aware that certain End User Information will be available to You
+Description: If End Users provide You with, or You gather or access End User Information
 Type Code: Type4
+========================= pause ===========================
+Description: You must make the End Users aware that certain End User Information will be available to You
+Type Code: Type1
+
+Processing for Type1 requirements.
+{#type1#,  <  You  ;  make aware  ;  End Users  ;  certain End User Information  ;  NULL  ;  NULL> }
 ========================= pause ===========================
 Description: You must provide a legally adequate privacy notice to End Users about it
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type2#, <You ; must provide ; a legally adequate privacy notice ; to End Users ; NULL ; NULL>, <NULL>}
+{#type1#, <a legally adequate privacy notice ; provide to ; End Users ; NULL ; NULL ; NULL>}
 ========================= pause ===========================
-Description: You can gather and use End User Information only if obtaining the End User's permission
+Description: obtain the End User's permission to gather and use End User Information
 Type Code: Type4
 ========================= pause ===========================
-Description: You must ensure the protection of such End User Information
+Description: ensure the protection of such End User Information
 Type Code: Type4
 ========================= pause ===========================

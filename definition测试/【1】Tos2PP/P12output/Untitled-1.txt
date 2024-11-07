@@ -1,0 +1,29 @@
+        {
+            "description": "including via a link in your Stripe App listing in the Stripe Apps Marketplace",
+            "type": {
+                "code": "Type1",
+                "summary": "Link in Marketplace Listing"
+            }
+        }
+        {
+            "description": "您将为应用程序提供并遵守已发布的隐私政策",
+            "type": {
+                "code": "Type1",
+                "summary": "提供并遵循隐私政策"
+            }
+        },
+        {
+            "description": "Partner confirms that it has read and understood the IronSource Mobile Privacy Policy",
+            "type": {
+                "code": "Type2",
+                "summary": "Acknowledgment of IronSource Privacy Policy"
+            }
+        },
+
+        {
+            "description": "合作伙伴应在其应用中发布遵守所有适用规则、法律、法案和法规的隐私政策",
+            "type": {
+                "code": "Type1",
+                "summary": "发布遵守法律的隐私政策"
+            }
+        },

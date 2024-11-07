@@ -1,42 +1,42 @@
 {
     "requirements": [
         {
-            "description": "只有当属性具有清晰标记且易于访问的隐私政策时，才能使用服务",
+            "description": "您将确保在任何时候使用服务时，属性都有一个清晰标记且易于访问的隐私政策",
             "type": {
                 "code": "Type1",
                 "summary": "维护隐私政策"
             }
         },
         {
-            "description": "隐私政策必须向最终用户提供关于cookies的清晰和全面的信息",
+            "description": "隐私政策为最终用户提供有关cookies的清晰和全面的信息",
             "type": {
                 "code": "Type1",
                 "summary": "告知关于Cookies"
             }
         },
         {
-            "description": "隐私政策必须提供有关设备特定信息的信息",
+            "description": "隐私政策提供有关设备特定信息的信息",
             "type": {
                 "code": "Type1",
                 "summary": "告知关于设备特定信息"
             }
         },
         {
-            "description": "隐私政策必须提供有关位置信息的信息",
+            "description": "隐私政策提供有关位置信息的信息",
             "type": {
                 "code": "Type1",
                 "summary": "告知关于位置信息"
             }
         },
         {
-            "description": "隐私政策必须提供有关服务连接的最终用户设备上存储的、访问的或收集的其他信息的信息",
+            "description": "隐私政策提供有关服务中存储在、访问或从最终用户设备上收集的其他信息的信息",
             "type": {
                 "code": "Type1",
                 "summary": "告知其他收集的信息"
             }
         },
         {
-            "description": "隐私政策必须包括有关最终用户管理cookies的选项的信息",
+            "description": "隐私政策包括有关最终用户管理cookie的选项的信息",
             "type": {
                 "code": "Type1",
                 "summary": "告知关于Cookie管理选项"

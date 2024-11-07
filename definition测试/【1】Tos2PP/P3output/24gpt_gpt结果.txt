@@ -1,21 +1,21 @@
-Description: Sentry collects data only if you configure it to send data to Sentry.
+Description: Sentry collects only the data that you configure to be sent to Sentry.
 Type Code: Type4
 ========================= pause ===========================
 Description: This data typically includes software bugs (Errors), API calls, page loads, or similar requests and responses from your apps (Transactions).
 Type Code: Type4
 ========================= pause ===========================
-Description: By default, data collected by Sentry does not include any personally identifiable information (PII).
+Description: Data collected by Sentry does not, by default, include any personally identifiable information (PII).
 Type Code: Type4
 ========================= pause ===========================
-Description: You can send additional context and metadata to Sentry, including user names, email addresses, or by attaching files such as logs or crash reports.
+Description: You can augment the data sent to Sentry with additional context and metadata, including user names, email addresses, or by attaching files such as logs or crash reports.
 Type Code: Type4
 ========================= pause ===========================
-Description: Sentry processes data only if you send data to provide application monitoring services.
+Description: Sentry processes the data you send to provide application monitoring services.
 Type Code: Type4
 ========================= pause ===========================
-Description: You must disclose and/or include in your app privacy policy all types of data collected through your app, including data sent to Sentry.
+Description: You would need to disclose and/or include in your app privacy policy all types of data you are collecting through your app, including data you are sending to Sentry.
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type1#, <You ; disclose and/or include ; all types of data collected through your app, including data sent to Sentry ; NULL ; NULL ; NULL>}
+{#type1#,  <  Your app privacy policy  ;  disclose and/or include  ;  all types of data you are collecting through your app, including data you are sending to Sentry  ;  from user  ;  NULL  ; NULL> }
 ========================= pause ===========================

@@ -1,7 +1,7 @@
 {
     "requirements": [
         {
-            "description": "只有当您提供服务条款、隐私政策和支持信息（'您的条款'）时，您的应用才能提交到Zoom市场。",
+            "description": "您需要向Zoom市场提供您的应用程序、服务条款、隐私政策和支持信息（'Your Terms'）。",
             "type": {
                 "code": "Type1",
                 "summary": "提交条款和政策"

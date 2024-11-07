@@ -1,59 +1,59 @@
 {
     "requirements": [
         {
-            "description": "合作伙伴使用服务仅在与本协议和服务文档一致的方式下才是允许的",
+            "description": "合作伙伴将仅以与本协议和服务文档一致的方式使用服务",
             "type": {
                 "code": "Type4",
                 "summary": "遵守协议和文档"
             }
         },
         {
-            "description": "合作伙伴必须遵守所有适用规则，包括数据保护和隐私法律",
+            "description": "合作伙伴将遵守所有适用规则，包括数据保护和隐私法律",
             "type": {
                 "code": "Type4",
-                "summary": "遵守适用规则和法律"
+                "summary": "遵守适用规则"
             }
         },
         {
-            "description": "合作伙伴访问、收集、使用和共享最终用户数据只能遵守适用规则",
+            "description": "合作伙伴将遵守适用于任何被访问、收集、使用和/或共享的最终用户数据的规则",
             "type": {
                 "code": "Type4",
                 "summary": "数据处理合规性"
             }
         },
         {
-            "description": "合作伙伴必须在其应用中发布遵守所有适用规则、法律、法案和法规的隐私政策",
+            "description": "合作伙伴应在其应用中发布遵守所有适用规则、法律、法案和法规的隐私政策",
             "type": {
                 "code": "Type1",
-                "summary": "发布合规的隐私政策"
+                "summary": "发布隐私政策"
             }
         },
         {
-            "description": "任何与最终用户相关的信息，如果将提供给ironSource或ironSource可以访问，必须在隐私政策中合法披露",
+            "description": "隐私政策必须向其最终用户提供关于任何将提供给ironSource或以其他方式可被ironSource访问的与最终用户相关的信息的法律充分披露",
             "type": {
                 "code": "Type2",
-                "summary": "披露对ironSource的数据访问"
+                "summary": "披露数据访问给ironSource"
             }
         },
         {
-            "description": "隐私政策应包括最终用户针对基于其行为和兴趣的定向广告的退出机制",
+            "description": "隐私政策必须包括一个机制，允许最终用户选择退出基于他们的行为和兴趣的定向广告",
             "type": {
                 "code": "Type3",
                 "summary": "定向广告的退出机制"
             }
         },
         {
-            "description": "合作伙伴确认已阅读并理解ironSource移动隐私政策",
+            "description": "合作伙伴确认其已阅读并理解了IronSource移动隐私政策",
             "type": {
-                "code": "Type4",
-                "summary": "理解ironSource隐私政策"
+                "code": "Type2",
+                "summary": "理解IronSource隐私政策"
             }
         },
         {
-            "description": "合作伙伴确认其隐私政策与ironSource移动隐私政策一致",
+            "description": "合作伙伴确认IronSource移动隐私政策中没有任何内容与合作伙伴的隐私政策相抵触",
             "type": {
-                "code": "Type1",
-                "summary": "与ironSource隐私政策一致"
+                "code": "Type2",
+                "summary": "与IronSource隐私政策的一致性"
             }
         }
     ]

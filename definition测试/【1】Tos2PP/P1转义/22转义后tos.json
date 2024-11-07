@@ -1,30 +1,24 @@
-Here are the rewritten descriptions in the requested format:
-
+```json
 {
     "requirements": [
         {
-            "description": "You can only post a privacy policy if it is conspicuous and legally adequate",
+            "description": "You must post and abide by a conspicuous and legally adequate privacy policy on each application and/or service of the Publisher Network",
             "type": {
-                "summary": "Post a Legally Adequate Privacy Policy"
+                "summary": "Maintain a visible and legally sufficient privacy policy"
             }
         },
         {
-            "description": "Your privacy policy can only be posted on each application and/or service of the Publisher Network if it is conspicuous and legally adequate",
+            "description": "The privacy policy must disclose the collection of Service Data by third parties such as MoPub",
             "type": {
-                "summary": "Policy Disclosure on All Publisher Network Services"
+                "summary": "Disclosure of third-party data collection"
             }
         },
         {
-            "description": "Your data collection practices can only involve third parties such as MoPub if your privacy policy discloses this collection",
+            "description": "The collection is for personalized advertising purposes",
             "type": {
-                "summary": "Disclosure of Third-Party Data Collection"
-            }
-        },
-        {
-            "description": "Your data collection practices can only be for personalized advertising purposes if your policy specifies this",
-            "type": {
-                "summary": "Purpose of Data Collection Disclosure"
+                "summary": "Purpose of data collection"
             }
         }
     ]
 }
+```

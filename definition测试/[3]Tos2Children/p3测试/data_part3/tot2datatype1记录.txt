@@ -1,0 +1,30 @@
+
+
+
+1 一些无关的语句，归纳到type4
+
+要求合规，太大了
+Description: Use of service data must comply with all applicable privacy policies, laws, rules, regulations, and industry self-regulatory regimes.
+
+
+数据不相关
+Description: You must obtain any necessary consents, waivers, approvals, authorizations, and clearances from end users as required by applicable laws.
+#pattern3# your app {must} {obtain necessary consents, waivers, approvals, authorizations, and clearances} ; {user:end users} ; Even obtain user consent
+
+主语不是 you 
+Description: Sentry has no liability for sensitive personal information, except for PHI submitted in accordance with section 4.5 (Protected Health Information).
+#pattern3# your app {cannot} {have liability for sensitive personal information, except for PHI}; {user}; Even obtain user consent
+
+
+
+2 发现一个改句的例子，不改句不会把except后面的当条件
+Description: No sensitive personal information should be used with the service, except as permitted under section 4.5 (Protected Health Information).
+#pattern3# your app {cannot} {use sensitive personal information with sdk-service} ; {user:all users} ; Even obtain user consent
+
+改句后
+Description: Sensitive personal information should be used with the service only if permitted under section 4.5 (Protected Health Information).
+#pattern4# your app {can} {use sensitive personal information with sdk-service} ; {user:all users} ; when {permitted under section 4.5 (Protected Health Information)}
+
+记录里面记录了一些
+无关的转义后的句子
+和一个改句后效果相关的例子

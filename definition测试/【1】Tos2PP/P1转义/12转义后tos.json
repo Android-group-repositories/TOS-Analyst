@@ -1,22 +1,20 @@
-Here are the rewritten descriptions in the requested format:
-
 ```json
 {
     "requirements": [
         {
-            "description": "You can only use the Platform to Process Platform Data if you provide and comply with a publicly available and easily accessible privacy policy.",
+            "description": "If you use Platform to Process Platform Data, you will provide and comply with a publicly available and easily accessible privacy policy.",
             "type": {
                 "summary": "Provide and Comply with Privacy Policy"
             }
         },
         {
-            "description": "Your privacy policy must comply with applicable law and regulations and must accurately and clearly explain what data you are Processing, how you are Processing it, the purposes for which you are Processing it, and how Users may request deletion of that data.",
+            "description": "This policy must comply with applicable law and regulations and must accurately and clearly explain what data you are Processing, how you are Processing it, the purposes for which you are Processing it, and how Users may request deletion of that data.",
             "type": {
-                "summary": "Policy Compliance and Data Processing Transparency"
+                "summary": "Policy Compliance and Transparency"
             }
         },
         {
-            "description": "You must maintain publicly available links to your privacy policies in the privacy policy field in the settings of your App Dashboard, as well as in any App Store that allows you to do so, if applicable, and ensure the links remain current and up to date.",
+            "description": "You will maintain publicly available links to your privacy policies in the privacy policy field in the settings of your App Dashboard, as well as in any App Store that allows you to do so, if applicable, and ensure the links remain current and up to date.",
             "type": {
                 "summary": "Maintain Current Privacy Policy Links"
             }

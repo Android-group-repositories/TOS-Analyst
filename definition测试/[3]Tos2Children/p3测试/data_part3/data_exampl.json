@@ -1,0 +1,15 @@
+{
+    "requirements": [
+        
+        
+        {
+            "description": "You are not allowed to use authorized materials to obtain or attempt to obtain non-public information of X user.",
+            "type": {
+                "code": "Type1",
+                "summary": "Twitter"
+            }
+        }
+        
+
+    ]
+}

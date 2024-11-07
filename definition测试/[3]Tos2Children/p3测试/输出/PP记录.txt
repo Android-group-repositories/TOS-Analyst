@@ -1,0 +1,45 @@
+数据收集
+
+1. Your privacy policy needs to describe VERB_PRESENT DATA 
+
+You must develop a privacy policy that clearly and accurately informs end users about the personal data you collect 
+-pattern 1 Your privacy policy needs to describe {you} {collect} {personal data} ; Even obtain user consent
+
+
+
+Input example2: 数据使用
+privacy policy provide notice of  use of a tracking pixel, agent or any other visitor identification technology that collects, uses, shares and stores data about end users of your Application 
+
+
+privacy policy provide notice of  use of a tracking pixel, agent or any other visitor identification technology 
+-pattern 2 Your privacy policy needs to describe {you} {use} {tracking pixel, agent or any other visitor identification technology} ; Even obtain user consent
+
+privacy policy provide notice of  use of technology that collects, uses, shares and stores data about end users of your Application 
+-pattern 1 Your privacy policy needs to describe {you} {collects, uses, shares , stores} {data about end users} ; Even obtain user consent
+
+
+Input example3:  广告目的
+The privacy policy must specifically address the use of personal information for behaviorally targeted online advertising.
+-pattern 3 Your privacy policy needs to describe {you} {use} {personal informatio} ; for behaviorally targeted online advertising;Even obtain user consent
+
+
+
+
+
+Input example1: 第三方 收集
+Your privacy policy must describe how third parties (such as Tapjoy) collect , use , and share mobile device advertising identifiers and other personal information 
+
+
+（你）在与第三方交流的时候 存储 获取 收集
+You have a privacy policy that provides end users with clear information about cookies, device-specific information, location information and other information stored on, accessed on, or collected from end users' devices in connection with the AdSense-SDK-Service 
+
+
+你使用 分享 到 第三方
+your service's privacy policy must disclose how you use and share  data you collected from user to Twitter and other third parties
+
+披露第三方行为
+Customer's privacy policy should disclose RevenueCat's and Stripe's processing of personally identifiable information relating to such users
+
+
+link
+Your privacy policy should incorporate by reference and link to the Snap Privacy Policy.

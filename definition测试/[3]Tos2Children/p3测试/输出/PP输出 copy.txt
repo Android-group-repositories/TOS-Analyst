@@ -1,0 +1,62 @@
+#pattern1# Your privacy policy needs to describe {you} {make available} {End User Information} ; Even obtain user consent
+#pattern1# Your privacy policy needs to describe {you} {collects, uses, shares, stores} {data about end users} ; Even obtain user consent
+#pattern1# Your privacy policy needs to describe {you} {collect} {SDK Information} ; Even obtain user consent
+#pattern1# Your privacy policy needs to describe {you} {collects, uses and shares} {information} ; Even obtain user consent
+#pattern1# Your privacy policy needs to describe {you} {collect} {information from people who use your service} ; Even obtain user consent
+#pattern1# Your privacy policy needs to describe {you} {collect and use and share} {personal data} ; Even obtain user consent
+#pattern1# Your privacy policy needs to describe {you} {access, collect, and store} {user information} ; Even obtain user consent
+#pattern1# Your privacy policy needs to describe {you} {collect, use, share, and store} {data about end users} ; Even obtain user consent
+#pattern1# Your privacy policy needs to describe {you} {provide} {location information} ; Even obtain user consent
+#pattern1# Your privacy policy needs to describe {you} {store on, access on, or collect} {other information} ; Even obtain user consent
+#pattern1# Your privacy policy needs to describe {you} {provide} {information about device-specific information} ; Even obtain user consent
+#pattern1# Your privacy policy needs to describe {you} {provide} {location information} ; Even obtain user consent
+#pattern1# Your privacy policy needs to describe {you} {store, access, or collect} {other information} ; Even obtain user consent
+#pattern1# Your privacy policy needs to describe {you} {collect, use, and share Ad Data} ; Even obtain user consent
+#pattern1# Your privacy policy needs to describe {you} {collect} {all types of data} ; Even obtain user consent
+#pattern1# Your privacy policy needs to describe {you} {collect and use and shares} {user information} ; Even obtain user consent
+
+#pattern3# Your privacy policy needs to describe {you} {use cookies, mobile device identifiers, or similar technology} ; {to collect data} ; Even obtain user consent
+#pattern3# Your privacy policy needs to describe {you} {use} {cookies} ; for {providing end users with clear and comprehensive information} ; Even obtain user consent
+#pattern3# Your privacy policy needs to describe {you} {include information about end users' options} ; for {cookie management} ; Even obtain user consent
+
+
+
+
+#pattern4# You provide privacy policy and {agreements or other obligations Customer may maintain or enter into with its end users}
+#pattern4# You provide privacy policy and {comply with all applicable laws, policies, and regulations regarding the collection of information from Users}
+#pattern4# You provide privacy policy and {legally adequate it to End Users}
+#pattern4# You provide privacy policy and {comply with all applicable laws and industry standards}
+#pattern4# You provide privacy policy and {post it in your application, in any store, and on any website where the application may be acquired}
+#pattern4# You provide privacy policy and {disclosures for the Properties that comply with applicable law and the terms of this EULA}
+#pattern4# You provide privacy policy and {post it on its website}
+#pattern4# You provide privacy policy and {make it applicable to your Stripe Application readily available to the Business User}
+#pattern4# You provide privacy policy and {display it to people before they download, install, or sign up to your service}
+#pattern4# You provide privacy policy and {describe how people can contact you with inquiries and requests regarding their information}
+#pattern4# You provide privacy policy and {be consistent with all applicable laws and no less protective of people than X's Privacy Policy and the privacy policy of our other services and corporate affiliates}
+#pattern4# You provide privacy policy and {disclose Relevant Service-related privacy policies}
+#pattern4# You provide privacy policy and {be easily viewable to anyone at any time}
+#pattern4# You provide privacy policy and {be available before and after a user starts to use the Relevant Service}
+#pattern4# You provide privacy policy and {comply with a publicly available and easily accessible privacy policy}
+#pattern4# You provide privacy policy and {maintain publicly available links in the privacy policy field in the settings of your App Dashboard, as well as in any App Store that allows you to do so, and ensure the links remain current and up to date}
+#pattern4# You provide privacy policy and {complete and accurate disclosure to your End Users}
+#pattern4# You provide privacy policy and {disclosure of the privacy practices and policies applicable to the Application}
+#pattern4# You provide privacy policy and {adhere to a published privacy policy for your Application}
+#pattern4# You provide privacy policy and {be easily accessible and conspicuously linked from the Application}
+#pattern4# You provide privacy policy and {appropriate notices to users of your application(s) about data collection and use practices related to your use of our Services}
+#pattern4# You provide privacy policy and {abide by all applicable rules, laws, acts and regulations}
+#pattern4# You provide privacy policy and {maintain, display and abide by a conspicuously placed privacy policy that makes appropriate disclosures to End-Users}
+#pattern4# You provide privacy policy and comply with all applicable privacy and data protection laws and regulations and/or any applicable requirements, terms, or guidelines required by your platform providers
+#pattern4# You provide privacy policy and {clearly labeled and easily accessible}
+#pattern4# You provide privacy policy and comply with all applicable laws
+#pattern4# You provide privacy policy and {clear and comprehensive information about cookies to end users}
+#pattern4# You provide privacy policy and {clear and comprehensive information about device-specific information to end users}
+#pattern4# You provide privacy policy and {CONDITION}
+#pattern4# You provide privacy policy and {have a clearly labeled and easily accessible privacy policy}
+#pattern4# You provide privacy policy and {conspicuously post, maintain, and abide by a publically accessible privacy notice within the Developer App}
+#pattern4# You provide privacy policy and {satisfy the transparency and information requirements of the Privacy Requirements and the Agreement}
+#pattern4# You provide privacy policy and make arrangements to provide notice within the Developer App or on the landing page of the Vungle Ad
+#pattern4# You provide privacy policy and {post and abide by a conspicuous and legally adequate privacy policy on each application and/or service of the Publisher Network}
+#pattern4# You provide privacy policy and {comply with App Store Terms including obtaining user consent, disclosing data collection practices, and providing opt-out options}
+#pattern4# You provide privacy policy and {is made available to Users}
+#pattern4# You provide privacy policy and {terms of service, privacy policy and support information to the Zoom Marketplace}
+#pattern4# You provide privacy policy and {is adequate in accordance with applicable privacy laws}

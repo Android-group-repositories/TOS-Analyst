@@ -1,0 +1,11 @@
+{
+    "requirements": [
+        {
+            "description": "You are strictly prohibited from using the Site or Services to harm or exploit minors in any manner, including collecting their personal information.",
+            "type": {
+                "code": "Type1",
+                "summary": "Prohibition on harming minors and collecting their personal information"
+            }
+        }
+    ]
+}

@@ -1,30 +1,30 @@
-Here are the rewritten descriptions in the requested format:
-
+```json
 {
     "requirements": [
         {
-            "description": "Your application or service can only collect, store, process or use data of end users (including any personal data or information) if it complies with the privacy policy and other requirements",
+            "description": "To the extent your application or service collects, stores, processes, or uses data of end users (including any personal data or information), you must satisfy certain requirements.",
             "type": {
-                "summary": "Data Collection Scope"
+                "summary": "Compliance with Data Handling Requirements"
             }
         },
         {
-            "description": "You must establish a privacy policy that clearly and accurately describes to end users what personal data you collect and how you use and share such information",
+            "description": "You shall establish and comply with a privacy policy that clearly and accurately describes to end users what personal data you collect and how you use and share such information (including for advertising) with us and other third parties.",
             "type": {
-                "summary": "Establish Privacy Policy"
+                "summary": "Establishment and Compliance with Privacy Policy"
             }
         },
         {
-            "description": "Your privacy policy must comply with and be consistent with the terms and requirements set out in the Agreement and the WeChat or Weixin Privacy Policy",
+            "description": "The privacy policy must comply with and be consistent with the terms and requirements set out in the Agreement and the WeChat or Weixin Privacy Policy (as applicable).",
             "type": {
-                "summary": "Compliance with Agreement and WeChat/Weixin Privacy Policy"
+                "summary": "Alignment with Agreement and WeChat/Weixin Privacy Policy"
             }
         },
         {
-            "description": "Processing of personal data can only take place if you obtain users' express consent to such processing at the time you request such data",
+            "description": "If you process any personal data, you shall obtain users' express consent to such processing at the time you request such data.",
             "type": {
-                "summary": "Obtain Express Consent for Personal Data Processing"
+                "summary": "Obtaining Express Consent for Personal Data Processing"
             }
         }
     ]
 }
+```

@@ -1,24 +1,15 @@
-Description: You can only post a privacy policy if it is conspicuous and legally adequate
+Description: You must post and abide by a conspicuous and legally adequate privacy policy on each application and/or service of the Publisher Network
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type2#, <You  ;  can post  ;  a privacy policy  ;  NULL  ;  conspicuous and legally adequate  ;  NULL>}
+{#type1#,  <  a privacy policy  ;  post and abide by  ;  a conspicuous and legally adequate privacy policy  ;  on each application and/or service of the Publisher Network  ;  NULL  ;  NULL> }
 ========================= pause ===========================
-Description: Your privacy policy can only be posted on each application and/or service of the Publisher Network if it is conspicuous and legally adequate
-Type Code: Type1
-
-Processing for Type1 requirements.
-{#type2#, <Your privacy policy  ;  can be posted  ;  on each application and/or service of the Publisher Network  ;  NULL  ;  NULL  ;  if it is conspicuous and legally adequate>  ,  <NULL>}
-========================= pause ===========================
-Description: Your data collection practices can only involve third parties such as MoPub if your privacy policy discloses this collection
+Description: The privacy policy must disclose the collection of Service Data by third parties such as MoPub
 Type Code: Type2
 
 Processing for Type2 requirements.
-{#type2#,  <Your privacy policy  ;  can only involve  ;  data collection practices  ;  from user, share to third parties  ;  NULL  ;  NULL>  ,  <Third party is: MoPub > }
+{#type2#, <The privacy policy ; must disclose ; the collection of Service Data ; from user ; NULL ; NULL>, <Third party is: MoPub>}
 ========================= pause ===========================
-Description: Your data collection practices can only be for personalized advertising purposes if your policy specifies this
-Type Code: Type1
-
-Processing for Type1 requirements.
-{#type1#, <Your policy ; specifies ; data collection practices for personalized advertising ; NULL ; NULL ; NULL>}
+Description: The collection is for personalized advertising purposes
+Type Code: Type4
 ========================= pause ===========================

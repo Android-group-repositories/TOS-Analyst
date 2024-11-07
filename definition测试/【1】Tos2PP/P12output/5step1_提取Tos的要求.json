@@ -1,31 +1,31 @@
 {
     "requirements": [
         {
-            "description": "Compliance with all applicable privacy laws is required",
+            "description": "The Parties agree to comply with all applicable privacy laws",
             "type": {
                 "code": "Type4",
                 "summary": "Compliance with Privacy Laws"
             }
         },
         {
-            "description": "Information collection from End User's device or browser by OneSignal can only be done if Licensee obtains all applicable consents",
+            "description": "Licensee is responsible for obtaining all applicable consents required to enable OneSignal to collect information from End User's device or browser",
             "type": {
                 "code": "Type4",
                 "summary": "Licensee Consent Responsibility"
             }
         },
         {
-            "description": "Licensee must publish privacy policies and disclosures for the Properties that comply with applicable law and the terms of this EULA",
+            "description": "Licensee shall publish privacy policies and disclosures for the Properties that comply with applicable law and the terms of this EULA",
             "type": {
                 "code": "Type1",
                 "summary": "Publishing Privacy Policies"
             }
         },
         {
-            "description": "The privacy policies must clearly disclose that the SDK Information will be collected and specify its usage as set forth in Section 5",
+            "description": "The privacy policies must include clear disclosures that the SDK Information will be collected and how it may be used, as set forth in Section 5",
             "type": {
                 "code": "Type1",
-                "summary": "Clear Disclosure of Data Collection and Usage"
+                "summary": "Disclosure of SDK Information Collection and Usage"
             }
         }
     ]

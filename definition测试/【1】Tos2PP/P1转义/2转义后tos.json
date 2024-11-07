@@ -1,36 +1,36 @@
-Here are the rewritten descriptions in the requested format:
-
+```json
 {
     "requirements": [
         {
-            "description": "Personal identifiable information can only be passed to Google if it is permitted by Google Analytics policies and terms and the information is hashed using industry standards.",
+            "description": "You will not pass personally identifiable information to Google, except where permitted by Google Analytics policies and terms, and only if the information is hashed using industry standards.",
             "type": {
                 "summary": "Prohibition on Unhashed PII Transmission"
             }
         },
         {
-            "description": "You must have and abide by an appropriate Privacy Policy that complies with all applicable laws, policies, and regulations regarding the collection of information from Users.",
+            "description": "You will have and abide by an appropriate Privacy Policy that complies with all applicable laws, policies, and regulations regarding the collection of information from Users.",
             "type": {
                 "summary": "Compliance with Privacy Laws and Regulations"
             }
         },
         {
-            "description": "Your Privacy Policy must disclose Your use of cookies, mobile device identifiers, or similar technology used to collect data.",
+            "description": "You must post a Privacy Policy that provides notice of Your use of cookies, mobile device identifiers, or similar technology used to collect data.",
             "type": {
                 "summary": "Disclosure of Data Collection Methods"
             }
         },
         {
-            "description": "You must disclose the use of Google Analytics and how it collects and processes data, including by providing a prominent link to Google's privacy policy for partners.",
+            "description": "You must disclose the use of Google Analytics and how it collects and processes data, which can be done by linking to Google's privacy policy for partners.",
             "type": {
                 "summary": "Disclosure of Google Analytics Use"
             }
         },
         {
-            "description": "You can use the Service to store and access cookies or other information on Users' devices only if Users are provided with clear and comprehensive information about, and consent to, such storage and access where required by law.",
+            "description": "You will use commercially reasonable efforts to ensure that Users are provided with clear and comprehensive information about, and consent to, the storing and accessing of cookies or other information on their devices.",
             "type": {
                 "summary": "User Consent for Data Storage and Access"
             }
         }
     ]
 }
+```

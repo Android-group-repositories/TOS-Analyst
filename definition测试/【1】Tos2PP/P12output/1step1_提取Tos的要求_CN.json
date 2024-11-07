@@ -1,38 +1,38 @@
 {
     "requirements": [
         {
-            "description": "只有当客户数据合法、准确且质量高时，才能收集、提交、处理、存储和传输",
+            "description": "客户应对客户数据的合法性、准确性和质量负责",
             "type": {
                 "code": "Type4",
                 "summary": "数据质量责任"
             }
         },
         {
-            "description": "只有遵守所有适用的法律法规，客户才能使用Amplitude服务来处理、存储和传输客户数据",
+            "description": "确保客户收集并向Amplitude服务提交数据，以及使用Amplitude服务处理、存储和传输客户数据的行为",
             "type": {
                 "code": "Type4",
                 "summary": "数据处理合规性"
             }
         },
         {
-            "description": "客户的收集、提交和使用数据必须遵守所有适用的法律法规",
+            "description": "符合所有适用的法律和法规",
             "type": {
                 "code": "Type4",
-                "summary": "法律和法规合规性"
+                "summary": "法律合规性"
             }
         },
         {
-            "description": "客户必须遵守其与最终用户保持或签订的任何隐私政策、协议或其他义务",
+            "description": "以及客户可能维护或与其最终用户达成的任何隐私政策、协议或其他义务",
             "type": {
                 "code": "Type1",
-                "summary": "遵守隐私政策和协议"
+                "summary": "隐私政策和协议遵守"
             }
         },
         {
-            "description": "只有在获得所有法律要求的同意和许可后，客户才能收集、提交和使用数据",
+            "description": "包括获取所有法律要求的同意和许可",
             "type": {
-                "code": "Type1",
-                "summary": "获取必要的同意和许可"
+                "code": "Type4",
+                "summary": "获取必要同意"
             }
         }
     ]

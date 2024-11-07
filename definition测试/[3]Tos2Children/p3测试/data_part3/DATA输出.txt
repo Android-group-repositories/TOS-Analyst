@@ -1,0 +1,23 @@
+#Type1-pattern5# your app {need} {maintaining security of} {user IDs, passwords, access credentials} ; Even obtain user consent
+#Type1-pattern5# your app {need} {keep strictly confidential} {access credentials} ; Even obtain user consent
+#Type1-pattern1# your app {can} {collect} {Personal identifiers INCLUDEING IP addresses, IDFA, IDFV, Android ID, Google Play Advertising ID, Google Play Store Referrer, Windows Hardware ID, Windows NetworkID, Windows Phone Device ID, UUIDs} ; {user} ; Even obtain user consent
+#Type1-pattern1# your app {cannot} {publicly display} {PayPal user information} ; {user} ; Even obtain user consent
+#Type1-pattern1# your app {cannot} {collect, capture, use, store} {PayPal Prohibited User Information such as passwords, PINs, security questions and answers} ; {user} ; Even obtain user consent
+#Type1-pattern1# your app {cannot} {collect, capture, use, store} {PayPal Prohibited User Information INCLUDING identifiers used for tax, government benefits, national identity numbers, passport numbers, driver's license numbers, government issued identifiers} ; {user} ; Even obtain user consent
+#Type1-pattern1# your app {cannot} {collect, capture, use, store} {PayPal Prohibited User Information such as full bank account numbers, full credit/debit card numbers, credit card expiration dates, CVV2 numbers} ; {user} ; Even obtain user consent
+#Type1-pattern1# your app {cannot} {store} {personal data} ; {user} ; Even obtain user consent
+#Type1-pattern1# your app {cannot} {store} {personal health data}; {user} ; Even obtain user consent
+#Type1-pattern1# your app {cannot} {store data} ; {user} ; Even obtain user consent
+#Type1-pattern1# your app {cannot} {use Vungle SDK, Vungle Platform, or any data collected through these means} ; {user} ; Even obtain user consent
+#Type1-pattern3# your app {cannot} {use Vungle SDK or Platform} ; {user:individual end users} ; Even obtain user consent
+#Type1-pattern1# your app {cannot} {collect, store, upload, process, transmit} {restricted data}; {user} ; Even obtain user consent
+#Type1-pattern1# your app {cannot} {configure services or developer tools to enable collection, transmission, or storage} {restricted data} ; {user} ; Even obtain user consent
+#Type1-pattern6# your app {can} {use service data} ; {to internal business purposes} ; Even obtain user consent
+#Type1-pattern4# your app {can} {use service data} ; {user} ; when {comply with all applicable privacy policies, laws, rules, regulations, and industry self-regulatory regimes}
+#Type1-pattern6# your app {can} {obtain necessary consents, waivers, approvals, authorizations, clearances} ; {user:end users} ; to {comply with applicable laws} ; Even obtain user consent
+#Type1-pattern4# your app {cannot} {use sensitive personal information with sdk-service} ; {user:all users} ; Even obtain user consent
+#Type1-pattern4# your app {can} {use sensitive personal information with sdk-service} ; {user:all users} ; when {permitted under section 4.5 (Protected Health Information)}
+#Type1-pattern1# your app {cannot} {copy, use, or store} {Dropbox login credentials such as name, email address, and password} ; {user} ; Even obtain user consent
+#Type1-pattern4# your app {can} {use Dropbox login credentials} ; {user} ; when {allowed in connection with user authentication}
+#Type1-pattern4# your app {can} {handle Dropbox login credentials} ; when {within the developer's app only}
+#Type1-pattern1# your app {can} {access, store, transfer, process} {user data} ; {user} ; Even obtain user consent

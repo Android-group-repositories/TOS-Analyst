@@ -1,21 +1,21 @@
 {
     "requirements": [
         {
-            "description": "Relevant Service-related privacy policies can only be implemented if they are disclosed by developers",
+            "description": "Developers shall disclose Relevant Service-related privacy policies",
             "type": {
                 "code": "Type1",
                 "summary": "Disclosure of Privacy Policies"
             }
         },
         {
-            "description": "Privacy policies can only be considered compliant if they are easily viewable to anyone at any time",
+            "description": "Privacy policies must be easily viewable to anyone at any time",
             "type": {
                 "code": "Type1",
                 "summary": "Accessibility of Privacy Policies"
             }
         },
         {
-            "description": "Privacy policies can only be considered compliant if they are available before and after a user starts to use the Relevant Service",
+            "description": "Privacy policies should be available before and after a user starts to use the Relevant Service",
             "type": {
                 "code": "Type1",
                 "summary": "Privacy Policies Availability"

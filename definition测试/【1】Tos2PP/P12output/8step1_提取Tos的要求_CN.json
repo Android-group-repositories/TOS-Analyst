@@ -1,38 +1,31 @@
 {
     "requirements": [
         {
-            "description": "只有当客户向其用户做出所有必要的披露，并从其用户那里获得同意和授权后，客户的数据处理和使用实践才能实施。",
+            "description": "客户将向其用户披露所有信息，并从用户那里获得所有必要的同意和授权",
             "type": {
-                "code": "Type1",
+                "code": "Type4",
                 "summary": "披露和同意要求"
             }
         },
         {
-            "description": "只有当数据处理和使用实践对于RevenueCat履行服务是必要或适当的，客户才能实施这些实践。",
+            "description": "作为合理必要或适当的，以便RevenueCat履行服务",
             "type": {
                 "code": "Type4",
                 "summary": "服务履行的必要性"
             }
         },
         {
-            "description": "只有当客户向其用户做出所有必要的披露，并从其用户那里获得同意和授权后，RevenueCat和Stripe才能处理与用户相关的个人身份信息。",
+            "description": "包括但不限于：(i) RevenueCat和Stripe处理与此类用户相关的个人身份信息",
             "type": {
-                "code": "Type2",
-                "summary": "个人信息处理"
+                "code": "Type4",
+                "summary": "处理个人信息"
             }
         },
         {
-            "description": "客户的隐私政策必须以合理且符合行业标准的方式披露RevenueCat和Stripe对此类信息的处理。",
+            "description": "包括但不限于，通过以合理且符合行业标准的方式在客户的隐私政策中披露RevenueCat和Stripe处理此类信息",
             "type": {
                 "code": "Type1",
                 "summary": "隐私政策中的披露"
-            }
-        },
-        {
-            "description": "客户必须以合理且符合行业标准的方式做出所有必要的披露。",
-            "type": {
-                "code": "Type1",
-                "summary": "标准披露方法"
             }
         }
     ]

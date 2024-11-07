@@ -1,0 +1,42 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "Pollfish's Services are not intended for children under the age of 16, and it is represented that your Platform also does not target children under 16.",
+            "type": {
+                "summary": "Age Restriction for Services"
+            }
+        },
+        {
+            "description": "You must comply with the U.S. Children's Online Privacy Protection Act (COPPA) and ensure this compliance throughout the service term.",
+            "type": {
+                "summary": "Compliance with COPPA"
+            }
+        },
+        {
+            "description": "Your Privacy Policy must inform users about the privacy rights of minors under applicable laws.",
+            "type": {
+                "summary": "Disclosure of Minors' Privacy Rights"
+            }
+        },
+        {
+            "description": "You must make reasonable efforts to verify the age of users and avoid collecting data from children under the age of 16.",
+            "type": {
+                "summary": "Efforts to Verify User Age"
+            }
+        },
+        {
+            "description": "You must not knowingly share data of users under the age of 16 with Pollfish.",
+            "type": {
+                "summary": "Prohibition on Sharing Minors' Data"
+            }
+        },
+        {
+            "description": "If Pollfish detects a user under the age of 16, it will block that user from its Services.",
+            "type": {
+                "summary": "Blocking of Minors from Services"
+            }
+        }
+    ]
+}
+```

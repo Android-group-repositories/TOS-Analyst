@@ -1,38 +1,38 @@
 {
     "requirements": [
         {
-            "description": "Publisher can publish the App on the applicable app store only if they are solely responsible for compliance with the App Store Terms.",
+            "description": "Publisher will publish the App on the applicable app store and be solely responsible for compliance with the App Store Terms",
             "type": {
                 "code": "Type4",
                 "summary": "Responsibility for App Store Compliance"
             }
         },
         {
-            "description": "App Store Terms require obtaining user consent, disclosing data collection practices, and providing opt-out options for compliance.",
+            "description": "App Store Terms include requirements for obtaining user consent, disclosing data collection practices, and providing opt-out options",
             "type": {
-                "code": "Type3",
+                "code": "Type1",
                 "summary": "Compliance with App Store Requirements"
             }
         },
         {
-            "description": "StartApp does not represent or warrant that use of the Service will comply with the App Store Terms.",
+            "description": "StartApp does not represent or warrant that use of the Service will comply with the App Store Terms",
             "type": {
                 "code": "Type4",
                 "summary": "No Warrant of Compliance"
             }
         },
         {
-            "description": "StartApp shall have no liability for any costs or damages incurred to the Publisher as a result of noncompliance with the App Store Terms.",
+            "description": "StartApp shall have no liability for any costs or damages incurred to the Publisher as a result of noncompliance with the App Store Terms",
             "type": {
                 "code": "Type4",
                 "summary": "No Liability for Noncompliance"
             }
         },
         {
-            "description": "The App may require additional permissions from End Users when using the Service that were not originally required.",
+            "description": "Using the Service may require additional permissions from End Users that the App may not originally require",
             "type": {
                 "code": "Type4",
-                "summary": "Additional Permissions May Be Needed"
+                "summary": "Potential Need for Additional User Permissions"
             }
         }
     ]

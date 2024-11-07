@@ -1,0 +1,24 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "AppLovin does not intentionally gather personal data from children nor does it target ads to children.",
+            "type": {
+                "summary": "No collection or use of personal information from children"
+            }
+        },
+        {
+            "description": "Developers are prohibited from providing AppLovin with personal information of children and from using the Services to display ads to children.",
+            "type": {
+                "summary": "Prohibition on handling children's personal information and serving ads to them"
+            }
+        },
+        {
+            "description": "Developers must not use the Services for any property that is solely designed for or exclusively aimed at children.",
+            "type": {
+                "summary": "No use of Services for properties targeting children exclusively"
+            }
+        }
+    ]
+}
+```

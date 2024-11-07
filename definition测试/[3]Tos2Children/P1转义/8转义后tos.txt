@@ -1,0 +1,24 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "If your applications are aimed at children as defined by COPPA, CCPA, CPRA, or similar US state privacy laws, you must obtain verifiable parental consent for collecting and sharing user data with InMobi.",
+            "type": {
+                "summary": "Parental Consent Requirement for Child-Directed Apps"
+            }
+        },
+        {
+            "description": "You must inform InMobi which applications or inventory are directed towards children.",
+            "type": {
+                "summary": "Identification of Child-Directed Inventory"
+            }
+        },
+        {
+            "description": "InMobi may choose not to serve behavioral advertising on inventory that is targeted at children.",
+            "type": {
+                "summary": "Opt-out of Behavioral Advertising for Children"
+            }
+        }
+    ]
+}
+```

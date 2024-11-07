@@ -1,21 +1,18 @@
-Description: Your application or service can only collect, store, process or use data of end users (including any personal data or information) if it complies with the privacy policy and other requirements
+Description: To the extent your application or service collects, stores, processes, or uses data of end users (including any personal data or information), you must satisfy certain requirements.
+Type Code: Type4
+========================= pause ===========================
+Description: You shall establish and comply with a privacy policy that clearly and accurately describes to end users what personal data you collect and how you use and share such information (including for advertising) with us and other third parties.
 Type Code: Type1
 
 Processing for Type1 requirements.
-{#type2#,  <Your application or service  ;  can collect, store, process or use  ;  data of end users (including any personal data or information)  ;  from end users  ;  NULL  ;  if it complies with the privacy policy and other requirements>  ,  <NULL>}
+{#type1#,  <  privacy policy  ;  describes  ;  personal data you collect, how you use and share such information  ;  to end users  ;  including for advertising  ;  with us and other third parties> }
 ========================= pause ===========================
-Description: You must establish a privacy policy that clearly and accurately describes to end users what personal data you collect and how you use and share such information
-Type Code: Type1
+Description: The privacy policy must comply with and be consistent with the terms and requirements set out in the Agreement and the WeChat or Weixin Privacy Policy (as applicable).
+Type Code: Type2
 
-Processing for Type1 requirements.
-{#type1#, <You ; establish a privacy policy ; a privacy policy that clearly and accurately describes to end users what personal data you collect and how you use and share such information ; from end users ; NULL ; NULL>}
+Processing for Type2 requirements.
+{#type2#, <The privacy policy ; must comply with and be consistent with ; the terms and requirements set out in the Agreement and the WeChat or Weixin Privacy Policy ; from user ; NULL>}, <Third party is: WeChat or Weixin>
 ========================= pause ===========================
-Description: Your privacy policy must comply with and be consistent with the terms and requirements set out in the Agreement and the WeChat or Weixin Privacy Policy
-Type Code: Type1
-
-Processing for Type1 requirements.
-{#type2#, <Your privacy policy ; must comply with and be consistent with ; the terms and requirements set out in the Agreement and the WeChat or Weixin Privacy Policy ; NULL ; NULL ; NULL> , <Third party is: WeChat or Weixin>}
-========================= pause ===========================
-Description: Processing of personal data can only take place if you obtain users' express consent to such processing at the time you request such data
+Description: If you process any personal data, you shall obtain users' express consent to such processing at the time you request such data.
 Type Code: Type4
 ========================= pause ===========================

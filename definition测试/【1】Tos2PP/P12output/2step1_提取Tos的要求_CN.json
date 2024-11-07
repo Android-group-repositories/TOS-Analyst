@@ -1,35 +1,35 @@
 {
     "requirements": [
         {
-            "description": "只有在符合Google Analytics政策和条款，并且信息使用行业标准进行哈希处理的情况下，才能将个人身份识别信息传递给Google。",
+            "description": "除非Google Analytics的政策和条款允许，并且信息是使用行业标准进行哈希处理的，否则你不会将个人身份信息传递给Google。",
             "type": {
                 "code": "Type4",
                 "summary": "禁止未经哈希处理的个人身份信息传输"
             }
         },
         {
-            "description": "您必须拥有并遵守适当的隐私政策，该政策需符合所有关于从用户收集信息的适用法律、政策和法规。",
+            "description": "你将拥有并遵守适当的隐私政策，该政策符合所有关于从用户收集信息的适用法律、政策和法规。",
             "type": {
                 "code": "Type1",
                 "summary": "遵守隐私法律和法规"
             }
         },
         {
-            "description": "您的隐私政策必须披露您使用cookies、移动设备标识符或用于收集数据的类似技术。",
+            "description": "你必须发布一个隐私政策，该政策通知你使用cookies、移动设备标识符或用于收集数据的类似技术。",
             "type": {
                 "code": "Type1",
                 "summary": "披露数据收集方法"
             }
         },
         {
-            "description": "您必须披露使用Google Analytics的方式以及它如何收集和处理数据，包括提供突出的链接至Google的合作伙伴隐私政策。",
+            "description": "你必须披露Google Analytics的使用情况以及它如何收集和处理数据，这可以通过链接到Google的合作伙伴隐私政策来完成。",
             "type": {
                 "code": "Type2",
                 "summary": "披露Google Analytics的使用"
             }
         },
         {
-            "description": "只有在法律要求的情况下，向用户提供清晰全面的关于此类存储和访问的信息，并得到用户同意，您才能使用服务在用户设备上存储和访问cookies或其他信息。",
+            "description": "你将尽商业上合理的努力确保用户能够获得关于存储和访问其设备上的cookies或其他信息的清晰和全面的信息，并同意这样做。",
             "type": {
                 "code": "Type4",
                 "summary": "用户同意数据存储和访问"

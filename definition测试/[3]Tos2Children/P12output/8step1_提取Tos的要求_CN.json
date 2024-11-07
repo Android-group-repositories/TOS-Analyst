@@ -1,0 +1,25 @@
+{
+    "requirements": [
+        {
+            "description": "如果您的应用是针对COPPA、CCPA、CPRA或类似的美国州隐私法规所定义的儿童，您必须获得可验证的父母同意，以便收集和与InMobi共享用户数据。",
+            "type": {
+                "code": "Type1",
+                "summary": "针对儿童应用的父母同意要求"
+            }
+        },
+        {
+            "description": "您必须告知InMobi哪些应用或库存是针对儿童的。",
+            "type": {
+                "code": "Type1",
+                "summary": "识别针对儿童的库存"
+            }
+        },
+        {
+            "description": "InMobi可以选择不向针对儿童的库存提供行为广告。",
+            "type": {
+                "code": "Type3",
+                "summary": "针对儿童的行为广告选择退出"
+            }
+        }
+    ]
+}

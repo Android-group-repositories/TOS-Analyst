@@ -1,0 +1,25 @@
+{
+    "requirements": [
+        {
+            "description": "Developers are allowed to use OneSignal in applications directed at children under 13, but they must comply with specific obligations.",
+            "type": {
+                "code": "Type1",
+                "summary": "Use of OneSignal in children-directed apps requires compliance"
+            }
+        },
+        {
+            "description": "Developers must obtain verifiable parental consent before sending any push tokens, emails, or other contact information to OneSignal.",
+            "type": {
+                "code": "Type2",
+                "summary": "Obtaining verifiable parental consent is mandatory"
+            }
+        },
+        {
+            "description": "An opportunity for parents to opt-out must be provided before any data is sent to OneSignal.",
+            "type": {
+                "code": "Type3",
+                "summary": "Providing an opt-out option is required"
+            }
+        }
+    ]
+}

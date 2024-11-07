@@ -1,0 +1,24 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "The company does not intentionally gather or request personal data from individuals younger than 13 years old, nor does it allow such individuals to register for its services.",
+            "type": {
+                "summary": "No collection of personal information from children under 13"
+            }
+        },
+        {
+            "description": "Individuals under the age of 13 are advised against attempting to register for the services or sending any personal details such as name, address, phone number, or email address to the company.",
+            "type": {
+                "summary": "Prohibition against registration and data submission by children under 13"
+            }
+        },
+        {
+            "description": "No one under the age of 13 is permitted to provide any personal information to the company or on the services.",
+            "type": {
+                "summary": "Ban on children under 13 providing personal information"
+            }
+        }
+    ]
+}
+```

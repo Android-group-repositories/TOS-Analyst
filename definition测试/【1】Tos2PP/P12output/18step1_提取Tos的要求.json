@@ -1,59 +1,59 @@
 {
     "requirements": [
         {
-            "description": "Personal data or personal information collected by Unity, provided to Unity, or accessed by Unity can only be processed if you represent and warrant compliance with applicable privacy and data protection laws.",
+            "description": "You represent and warrant that with respect to any data collected by Unity, provided by you to Unity, or to which you grant Unity access under or in connection with these Terms that constitutes 'personal data' or 'personal information' as defined under applicable privacy and data protection laws",
             "type": {
                 "code": "Type4",
                 "summary": "Declaration of Compliance with Laws"
             }
         },
         {
-            "description": "Data collection, disclosure, use and security practices can only be implemented if you provide clear notices, make required disclosures, and obtain necessary consent or permission from data subjects.",
+            "description": "you agree to provide sufficiently clear, meaningful and prominent notices to, make all required disclosures to, and obtain the necessary consent or permission from any individual to whom such data relates regarding the collection, disclosure, use and security of such data",
             "type": {
                 "code": "Type4",
                 "summary": "Obtain necessary consent and disclosure"
             }
         },
         {
-            "description": "A privacy policy making appropriate disclosures to End-Users must be maintained, displayed and adhered to at all times.",
+            "description": "You will at all times maintain, display and abide by a conspicuously placed privacy policy that makes appropriate disclosures to End-Users",
             "type": {
                 "code": "Type1",
                 "summary": "Maintain and appropriately disclose a privacy policy to end users"
             }
         },
         {
-            "description": "Your privacy policy must comply with all applicable privacy and data protection laws, regulations, requirements, terms, and guidelines.",
+            "description": "Your privacy policy must comply with all applicable privacy and data protection laws and regulations and/or any applicable requirements, terms, or guidelines required by your platform providers",
             "type": {
                 "code": "Type1",
                 "summary": "Compliance with Legal and Regulatory Framework"
             }
         },
         {
-            "description": "Your privacy policy must explain that Services Data will be processed in accordance with these Terms and the Unity Privacy Policy or ironSource Privacy Policy.",
+            "description": "Your privacy policy must explain that Services Data can be processed as contemplated by these Terms and as set out in the Unity Privacy Policy, or ironSource Privacy Policy, as applicable",
             "type": {
-                "code": "Type1",
-                "summary": "Processing of Services Data in Compliance with Privacy Policies"
+                "code": "Type2",
+                "summary": "Explanation of Data Processing in Privacy Policy"
             }
         },
         {
-            "description": "Your privacy policy must disclose the use of tracking pixels, agents or other technologies that collect, use, share and store data about end users.",
+            "description": "Your privacy policy must provide notice of your use of a tracking pixel, agent or any other visitor identification technology that collects, uses, shares and stores data about end users of your Application",
             "type": {
                 "code": "Type1",
-                "summary": "Disclosure of Data Collection Methods"
+                "summary": "Notification of Data Collection Methods"
             }
         },
         {
-            "description": "Your privacy policy must include a link to the Unity Privacy Policy or ironSource Privacy Policy, as applicable.",
+            "description": "Your privacy policy must include a link to the Unity Privacy Policy, or ironSource Privacy Policy, as applicable",
             "type": {
-                "code": "Type1",
+                "code": "Type2",
                 "summary": "Link to Relevant Privacy Policies"
             }
         },
         {
-            "description": "Your privacy policy must explain how End-Users can opt out of the Offerings, if applicable.",
+            "description": "Your privacy policy must explain how End-Users can opt out of the Offerings, if applicable",
             "type": {
                 "code": "Type3",
-                "summary": "Opt-Out Option for End-Users"
+                "summary": "Opt-Out Information for End-Users"
             }
         }
     ]

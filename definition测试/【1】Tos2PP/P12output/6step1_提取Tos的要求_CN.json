@@ -1,24 +1,64 @@
 {
     "requirements": [
         {
-            "description": "只有当隐私政策描述了该方如何收集、使用和共享信息时，它才能被发布在网站上。",
+            "description": "each party shall at all times post a privacy policy on its website",
             "type": {
                 "code": "Type1",
-                "summary": "网站隐私政策要求"
+                "summary": "Maintain a Privacy Policy"
             }
         },
         {
-            "description": "只有当隐私政策提供了关于最终用户如何退出基于兴趣的广告的信息时，它才能被发布在网站上。",
+            "description": "the privacy policy describes how it collects, uses and shares information",
             "type": {
-                "code": "Type3",
-                "summary": "最终用户的退出信息"
+                "code": "Type1",
+                "summary": "Describe Data Collection, Use, and Sharing"
             }
         },
         {
-            "description": "只有当退出信息包括了在线行为或移动跨应用广告的方法时，它才能被提供。",
+            "description": "the privacy policy provides information about how an End User can opt out of interest-based advertising",
             "type": {
                 "code": "Type3",
-                "summary": "具体的广告退出详细信息"
+                "summary": "Provide Opt-Out Information for Advertising"
+            }
+        },
+        {
+            "description": "the opt-out information includes online behavioral or mobile cross-app advertising",
+            "type": {
+                "code": "Type3",
+                "summary": "Specify Types of Advertising for Opt-Out"
+            }
+        }
+    ]
+}
+
+{
+    "requirements": [
+        {
+            "description": "各方必须在其网站上始终发布隐私政策",
+            "type": {
+                "code": "Type1",
+                "summary": "维护隐私政策"
+            }
+        },
+        {
+            "description": "隐私政策描述了它如何收集、使用和共享信息",
+            "type": {
+                "code": "Type1",
+                "summary": "描述数据收集、使用和共享"
+            }
+        },
+        {
+            "description": "隐私政策提供了最终用户如何退出基于兴趣的广告的信息",
+            "type": {
+                "code": "Type3",
+                "summary": "提供广告退出信息"
+            }
+        },
+        {
+            "description": "退出信息包括在线行为或移动跨应用广告",
+            "type": {
+                "code": "Type3",
+                "summary": "指定退出广告的类型"
             }
         }
     ]

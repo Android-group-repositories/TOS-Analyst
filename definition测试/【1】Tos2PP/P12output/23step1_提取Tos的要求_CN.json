@@ -1,38 +1,38 @@
 {
     "requirements": [
         {
-            "description": "只有当出版商完全负责遵守应用商店条款时，才能在相应的应用商店上发布应用。",
+            "description": "发布者将在相应的应用商店发布应用，并且完全负责遵守应用商店条款",
             "type": {
                 "code": "Type4",
                 "summary": "应用商店合规责任"
             }
         },
         {
-            "description": "应用商店条款要求获取用户同意，披露数据收集做法，并提供退出选项以符合规定。",
+            "description": "应用商店条款包括获取用户同意、披露数据收集实践和提供选择退出选项的要求",
             "type": {
-                "code": "Type3",
-                "summary": "符合应用商店要求"
+                "code": "Type1",
+                "summary": "遵守应用商店要求"
             }
         },
         {
-            "description": "StartApp不代表或保证使用服务将符合应用商店条款。",
+            "description": "StartApp不代表或保证使用服务将符合应用商店条款",
             "type": {
                 "code": "Type4",
                 "summary": "不保证合规"
             }
         },
         {
-            "description": "StartApp对于因不遵守应用商店条款而给出版商带来的任何成本或损害不承担任何责任。",
+            "description": "StartApp对于因不遵守应用商店条款而给发布者带来的任何成本或损害不承担任何责任",
             "type": {
                 "code": "Type4",
                 "summary": "不承担不合规责任"
             }
         },
         {
-            "description": "在使用服务时，应用可能需要额外的最终用户权限，这些权限原本并未要求。",
+            "description": "使用服务可能需要额外的权限，这些权限可能是应用最初不需要的",
             "type": {
                 "code": "Type4",
-                "summary": "可能需要额外权限"
+                "summary": "可能需要额外的用户权限"
             }
         }
     ]

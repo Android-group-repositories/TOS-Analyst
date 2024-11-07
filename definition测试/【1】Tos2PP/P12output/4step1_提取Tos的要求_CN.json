@@ -1,60 +1,115 @@
 {
     "requirements": [
         {
-            "description": "您的隐私政策必须遵守所有适用的法律和行业标准。",
+            "description": "You agree that you have and will abide by a privacy policy that complies with all applicable laws and industry standards",
+            "type": {
+                "code": "Type1",
+                "summary": "Compliance with Laws and Standards"
+            }
+        },
+        {
+            "description": "You will comply with all applicable laws relating to the collection of information from end users of your applications",
+            "type": {
+                "code": "Type4",
+                "summary": "Legal Compliance for Data Collection"
+            }
+        },
+        {
+            "description": "You must clearly and conspicuously post a privacy policy within your application, in any store, and on any website where the application may be acquired",
+            "type": {
+                "code": "Type1",
+                "summary": "Prominently Display Privacy Policy"
+            }
+        },
+        {
+            "description": "That policy must provide notice of your use of a tracking pixel, agent or any other visitor identification technology that collects, uses, shares and stores data about end users",
+            "type": {
+                "code": "Type1",
+                "summary": "Notice of Data Collection Methods"
+            }
+        },
+        {
+            "description": "Policy must contain a link to Flurry's Privacy Policy and describe how visitors may learn more about the choices offered in connection with Flurry's use of User Data",
+            "type": {
+                "code": "Type2",
+                "summary": "Link to Flurry's Privacy Policy and User Choices"
+            }
+        },
+        {
+            "description": "Advise users who wish to opt-out that they may do so on a device by device basis by enabling 'Limit Ad Tracking' and provide active links to opt-out resources",
+            "type": {
+                "code": "Type3",
+                "summary": "Opt-Out Information and Links"
+            }
+        },
+        {
+            "description": "You agree to obtain any and all end-user consents required by applicable law before you use the Services",
+            "type": {
+                "code": "Type4",
+                "summary": "Obtain Necessary End-User Consents"
+            }
+        },
+        {
+            "description": "You agree to comply with all applicable laws, policies, and regulations relating to the collection, usage and sharing of information from users",
+            "type": {
+                "code": "Type4",
+                "summary": "Compliance with Collection, Usage, and Sharing Regulations"
+            }
+        }
+    ]
+}
+
+{
+    "requirements": [
+        {
+            "description": "您同意您已有并将继续遵守符合所有适用法律和行业标准的隐私政策",
             "type": {
                 "code": "Type1",
                 "summary": "遵守法律和标准"
             }
         },
         {
-            "description": "只有当您遵守所有适用法律时，才能从您的应用程序的最终用户那里收集数据。",
+            "description": "您将遵守与您的应用程序终端用户信息收集相关的所有适用法律",
             "type": {
                 "code": "Type4",
-                "summary": "数据收集的法律合规性"
+                "summary": "数据收集的法律遵守"
             }
         },
         {
-            "description": "您的隐私政策必须在您的应用程序内、任何商店以及可能获取应用程序的任何网站上清晰且显眼地发布。",
+            "description": "您必须在您的应用程序内、任何商店以及任何可能获取应用程序的网站上清晰显著地发布隐私政策",
             "type": {
                 "code": "Type1",
                 "summary": "显著展示隐私政策"
             }
         },
         {
-            "description": "您的隐私政策必须通知您使用跟踪像素、代理或其他访客识别技术，这些技术收集、使用、共享和存储有关最终用户的数据。",
+            "description": "该政策必须通知您使用跟踪像素、代理或其他任何收集、使用、共享和存储终端用户数据的访客识别技术",
             "type": {
                 "code": "Type1",
                 "summary": "数据收集方法的通知"
             }
         },
         {
-            "description": "您的隐私政策必须包含一个链接到Flurry的隐私政策，并描述访客如何了解更多关于Flurry使用用户数据所提供的选项。",
+            "description": "政策必须包含链接到Flurry的隐私政策，并描述访客如何了解更多关于Flurry使用用户数据所提供的选项",
             "type": {
                 "code": "Type2",
-                "summary": "链接到Flurry隐私政策和用户选择"
+                "summary": "链接到Flurry的隐私政策和用户选择"
             }
         },
         {
-            "description": "您必须告知希望选择退出的用户，他们可以通过启用'限制广告跟踪'来逐个设备选择退出，并提供活跃的链接到选择退出的资源。",
+            "description": "建议希望选择退出的用户可以通过启用'限制广告跟踪'在设备基础上进行，并提供活跃的退出资源链接",
             "type": {
                 "code": "Type3",
                 "summary": "选择退出的信息和链接"
             }
         },
         {
-            "description": "只有当您获得所有适用法律要求的最终用户同意时，才能使用服务。",
+            "description": "您同意在您使用服务之前获得所有适用法律所要求的终端用户同意",
             "type": {
                 "code": "Type4",
-                "summary": "获取必要的最终用户同意"
+                "summary": "获得必要的终端用户同意"
             }
         },
         {
-            "description": "您必须遵守所有适用于从用户那里收集、使用和共享信息的法律、政策和法规。",
-            "type": {
-                "code": "Type4",
-                "summary": "遵守收集、使用和共享法规"
-            }
-        }
-    ]
-}
+            "description": "您同意遵守与从用户处收集、使用和共享信息相关的所有适用法律、政策和规定",
+            "type"

@@ -1,31 +1,31 @@
 {
     "requirements": [
         {
-            "description": "User Data can only be collected, processed, transmitted, maintained, and used if it complies with a privacy policy",
+            "description": "In connection with operating the Developer App, Developer will ensure that User Data is collected, processed, transmitted, maintained, and used",
             "type": {
-                "code": "Type1",
-                "summary": "Compliance with Privacy Policy"
+                "code": "Type4",
+                "summary": "Ensure Compliance with Privacy Standards"
             }
         },
         {
-            "description": "The privacy policy must be made available to Users",
+            "description": "in compliance with a privacy policy that is made available to Users",
             "type": {
                 "code": "Type1",
-                "summary": "Privacy Policy Accessibility"
+                "summary": "Provide Accessible Privacy Policy"
             }
         },
         {
-            "description": "The privacy policy must clearly and accurately describe what user information Developer collects",
+            "description": "that clearly and accurately describes to Users what user information Developer collects",
             "type": {
                 "code": "Type1",
-                "summary": "Clear Description of Data Collection"
+                "summary": "Transparent Data Collection Disclosure"
             }
         },
         {
-            "description": "The privacy policy must also describe how Developer uses and shares that information",
+            "description": "and how Developer uses and shares that information",
             "type": {
                 "code": "Type1",
-                "summary": "Transparent Data Usage and Sharing"
+                "summary": "Transparent Data Usage and Sharing Disclosure"
             }
         }
     ]

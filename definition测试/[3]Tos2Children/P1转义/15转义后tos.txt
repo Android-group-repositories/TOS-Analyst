@@ -1,0 +1,10 @@
+{
+    "requirements": [
+        {
+            "description": "When the Company plans to gather, utilize, or disclose the personal location data of children younger than 14, it must first secure the approval of both the child and their legal guardian.",
+            "type": {
+                "summary": "Consent Required for Collecting Location Data of Minors"
+            }
+        }
+    ]
+}

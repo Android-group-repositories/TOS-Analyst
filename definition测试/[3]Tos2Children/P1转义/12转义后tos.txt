@@ -1,0 +1,24 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "To use Start.io Solution, you must be at least thirteen (13) years old.",
+            "type": {
+                "summary": "Minimum Age Requirement"
+            }
+        },
+        {
+            "description": "Start.io may ask for proof of age to ensure that users under eighteen (18) are not using the service.",
+            "type": {
+                "summary": "Age Verification"
+            }
+        },
+        {
+            "description": "If a user under eighteen (18) is found to be using Start.io Solution, Start.io will prohibit and block that user from accessing or using the service.",
+            "type": {
+                "summary": "Prohibition and Blocking of Minors"
+            }
+        }
+    ]
+}
+```

@@ -1,0 +1,70 @@
+加例子
+Description: The use of Dropbox login credentials is only allowed in connection with the initial user authentication
+#pattern4# your app {can} {use Dropbox login credentials} ; when {allowed in connection with user authentication}
+
+Description: The handling of Dropbox login credentials is restricted to within the developer's app only
+#pattern3# your app {can} {handle Dropbox login credentials} ; when {within the developer's app only}
+
+
+Description: Only access, store, transfer, and process user data as directed by the user, including through a developer app's configuration settings.
+#pattern1# your app {can} {access, store, transfer, process} {user data}  ;  when {as directed by the user}
+
+
+
+要求用户保管数据
+The customer is responsible for maintaining the security of user IDs, passwords, and other access credentials.
+#pattern1# your app {need} {maintaining security of} { user IDs, passwords, access credentials}  ;   Even obtain user consent
+
+
+Description: The customer must ensure that these access credentials are kept strictly confidential.
+#pattern1# your app {need} {kept security of} {  access credentials}  ;   Even obtain user consent
+
+
+
+
+对数据进行解释  需要有细节
+You may not collect, capture, use or store PayPal Prohibited User Information including identifiers used for tax or claiming government benefits, national identity numbers, passport numbers, 
+
+
+
+You may not collect, capture, use or store PayPal Prohibited User Information such as full bank account numbers, full credit/debit card numbers, and credit card expiration dates or CVV2 numbers.
+#pattern1# your app {cannot} {collect, capture, use, store} {PayPal Prohibited User Information} ;such as  { bank account numbers, credit/debit card numbers,  credit card expiration dates , CVV2 numbers}; Even obtain user consent
+特别的 在data中没有对user进行说明，user一栏没有给解释
+
+
+
+方式方法?不尊从我这搞
+You agree not to store personal health data using Stripe apps interfaces.
+your app {cannot} {store} {personal health data}; {user}; Even obtain user consent
+
+
+数据收集在目的上的
+Customers are not allowed to configure the services or developer tools to enable the collection, transmission, or storage of restricted data through the services.
+your app {cannot} {configure service} ; {user:customers} ; Even obtain user consent
+
+
+出现了 condition在目的上
+Description: You may use service data for internal business purposes.
+#pattern3# your app {can} {use service data}  ; when {for internal business purposes}
+
+
+
+
+拿给type4
+Description: Use of service data must comply with all applicable privacy policies, laws, rules, regulations, and industry self-regulatory regimes.
+#pattern3# your app {must} {comply with sdk-service} ; {user : all} ; Even obtain user consent
+
+数据不想关Description: You must obtain any necessary consents, waivers, approvals, authorizations, and clearances from end users as required by applicable laws.
+#pattern3# your app {must} {obtain necessary consents, waivers, approvals, authorizations, and clearances} ; {user:end users} ; Even obtain user consent
+
+主语不是you Description: Sentry has no liability for sensitive personal information, except for PHI submitted in accordance with section 4.5 (Protected Health Information).
+#pattern3# your app {cannot} {have liability for sensitive personal information, except for PHI}; {user}; Even obtain user consent
+
+
+发现一个改句的例子，不改句不会把except后面的当条件
+Description: No sensitive personal information should be used with the service, except as permitted under section 4.5 (Protected Health Information).
+#pattern3# your app {cannot} {use sensitive personal information with sdk-service} ; {user:all users} ; Even obtain user consent
+
+改句后
+Description: Sensitive personal information should be used with the service only if permitted under section 4.5 (Protected Health Information).
+#pattern4# your app {can} {use sensitive personal information with sdk-service} ; {user:all users} ; when {permitted under section 4.5 (Protected Health Information)}

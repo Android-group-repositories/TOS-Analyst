@@ -1,0 +1,24 @@
+```json
+{
+    "requirements": [
+        {
+            "description": "Customers are not allowed to use the Application Services to send spam or duplicative messages that violate applicable laws.",
+            "type": {
+                "summary": "Prohibition on sending spam or unsolicited messages"
+            }
+        },
+        {
+            "description": "Customers are not permitted to process, send, or store Prohibited Information using the Application Services.",
+            "type": {
+                "summary": "Prohibition on handling Prohibited Information"
+            }
+        },
+        {
+            "description": "Prohibited Information includes personally identifiable information collected from children under the age of 13 or from online services directed toward children.",
+            "type": {
+                "summary": "Prohibition on collecting personal information from children"
+            }
+        }
+    ]
+}
+```
